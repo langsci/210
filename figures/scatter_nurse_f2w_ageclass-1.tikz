@@ -1,0 +1,230 @@
+% Created by tikzDevice version 0.8.1 on 2016-02-09 02:15:06
+% !TEX encoding = UTF-8 Unicode
+\begin{tikzpicture}[x=1pt,y=1pt]
+\definecolor{fillColor}{RGB}{255,255,255}
+\path[use as bounding box,fill=fillColor,fill opacity=0.00] (0,0) rectangle (505.89,505.89);
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{255,255,255}
+\definecolor{fillColor}{RGB}{255,255,255}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round,line cap=round,fill=fillColor] (  0.00, -0.00) rectangle (505.89,505.89);
+\end{scope}
+\begin{scope}
+\path[clip] ( 65.21, 46.31) rectangle (493.85,493.84);
+\definecolor{fillColor}{RGB}{255,255,255}
+
+\path[fill=fillColor] ( 65.21, 46.31) rectangle (493.85,493.84);
+\definecolor{drawColor}{gray}{0.98}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 65.21, 79.40) --
+	(493.85, 79.40);
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 65.21,164.68) --
+	(493.85,164.68);
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 65.21,249.96) --
+	(493.85,249.96);
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 65.21,335.24) --
+	(493.85,335.24);
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 65.21,420.52) --
+	(493.85,420.52);
+\definecolor{drawColor}{gray}{0.90}
+
+\path[draw=drawColor,line width= 0.2pt,line join=round] ( 65.21,122.04) --
+	(493.85,122.04);
+
+\path[draw=drawColor,line width= 0.2pt,line join=round] ( 65.21,207.32) --
+	(493.85,207.32);
+
+\path[draw=drawColor,line width= 0.2pt,line join=round] ( 65.21,292.60) --
+	(493.85,292.60);
+
+\path[draw=drawColor,line width= 0.2pt,line join=round] ( 65.21,377.88) --
+	(493.85,377.88);
+
+\path[draw=drawColor,line width= 0.2pt,line join=round] ( 65.21,463.16) --
+	(493.85,463.16);
+
+\path[draw=drawColor,line width= 0.2pt,line join=round] (182.11, 46.31) --
+	(182.11,493.84);
+
+\path[draw=drawColor,line width= 0.2pt,line join=round] (376.95, 46.31) --
+	(376.95,493.84);
+\definecolor{fillColor}{RGB}{153,153,153}
+
+\path[fill=fillColor,fill opacity=0.40] (182.11,113.55) --
+	(376.95,473.50) --
+	(376.95,422.01) --
+	(182.11, 66.65) --
+	cycle;
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\path[draw=drawColor,line width= 3.4pt,line join=round] (182.11, 90.10) --
+	(376.95,447.76);
+
+\path[fill=fillColor,fill opacity=0.40] (182.11,238.85) --
+	(376.95,452.44) --
+	(376.95,392.16) --
+	(182.11,192.07) --
+	cycle;
+
+\path[draw=drawColor,line width= 3.4pt,dash pattern=on 2pt off 2pt ,line join=round] (182.11,215.46) --
+	(376.95,422.30);
+
+\path[fill=fillColor,fill opacity=0.40] (182.11,359.05) --
+	(376.95,452.75) --
+	(376.95,415.74) --
+	(182.11,317.04) --
+	cycle;
+
+\path[draw=drawColor,line width= 3.4pt,dash pattern=on 4pt off 2pt ,line join=round] (182.11,338.05) --
+	(376.95,434.24);
+\definecolor{drawColor}{gray}{0.50}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round,line cap=round] ( 65.21, 46.31) rectangle (493.85,493.84);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\node[text=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  1.60] at ( 58.10,116.01) {1.30};
+
+\node[text=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  1.60] at ( 58.10,201.29) {1.35};
+
+\node[text=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  1.60] at ( 58.10,286.57) {1.40};
+
+\node[text=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  1.60] at ( 58.10,371.85) {1.45};
+
+\node[text=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  1.60] at ( 58.10,457.13) {1.50};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 60.95,122.04) --
+	( 65.21,122.04);
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 60.95,207.32) --
+	( 65.21,207.32);
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 60.95,292.60) --
+	( 65.21,292.60);
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 60.95,377.88) --
+	( 65.21,377.88);
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] ( 60.95,463.16) --
+	( 65.21,463.16);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] (182.11, 42.04) --
+	(182.11, 46.31);
+
+\path[draw=drawColor,line width= 0.6pt,line join=round] (376.95, 42.04) --
+	(376.95, 46.31);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.60] at (182.11, 27.13) {mc};
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.60] at (376.95, 27.13) {wc};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\node[text=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  2.00] at (279.53,  9.03) {CLASS{\_{}}OBJ};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\node[text=drawColor,rotate= 90.00,anchor=base,inner sep=0pt, outer sep=0pt, scale=  2.00] at ( 24.12,270.08) {F2W};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{fillColor}{RGB}{255,255,255}
+
+\path[fill=fillColor] (379.28,405.66) rectangle (484.98,484.98);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  2.00] at (383.55,465.96) {\bfseries AGE{\_{}}GRP};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{gray}{0.80}
+\definecolor{fillColor}{RGB}{255,255,255}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round,line cap=round,fill=fillColor] (383.55,444.61) rectangle (400.89,461.96);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{fillColor}{RGB}{153,153,153}
+
+\path[fill=fillColor,fill opacity=0.40] (383.55,444.61) rectangle (400.89,461.96);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\path[draw=drawColor,line width= 3.4pt,line join=round] (385.28,453.29) -- (399.16,453.29);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{gray}{0.80}
+\definecolor{fillColor}{RGB}{255,255,255}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round,line cap=round,fill=fillColor] (383.55,427.27) rectangle (400.89,444.61);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{fillColor}{RGB}{153,153,153}
+
+\path[fill=fillColor,fill opacity=0.40] (383.55,427.27) rectangle (400.89,444.61);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\path[draw=drawColor,line width= 3.4pt,dash pattern=on 2pt off 2pt ,line join=round] (385.28,435.94) -- (399.16,435.94);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{gray}{0.80}
+\definecolor{fillColor}{RGB}{255,255,255}
+
+\path[draw=drawColor,line width= 0.6pt,line join=round,line cap=round,fill=fillColor] (383.55,409.92) rectangle (400.89,427.27);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{fillColor}{RGB}{153,153,153}
+
+\path[fill=fillColor,fill opacity=0.40] (383.55,409.92) rectangle (400.89,427.27);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\path[draw=drawColor,line width= 3.4pt,dash pattern=on 4pt off 2pt ,line join=round] (385.28,418.60) -- (399.16,418.60);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  2.00] at (403.06,445.75) {56-85};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  2.00] at (403.06,428.40) {30-55};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (505.89,505.89);
+\definecolor{drawColor}{RGB}{0,0,0}
+
+\node[text=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  2.00] at (403.06,411.06) {19-29};
+\end{scope}
+\end{tikzpicture}
