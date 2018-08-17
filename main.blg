@@ -1,0 +1,17 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'main.blg'
+[54] biber-MSWIN32:303> INFO - === 
+[103] Biber.pm:359> INFO - Reading 'main.bcf'
+[304] Biber.pm:835> INFO - Found 133 citekeys in bib section 0
+[327] Biber.pm:3670> INFO - Processing section 0
+[356] Biber.pm:3840> INFO - Looking for bibtex format file 'localbibliography.bib' for section 0
+[372] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[396] bibtex.pm:1292> INFO - Found BibTeX data source 'localbibliography.bib'
+[682] Utils.pm:164> WARN - BibTeX subsystem: C:\Users\Marten\AppData\Local\Temp\gOYo_pyWsD\localbibliography.bib_3672.utf8, line 95, warning: 60 characters of junk seen at toplevel
+[1039] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1039] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1040] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[1040] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1229] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1264] bbl.pm:712> INFO - Output to main.bbl
+[1264] Biber.pm:109> INFO - WARNINGS: 1

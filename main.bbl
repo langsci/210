@@ -1,0 +1,4635 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{adanketal2004}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=8a7795f46e89617ccdd5046fb4ebbe32}{%
+           family={Adank},
+           familyi={A\bibinitperiod},
+           given={Patti},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=75a0d6032be4621879ffbcb9b33cd71a}{%
+           family={Smits},
+           familyi={S\bibinitperiod},
+           given={Roel},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=8986bed6402509659bcead208ca6f5b1}{%
+           family={Hout},
+           familyi={H\bibinitperiod},
+           given={Roeland},
+           giveni={R\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{33a30b52441caa2213e5811fd7cb214b}
+      \strng{fullhash}{6294fdb2f0dce46c3a7f7187e3cb9f1c}
+      \strng{authornamehash}{33a30b52441caa2213e5811fd7cb214b}
+      \strng{authorfullhash}{6294fdb2f0dce46c3a7f7187e3cb9f1c}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Acoustical Society of America}
+      \field{title}{A comparison of vowel normalization procedures for language variation research}
+      \field{volume}{116}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{3099\bibrangedash 3107}
+      \range{pages}{9}
+    \endentry
+    \entry{agha2003}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=98fa017aec0b0d072c308ae06fe74f62}{%
+           family={Agha},
+           familyi={A\bibinitperiod},
+           given={Asif},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{98fa017aec0b0d072c308ae06fe74f62}
+      \strng{fullhash}{98fa017aec0b0d072c308ae06fe74f62}
+      \strng{authornamehash}{98fa017aec0b0d072c308ae06fe74f62}
+      \strng{authorfullhash}{98fa017aec0b0d072c308ae06fe74f62}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Linguistic Anthropology}
+      \field{title}{The social life of cultural value}
+      \field{volume}{23}
+      \field{year}{2003}
+      \field{pages}{231\bibrangedash 271}
+      \range{pages}{41}
+    \endentry
+    \entry{anon1812}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e7d5253ea94fa9c642303bef9e588cd8}{%
+           family={Anon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Kaye}%
+      }
+      \strng{namehash}{e7d5253ea94fa9c642303bef9e588cd8}
+      \strng{fullhash}{e7d5253ea94fa9c642303bef9e588cd8}
+      \strng{authornamehash}{e7d5253ea94fa9c642303bef9e588cd8}
+      \strng{authorfullhash}{e7d5253ea94fa9c642303bef9e588cd8}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Or, an Historical and Descriptive View of the Town of Liverpool and its Environs}
+      \field{title}{The Stranger in Liverpool}
+      \field{year}{1812}
+      \field{dateera}{ce}
+    \endentry
+    \entry{auer2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=de2b1529f66914ba9967dda20bdb0644}{%
+           family={Auer},
+           familyi={A\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{de2b1529f66914ba9967dda20bdb0644}
+      \strng{fullhash}{de2b1529f66914ba9967dda20bdb0644}
+      \strng{authornamehash}{de2b1529f66914ba9967dda20bdb0644}
+      \strng{authorfullhash}{de2b1529f66914ba9967dda20bdb0644}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistik online}
+      \field{number}{4}
+      \field{title}{Anmerkungen zum Salienzbegriff in der Soziolinguistik}
+      \field{volume}{66}
+      \field{year}{2014}
+      \field{pages}{7\bibrangedash 20}
+      \range{pages}{14}
+    \endentry
+    \entry{baayenetal1993}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=58e1473f1c98fa70000cbf578dbc6374}{%
+           family={Baayen},
+           familyi={B\bibinitperiod},
+           given={Rolf\bibnamedelima Harald},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{uniquename=0,hash=4760906011250cca276de85f5cf421ab}{%
+           family={Piepenbrock},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=7379ee0846d7f49a8d81154e16c32a7a}{%
+           family={{Rijn}},
+           familyi={R\bibinitperiod},
+           given={{van H.}},
+           giveni={v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia, PA}%
+      }
+      \list{publisher}{1}{%
+        {Linguistic Data Consortium}%
+      }
+      \strng{namehash}{14fbed4f451a9e482e6bec8536487d97}
+      \strng{fullhash}{c7b5c27c948762027d31da49909b99eb}
+      \strng{authornamehash}{14fbed4f451a9e482e6bec8536487d97}
+      \strng{authorfullhash}{c7b5c27c948762027d31da49909b99eb}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {CELEX} lexical data base on {CD-ROM}}
+      \field{year}{1993}
+    \endentry
+    \entry{barretal2013}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=b403d50775204b4f9cd5c6b25d4efb8d}{%
+           family={Barr},
+           familyi={B\bibinitperiod},
+           given={Dale\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=2e20881923b91d44e8f1ba7e0f38f42c}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=630d5ab6be2422fc76366edb31934eed}{%
+           family={Scheepers},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=10b3ae1c622e4c7b986047b4f5161fa1}{%
+           family={Tily},
+           familyi={T\bibinitperiod},
+           given={Harry\bibnamedelima J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{eaf12cd17db73f35c92b19d092097a40}
+      \strng{fullhash}{f2c086847ae72a28d72c1b860d30c923}
+      \strng{authornamehash}{eaf12cd17db73f35c92b19d092097a40}
+      \strng{authorfullhash}{f2c086847ae72a28d72c1b860d30c923}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Memory and Language}
+      \field{title}{Random effects structure for confirmatory hypothesis testing: {K}eep it maximal}
+      \field{volume}{68}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{255\bibrangedash 278}
+      \range{pages}{24}
+    \endentry
+    \entry{lme4}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=291c4bc67cf41a2019405a2328a9b75e}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=9cd1e56848b277b4f48a6e0b817ba5ab}{%
+           family={Mächler},
+           familyi={M\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=d6b13be971f13ee03cc83cded41b6d7e}{%
+           family={Bolker},
+           familyi={B\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{uniquename=0,hash=3face7d9e1128ebfefc56b5f54f28451}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d09b320744f09c093eb8b0d7f6bbdda0}
+      \strng{fullhash}{e1419b3c7f22b8a469bd183c172e98b4}
+      \strng{authornamehash}{d09b320744f09c093eb8b0d7f6bbdda0}
+      \strng{authorfullhash}{e1419b3c7f22b8a469bd183c172e98b4}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Statistical Software}
+      \field{number}{1}
+      \field{title}{Fitting Linear Mixed-Effects Models Using {lme4}}
+      \field{volume}{67}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 48}
+      \range{pages}{48}
+      \verb{doi}
+      \verb 10.18637/jss.v067.i01
+      \endverb
+    \endentry
+    \entry{beal2010}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ae3f236fd9ada93514339816c67174c4}{%
+           family={Beal},
+           familyi={B\bibinitperiod},
+           given={Joan\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh}%
+      }
+      \list{publisher}{1}{%
+        {Edinburgh University Press}%
+      }
+      \strng{namehash}{ae3f236fd9ada93514339816c67174c4}
+      \strng{fullhash}{ae3f236fd9ada93514339816c67174c4}
+      \strng{authornamehash}{ae3f236fd9ada93514339816c67174c4}
+      \strng{authorfullhash}{ae3f236fd9ada93514339816c67174c4}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to Regional Englishes: Dialect Variation in England}
+      \field{year}{2010}
+    \endentry
+    \entry{belchem2006d}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{fullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{extrayear}{1}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Merseypride: {E}ssays in {L}iverpool {E}xceptionalism}
+      \strng{crossref}{belchem2006b}
+      \field{edition}{Second}
+      \field{title}{`An accent exceedingly rare': {S}couse and the inflexion of class}
+      \field{year}{2006}
+      \field{pages}{31\bibrangedash 64}
+      \range{pages}{34}
+    \endentry
+    \entry{belchem2006a}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{fullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{extrayear}{2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Liverpool 800: {C}ulture, {C}haracter and {H}istory}
+      \strng{crossref}{belchem2006}
+      \field{title}{Celebrating {L}iverpool}
+      \field{year}{2006}
+      \field{pages}{9\bibrangedash 57}
+      \range{pages}{49}
+    \endentry
+    \entry{belchem2006c}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{fullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{extrayear}{3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Merseypride: {E}ssays in {L}iverpool {E}xceptionalism}
+      \strng{crossref}{belchem2006b}
+      \field{edition}{Second}
+      \field{title}{Introduction: the new `{L}ivercool'}
+      \field{year}{2006}
+      \field{pages}{xi\bibrangedash xxix}
+      \range{pages}{19}
+    \endentry
+    \entry{belchem2006}{book}{}
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{fullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{extrayear}{4}
+      \field{labeldatesource}{year}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Liverpool 800: {C}ulture, {C}haracter and {H}istory}
+      \field{title}{Liverpool 800: {C}ulture, {C}haracter and {H}istory}
+      \field{year}{2006}
+    \endentry
+    \entry{belchem2006b}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{fullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{extrayear}{5}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Merseypride: {E}ssays in {L}iverpool {E}xceptionalism}
+      \field{edition}{Second}
+      \field{title}{Merseypride: {E}ssays in {L}iverpool {E}xceptionalism}
+      \field{year}{2006}
+    \endentry
+    \entry{belchemmacraild2006}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=7f98de362776a1816fdcc037558ae833}{%
+           family={MacRaild},
+           familyi={M\bibinitperiod},
+           given={Donald\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{b315303124619745e91bb5c402590604}
+      \strng{fullhash}{b315303124619745e91bb5c402590604}
+      \strng{authornamehash}{b315303124619745e91bb5c402590604}
+      \strng{authorfullhash}{b315303124619745e91bb5c402590604}
+      \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Liverpool 800: {C}ulture, {C}haracter and {H}istory}
+      \strng{crossref}{belchem2006}
+      \field{title}{Cosmopolitan {L}iverpool}
+      \field{year}{2006}
+      \field{pages}{311\bibrangedash 391}
+      \range{pages}{81}
+    \endentry
+    \entry{praat}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1de80d1e6db57bf71ae401df95e16936}{%
+           family={Boersma},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=62aca07f9b92af88b9127b7a78b12b05}{%
+           family={Weenink},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{fullhash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{authornamehash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{authorfullhash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Praat: {D}oing phonetics by computer}
+      \field{urlday}{27}
+      \field{urlmonth}{3}
+      \field{urlyear}{2015}
+      \field{version}{5.4.08}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.praat.org/
+      \endverb
+    \endentry
+    \entry{cesario2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0e2fa902531dda075c09709bfb96d93a}{%
+           family={Cesario},
+           familyi={C\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e2fa902531dda075c09709bfb96d93a}
+      \strng{fullhash}{0e2fa902531dda075c09709bfb96d93a}
+      \strng{authornamehash}{0e2fa902531dda075c09709bfb96d93a}
+      \strng{authorfullhash}{0e2fa902531dda075c09709bfb96d93a}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Perspectives on Psychological Science}
+      \field{number}{1}
+      \field{title}{Priming, replication, and the hardest science}
+      \field{volume}{9}
+      \field{year}{2014}
+      \field{pages}{40\bibrangedash 48}
+      \range{pages}{9}
+    \endentry
+    \entry{Rordinal}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=972e24b6b3ac5746d8069daf99ae1e48}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi H.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{972e24b6b3ac5746d8069daf99ae1e48}
+      \strng{fullhash}{972e24b6b3ac5746d8069daf99ae1e48}
+      \strng{authornamehash}{972e24b6b3ac5746d8069daf99ae1e48}
+      \strng{authorfullhash}{972e24b6b3ac5746d8069daf99ae1e48}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 2015.6-28. http://www.cran.r-project.org/package=ordinal/}
+      \field{title}{ordinal---Regression Models for Ordinal Data}
+      \field{year}{2015}
+    \endentry
+    \entry{clopper2009}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=abbc3c7b7e4764869d750da4fc1e6709}{%
+           family={Clopper},
+           familyi={C\bibinitperiod},
+           given={Cynthia\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{abbc3c7b7e4764869d750da4fc1e6709}
+      \strng{fullhash}{abbc3c7b7e4764869d750da4fc1e6709}
+      \strng{authornamehash}{abbc3c7b7e4764869d750da4fc1e6709}
+      \strng{authorfullhash}{abbc3c7b7e4764869d750da4fc1e6709}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{6}
+      \field{journaltitle}{Language and Linguistics Compass}
+      \field{title}{Computational methods for normalizing acoustic vowel data for talker differences}
+      \field{volume}{3}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{1430\bibrangedash 1442}
+      \range{pages}{13}
+    \endentry
+    \entry{couch2003a}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1c038485e080c2108364850084a7b91f}{%
+           family={Couch},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{uniquename=0,hash=1c038485e080c2108364850084a7b91f}{%
+           family={Couch},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=668955afc8c143b61b35d573ff6c9300}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=c81b7c5344ea8c40bc8edd7bbb1c4eab}{%
+           family={Percy},
+           familyi={P\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Science}%
+      }
+      \strng{namehash}{1c038485e080c2108364850084a7b91f}
+      \strng{fullhash}{1c038485e080c2108364850084a7b91f}
+      \strng{authornamehash}{1c038485e080c2108364850084a7b91f}
+      \strng{authorfullhash}{1c038485e080c2108364850084a7b91f}
+      \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
+      \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{extrayear}{1}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \strng{crossref}{couchfraser2003}
+      \field{title}{Economic and physical influences on urban regeneration in {E}urope}
+      \field{year}{2003}
+      \field{pages}{166\bibrangedash 179}
+      \range{pages}{14}
+    \endentry
+    \entry{couch2003}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1c038485e080c2108364850084a7b91f}{%
+           family={Couch},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{uniquename=0,hash=1c038485e080c2108364850084a7b91f}{%
+           family={Couch},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=668955afc8c143b61b35d573ff6c9300}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=c81b7c5344ea8c40bc8edd7bbb1c4eab}{%
+           family={Percy},
+           familyi={P\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Science}%
+      }
+      \strng{namehash}{1c038485e080c2108364850084a7b91f}
+      \strng{fullhash}{1c038485e080c2108364850084a7b91f}
+      \strng{authornamehash}{1c038485e080c2108364850084a7b91f}
+      \strng{authorfullhash}{1c038485e080c2108364850084a7b91f}
+      \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
+      \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{extrayear}{2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \strng{crossref}{couchfraser2003}
+      \field{title}{Urban regeneration in {L}iverpool}
+      \field{year}{2003}
+      \field{pages}{34\bibrangedash 55}
+      \range{pages}{22}
+    \endentry
+    \entry{couchfraser2003}{book}{}
+      \name{editor}{3}{}{%
+        {{uniquename=0,hash=1c038485e080c2108364850084a7b91f}{%
+           family={Couch},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=668955afc8c143b61b35d573ff6c9300}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=c81b7c5344ea8c40bc8edd7bbb1c4eab}{%
+           family={Percy},
+           familyi={P\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Science}%
+      }
+      \strng{namehash}{405cb0acfd18ef728ec90661a70e03a6}
+      \strng{fullhash}{4eb7f605051de5603362d845e580b4c4}
+      \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
+      \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \field{title}{Urban Regeneration in Europe}
+      \field{year}{2003}
+    \endentry
+    \entry{crowley2012}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=226dbbf5cb8e32ae2824eb98b3995ea9}{%
+           family={Crowley},
+           familyi={C\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{226dbbf5cb8e32ae2824eb98b3995ea9}
+      \strng{fullhash}{226dbbf5cb8e32ae2824eb98b3995ea9}
+      \strng{authornamehash}{226dbbf5cb8e32ae2824eb98b3995ea9}
+      \strng{authorfullhash}{226dbbf5cb8e32ae2824eb98b3995ea9}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Scouse: {A} {S}ocial and {C}ultural {H}istory}
+      \field{year}{2012}
+    \endentry
+    \entry{delyon1981}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2b691e1f4a9a11a5bb47622c0aa2dfca}{%
+           family={De\bibnamedelima Lyon},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Hilary},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Liverpool}%
+      }
+      \strng{namehash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
+      \strng{fullhash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
+      \strng{authornamehash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
+      \strng{authorfullhash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Sociolinguistic Study of Aspects of the {L}iverpool Accent}
+      \field{type}{M.{P}hil. dissertation}
+      \field{year}{1981}
+    \endentry
+    \entry{disner1980}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f040f8c27f630d386bbed5e21419cc28}{%
+           family={Disner},
+           familyi={D\bibinitperiod},
+           given={Sandra\bibnamedelima Ferrari},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{f040f8c27f630d386bbed5e21419cc28}
+      \strng{fullhash}{f040f8c27f630d386bbed5e21419cc28}
+      \strng{authornamehash}{f040f8c27f630d386bbed5e21419cc28}
+      \strng{authorfullhash}{f040f8c27f630d386bbed5e21419cc28}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Acoustical Society of America}
+      \field{title}{Evaluation of vowel normalization procedures}
+      \field{volume}{67}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \field{pages}{253\bibrangedash 261}
+      \range{pages}{9}
+    \endentry
+    \entry{drager2005}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f0e22ee1ba80df87dc5be9410ce82d70}{%
+           family={Drager},
+           familyi={D\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Canterbury}%
+      }
+      \strng{namehash}{f0e22ee1ba80df87dc5be9410ce82d70}
+      \strng{fullhash}{f0e22ee1ba80df87dc5be9410ce82d70}
+      \strng{authornamehash}{f0e22ee1ba80df87dc5be9410ce82d70}
+      \strng{authorfullhash}{f0e22ee1ba80df87dc5be9410ce82d70}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Social effects on the perception of DRESS and TRAP in New Zealand English}
+      \field{type}{Unpublished Master thesis}
+      \field{year}{2005}
+    \endentry
+    \entry{ellis1889}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6d24cb556c5ae7b562d434e08fc32173}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Alexander\bibnamedelima John},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Trübner}%
+      }
+      \strng{namehash}{6d24cb556c5ae7b562d434e08fc32173}
+      \strng{fullhash}{6d24cb556c5ae7b562d434e08fc32173}
+      \strng{authornamehash}{6d24cb556c5ae7b562d434e08fc32173}
+      \strng{authorfullhash}{6d24cb556c5ae7b562d434e08fc32173}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Early {E}nglish pronunciation. Part 5}
+      \field{year}{1889}
+    \endentry
+    \entry{fabriciusetal2009}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=02f268860bfdbcc419a7bfaa4c45e8f1}{%
+           family={Fabricius},
+           familyi={F\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=f8c4d09b41a0d660bcea6f1418fdb084}{%
+           family={Watt},
+           familyi={W\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=518f5e071cd98d4593fc2ebb9beda6d5}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Daniel\bibnamedelima Ezra},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{99707bd7ef1a400aea894b646303155a}
+      \strng{fullhash}{f2c3408ade1e13286b9affea528168ed}
+      \strng{authornamehash}{99707bd7ef1a400aea894b646303155a}
+      \strng{authorfullhash}{f2c3408ade1e13286b9affea528168ed}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language Variation and Change}
+      \field{title}{A comparison of three speaker-intrinsic vowel formant frequency normalization algorithms for sociophonetics}
+      \field{volume}{21}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{413\bibrangedash 435}
+      \range{pages}{23}
+    \endentry
+    \entry{flynn2010}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=65f763145b9db561ba7a51f2b73be5f0}{%
+           family={Flynn},
+           familyi={F\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=3784c3fb522554b7d84f27cd62d8583c}{%
+           family={Meyerhoff},
+           familyi={M\bibinitperiod},
+           given={Miriam},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4f5b659a956c8c4312e187b28d49f98c}{%
+           family={Adachi},
+           familyi={A\bibinitperiod},
+           given={Chie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b0f647ea2d8a342d7f3afe168ead9482}{%
+           family={Daleszynska},
+           familyi={D\bibinitperiod},
+           given={Agata},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b04c353d07a09f9e5d662b3748832d1e}{%
+           family={Strycharz},
+           familyi={S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{65f763145b9db561ba7a51f2b73be5f0}
+      \strng{fullhash}{65f763145b9db561ba7a51f2b73be5f0}
+      \strng{authornamehash}{65f763145b9db561ba7a51f2b73be5f0}
+      \strng{authorfullhash}{65f763145b9db561ba7a51f2b73be5f0}
+      \strng{editornamehash}{86693c22581bc6327c18d64c5b4a799f}
+      \strng{editorfullhash}{358452a34cb257b1835fa66f98961d53}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Second Summer School of Sociolinguistics}
+      \field{eventday}{14}
+      \field{eventendday}{20}
+      \field{eventendmonth}{6}
+      \field{eventendyear}{2010}
+      \field{eventmonth}{6}
+      \field{eventyear}{2010}
+      \field{title}{Gender-based variation of word-final unstressed vowels by {N}ottingham adolescents}
+      \field{venue}{The University of Edinburgh}
+      \field{year}{2010}
+      \field{eventenddateera}{ce}
+      \field{eventdateera}{ce}
+    \endentry
+    \entry{foulkesdocherty1999}{book}{}
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=0c72a5a312550665a30791c264d36598}{%
+           family={Foulkes},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=994e70ea1757d914ab0511760117b416}{%
+           family={Docherty},
+           familyi={D\bibinitperiod},
+           given={Gerard\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Arnold}%
+      }
+      \strng{namehash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{fullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{editornamehash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{editorfullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extrayear}{1}
+      \field{labeldatesource}{year}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Voices: Accent Studies in the {B}ritish {I}sles}
+      \field{title}{Urban Voices: Accent Studies in the {B}ritish {I}sles}
+      \field{year}{1999}
+    \endentry
+    \entry{foulkesdocherty1999a}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0c72a5a312550665a30791c264d36598}{%
+           family={Foulkes},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=994e70ea1757d914ab0511760117b416}{%
+           family={Docherty},
+           familyi={D\bibinitperiod},
+           given={Gerard\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=0c72a5a312550665a30791c264d36598}{%
+           family={Foulkes},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=994e70ea1757d914ab0511760117b416}{%
+           family={Docherty},
+           familyi={D\bibinitperiod},
+           given={Gerard\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Arnold}%
+      }
+      \strng{namehash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{fullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{authornamehash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{authorfullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{editornamehash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{editorfullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extrayear}{2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Voices: Accent Studies in the {B}ritish {I}sles}
+      \strng{crossref}{foulkesdocherty1999}
+      \field{title}{Urban voices --- overview}
+      \field{year}{1999}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+    \endentry
+    \entry{fraser2003}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=668955afc8c143b61b35d573ff6c9300}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{uniquename=0,hash=1c038485e080c2108364850084a7b91f}{%
+           family={Couch},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=668955afc8c143b61b35d573ff6c9300}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=c81b7c5344ea8c40bc8edd7bbb1c4eab}{%
+           family={Percy},
+           familyi={P\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Science}%
+      }
+      \strng{namehash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{fullhash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{authornamehash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{authorfullhash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
+      \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extrayear}{1}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \strng{crossref}{couchfraser2003}
+      \field{title}{Change in the {E}uropean industrial city}
+      \field{year}{2003}
+      \field{pages}{17\bibrangedash 33}
+      \range{pages}{17}
+    \endentry
+    \entry{fraser2003a}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=668955afc8c143b61b35d573ff6c9300}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{uniquename=0,hash=1c038485e080c2108364850084a7b91f}{%
+           family={Couch},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=668955afc8c143b61b35d573ff6c9300}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=c81b7c5344ea8c40bc8edd7bbb1c4eab}{%
+           family={Percy},
+           familyi={P\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Science}%
+      }
+      \strng{namehash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{fullhash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{authornamehash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{authorfullhash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
+      \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extrayear}{2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \strng{crossref}{couchfraser2003}
+      \field{title}{The institutional and financial conditions of urban regeneration in {E}urope}
+      \field{year}{2003}
+      \field{pages}{180\bibrangedash 199}
+      \range{pages}{20}
+    \endentry
+    \entry{garciaetal2010}{booklet}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=feaa81238f30e2f79ab2c2ae19eefe42}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Beatriz},
+           giveni={B\bibinitperiod}}}%
+        {{uniquename=0,hash=92f349cd2c76ab30b687a2c0763ab221}{%
+           family={Melville},
+           familyi={M\bibinitperiod},
+           given={Ruth},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=db2175b8ce0a8dae0ae378dc5334860c}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={Tamsin},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a046b288affe8a695b1a3db7029c86ab}
+      \strng{fullhash}{d8c9390595d1da2104410dac3bc57a29}
+      \strng{authornamehash}{a046b288affe8a695b1a3db7029c86ab}
+      \strng{authorfullhash}{d8c9390595d1da2104410dac3bc57a29}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Creating an impact. {L}iverpool's experience as {E}uropean {C}apital of {C}ulture}
+      \field{urlday}{3}
+      \field{urlmonth}{9}
+      \field{urlyear}{2013}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.liv.ac.uk/impacts08/
+      \endverb
+    \endentry
+    \entry{gbhistgis}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6a24a34a5c68ddac70986d7c2710165b}{%
+           family={{GB Historical GIS}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d0db168601db47003fe1eac5fd55160a}{%
+           family={{University of Portsmouth}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a24a34a5c68ddac70986d7c2710165b}
+      \strng{fullhash}{6a24a34a5c68ddac70986d7c2710165b}
+      \strng{authornamehash}{6a24a34a5c68ddac70986d7c2710165b}
+      \strng{authorfullhash}{6a24a34a5c68ddac70986d7c2710165b}
+      \strng{editornamehash}{d0db168601db47003fe1eac5fd55160a}
+      \strng{editorfullhash}{d0db168601db47003fe1eac5fd55160a}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{endyear}{2014}
+      \field{title}{A Vision of Britain through Time}
+      \field{urlday}{19}
+      \field{urlmonth}{1}
+      \field{urlyear}{2016}
+      \field{year}{2009}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.visionofbritain.org.uk
+      \endverb
+    \endentry
+    \entry{goldinger1996}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5395203ee1ced3cf8791044241716da0}{%
+           family={Goldinger},
+           familyi={G\bibinitperiod},
+           given={Stephen\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5395203ee1ced3cf8791044241716da0}
+      \strng{fullhash}{5395203ee1ced3cf8791044241716da0}
+      \strng{authornamehash}{5395203ee1ced3cf8791044241716da0}
+      \strng{authorfullhash}{5395203ee1ced3cf8791044241716da0}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology}
+      \field{title}{Words and voices: {E}pisodic traces in spoken word identification and recognition memory}
+      \field{volume}{22}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{1166\bibrangedash 1183}
+      \range{pages}{18}
+    \endentry
+    \entry{grantgrey2007}{book}{}
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=49cccd612895f8b1ee2ff0e0b366705d}{%
+           family={Grant},
+           familyi={G\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=0c924b0cf5296ee2708d21fd5cd99fde}{%
+           family={Grey},
+           familyi={G\bibinitperiod},
+           given={Clive},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Open House Press}%
+      }
+      \strng{namehash}{f6e006b5c5dd65d30e6e32e253093166}
+      \strng{fullhash}{f6e006b5c5dd65d30e6e32e253093166}
+      \strng{editornamehash}{f6e006b5c5dd65d30e6e32e253093166}
+      \strng{editorfullhash}{f6e006b5c5dd65d30e6e32e253093166}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Mersey Sound: Liverpool's Language, People and Places}
+      \field{title}{The Mersey Sound: Liverpool's Language, People and Places}
+      \field{year}{2007}
+    \endentry
+    \entry{halford2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d60be03b3bb7d9beda4eacc14e25c3db}{%
+           family={Halford},
+           familyi={H\bibinitperiod},
+           given={Brigitte\bibnamedelima K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=371a2c5ced11ebd26cec5523fab9afb1}{%
+           family={Allerton},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima John},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Basel}%
+      }
+      \list{publisher}{1}{%
+        {Schwabe}%
+      }
+      \strng{namehash}{d60be03b3bb7d9beda4eacc14e25c3db}
+      \strng{fullhash}{d60be03b3bb7d9beda4eacc14e25c3db}
+      \strng{authornamehash}{d60be03b3bb7d9beda4eacc14e25c3db}
+      \strng{authorfullhash}{d60be03b3bb7d9beda4eacc14e25c3db}
+      \strng{editornamehash}{371a2c5ced11ebd26cec5523fab9afb1}
+      \strng{editorfullhash}{371a2c5ced11ebd26cec5523fab9afb1}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Perspectives on English as a world language}
+      \field{title}{Canadian English: {D}istinct in North America?}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{31\bibrangedash 44}
+      \range{pages}{14}
+    \endentry
+    \entry{halllew2010}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=95de0897793a73cfd6bd90a5013789e8}{%
+           family={Hall-Lew},
+           familyi={H\bibinithyphendelim L\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{95de0897793a73cfd6bd90a5013789e8}
+      \strng{fullhash}{95de0897793a73cfd6bd90a5013789e8}
+      \strng{authornamehash}{95de0897793a73cfd6bd90a5013789e8}
+      \strng{authorfullhash}{95de0897793a73cfd6bd90a5013789e8}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of Meetings on Acoustics (POMA)}
+      \field{number}{1}
+      \field{title}{Improved representation of variance in measures of vowel merger}
+      \field{volume}{9}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{harrington2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b2fda34861934090472e56c2b03ee7c8}{%
+           family={Harrington},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2fda34861934090472e56c2b03ee7c8}
+      \strng{fullhash}{b2fda34861934090472e56c2b03ee7c8}
+      \strng{authornamehash}{b2fda34861934090472e56c2b03ee7c8}
+      \strng{authorfullhash}{b2fda34861934090472e56c2b03ee7c8}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Phonetics}
+      \field{title}{An acoustic analysis of `happy-tensing' in the {Q}ueen's {C}hristmas broadcasts}
+      \field{volume}{34}
+      \field{year}{2006}
+      \field{pages}{439\bibrangedash 457}
+      \range{pages}{19}
+    \endentry
+    \entry{harris1985}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a7ca59d23516b64d130f48574dd0bc45}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a7ca59d23516b64d130f48574dd0bc45}
+      \strng{fullhash}{a7ca59d23516b64d130f48574dd0bc45}
+      \strng{authornamehash}{a7ca59d23516b64d130f48574dd0bc45}
+      \strng{authorfullhash}{a7ca59d23516b64d130f48574dd0bc45}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phonological variation and change: studies in {H}iberno-{E}nglish}
+      \field{year}{1985}
+    \endentry
+    \entry{haydrager2010}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c1d5c57f41f235c697405c08cea60e46}{%
+           family={Hay},
+           familyi={H\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=f0e22ee1ba80df87dc5be9410ce82d70}{%
+           family={Drager},
+           familyi={D\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{bad0e46931d0f94893322ec3685cbf4e}
+      \strng{fullhash}{bad0e46931d0f94893322ec3685cbf4e}
+      \strng{authornamehash}{bad0e46931d0f94893322ec3685cbf4e}
+      \strng{authorfullhash}{bad0e46931d0f94893322ec3685cbf4e}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistics}
+      \field{title}{Stuffed toys and speech perception}
+      \field{volume}{48}
+      \field{year}{2010}
+      \field{pages}{865\bibrangedash 892}
+      \range{pages}{28}
+    \endentry
+    \entry{hayetal2006a}{article}{}
+      \name{author}{3}{uniquelist=2}{%
+        {{uniquename=0,hash=c1d5c57f41f235c697405c08cea60e46}{%
+           family={Hay},
+           familyi={H\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=9fa267b4f960f67a0b4d531b6d104c7e}{%
+           family={Nolan},
+           familyi={N\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=f0e22ee1ba80df87dc5be9410ce82d70}{%
+           family={Drager},
+           familyi={D\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{c94ec69eedd96cac7d7ca10f585a1e2b}
+      \strng{fullhash}{97e342aeffb02b8f45ac673989379384}
+      \strng{authornamehash}{c94ec69eedd96cac7d7ca10f585a1e2b}
+      \strng{authorfullhash}{97e342aeffb02b8f45ac673989379384}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Linguistic Review}
+      \field{title}{From fush to feesh: Exemplar priming in speech perception}
+      \field{volume}{23}
+      \field{year}{2006}
+      \field{pages}{351\bibrangedash 379}
+      \range{pages}{29}
+    \endentry
+    \entry{hayetal2006b}{article}{}
+      \name{author}{3}{uniquelist=2}{%
+        {{uniquename=0,hash=c1d5c57f41f235c697405c08cea60e46}{%
+           family={Hay},
+           familyi={H\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=3483acc53d98318717a517e200c4ecc8}{%
+           family={Warren},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=f0e22ee1ba80df87dc5be9410ce82d70}{%
+           family={Drager},
+           familyi={D\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{23093422ed1ef00ee717743cb8888e66}
+      \strng{fullhash}{117f7024cea729b263a21b315492d5ba}
+      \strng{authornamehash}{23093422ed1ef00ee717743cb8888e66}
+      \strng{authorfullhash}{117f7024cea729b263a21b315492d5ba}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Phonetics}
+      \field{title}{Factors influencing speech perception in the context of a merger-in-progress}
+      \field{volume}{34}
+      \field{year}{2006}
+      \field{pages}{458\bibrangedash 484}
+      \range{pages}{27}
+    \endentry
+    \entry{herr1986}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b82eb88eb5b443e87f6d3e17268ff2f3}{%
+           family={Herr},
+           familyi={H\bibinitperiod},
+           given={Paul\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b82eb88eb5b443e87f6d3e17268ff2f3}
+      \strng{fullhash}{b82eb88eb5b443e87f6d3e17268ff2f3}
+      \strng{authornamehash}{b82eb88eb5b443e87f6d3e17268ff2f3}
+      \strng{authorfullhash}{b82eb88eb5b443e87f6d3e17268ff2f3}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Personality and Social Psychology}
+      \field{number}{6}
+      \field{title}{Consequences of priming: judgment and behavior}
+      \field{volume}{51}
+      \field{year}{1986}
+      \field{pages}{1106\bibrangedash 1115}
+      \range{pages}{10}
+    \endentry
+    \entry{hickey1996}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2c8c07c305721761a6aa4fd2fd1b8e85}{%
+           family={Hickey},
+           familyi={H\bibinitperiod},
+           given={Raymond},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{fullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{authornamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{authorfullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Working Papers in Linguistics}
+      \field{title}{Lenition in {I}rish {E}nglish}
+      \field{volume}{13}
+      \field{year}{1996}
+      \field{pages}{173\bibrangedash 193}
+      \range{pages}{21}
+    \endentry
+    \entry{hickey1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2c8c07c305721761a6aa4fd2fd1b8e85}{%
+           family={Hickey},
+           familyi={H\bibinitperiod},
+           given={Raymond},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=0c72a5a312550665a30791c264d36598}{%
+           family={Foulkes},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=994e70ea1757d914ab0511760117b416}{%
+           family={Docherty},
+           familyi={D\bibinitperiod},
+           given={Gerard\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Arnold}%
+      }
+      \strng{namehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{fullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{authornamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{authorfullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{editornamehash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{editorfullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Voices: Accent Studies in the {B}ritish {I}sles}
+      \strng{crossref}{foulkesdocherty1999}
+      \field{title}{Dublin {E}nglish: current changes and their motivation}
+      \field{year}{1999}
+      \field{pages}{265\bibrangedash 281}
+      \range{pages}{17}
+    \endentry
+    \entry{hindle1978}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fe68dd5216d1204e938be0c7106907cf}{%
+           family={Hindle},
+           familyi={H\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=73ac2a4d66def3c2f66f43c2084bf172}{%
+           family={Sankoff},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{fe68dd5216d1204e938be0c7106907cf}
+      \strng{fullhash}{fe68dd5216d1204e938be0c7106907cf}
+      \strng{authornamehash}{fe68dd5216d1204e938be0c7106907cf}
+      \strng{authorfullhash}{fe68dd5216d1204e938be0c7106907cf}
+      \strng{editornamehash}{73ac2a4d66def3c2f66f43c2084bf172}
+      \strng{editorfullhash}{73ac2a4d66def3c2f66f43c2084bf172}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Linguistic Variation Models and Methods}
+      \field{title}{Approaches to vowel normalization in the study of natural speech}
+      \field{year}{1978}
+      \field{dateera}{ce}
+      \field{pages}{161\bibrangedash 171}
+      \range{pages}{11}
+    \endentry
+    \entry{hoganrozsypal1980}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=661bee8383d3fb505bedd35a188595da}{%
+           family={Hogan},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{uniquename=0,hash=bb90921f4654c01f1483b63e8e8c3cd9}{%
+           family={Rozsypal},
+           familyi={R\bibinitperiod},
+           given={Anton\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{90dbb652e04eee50ae2a909ebb6b0b8a}
+      \strng{fullhash}{90dbb652e04eee50ae2a909ebb6b0b8a}
+      \strng{authornamehash}{90dbb652e04eee50ae2a909ebb6b0b8a}
+      \strng{authorfullhash}{90dbb652e04eee50ae2a909ebb6b0b8a}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Acoustical Society of America}
+      \field{title}{Evaluation of vowel duration as a cue for the voicing distinction in the following word-final consonant}
+      \field{volume}{67}
+      \field{year}{1980}
+      \field{pages}{1764\bibrangedash 1771}
+      \range{pages}{8}
+    \endentry
+    \entry{hohenberglees1985}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=cb2fc340aba7299b10cfbecf071a7e5d}{%
+           family={Hohenberg},
+           familyi={H\bibinitperiod},
+           given={Paul\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=57bd681dccb0b7f3fca568fdef19da50}{%
+           family={Lees},
+           familyi={L\bibinitperiod},
+           given={Lynn\bibnamedelima Hollen},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge, MA}%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{80c3cae4d264a28bf135f7e0b1f33a0f}
+      \strng{fullhash}{80c3cae4d264a28bf135f7e0b1f33a0f}
+      \strng{authornamehash}{80c3cae4d264a28bf135f7e0b1f33a0f}
+      \strng{authorfullhash}{80c3cae4d264a28bf135f7e0b1f33a0f}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Harvard Studies in Urban History}
+      \field{title}{The Making of Urban Europe 1000--1950}
+      \field{year}{1985}
+    \endentry
+    \entry{honeybone2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f36fbf6e2ff68387dc8039da851af92c}{%
+           family={Honeybone},
+           familyi={H\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{fullhash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{authornamehash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{authorfullhash}{f36fbf6e2ff68387dc8039da851af92c}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{English Language and Linguistics}
+      \field{number}{2}
+      \field{title}{Lenition inhibition in {L}iverpool {E}nglish}
+      \field{volume}{5}
+      \field{year}{2001}
+      \field{pages}{213\bibrangedash 249}
+      \range{pages}{37}
+    \endentry
+    \entry{honeybone2007}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f36fbf6e2ff68387dc8039da851af92c}{%
+           family={Honeybone},
+           familyi={H\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=49cccd612895f8b1ee2ff0e0b366705d}{%
+           family={Grant},
+           familyi={G\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=0c924b0cf5296ee2708d21fd5cd99fde}{%
+           family={Grey},
+           familyi={G\bibinitperiod},
+           given={Clive},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Open House Press}%
+      }
+      \strng{namehash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{fullhash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{authornamehash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{authorfullhash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{editornamehash}{f6e006b5c5dd65d30e6e32e253093166}
+      \strng{editorfullhash}{f6e006b5c5dd65d30e6e32e253093166}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Mersey Sound: Liverpool's Language, People and Places}
+      \strng{crossref}{grantgrey2007}
+      \field{title}{New-dialect formation in nineteenth century {L}iverpool: A brief history of {S}couse}
+      \field{year}{2007}
+      \field{pages}{106\bibrangedash 140}
+      \range{pages}{35}
+    \endentry
+    \entry{honeybonewatson2013}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=f36fbf6e2ff68387dc8039da851af92c}{%
+           family={Honeybone},
+           familyi={H\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=3d02ae245a99d7b58902425c79457ab2}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{420294c2493ab871d4ed5f990c71e7af}
+      \strng{fullhash}{420294c2493ab871d4ed5f990c71e7af}
+      \strng{authornamehash}{420294c2493ab871d4ed5f990c71e7af}
+      \strng{authorfullhash}{420294c2493ab871d4ed5f990c71e7af}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{English World-Wide}
+      \field{number}{3}
+      \field{title}{Salience and the sociolinguistics of {S}couse spelling: exploring the phonology of the {C}ontemporary {H}umorous {L}ocalised {D}ialect {L}iterature of {L}iverpool}
+      \field{volume}{34}
+      \field{year}{2013}
+      \field{pages}{305\bibrangedash 340}
+      \range{pages}{36}
+    \endentry
+    \entry{housestevens1956}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c4efd302026f367060b97bc38e47c358}{%
+           family={House},
+           familyi={H\bibinitperiod},
+           given={S.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{uniquename=0,hash=6a7d907a2b8e1c64875911742cb560db}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi N.},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{9968c207e32f250e533280f1f0906621}
+      \strng{fullhash}{9968c207e32f250e533280f1f0906621}
+      \strng{authornamehash}{9968c207e32f250e533280f1f0906621}
+      \strng{authorfullhash}{9968c207e32f250e533280f1f0906621}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Speech and Hearing Disorders}
+      \field{title}{Analog studies of the nasalization of vowels}
+      \field{volume}{21}
+      \field{year}{1956}
+      \field{dateera}{ce}
+      \field{pages}{218\bibrangedash 232}
+      \range{pages}{15}
+    \endentry
+    \entry{jaegeretal2017}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b7b48bd9fc321cc5f3745bedbc2e929c}{%
+           family={Jaeger},
+           familyi={J\bibinitperiod},
+           given={T.\bibnamedelimi Florian},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{uniquename=0,hash=c98529bb426794f0221117fdcd174963}{%
+           family={Weatherholtz},
+           familyi={W\bibinitperiod},
+           given={Kodi},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=aa8b46bc6ddc3416ee319b0c9d1f30ba}{%
+           family={Blumenthal-Dramé},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a7bacff79aa273869b34ad7fb7c3b649}{%
+           family={Hanulíková},
+           familyi={H\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d4e71276cd5cc0a245a7741c60829487}{%
+           family={Kortmann},
+           familyi={K\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lausanne}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media}%
+      }
+      \strng{namehash}{b4d2c4bde8eb60eb61ae583d616bb35f}
+      \strng{fullhash}{b4d2c4bde8eb60eb61ae583d616bb35f}
+      \strng{authornamehash}{b4d2c4bde8eb60eb61ae583d616bb35f}
+      \strng{authorfullhash}{b4d2c4bde8eb60eb61ae583d616bb35f}
+      \strng{editornamehash}{13d671777ba030829d8fff6dfd5a9062}
+      \strng{editorfullhash}{165d15071fcff4467ad62dc3c835ffc4}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Perceptual Linguistic Salience: Modeling Causes and Consequences}
+      \field{title}{What the Heck Is Salience? How Predictive Language Processing Contributes to Sociolinguistic Perception}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{36\bibrangedash 40}
+      \range{pages}{5}
+    \endentry
+    \entry{jannedyetal2011}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=2c003a907f54408a9b41b2368eea195c}{%
+           family={Jannedy},
+           familyi={J\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=a2c8965a1dfcde6ad840eef77aa407de}{%
+           family={Weirich},
+           familyi={W\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=77d8246d484433e56b48cc6a1ff4646e}{%
+           family={Brunner},
+           familyi={B\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hong Kong}%
+      }
+      \strng{namehash}{8d7fb3d6802dcaf25e45040179d110ad}
+      \strng{fullhash}{e2d1782331b3fd4bb615c31f89cba451}
+      \strng{authornamehash}{8d7fb3d6802dcaf25e45040179d110ad}
+      \strng{authorfullhash}{e2d1782331b3fd4bb615c31f89cba451}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the International Congress of Phonetic Sciences}
+      \field{title}{The Effect of Inferences on the Perceptual Categorization of Berlin German Fricatives}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{962\bibrangedash 965}
+      \range{pages}{4}
+    \endentry
+    \entry{johnson1997}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1c274d17ceafee26ba448cfb9279dea0}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=1c274d17ceafee26ba448cfb9279dea0}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f3ea329314f6d4b085c82855c2b41afa}{%
+           family={Mullennix},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{fullhash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{authornamehash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{authorfullhash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{editornamehash}{477cb1fa9d09b8bea95cfe7c47af624e}
+      \strng{editorfullhash}{477cb1fa9d09b8bea95cfe7c47af624e}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Talker variability in speech processing}
+      \field{title}{Speech perception without speaker normalization}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{pages}{145\bibrangedash 166}
+      \range{pages}{22}
+    \endentry
+    \entry{johnson2005}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1c274d17ceafee26ba448cfb9279dea0}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7e035d9d5d41120723321d101fa3f877}{%
+           family={Pisoni},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=dbbd2fb8c214d1f16bdcd4ff88eb303f}{%
+           family={Remez},
+           familyi={R\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{fullhash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{authornamehash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{authorfullhash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{editornamehash}{7aac5257f9bf4668c42e8143413bce62}
+      \strng{editorfullhash}{7aac5257f9bf4668c42e8143413bce62}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Handbook of Speech Perception}
+      \field{title}{Speaker normalization in speech perception}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{363\bibrangedash 389}
+      \range{pages}{27}
+    \endentry
+    \entry{johnstoneetal2006}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=62d21aa828cf237016d7b752cf6d8b7d}{%
+           family={Johnstone},
+           familyi={J\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+        {{uniquename=0,hash=0149b42b8a9b5efe8b03d6a47336285e}{%
+           family={Andrus},
+           familyi={A\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=48854d9b0aaed98a9b7dce8d1b8b17ed}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7eaa65b4e185d62c24a02cc4b0676d9}
+      \strng{fullhash}{f495d6a9b52b2d84459d296797dc5c06}
+      \strng{authornamehash}{a7eaa65b4e185d62c24a02cc4b0676d9}
+      \strng{authorfullhash}{f495d6a9b52b2d84459d296797dc5c06}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of English Linguistics}
+      \field{number}{2}
+      \field{title}{Mobility, indexicality and the enregisterment of `Pittsburghese'}
+      \field{volume}{34}
+      \field{year}{2006}
+      \field{pages}{77\bibrangedash 104}
+      \range{pages}{28}
+    \endentry
+    \entry{juddparkinson1990}{book}{}
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=cff0b02c9f7ee07ed6364f7c20b77fcd}{%
+           family={Judd},
+           familyi={J\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=c1f05cc7dac366e0205c52435de659d2}{%
+           family={Parkinson},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{3}{%
+        {Newbury Park, CA}%
+        {London, England}%
+        {New Delhi, India}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{fullhash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{editornamehash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{editorfullhash}{35a860b21ab76337e0eb0d448b24ca57}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{extrayear}{1}
+      \field{labeldatesource}{year}
+      \true{crossrefsource}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Leadership and Urban Regeneration}
+      \field{series}{Urban Affairs Annual Reviews}
+      \field{title}{Leadership and Urban Regeneration}
+      \field{volume}{37}
+      \field{year}{1990}
+    \endentry
+    \entry{juddparkinson1990a}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=cff0b02c9f7ee07ed6364f7c20b77fcd}{%
+           family={Judd},
+           familyi={J\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=c1f05cc7dac366e0205c52435de659d2}{%
+           family={Parkinson},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=cff0b02c9f7ee07ed6364f7c20b77fcd}{%
+           family={Judd},
+           familyi={J\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=c1f05cc7dac366e0205c52435de659d2}{%
+           family={Parkinson},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{3}{%
+        {Newbury Park, CA}%
+        {London, England}%
+        {New Delhi, India}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{fullhash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{authornamehash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{authorfullhash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{editornamehash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{editorfullhash}{35a860b21ab76337e0eb0d448b24ca57}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{extrayear}{2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Leadership and Urban Regeneration}
+      \strng{crossref}{juddparkinson1990}
+      \field{series}{Urban Affairs Annual Reviews}
+      \field{title}{Urban leadership and regeneration}
+      \field{volume}{37}
+      \field{year}{1990}
+      \field{pages}{13\bibrangedash 30}
+      \range{pages}{18}
+    \endentry
+    \entry{juskanma}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=507750ffc50b6f705507f8c541894281}{%
+           family={Juskan},
+           familyi={J\bibinitperiod},
+           given={Marten},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Freiburg, English Department}%
+      }
+      \strng{namehash}{507750ffc50b6f705507f8c541894281}
+      \strng{fullhash}{507750ffc50b6f705507f8c541894281}
+      \strng{authornamehash}{507750ffc50b6f705507f8c541894281}
+      \strng{authorfullhash}{507750ffc50b6f705507f8c541894281}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{National stereotypes in speech perception and speaker evaluation}
+      \field{type}{Unpublished Master thesis}
+      \field{year}{2011}
+    \endentry
+    \entry{juskanaccentrevivallipp}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=507750ffc50b6f705507f8c541894281}{%
+           family={Juskan},
+           familyi={J\bibinitperiod},
+           given={Marten},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{507750ffc50b6f705507f8c541894281}
+      \strng{fullhash}{507750ffc50b6f705507f8c541894281}
+      \strng{authornamehash}{507750ffc50b6f705507f8c541894281}
+      \strng{authorfullhash}{507750ffc50b6f705507f8c541894281}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JournaLIPP}
+      \field{title}{Selective accent revival in Liverpool}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2015}
+      \field{volume}{4}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{url}
+      \verb http://lipp.ub.lmu.de/article/download/4839/2721
+      \endverb
+    \endentry
+    \entry{kendallfridland2017}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=8e5d9ba38a074c64dfee723f52461add}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=73095073f11f54486a5fa6e512c6a58f}{%
+           family={Fridland},
+           familyi={F\bibinitperiod},
+           given={Valerie},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{d45bd3f321bf0a419c09b34c636b5e41}
+      \strng{fullhash}{d45bd3f321bf0a419c09b34c636b5e41}
+      \strng{authornamehash}{d45bd3f321bf0a419c09b34c636b5e41}
+      \strng{authorfullhash}{d45bd3f321bf0a419c09b34c636b5e41}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language Variation and Change}
+      \field{title}{Regional relationships among the low vowels of U.S. English: Evidence from production and perception}
+      \field{volume}{29}
+      \field{year}{2017}
+      \field{pages}{245\bibrangedash 271}
+      \range{pages}{27}
+    \endentry
+    \entry{kendallthomas2014}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=8e5d9ba38a074c64dfee723f52461add}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=eb0b831e3261c1ce1ff167dbf7563cfa}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Erik\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1da4062e9ec1c5efab01f282f66a36dc}
+      \strng{fullhash}{1da4062e9ec1c5efab01f282f66a36dc}
+      \strng{authornamehash}{1da4062e9ec1c5efab01f282f66a36dc}
+      \strng{authorfullhash}{1da4062e9ec1c5efab01f282f66a36dc}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{endyear}{2014}
+      \field{subtitle}{R package}
+      \field{title}{Vowels: {V}owel Manipulation, Normalization, and Plotting in R}
+      \field{urlday}{10}
+      \field{urlmonth}{3}
+      \field{urlyear}{2015}
+      \field{version}{1.2-1}
+      \field{year}{2009}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://ncslaap.lib.ncsu.edu/tools/norm/
+      \endverb
+    \endentry
+    \entry{kermodeetal2006}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=1768d2681588571e41fdf996e60e78c9}{%
+           family={Kermode},
+           familyi={K\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=29f62ceda7b5659dc3bba3c0fa23317a}{%
+           family={Hollinshead},
+           familyi={H\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=e916ec736bdb2bfaef352e9233867bce}{%
+           family={Gratton},
+           familyi={G\bibinitperiod},
+           given={Malcolm},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{54de187b51b84174121735de6686dede}
+      \strng{fullhash}{59ea66cd4e3ff8eef888d22acfeaf8e6}
+      \strng{authornamehash}{54de187b51b84174121735de6686dede}
+      \strng{authorfullhash}{59ea66cd4e3ff8eef888d22acfeaf8e6}
+      \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Liverpool 800: {C}ulture, {C}haracter and {H}istory}
+      \strng{crossref}{belchem2006}
+      \field{title}{Small beginnings: {L}iverpool 1207--1680}
+      \field{year}{2006}
+      \field{pages}{59\bibrangedash 111}
+      \range{pages}{53}
+    \endentry
+    \entry{kerswill2003}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=92c5773601beeec2da9dd1ab0f329531}{%
+           family={Kerswill},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=8543b62e196a059f6529944820b82a04}{%
+           family={Britain},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8c50c4bde9712cc046fb25e26bfd96af}{%
+           family={Cheshire},
+           familyi={C\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Benjamins}%
+      }
+      \strng{namehash}{92c5773601beeec2da9dd1ab0f329531}
+      \strng{fullhash}{92c5773601beeec2da9dd1ab0f329531}
+      \strng{authornamehash}{92c5773601beeec2da9dd1ab0f329531}
+      \strng{authorfullhash}{92c5773601beeec2da9dd1ab0f329531}
+      \strng{editornamehash}{74a90d6aff4846681a22ab0659c17898}
+      \strng{editorfullhash}{74a90d6aff4846681a22ab0659c17898}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Social {D}ialectology. In honour of Peter Trudgill}
+      \field{title}{Dialect levelling and geographical diffusion in {B}ritish {E}nglish}
+      \field{year}{2003}
+      \field{pages}{223\bibrangedash 243}
+      \range{pages}{21}
+    \endentry
+    \entry{kerswillwilliams2002}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=92c5773601beeec2da9dd1ab0f329531}{%
+           family={Kerswill},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=f9037bb01eb894e42c27660599c7d48e}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Ann},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d62887038b16b95b18932b73bd0419f1}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Mari\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{58200598f94d7bf2d1ef4cf7300e1b46}
+      \strng{fullhash}{58200598f94d7bf2d1ef4cf7300e1b46}
+      \strng{authornamehash}{58200598f94d7bf2d1ef4cf7300e1b46}
+      \strng{authorfullhash}{58200598f94d7bf2d1ef4cf7300e1b46}
+      \strng{editornamehash}{d62887038b16b95b18932b73bd0419f1}
+      \strng{editorfullhash}{d62887038b16b95b18932b73bd0419f1}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Language Change: The Interplay of Internal, External and Extra-Linguistic Factors}
+      \field{title}{Salience as an explanatory factor in language change: evidence from dialect levelling in urban {E}ngland}
+      \field{year}{2002}
+      \field{pages}{81\bibrangedash 110}
+      \range{pages}{30}
+    \endentry
+    \entry{knowles1973}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e643e0eda473f841956d26ea7946e527}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={Gerald\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {University of Leeds. Department of English Language}%
+        {Medieval English Literature}%
+      }
+      \list{publisher}{1}{%
+        {University of Leeds}%
+      }
+      \strng{namehash}{e643e0eda473f841956d26ea7946e527}
+      \strng{fullhash}{e643e0eda473f841956d26ea7946e527}
+      \strng{authornamehash}{e643e0eda473f841956d26ea7946e527}
+      \strng{authorfullhash}{e643e0eda473f841956d26ea7946e527}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Scouse: {T}he urban dialect of Liverpool}
+      \field{type}{phdthesis}
+      \field{year}{1973}
+    \endentry
+    \entry{knowles1978}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e643e0eda473f841956d26ea7946e527}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={Gerald\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=17b4ad73f12e03a5091f0262b44d3da6}{%
+           family={Trudgill},
+           familyi={T\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Arnold}%
+      }
+      \strng{namehash}{e643e0eda473f841956d26ea7946e527}
+      \strng{fullhash}{e643e0eda473f841956d26ea7946e527}
+      \strng{authornamehash}{e643e0eda473f841956d26ea7946e527}
+      \strng{authorfullhash}{e643e0eda473f841956d26ea7946e527}
+      \strng{editornamehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{editorfullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Sociolinguistic Patterns in British English}
+      \field{title}{The nature of phonological variables in {S}couse}
+      \field{year}{1978}
+      \field{pages}{80\bibrangedash 90}
+      \range{pages}{11}
+    \endentry
+    \entry{knowles1997}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e643e0eda473f841956d26ea7946e527}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={Gerald\bibnamedelima O.},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Arnold}%
+      }
+      \strng{namehash}{e643e0eda473f841956d26ea7946e527}
+      \strng{fullhash}{e643e0eda473f841956d26ea7946e527}
+      \strng{authornamehash}{e643e0eda473f841956d26ea7946e527}
+      \strng{authorfullhash}{e643e0eda473f841956d26ea7946e527}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Cultural History of the English Language}
+      \field{year}{1997}
+    \endentry
+    \entry{lmerTest}{manual}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=7cd3845a800c3291e727a82c1f2df45e}{%
+           family={Kuznetsova},
+           familyi={K\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=5854c6083537847782715c07519d6172}{%
+           family={{Bruun Brockhoff}},
+           familyi={B\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=50e22bae7c709968a743eb3cda2b392c}{%
+           family={{Haubo Bojesen Christensen}},
+           familyi={H\bibinitperiod},
+           given={Rune},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee90b672a0dbf4106ee60268eb8768fd}
+      \strng{fullhash}{fb672fede35c2b441fa3d95494fe3b52}
+      \strng{authornamehash}{ee90b672a0dbf4106ee60268eb8768fd}
+      \strng{authorfullhash}{fb672fede35c2b441fa3d95494fe3b52}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 2.0-29}
+      \field{title}{lmerTest: {T}ests in Linear Mixed Effects Models}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://CRAN.R-project.org/package=lmerTest
+      \endverb
+    \endentry
+    \entry{labov1972}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5af22306b3a9a09d07b03f4b6c265c99}{%
+           family={Labov},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {University of Philadelphia Press}%
+      }
+      \strng{namehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{fullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authornamehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authorfullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{On the mechanism of linguistic change}
+      \field{title}{Sociolinguistic Patterns}
+      \field{year}{1972}
+      \field{pages}{160\bibrangedash 182}
+      \range{pages}{23}
+    \endentry
+    \entry{labov1994}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5af22306b3a9a09d07b03f4b6c265c99}{%
+           family={Labov},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford, UK}%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{fullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authornamehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authorfullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Volume 1: {I}nternal Factors}
+      \field{title}{Principles of Linguistic Change}
+      \field{year}{1994}
+    \endentry
+    \entry{labov2001a}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5af22306b3a9a09d07b03f4b6c265c99}{%
+           family={Labov},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Oxford, UK}%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{fullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authornamehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authorfullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Volume 2: {S}ocial Factors}
+      \field{title}{Principles of Linguistic Change}
+      \field{year}{2001}
+    \endentry
+    \entry{labov2006a}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5af22306b3a9a09d07b03f4b6c265c99}{%
+           family={Labov},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{fullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authornamehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authorfullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Phonetics}
+      \field{title}{A sociolinguistic perspective on sociophonetic research}
+      \field{volume}{34}
+      \field{year}{2006}
+      \field{pages}{500\bibrangedash 515}
+      \range{pages}{16}
+    \endentry
+    \entry{labovetal2006}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=5af22306b3a9a09d07b03f4b6c265c99}{%
+           family={Labov},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{uniquename=0,hash=99c08ea54d9223695c4536221c8bdf26}{%
+           family={Ash},
+           familyi={A\bibinitperiod},
+           given={Sharon},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=dc5618c242d1c9e985aee064eb23c2ed}{%
+           family={Boberg},
+           familyi={B\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{326edef10ce4a99f2c1f1cce2e56059c}
+      \strng{fullhash}{cd8ea622f2e47d24265acedaaf44457f}
+      \strng{authornamehash}{326edef10ce4a99f2c1f1cce2e56059c}
+      \strng{authorfullhash}{cd8ea622f2e47d24265acedaaf44457f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Atlas of North American English: Phonology, Phonetics, and Sound Change. A Multimedia Reference Tool}
+      \field{year}{2006}
+    \endentry
+    \entry{langstrofdiss}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=277a75253bbb026a44b09e3105b5e56a}{%
+           family={Langstrof},
+           familyi={L\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Canterbury}%
+      }
+      \strng{namehash}{277a75253bbb026a44b09e3105b5e56a}
+      \strng{fullhash}{277a75253bbb026a44b09e3105b5e56a}
+      \strng{authornamehash}{277a75253bbb026a44b09e3105b5e56a}
+      \strng{authorfullhash}{277a75253bbb026a44b09e3105b5e56a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vowel Change in New Zealand English-Patterns and Implications}
+      \field{type}{phdthesis}
+      \field{urlday}{15}
+      \field{urlmonth}{6}
+      \field{urlyear}{2015}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://christianlangstrof.org/publications/langstrofthesis.pdf
+      \endverb
+    \endentry
+    \entry{lawrence2015}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9c19291bc60d8a3202a5329f80de8529}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=dbf0a8b93a44a8f55b794d3fcafd87e8}{%
+           family={ICPhS\bibnamedelima 2015},
+           familyi={I\bibinitperiod\bibinitdelim 2\bibinitperiod},
+           given={The\bibnamedelimb Scottish\bibnamedelima Consortium},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Glasgow}%
+      }
+      \list{publisher}{1}{%
+        {University of Glasgow}%
+      }
+      \strng{namehash}{9c19291bc60d8a3202a5329f80de8529}
+      \strng{fullhash}{9c19291bc60d8a3202a5329f80de8529}
+      \strng{authornamehash}{9c19291bc60d8a3202a5329f80de8529}
+      \strng{authorfullhash}{9c19291bc60d8a3202a5329f80de8529}
+      \strng{editornamehash}{dbf0a8b93a44a8f55b794d3fcafd87e8}
+      \strng{editorfullhash}{dbf0a8b93a44a8f55b794d3fcafd87e8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 18th International Congress of Phonetic Sciences}
+      \field{note}{Paper number 244}
+      \field{title}{Limited evidence for social priming in the perception of the \textsc{bath} and \textsc{strut} vowels}
+      \field{urlday}{9}
+      \field{urlmonth}{10}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{url}
+      \verb http://icphs2015.info/pdfs/Papers/ICPHS0244.pdf
+      \endverb
+    \endentry
+    \entry{lehiste1964}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9289b724dda2d4640d13b241a90b9ffd}{%
+           family={Lehiste},
+           familyi={L\bibinitperiod},
+           given={Ilse},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bloomington, IN}%
+      }
+      \list{publisher}{1}{%
+        {Indiana University}%
+      }
+      \strng{namehash}{9289b724dda2d4640d13b241a90b9ffd}
+      \strng{fullhash}{9289b724dda2d4640d13b241a90b9ffd}
+      \strng{authornamehash}{9289b724dda2d4640d13b241a90b9ffd}
+      \strng{authorfullhash}{9289b724dda2d4640d13b241a90b9ffd}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Acoustical characteristics of selected English consonants}
+      \field{year}{1964}
+      \field{dateera}{ce}
+    \endentry
+    \entry{lcc2010}{booklet}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=09bf518468ab2734e0d1712bca4d8544}{%
+           family={{Liverpool City Council}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \strng{namehash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{fullhash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{authornamehash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{authorfullhash}{09bf518468ab2734e0d1712bca4d8544}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{A Liverpool analysis}
+      \field{title}{The Index of Multiple Deprivation 2010}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2014}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://liverpool.gov.uk/media/1448371/2-imd-2010-final-document-compressed-with-links.pdf
+      \endverb
+    \endentry
+    \entry{lcc2016}{booklet}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=09bf518468ab2734e0d1712bca4d8544}{%
+           family={{Liverpool City Council}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \strng{namehash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{fullhash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{authornamehash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{authorfullhash}{09bf518468ab2734e0d1712bca4d8544}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{A monitor of jobs, business and economic growth}
+      \field{title}{Liverpool Economic Briefing 2016}
+      \field{urlday}{23}
+      \field{urlmonth}{1}
+      \field{urlyear}{2016}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://liverpool.gov.uk/council/key-statistics-and-data/liverpool-economic-briefing/
+      \endverb
+    \endentry
+    \entry{llamasetal2017}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=241565a1db1ee5414341d5ea5e192bd2}{%
+           family={Llamas},
+           familyi={L\bibinitperiod},
+           given={Carmen},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=f8c4d09b41a0d660bcea6f1418fdb084}{%
+           family={Watt},
+           familyi={W\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=0f21ded15502b889b2fbdec2a3991edd}{%
+           family={MacFarlane},
+           familyi={M\bibinitperiod},
+           given={Andrew\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=aa8b46bc6ddc3416ee319b0c9d1f30ba}{%
+           family={Blumenthal-Dramé},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a7bacff79aa273869b34ad7fb7c3b649}{%
+           family={Hanulíková},
+           familyi={H\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d4e71276cd5cc0a245a7741c60829487}{%
+           family={Kortmann},
+           familyi={K\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lausanne}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media}%
+      }
+      \strng{namehash}{d1c791686d2eb9fa2ab2087b3bf856e6}
+      \strng{fullhash}{be4eadae26f99d5491e9dcfc5fc7d5a0}
+      \strng{authornamehash}{d1c791686d2eb9fa2ab2087b3bf856e6}
+      \strng{authorfullhash}{be4eadae26f99d5491e9dcfc5fc7d5a0}
+      \strng{editornamehash}{13d671777ba030829d8fff6dfd5a9062}
+      \strng{editorfullhash}{165d15071fcff4467ad62dc3c835ffc4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Perceptual Linguistic Salience: Modeling Causes and Consequences}
+      \field{title}{Estimating the Relative Sociolinguistic Salience of Segmental Variables in a	Dialect Boundary Zone}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{41\bibrangedash 58}
+      \range{pages}{18}
+    \endentry
+    \entry{lobanov1971}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bdce7f23507f8209817b287fa8c0aa40}{%
+           family={Lobanov},
+           familyi={L\bibinitperiod},
+           given={Boris\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdce7f23507f8209817b287fa8c0aa40}
+      \strng{fullhash}{bdce7f23507f8209817b287fa8c0aa40}
+      \strng{authornamehash}{bdce7f23507f8209817b287fa8c0aa40}
+      \strng{authorfullhash}{bdce7f23507f8209817b287fa8c0aa40}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Acoustical Society of America}
+      \field{title}{Classification of Russian vowels spoken by different speakers}
+      \field{volume}{49}
+      \field{year}{1971}
+      \field{dateera}{ce}
+      \field{pages}{606\bibrangedash 608}
+      \range{pages}{3}
+    \endentry
+    \entry{longmore2006}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5cc0f23ab89f192047b37514909ec4f2}{%
+           family={Longmore},
+           familyi={L\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{5cc0f23ab89f192047b37514909ec4f2}
+      \strng{fullhash}{5cc0f23ab89f192047b37514909ec4f2}
+      \strng{authornamehash}{5cc0f23ab89f192047b37514909ec4f2}
+      \strng{authorfullhash}{5cc0f23ab89f192047b37514909ec4f2}
+      \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Liverpool 800: {C}ulture, {C}haracter and {H}istory}
+      \strng{crossref}{belchem2006}
+      \field{title}{Civic {L}iverpool: 1680--1800}
+      \field{year}{2006}
+      \field{pages}{113\bibrangedash 169}
+      \range{pages}{57}
+    \endentry
+    \entry{medinschaffer1978}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0b1acd78565aeb8f4469920fc0416acd}{%
+           family={Medin},
+           familyi={M\bibinitperiod},
+           given={Douglas\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{uniquename=0,hash=b90cb3e089032b091794a1e81023d492}{%
+           family={Schaffer},
+           familyi={S\bibinitperiod},
+           given={Marguerite\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{53c34dc02a51b45639679654ec23d2a9}
+      \strng{fullhash}{53c34dc02a51b45639679654ec23d2a9}
+      \strng{authornamehash}{53c34dc02a51b45639679654ec23d2a9}
+      \strng{authorfullhash}{53c34dc02a51b45639679654ec23d2a9}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Review}
+      \field{title}{Context theory of classification learning}
+      \field{volume}{85}
+      \field{year}{1978}
+      \field{pages}{207\bibrangedash 238}
+      \range{pages}{32}
+    \endentry
+    \entry{milne2006}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=71139f26cf4878de2f371ba83fe34856}{%
+           family={Milne},
+           familyi={M\bibinitperiod},
+           given={Graeme\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{71139f26cf4878de2f371ba83fe34856}
+      \strng{fullhash}{71139f26cf4878de2f371ba83fe34856}
+      \strng{authornamehash}{71139f26cf4878de2f371ba83fe34856}
+      \strng{authorfullhash}{71139f26cf4878de2f371ba83fe34856}
+      \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Liverpool 800: {C}ulture, {C}haracter and {H}istory}
+      \strng{crossref}{belchem2006}
+      \field{title}{Maritime {L}iverpool}
+      \field{year}{2006}
+      \field{pages}{257\bibrangedash 309}
+      \range{pages}{53}
+    \endentry
+    \entry{montgomery2007}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6816648a15ca346aaf7540fe8a345daf}{%
+           family={Montgomery},
+           familyi={M\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Sheffield}%
+      }
+      \list{publisher}{1}{%
+        {University of Sheffield}%
+      }
+      \strng{namehash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{fullhash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{authornamehash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{authorfullhash}{6816648a15ca346aaf7540fe8a345daf}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{extrayear}{1}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Northern English Dialects: {A} perceptual approach}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://etheses.whiterose.ac.uk/1203/
+      \endverb
+    \endentry
+    \entry{montgomery2007a}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6816648a15ca346aaf7540fe8a345daf}{%
+           family={Montgomery},
+           familyi={M\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=49cccd612895f8b1ee2ff0e0b366705d}{%
+           family={Grant},
+           familyi={G\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=0c924b0cf5296ee2708d21fd5cd99fde}{%
+           family={Grey},
+           familyi={G\bibinitperiod},
+           given={Clive},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Open House Press}%
+      }
+      \strng{namehash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{fullhash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{authornamehash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{authorfullhash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{editornamehash}{f6e006b5c5dd65d30e6e32e253093166}
+      \strng{editorfullhash}{f6e006b5c5dd65d30e6e32e253093166}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{extrayear}{2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Mersey Sound: Liverpool's Language, People and Places}
+      \strng{crossref}{grantgrey2007}
+      \field{title}{Perceptions of {L}iverpool {E}nglish}
+      \field{year}{2007}
+      \field{pages}{164\bibrangedash 188}
+      \range{pages}{25}
+    \endentry
+    \entry{murden2006}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=63a454ea5e9d27963f84d001797864f6}{%
+           family={Murden},
+           familyi={M\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{63a454ea5e9d27963f84d001797864f6}
+      \strng{fullhash}{63a454ea5e9d27963f84d001797864f6}
+      \strng{authornamehash}{63a454ea5e9d27963f84d001797864f6}
+      \strng{authorfullhash}{63a454ea5e9d27963f84d001797864f6}
+      \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Liverpool 800: {C}ulture, {C}haracter and {H}istory}
+      \strng{crossref}{belchem2006}
+      \field{title}{`City of change and challenge': {L}iverpool since 1945}
+      \field{year}{2006}
+      \field{pages}{393\bibrangedash 485}
+      \range{pages}{93}
+    \endentry
+    \entry{newbrook1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ae4522ae7b3150f8600f32501db01c69}{%
+           family={Newbrook},
+           familyi={N\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=0c72a5a312550665a30791c264d36598}{%
+           family={Foulkes},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=994e70ea1757d914ab0511760117b416}{%
+           family={Docherty},
+           familyi={D\bibinitperiod},
+           given={Gerard\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Arnold}%
+      }
+      \strng{namehash}{ae4522ae7b3150f8600f32501db01c69}
+      \strng{fullhash}{ae4522ae7b3150f8600f32501db01c69}
+      \strng{authornamehash}{ae4522ae7b3150f8600f32501db01c69}
+      \strng{authorfullhash}{ae4522ae7b3150f8600f32501db01c69}
+      \strng{editornamehash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{editorfullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Voices: Accent Studies in the {B}ritish {I}sles}
+      \strng{crossref}{foulkesdocherty1999}
+      \field{title}{{W}est {W}irral: norms, self reports and usage}
+      \field{year}{1999}
+      \field{pages}{90\bibrangedash 106}
+      \range{pages}{17}
+    \endentry
+    \entry{niedzielski1999}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1f072c110a7c1507d5229d5a3a3a9e46}{%
+           family={Niedzielski},
+           familyi={N\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f072c110a7c1507d5229d5a3a3a9e46}
+      \strng{fullhash}{1f072c110a7c1507d5229d5a3a3a9e46}
+      \strng{authornamehash}{1f072c110a7c1507d5229d5a3a3a9e46}
+      \strng{authorfullhash}{1f072c110a7c1507d5229d5a3a3a9e46}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Language and Social Psychology}
+      \field{title}{The Effect of Social Information on the Perception of Sociolinguistic Variables}
+      \field{volume}{18}
+      \field{year}{1999}
+      \field{pages}{62\bibrangedash 85}
+      \range{pages}{24}
+    \endentry
+    \entry{niedzielskipreston2000}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1f072c110a7c1507d5229d5a3a3a9e46}{%
+           family={Niedzielski},
+           familyi={N\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod}}}%
+        {{uniquename=0,hash=32704d3ffa84bc30873d8fc8b90a478e}{%
+           family={Preston},
+           familyi={P\bibinitperiod},
+           given={Dennis\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/New York}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
+      \strng{fullhash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
+      \strng{authornamehash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
+      \strng{authorfullhash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Folk Linguistics}
+      \field{year}{2000}
+    \endentry
+    \entry{nomis}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9f8b2d15a50db47018c1cd1e3ed90280}{%
+           family={{Office for National Statistics}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \strng{fullhash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \strng{authornamehash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \strng{authorfullhash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nomis. Official Labour Market Statistics}
+      \field{urlday}{19}
+      \field{urlmonth}{1}
+      \field{urlyear}{2016}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.nomisweb.co.uk/
+      \endverb
+    \endentry
+    \entry{parkinson1990}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c1f05cc7dac366e0205c52435de659d2}{%
+           family={Parkinson},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=cff0b02c9f7ee07ed6364f7c20b77fcd}{%
+           family={Judd},
+           familyi={J\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=c1f05cc7dac366e0205c52435de659d2}{%
+           family={Parkinson},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{3}{%
+        {Newbury Park, CA}%
+        {London, England}%
+        {New Delhi, India}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{c1f05cc7dac366e0205c52435de659d2}
+      \strng{fullhash}{c1f05cc7dac366e0205c52435de659d2}
+      \strng{authornamehash}{c1f05cc7dac366e0205c52435de659d2}
+      \strng{authorfullhash}{c1f05cc7dac366e0205c52435de659d2}
+      \strng{editornamehash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{editorfullhash}{35a860b21ab76337e0eb0d448b24ca57}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Leadership and Urban Regeneration}
+      \strng{crossref}{juddparkinson1990}
+      \field{series}{Urban Affairs Annual Reviews}
+      \field{title}{Leadership and regeneration in {L}iverpool: Confusion, confrontation, or coalition?}
+      \field{volume}{37}
+      \field{year}{1990}
+      \field{pages}{241\bibrangedash 257}
+      \range{pages}{17}
+    \endentry
+    \entry{percy2003}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c81b7c5344ea8c40bc8edd7bbb1c4eab}{%
+           family={Percy},
+           familyi={P\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{uniquename=0,hash=1c038485e080c2108364850084a7b91f}{%
+           family={Couch},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=668955afc8c143b61b35d573ff6c9300}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=c81b7c5344ea8c40bc8edd7bbb1c4eab}{%
+           family={Percy},
+           familyi={P\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Science}%
+      }
+      \strng{namehash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
+      \strng{fullhash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
+      \strng{authornamehash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
+      \strng{authorfullhash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
+      \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
+      \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \strng{crossref}{couchfraser2003}
+      \field{title}{New agendas}
+      \field{year}{2003}
+      \field{pages}{200\bibrangedash 209}
+      \range{pages}{10}
+    \endentry
+    \entry{petersensix2008}{book}{}
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=52e9627ce2c8a8005d53d16cfc506503}{%
+           family={Petersen},
+           familyi={P\bibinitperiod},
+           given={Lars-Eric},
+           giveni={L\bibinithyphendelim E\bibinitperiod}}}%
+        {{uniquename=0,hash=20fc62d6af64d6b959e6e674749df18b}{%
+           family={Six},
+           familyi={S\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Basel}%
+      }
+      \list{publisher}{1}{%
+        {Beltz}%
+      }
+      \strng{namehash}{4eab6eb24aab67f0fc972f119bbcd2bc}
+      \strng{fullhash}{4eab6eb24aab67f0fc972f119bbcd2bc}
+      \strng{editornamehash}{4eab6eb24aab67f0fc972f119bbcd2bc}
+      \strng{editorfullhash}{4eab6eb24aab67f0fc972f119bbcd2bc}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Stereotype, {V}orurteile und soziale {D}iskriminierung. Theorien, {B}efunde und {I}nterventionen}
+      \field{title}{Stereotype, {V}orurteile und soziale {D}iskriminierung. Theorien, {B}efunde und {I}nterventionen}
+      \field{year}{2008}
+    \endentry
+    \entry{pierrehumbert2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d40ef94e4050e51ca57b7b0bb029f724}{%
+           family={Pierrehumbert},
+           familyi={P\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9764bbb78ebf4a22342f2aea0e74c06f}{%
+           family={Gussenhoven},
+           familyi={G\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=112f1d1f994db43961caf0f16b65d466}{%
+           family={Warner},
+           familyi={W\bibinitperiod},
+           given={Natasha},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{fullhash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{authornamehash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{authorfullhash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{editornamehash}{ccbacde1fc13994c471df02c7ab3089e}
+      \strng{editorfullhash}{ccbacde1fc13994c471df02c7ab3089e}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Laboratory phonology}
+      \field{title}{Word-specific phonetics}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{volume}{VII}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{101\bibrangedash 139}
+      \range{pages}{39}
+      \verb{url}
+      \verb http://faculty.wcas.northwestern.edu/~jbp/publications/word_specific.pdf
+      \endverb
+    \endentry
+    \entry{pierrehumbert2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d40ef94e4050e51ca57b7b0bb029f724}{%
+           family={Pierrehumbert},
+           familyi={P\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{fullhash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{authornamehash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{authorfullhash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Phonetics}
+      \field{title}{The next toolkit}
+      \field{volume}{34}
+      \field{year}{2006}
+      \field{pages}{516\bibrangedash 530}
+      \range{pages}{15}
+    \endentry
+    \entry{pooley2006}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bfebed29936373d6866521c38389a672}{%
+           family={Pooley},
+           familyi={P\bibinitperiod},
+           given={Colin\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=ac55751446e8269bf134bc28bb0af7f6}{%
+           family={Belchem},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Liverpool University Press}%
+      }
+      \strng{namehash}{bfebed29936373d6866521c38389a672}
+      \strng{fullhash}{bfebed29936373d6866521c38389a672}
+      \strng{authornamehash}{bfebed29936373d6866521c38389a672}
+      \strng{authorfullhash}{bfebed29936373d6866521c38389a672}
+      \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Liverpool 800: {C}ulture, {C}haracter and {H}istory}
+      \strng{crossref}{belchem2006}
+      \field{title}{Living in {L}iverpool: the modern city}
+      \field{year}{2006}
+      \field{pages}{171\bibrangedash 255}
+      \range{pages}{85}
+    \endentry
+    \entry{preston1999}{book}{}
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=32704d3ffa84bc30873d8fc8b90a478e}{%
+           family={Preston},
+           familyi={P\bibinitperiod},
+           given={Dennis\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Benjamins}%
+      }
+      \strng{namehash}{32704d3ffa84bc30873d8fc8b90a478e}
+      \strng{fullhash}{32704d3ffa84bc30873d8fc8b90a478e}
+      \strng{editornamehash}{32704d3ffa84bc30873d8fc8b90a478e}
+      \strng{editorfullhash}{32704d3ffa84bc30873d8fc8b90a478e}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Handbook of perceptual dialectology}
+      \field{year}{1999}
+    \endentry
+    \entry{QGIS2016}{manual}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5aabd693155e7397e59e87cab3b9d31e}{%
+           family={{QGIS Development Team}},
+           familyi={Q\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Open Source Geospatial Foundation}%
+      }
+      \strng{namehash}{5aabd693155e7397e59e87cab3b9d31e}
+      \strng{fullhash}{5aabd693155e7397e59e87cab3b9d31e}
+      \strng{authornamehash}{5aabd693155e7397e59e87cab3b9d31e}
+      \strng{authorfullhash}{5aabd693155e7397e59e87cab3b9d31e}
+      \field{sortinit}{Q}
+      \field{sortinithash}{605f5784956f0b01c606746ceb816bf5}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{QGIS Geographic Information System}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://qgis.osgeo.org
+      \endverb
+    \endentry
+    \entry{R}{manual}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a902f7a1275f47f57554b7ea75ccd0bc}{%
+           family={{R Core Team}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{organization}{1}{%
+        {R Foundation for Statistical Computing}%
+      }
+      \strng{namehash}{a902f7a1275f47f57554b7ea75ccd0bc}
+      \strng{fullhash}{a902f7a1275f47f57554b7ea75ccd0bc}
+      \strng{authornamehash}{a902f7a1275f47f57554b7ea75ccd0bc}
+      \strng{authorfullhash}{a902f7a1275f47f57554b7ea75ccd0bc}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R: {A} Language and Environment for Statistical Computing}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://www.R-project.org/
+      \endverb
+    \endentry
+    \entry{racz2013}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=20b4ac27a8526de69ab0ef7461dcd882}{%
+           family={Rácz},
+           familyi={R\bibinitperiod},
+           given={Péter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/Boston}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{20b4ac27a8526de69ab0ef7461dcd882}
+      \strng{fullhash}{20b4ac27a8526de69ab0ef7461dcd882}
+      \strng{authornamehash}{20b4ac27a8526de69ab0ef7461dcd882}
+      \strng{authorfullhash}{20b4ac27a8526de69ab0ef7461dcd882}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{a quantitative approach}
+      \field{title}{Salience in Sociolinguistics}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{rampton1995}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=41b5548be2a4dff9ec170ae4196489ad}{%
+           family={Rampton},
+           familyi={R\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Longman}%
+      }
+      \strng{namehash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{fullhash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{authornamehash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{authorfullhash}{41b5548be2a4dff9ec170ae4196489ad}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Crossing: {L}anguage and ethnicity among adolescents}
+      \field{year}{1995}
+      \field{dateera}{ce}
+    \endentry
+    \entry{glmwiki}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=96338c6b88bd7038e2906e2e1adfe8de}{%
+           family={{r-sig-mixed-models mailing list}},
+           familyi={r\bibinitperiod}}}%
+      }
+      \strng{namehash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \strng{fullhash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \strng{authornamehash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \strng{authorfullhash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \field{sortinit}{r}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{FAQ}
+      \field{title}{GLMM for ecologists and evolutionary biologists}
+      \field{urlday}{10}
+      \field{urlmonth}{3}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://glmm.wikidot.com/faq
+      \endverb
+    \endentry
+    \entry{sangster2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0095e88c5136c987d88bb07b0e6d7e31}{%
+           family={Sangster},
+           familyi={S\bibinitperiod},
+           given={Catherine\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0095e88c5136c987d88bb07b0e6d7e31}
+      \strng{fullhash}{0095e88c5136c987d88bb07b0e6d7e31}
+      \strng{authornamehash}{0095e88c5136c987d88bb07b0e6d7e31}
+      \strng{authorfullhash}{0095e88c5136c987d88bb07b0e6d7e31}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sociolinguistics}
+      \field{number}{3}
+      \field{title}{Lenition of alveolar stops in {L}iverpool {E}nglish}
+      \field{volume}{5}
+      \field{year}{2001}
+      \field{pages}{401\bibrangedash 412}
+      \range{pages}{12}
+    \endentry
+    \entry{scott1907}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6be88a35f41ee7b11bd60e0ad863a680}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Dixon\bibnamedelima Walter},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{2}{%
+        {Adam}%
+        {Charles Black}%
+      }
+      \strng{namehash}{6be88a35f41ee7b11bd60e0ad863a680}
+      \strng{fullhash}{6be88a35f41ee7b11bd60e0ad863a680}
+      \strng{authornamehash}{6be88a35f41ee7b11bd60e0ad863a680}
+      \strng{authorfullhash}{6be88a35f41ee7b11bd60e0ad863a680}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Liverpool 1907}
+      \field{year}{1907}
+      \field{dateera}{ce}
+    \endentry
+    \entry{silverstein2003}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bce9aa70790a4fe3a5f5562c53208ac8}{%
+           family={Silverstein},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{fullhash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{authornamehash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{authorfullhash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language and Communication}
+      \field{title}{Indexical order and the dialectics of sociolinguistic life}
+      \field{volume}{23}
+      \field{year}{2003}
+      \field{pages}{193\bibrangedash 229}
+      \range{pages}{37}
+    \endentry
+    \entry{sosci}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{SoSciSurvey.de}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2015}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.soscisurvey.de/index.php?page=home&l=eng
+      \endverb
+    \endentry
+    \entry{squires2013}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b883679a2b1339db289d65d7a438d38c}{%
+           family={Squires},
+           familyi={S\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{b883679a2b1339db289d65d7a438d38c}
+      \strng{fullhash}{b883679a2b1339db289d65d7a438d38c}
+      \strng{authornamehash}{b883679a2b1339db289d65d7a438d38c}
+      \strng{authorfullhash}{b883679a2b1339db289d65d7a438d38c}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sociolinguistics}
+      \field{number}{2}
+      \field{title}{It don't go both ways: Limited bidirectionality in sociolinguistic perception}
+      \field{volume}{17}
+      \field{year}{2013}
+      \field{pages}{200\bibrangedash 237}
+      \range{pages}{38}
+    \endentry
+    \entry{stoddartetal1999}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=a11befd819b4bd754a7099c95698e585}{%
+           family={Stoddart},
+           familyi={S\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=834561d4d7aeb7081706528ce09e4d85}{%
+           family={Upton},
+           familyi={U\bibinitperiod},
+           given={Clive},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=a9cf7593ade621a89996b47fb33431d6}{%
+           family={Widdowson},
+           familyi={W\bibinitperiod},
+           given={J.\bibnamedelimi D.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=0c72a5a312550665a30791c264d36598}{%
+           family={Foulkes},
+           familyi={F\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=994e70ea1757d914ab0511760117b416}{%
+           family={Docherty},
+           familyi={D\bibinitperiod},
+           given={Gerard\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Arnold}%
+      }
+      \strng{namehash}{b5c5af1d3dcc10fac0b62aaf4c6bb26a}
+      \strng{fullhash}{71e5c5160fa551d7fd97d814be8bafb8}
+      \strng{authornamehash}{b5c5af1d3dcc10fac0b62aaf4c6bb26a}
+      \strng{authorfullhash}{71e5c5160fa551d7fd97d814be8bafb8}
+      \strng{editornamehash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{editorfullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Urban Voices: Accent Studies in the {B}ritish {I}sles}
+      \strng{crossref}{foulkesdocherty1999}
+      \field{title}{Sheffield dialect in the 1990s: Revisiting the concept of NORMs}
+      \field{year}{1999}
+      \field{pages}{72\bibrangedash 89}
+      \range{pages}{18}
+    \endentry
+    \entry{strand1999}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3cf827f5cc078b9f12fc639763c7e1ef}{%
+           family={Strand},
+           familyi={S\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cf827f5cc078b9f12fc639763c7e1ef}
+      \strng{fullhash}{3cf827f5cc078b9f12fc639763c7e1ef}
+      \strng{authornamehash}{3cf827f5cc078b9f12fc639763c7e1ef}
+      \strng{authorfullhash}{3cf827f5cc078b9f12fc639763c7e1ef}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Language and Social Psychology}
+      \field{title}{Uncovering the role of gender stereotypes in speech perception}
+      \field{volume}{18}
+      \field{year}{1999}
+      \field{pages}{86\bibrangedash 99}
+      \range{pages}{14}
+    \endentry
+    \entry{strandjohnson1996}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3cf827f5cc078b9f12fc639763c7e1ef}{%
+           family={Strand},
+           familyi={S\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=1c274d17ceafee26ba448cfb9279dea0}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a048e1d2750d6b07e2855653675365a5}{%
+           family={Gibbon},
+           familyi={G\bibinitperiod},
+           given={Dafydd},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton}%
+      }
+      \strng{namehash}{b3d2ab12fc5adaab41ef6fe5112c951d}
+      \strng{fullhash}{b3d2ab12fc5adaab41ef6fe5112c951d}
+      \strng{authornamehash}{b3d2ab12fc5adaab41ef6fe5112c951d}
+      \strng{authorfullhash}{b3d2ab12fc5adaab41ef6fe5112c951d}
+      \strng{editornamehash}{a048e1d2750d6b07e2855653675365a5}
+      \strng{editorfullhash}{a048e1d2750d6b07e2855653675365a5}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Natural language processing and speech	technology: {R}esults of the 3rd KONVENS conference, Bielefeld, October 1996}
+      \field{title}{Gradient and visual speaker normalization in the perception of fricatives}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{14\bibrangedash 26}
+      \range{pages}{13}
+    \endentry
+    \entry{styler2008}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=14f72cf388c45961c0a2ff293aca99ec}{%
+           family={Styler},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Colorado,	Department of Linguistics}%
+      }
+      \strng{namehash}{14f72cf388c45961c0a2ff293aca99ec}
+      \strng{fullhash}{14f72cf388c45961c0a2ff293aca99ec}
+      \strng{authornamehash}{14f72cf388c45961c0a2ff293aca99ec}
+      \strng{authorfullhash}{14f72cf388c45961c0a2ff293aca99ec}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Establishing the nature of context in speaker vowel space normalization}
+      \field{type}{Unpublished Master thesis}
+      \field{year}{2008}
+    \endentry
+    \entry{syrdalgopal1986}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=6b42aef519673cbab18c4f86dcb1ca2f}{%
+           family={Syrdal},
+           familyi={S\bibinitperiod},
+           given={Ann\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{uniquename=0,hash=864a3eba42aa477aa5e607854b78a727}{%
+           family={Gopal},
+           familyi={G\bibinitperiod},
+           given={H.\bibnamedelimi S.},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab504a2b3092b98affc727b9701435da}
+      \strng{fullhash}{ab504a2b3092b98affc727b9701435da}
+      \strng{authornamehash}{ab504a2b3092b98affc727b9701435da}
+      \strng{authorfullhash}{ab504a2b3092b98affc727b9701435da}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Acoustical Society of America}
+      \field{title}{A perceptual model of vowel recognition based on the auditory representation of American English vowels}
+      \field{volume}{79}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \field{pages}{1086\bibrangedash 1100}
+      \range{pages}{15}
+    \endentry
+    \entry{thomas2002}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=eb0b831e3261c1ce1ff167dbf7563cfa}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Erik\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=f5afa067e0356e3c3a6cafb7e5a5bcea}{%
+           family={Chambers},
+           familyi={C\bibinitperiod},
+           given={Jack\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=17b4ad73f12e03a5091f0262b44d3da6}{%
+           family={Trudgill},
+           familyi={T\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e090b29bfc759d440b088e6be7637ab2}{%
+           family={Schilling-Estes},
+           familyi={S\bibinithyphendelim E\bibinitperiod},
+           given={Natalie},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford/Malden, MA}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{eb0b831e3261c1ce1ff167dbf7563cfa}
+      \strng{fullhash}{eb0b831e3261c1ce1ff167dbf7563cfa}
+      \strng{authornamehash}{eb0b831e3261c1ce1ff167dbf7563cfa}
+      \strng{authorfullhash}{eb0b831e3261c1ce1ff167dbf7563cfa}
+      \strng{editornamehash}{88010752df6db37195b22e45a2129519}
+      \strng{editorfullhash}{f7c1bb23b768c0d9684c12ae41329b51}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Handbook of Language Variation and Change}
+      \field{title}{Instrumental phonetics}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{168\bibrangedash 200}
+      \range{pages}{33}
+    \endentry
+    \entry{traunmueller1990}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=eb8817f038edb01900d826da782870ef}{%
+           family={Traunmüller},
+           familyi={T\bibinitperiod},
+           given={Hartmut},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb8817f038edb01900d826da782870ef}
+      \strng{fullhash}{eb8817f038edb01900d826da782870ef}
+      \strng{authornamehash}{eb8817f038edb01900d826da782870ef}
+      \strng{authorfullhash}{eb8817f038edb01900d826da782870ef}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Acoustical Society of America}
+      \field{title}{Analytical expressions for the tonotopic sensory scale}
+      \field{volume}{88}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{pages}{97\bibrangedash 100}
+      \range{pages}{4}
+    \endentry
+    \entry{troughton1810}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=12e2bfbaca84463cfe987dcbe7764954}{%
+           family={Troughton},
+           familyi={T\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Robinson}%
+      }
+      \strng{namehash}{12e2bfbaca84463cfe987dcbe7764954}
+      \strng{fullhash}{12e2bfbaca84463cfe987dcbe7764954}
+      \strng{authornamehash}{12e2bfbaca84463cfe987dcbe7764954}
+      \strng{authorfullhash}{12e2bfbaca84463cfe987dcbe7764954}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{From the Earliest Authenticated Period down to the Present Time}
+      \field{title}{History of Liverpool}
+      \field{year}{1810}
+      \field{dateera}{ce}
+    \endentry
+    \entry{trudgill1986}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=17b4ad73f12e03a5091f0262b44d3da6}{%
+           family={Trudgill},
+           familyi={T\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{fullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{authornamehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{authorfullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dialects in contact}
+      \field{year}{1986}
+    \endentry
+    \entry{trudgill1999}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=17b4ad73f12e03a5091f0262b44d3da6}{%
+           family={Trudgill},
+           familyi={T\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{fullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{authornamehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{authorfullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Second}
+      \field{title}{The Dialects of England}
+      \field{year}{1999}
+    \endentry
+    \entry{trudgill2004}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=17b4ad73f12e03a5091f0262b44d3da6}{%
+           family={Trudgill},
+           familyi={T\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh}%
+      }
+      \list{publisher}{1}{%
+        {Edinburgh University Press}%
+      }
+      \strng{namehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{fullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{authornamehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{authorfullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{New-dialect formation: the inevitability of colonial {E}nglishes}
+      \field{year}{2004}
+    \endentry
+    \entry{heuvenetal2014}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=1438b7e4c06015d7aca718030c9193d8}{%
+           family={Van\bibnamedelima Heuven},
+           familyi={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={W.J.B.},
+           giveni={W\bibinitperiod}}}%
+        {{uniquename=0,hash=63aaf3cfa939ce4feb2614dc3aef2107}{%
+           family={Mandera},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=2bc349f45a88acf32508a3ac5c272c44}{%
+           family={Keuleers},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=c02634c4be8c07929b7193635ae6fc62}{%
+           family={Brysbaert},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{71c55b93a3141b32cd8a0aec2aa826fa}
+      \strng{fullhash}{9803644fa945977ec7cab147d2ad1c59}
+      \strng{authornamehash}{71c55b93a3141b32cd8a0aec2aa826fa}
+      \strng{authorfullhash}{9803644fa945977ec7cab147d2ad1c59}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quarterly Journal of Experimental Psychology}
+      \field{title}{Subtlex-UK: {A} new and improved word frequency database for British English}
+      \field{volume}{67}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{1176\bibrangedash 1190}
+      \range{pages}{15}
+    \endentry
+    \entry{wales2006}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d33fd9a4c9eb1174cd6ff33f73dcf6c7}{%
+           family={Wales},
+           familyi={W\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {CUP}%
+      }
+      \strng{namehash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
+      \strng{fullhash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
+      \strng{authornamehash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
+      \strng{authorfullhash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Northern English: {A} Cultural and Social History}
+      \field{year}{2006}
+    \endentry
+    \entry{watson2002}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3d02ae245a99d7b58902425c79457ab2}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{fullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authornamehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authorfullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Durham Working Papers in Linguistics}
+      \field{title}{The realization of final /t/ in {L}iverpool {E}nglish}
+      \field{volume}{8}
+      \field{year}{2002}
+      \field{pages}{195\bibrangedash 205}
+      \range{pages}{11}
+    \endentry
+    \entry{watson2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3d02ae245a99d7b58902425c79457ab2}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{fullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authornamehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authorfullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{English Today}
+      \field{number}{2}
+      \field{title}{Phonological resistance and innovation in the {N}orth-{W}est of {E}ngland}
+      \field{volume}{22}
+      \field{year}{2006}
+      \field{pages}{55\bibrangedash 61}
+      \range{pages}{7}
+    \endentry
+    \entry{watson2007a}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3d02ae245a99d7b58902425c79457ab2}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=49cccd612895f8b1ee2ff0e0b366705d}{%
+           family={Grant},
+           familyi={G\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=0c924b0cf5296ee2708d21fd5cd99fde}{%
+           family={Grey},
+           familyi={G\bibinitperiod},
+           given={Clive},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Liverpool}%
+      }
+      \list{publisher}{1}{%
+        {Open House Press}%
+      }
+      \strng{namehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{fullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authornamehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authorfullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{editornamehash}{f6e006b5c5dd65d30e6e32e253093166}
+      \strng{editorfullhash}{f6e006b5c5dd65d30e6e32e253093166}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{extrayear}{1}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Mersey Sound: Liverpool's Language, People and Places}
+      \strng{crossref}{grantgrey2007}
+      \field{title}{Is {S}couse getting {S}couser? Phonological change in contemporary {L}iverpool {E}nglish}
+      \field{year}{2007}
+      \field{pages}{215\bibrangedash 241}
+      \range{pages}{27}
+    \endentry
+    \entry{watson2007}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3d02ae245a99d7b58902425c79457ab2}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{fullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authornamehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authorfullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{extrayear}{2}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the International Phonetic Association}
+      \field{number}{3}
+      \field{title}{{L}iverpool {E}nglish}
+      \field{volume}{37}
+      \field{year}{2007}
+      \field{pages}{351\bibrangedash 360}
+      \range{pages}{10}
+    \endentry
+    \entry{watsonclark2013}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3d02ae245a99d7b58902425c79457ab2}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=9024415164b0f2431a6db218b9e0d14a}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Lynn},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{fullhash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{authornamehash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{authorfullhash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{English Language and Linguistics}
+      \field{number}{2}
+      \field{title}{How salient is the \textsc{nurse}~\textsc{square} merger?}
+      \field{volume}{17}
+      \field{year}{2013}
+      \field{pages}{297\bibrangedash 323}
+      \range{pages}{27}
+    \endentry
+    \entry{watsonclark2015}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3d02ae245a99d7b58902425c79457ab2}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=9024415164b0f2431a6db218b9e0d14a}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Lynn},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{fullhash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{authornamehash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{authorfullhash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language Awareness}
+      \field{number}{1}
+      \field{title}{Exploring listeners' real-time reactions to regional accents}
+      \field{volume}{24}
+      \field{year}{2015}
+      \field{pages}{38\bibrangedash 59}
+      \range{pages}{22}
+    \endentry
+    \entry{wattfabricius2002}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=f8c4d09b41a0d660bcea6f1418fdb084}{%
+           family={Watt},
+           familyi={W\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=02f268860bfdbcc419a7bfaa4c45e8f1}{%
+           family={Fabricius},
+           familyi={F\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bb400ed8d9c4a141fd998a718f5c6b2}
+      \strng{fullhash}{0bb400ed8d9c4a141fd998a718f5c6b2}
+      \strng{authornamehash}{0bb400ed8d9c4a141fd998a718f5c6b2}
+      \strng{authorfullhash}{0bb400ed8d9c4a141fd998a718f5c6b2}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Leeds Working Papers in Linguistics and Phonetics}
+      \field{title}{Evaluation of a technique for improving the mapping of multiple speakers' vowel spaces in the F1\(\sim\)F2 plane}
+      \field{volume}{9}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{159\bibrangedash 173}
+      \range{pages}{15}
+    \endentry
+    \entry{watts2006}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2922da7df1b4e7c45cc3bf5bfecbd335}{%
+           family={Watts},
+           familyi={W\bibinitperiod},
+           given={Emma\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Essex}%
+      }
+      \strng{namehash}{2922da7df1b4e7c45cc3bf5bfecbd335}
+      \strng{fullhash}{2922da7df1b4e7c45cc3bf5bfecbd335}
+      \strng{authornamehash}{2922da7df1b4e7c45cc3bf5bfecbd335}
+      \strng{authorfullhash}{2922da7df1b4e7c45cc3bf5bfecbd335}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mobility-induced dialect contact: {A} sociolinguistic investigation of speech variation in Wilmslow, Cheshire}
+      \field{type}{phdthesis}
+      \field{year}{2006}
+    \endentry
+    \entry{wells1982}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=06e0f66d6950806a13eee3657b17dd6d}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima Christopher},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{fullhash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{authornamehash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{authorfullhash}{06e0f66d6950806a13eee3657b17dd6d}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Accents of {E}nglish}
+      \field{year}{1982}
+    \endentry
+    \entry{wells1997}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=06e0f66d6950806a13eee3657b17dd6d}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima Christopher},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{fullhash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{authornamehash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{authorfullhash}{06e0f66d6950806a13eee3657b17dd6d}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Il Jornadas de Estudios Ingleses}
+      \field{title}{Whatever happened to received pronunciation?}
+      \field{volume}{2}
+      \field{year}{1997}
+      \field{pages}{19\bibrangedash 28}
+      \range{pages}{10}
+    \endentry
+    \entry{west2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1902886ab3a2b615b1bcf2f5486b31f2}{%
+           family={West},
+           familyi={W\bibinitperiod},
+           given={Helen\bibnamedelima Faye},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2c8c07c305721761a6aa4fd2fd1b8e85}{%
+           family={Hickey},
+           familyi={H\bibinitperiod},
+           given={Raymond},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Benjamins}%
+      }
+      \strng{namehash}{1902886ab3a2b615b1bcf2f5486b31f2}
+      \strng{fullhash}{1902886ab3a2b615b1bcf2f5486b31f2}
+      \strng{authornamehash}{1902886ab3a2b615b1bcf2f5486b31f2}
+      \strng{authorfullhash}{1902886ab3a2b615b1bcf2f5486b31f2}
+      \strng{editornamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{editorfullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Researching Northern English}
+      \field{title}{Language attitudes and divergence on the {M}erseyside/{L}ancashire border}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{317\bibrangedash 341}
+      \range{pages}{25}
+    \endentry
+    \entry{ggplot2}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1d0f6977ce2d043e298a59a1cd75b7ef}{%
+           family={Wickham},
+           familyi={W\bibinitperiod},
+           given={Hadley},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{fullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{authornamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{authorfullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-387-98140-6}
+      \field{title}{ggplot2: {E}legant graphics for data analysis}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://had.co.nz/ggplot2/book
+      \endverb
+    \endentry
+    \entry{plyr}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1d0f6977ce2d043e298a59a1cd75b7ef}{%
+           family={Wickham},
+           familyi={W\bibinitperiod},
+           given={Hadley},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{fullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{authornamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{authorfullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Statistical Software}
+      \field{number}{1}
+      \field{title}{The Split-Apply-Combine Strategy for Data Analysis}
+      \field{volume}{40}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 29}
+      \range{pages}{29}
+      \verb{url}
+      \verb http://www.jstatsoft.org/v40/i01/
+      \endverb
+    \endentry
+    \entry{knitr}{manual}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=25ce25b9d444076e0963bcf9fa3a6f92}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Yihui},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{25ce25b9d444076e0963bcf9fa3a6f92}
+      \strng{fullhash}{25ce25b9d444076e0963bcf9fa3a6f92}
+      \strng{authornamehash}{25ce25b9d444076e0963bcf9fa3a6f92}
+      \strng{authorfullhash}{25ce25b9d444076e0963bcf9fa3a6f92}
+      \field{sortinit}{X}
+      \field{sortinithash}{755b54a59c4b54d471c87a4486a94349}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 1.11}
+      \field{title}{knitr: {A} General-Purpose Package for Dynamic Report Generation in R}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://yihui.name/knitr/
+      \endverb
+    \endentry
+    \entry{zarconeetal2017}{incollection}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=a736c0077e014450d6ece25b6638c8f3}{%
+           family={Zarcone},
+           familyi={Z\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=f70d84920957d427a99a45637308ab1e}{%
+           family={Schijndel},
+           familyi={S\bibinitperiod},
+           given={Marten},
+           giveni={M\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{uniquename=0,hash=a8863858d4d62b12dba2dbde75ce118d}{%
+           family={Vogels},
+           familyi={V\bibinitperiod},
+           given={Jorrig},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=353a73e8810fb1660aeecf9a2388b7d1}{%
+           family={Demberg},
+           familyi={D\bibinitperiod},
+           given={Vera},
+           giveni={V\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=aa8b46bc6ddc3416ee319b0c9d1f30ba}{%
+           family={Blumenthal-Dramé},
+           familyi={B\bibinithyphendelim D\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a7bacff79aa273869b34ad7fb7c3b649}{%
+           family={Hanulíková},
+           familyi={H\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d4e71276cd5cc0a245a7741c60829487}{%
+           family={Kortmann},
+           familyi={K\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lausanne}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media}%
+      }
+      \strng{namehash}{f1522bacba3fb8519b8167f495711fd2}
+      \strng{fullhash}{9944006e93b6a8248df109ca57273cf5}
+      \strng{authornamehash}{f1522bacba3fb8519b8167f495711fd2}
+      \strng{authorfullhash}{9944006e93b6a8248df109ca57273cf5}
+      \strng{editornamehash}{13d671777ba030829d8fff6dfd5a9062}
+      \strng{editorfullhash}{165d15071fcff4467ad62dc3c835ffc4}
+      \field{sortinit}{Z}
+      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Perceptual Linguistic Salience: Modeling Causes and Consequences}
+      \field{title}{Salience and Attention in Surprisal-Based Accounts of Language Processing}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{7\bibrangedash 23}
+      \range{pages}{17}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
