@@ -1,8 +1,4 @@
-{
-  "versions": [{
-    "versiontype": "proofreading",
-    "title": "",
-    "authors": [{"name": ""}],
-    "publishedAt": "2016-11-07T00:00:33.000Z"
-  }]
-}
+{"versions": [{"versiontype": "proofreading", 
+	      "title": "Sound Change, Priming, Salience",
+	      "authors": [{"name": "Marten Juskan"}],
+	      "publishedAt": "2018-08-22T13:55:23.000Z"}]}
