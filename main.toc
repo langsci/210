@@ -18,13 +18,13 @@
 \defcounter {refsection}{0}\relax
 \contentsline {section}{\numberline {2.2}19\textsuperscript {th} century}{10}{section.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.3}20\textsuperscript {th} century}{13}{section.2.3}
+\contentsline {section}{\numberline {2.3}20\textsuperscript {th} century}{14}{section.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {2.3.1}Enregisterment and the `Scouse industry'}{13}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}Enregisterment and the `Scouse industry'}{14}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {2.3.2}Decline}{16}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {2.3.3}Regeneration}{18}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.3}Regeneration}{19}{subsection.2.3.3}
 \defcounter {refsection}{0}\relax
 \contentsline {section}{\numberline {2.4}21\textsuperscript {st} century --- outlook}{20}{section.2.4}
 \defcounter {refsection}{0}\relax
@@ -48,7 +48,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {3.4.2}\textsc {nurse} --- \textsc {square}}{35}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.5}Summary}{37}{section.3.5}
+\contentsline {section}{\numberline {3.5}Summary}{38}{section.3.5}
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {4}A few words on salience and exemplar theory}{39}{chapter.4}
 \defcounter {refsection}{0}\relax
@@ -66,7 +66,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {4.2.2}Application in (socio-)linguistics}{49}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.2.3}Frequency and salience in exemplar theory}{52}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.3}Frequency and salience in exemplar theory}{53}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax
 \contentsline {section}{\numberline {4.3}Summary}{56}{section.4.3}
 \defcounter {refsection}{0}\relax
@@ -340,19 +340,19 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {11.3.1}Overview}{251}{subsection.11.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.3.2}Prime}{252}{subsection.11.3.2}
+\contentsline {subsection}{\numberline {11.3.2}Prime}{253}{subsection.11.3.2}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {11.3.3}Phonological context}{254}{subsection.11.3.3}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {11.3.4}Age}{255}{subsection.11.3.4}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {11.4}/k/}{256}{section.11.4}
+\contentsline {section}{\numberline {11.4}/k/}{257}{section.11.4}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.4.1}Overview}{256}{subsection.11.4.1}
+\contentsline {subsection}{\numberline {11.4.1}Overview}{257}{subsection.11.4.1}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {11.4.2}Prime and social class}{258}{subsection.11.4.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.4.3}Phonological context}{261}{subsection.11.4.3}
+\contentsline {subsection}{\numberline {11.4.3}Phonological context}{262}{subsection.11.4.3}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {11.4.4}Geographical distance}{264}{subsection.11.4.4}
 \defcounter {refsection}{0}\relax
@@ -415,3 +415,13 @@
 \contentsline {chapter}{\nonumberline Appendix~C: Word list}{307}{appendix.C}
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\nonumberline Appendix~D: Stimuli for perception test}{309}{appendix.D}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\nonumberline References}{313}{chapter*.153}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Index}{323}{section*.154}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Name index}{323}{section*.155}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Language index}{323}{section*.156}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{Subject index}{323}{section*.157}

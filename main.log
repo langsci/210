@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.9.7)  24 SEP 2018 17:57
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.9.7)  24 SEP 2018 18:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2656,6 +2656,20 @@ LaTeX Warning: Command \markright  has changed.
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/authorindex/authorindex.sty
 Package: authorindex 2005/03/22 make index of authors cited in a work
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+Requested font "ectt1000" scaled 1000
+ -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm
+\SOUL@word=\toks62
+\SOUL@lasttoken=\toks63
+\SOUL@cmds=\toks64
+\SOUL@buffer=\toks65
+\SOUL@token=\toks66
+\SOUL@spaceskip=\skip108
+\SOUL@ttwidth=\dimen341
+\SOUL@uldp=\dimen342
+\SOUL@ulht=\dimen343
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
@@ -2694,7 +2708,7 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen341
+\@linkdim=\dimen344
 \Hy@linkcounter=\count469
 \Hy@pagecounter=\count470
 
@@ -2730,12 +2744,12 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4735.
 \c@Hy@tempcnt=\count472
 LaTeX Info: Redefining \url on input line 5088.
-\XeTeXLinkMargin=\dimen342
+\XeTeXLinkMargin=\dimen345
 Requested font "pzdr" at 0.00002pt
  -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
 \Fld@menulength=\count473
-\Field@Width=\dimen343
-\Fld@charsize=\dimen344
+\Field@Width=\dimen346
+\Fld@charsize=\dimen347
 Package hyperref Info: Hyper figures OFF on input line 6342.
 Package hyperref Info: Link nesting OFF on input line 6347.
 Package hyperref Info: Hyper index ON on input line 6350.
@@ -2774,7 +2788,7 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
-\Hy@SectionHShift=\skip108
+\Hy@SectionHShift=\skip109
 )
 Package hyperref Info: Option `unicode' set `true' on input line 1730.
 
@@ -2784,12 +2798,12 @@ Package: doi 2007/07/24 handle doi numbers
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/05/22 v2.16c rotated objects in LaTeX
 \c@r@tfl@t=\count481
-\rotFPtop=\skip109
-\rotFPbot=\skip110
+\rotFPtop=\skip110
+\rotFPbot=\skip111
 \rot@float@box=\box69
-\rot@mess@toks=\toks62
+\rot@mess@toks=\toks67
 )
-\LSPTmp=\skip111
+\LSPTmp=\skip112
 )
 (./localmetadata.tex) (./localpackages.tex
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/tabularx.sty
@@ -2797,19 +2811,19 @@ Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen345
-\extrarowheight=\dimen346
-\NC@list=\toks63
-\extratabsurround=\skip112
-\backup@length=\skip113
+\col@sep=\dimen348
+\extrarowheight=\dimen349
+\NC@list=\toks68
+\extratabsurround=\skip113
+\backup@length=\skip114
 )
-\TX@col@width=\dimen347
-\TX@old@table=\dimen348
-\TX@old@col=\dimen349
-\TX@target=\dimen350
-\TX@delta=\dimen351
+\TX@col@width=\dimen350
+\TX@old@table=\dimen351
+\TX@old@col=\dimen352
+\TX@target=\dimen353
+\TX@delta=\dimen354
 \TX@cols=\count482
-\TX@ftn=\toks64
+\TX@ftn=\toks69
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/polyglossia/polyglossia.sty
 Package: polyglossia 2015/03/25 v1.42.4 Alternative to Babel for XeLaTeX and Lu
@@ -2833,7 +2847,7 @@ Package: csquotes 2016/07/14 v5.1h context-sensitive quotations (JAW)
 \csq@qlevel=\count486
 \csq@maxlvl=\count487
 \csq@tshold=\count488
-\csq@ltx@everypar=\toks65
+\csq@ltx@everypar=\toks70
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2016/07/14 v5.1h csquotes generic definitions (JAW)
@@ -2847,27 +2861,27 @@ File: csquotes.cfg
 Package csquotes Info: Enabling multilingual quotes.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen352
+\bigstrutjot=\dimen355
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
 \c@tracingmulticols=\count489
 \mult@box=\box70
-\multicol@leftmargin=\dimen353
+\multicol@leftmargin=\dimen356
 \c@unbalance=\count490
 \c@collectmore=\count491
 \doublecol@number=\count492
 \multicoltolerance=\count493
 \multicolpretolerance=\count494
-\full@width=\dimen354
-\page@free=\dimen355
-\premulticols=\dimen356
-\postmulticols=\dimen357
-\multicolsep=\skip114
-\multicolbaselineskip=\skip115
+\full@width=\dimen357
+\page@free=\dimen358
+\premulticols=\dimen359
+\postmulticols=\dimen360
+\multicolsep=\skip115
+\multicolbaselineskip=\skip116
 \partial@page=\box71
 \last@line=\box72
-\maxbalancingoverflow=\dimen358
+\maxbalancingoverflow=\dimen361
 \mult@rightbox=\box73
 \mult@grightbox=\box74
 \mult@gfirstbox=\box75
@@ -2891,40 +2905,40 @@ Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
 \@tempa=\box93
 \c@columnbadness=\count495
 \c@finalcolumnbadness=\count496
-\last@try=\dimen359
-\multicolovershoot=\dimen360
-\multicolundershoot=\dimen361
+\last@try=\dimen362
+\multicolovershoot=\dimen363
+\multicolundershoot=\dimen364
 \mult@nat@firstbox=\box94
 \colbreak@box=\box95
 \mc@col@check@num=\count497
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/paralist/paralist.sty
 Package: paralist 2016/08/07 v2.6 Extended list environments
-\pltopsep=\skip116
-\plpartopsep=\skip117
-\plitemsep=\skip118
-\plparsep=\skip119
-\pl@lab=\toks66
+\pltopsep=\skip117
+\plpartopsep=\skip118
+\plitemsep=\skip119
+\plparsep=\skip120
+\pl@lab=\toks71
 )
 (/usr/local/texlive/2016/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box96
 \UL@hyphenbox=\box97
-\UL@skip=\skip120
-\UL@hook=\toks67
-\UL@height=\dimen362
+\UL@skip=\skip121
+\UL@hook=\toks72
+\UL@height=\dimen365
 \UL@pe=\count498
-\UL@pixel=\dimen363
+\UL@pixel=\dimen366
 \ULC@box=\box98
 Requested font "lasy6" scaled 1000
  -> /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 Package: ulem 2012/05/18
-\ULdepth=\dimen364
+\ULdepth=\dimen367
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/covington/covington.sty
 Package: covington 2016/08/26 v1.2 Covington's linguistic macros
-\twoaccsep=\skip121
+\twoaccsep=\skip122
 \c@equationsave=\count499
-\examplenumbersep=\skip122
+\examplenumbersep=\skip123
 \lineone=\box99
 \linetwo=\box100
 \linethree=\box101
@@ -2932,7 +2946,7 @@ Package: covington 2016/08/26 v1.2 Covington's linguistic macros
 \wordtwo=\box103
 \wordthree=\box104
 \gline=\box105
-\glossglue=\skip123
+\glossglue=\skip124
 \c@covexercise=\count500
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
@@ -2941,26 +2955,26 @@ Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 )
-\AM@pagewidth=\dimen365
-\AM@pageheight=\dimen366
+\AM@pagewidth=\dimen368
+\AM@pageheight=\dimen369
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/ppxetex.def
 File: ppxetex.def 2016/04/19 v0.5f Pdfpages driver for XeTeX (AM)
 )
 \AM@pagebox=\box106
-\AM@global@opts=\toks68
-\AM@toc@title=\toks69
+\AM@global@opts=\toks73
+\AM@toc@title=\toks74
 \c@AM@survey=\count501
 \AM@templatesizebox=\box107
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip124
-\LTright=\skip125
-\LTpre=\skip126
-\LTpost=\skip127
+\LTleft=\skip125
+\LTright=\skip126
+\LTpre=\skip127
+\LTpost=\skip128
 \LTchunksize=\count502
-\LTcapwidth=\dimen367
+\LTcapwidth=\dimen370
 \LT@head=\box108
 \LT@firsthead=\box109
 \LT@foot=\box110
@@ -2969,7 +2983,7 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LT@rows=\count504
 \c@LT@tables=\count505
 \c@LT@chunks=\count506
-\LT@p@ftn=\toks70
+\LT@p@ftn=\toks75
 )
 Class scrbook Info: longtable captions redefined on input line 18.
 
@@ -2991,14 +3005,14 @@ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix
 \FV@StepNumber=\count511
 \FV@OutFile=\write7
 )
-\rotheight=\skip128
-\rotwidth=\skip129
-\fulllength=\skip130
+\rotheight=\skip129
+\rotwidth=\skip130
+\fulllength=\skip131
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
-\everycr=\toks71
-\minrowclearance=\skip131
+\everycr=\toks76
+\minrowclearance=\skip132
 )
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibraryarrows.code.tex
@@ -3007,15 +3021,15 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 code.tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen368
+\arrowsize=\dimen371
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
 meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
-\pgfarrowinset=\dimen369
-\pgfarrowlength=\dimen370
-\pgfarrowwidth=\dimen371
-\pgfarrowlinewidth=\dimen372
+\pgfarrowinset=\dimen372
+\pgfarrowlength=\dimen373
+\pgfarrowwidth=\dimen374
+\pgfarrowlinewidth=\dimen375
 )
 \c@lsConnectTempGroup=\count512
 .................................................
@@ -3054,7 +3068,7 @@ Package: langsci-gb4e 2000/09/05
 \wordseven=\box127
 \wordeight=\box128
 \gline=\box129
-\glossglue=\skip132
+\glossglue=\skip133
 )
 \c@fnx=\count513
 \@xnumdepth=\count514
@@ -3092,7 +3106,11 @@ Package csquotes Warning: Using preliminary 'polyglossia' interface.
 (./chapters/production-method.aux) (./chapters/production-results-vow.aux)
 (./chapters/production-results-con.aux) (./chapters/production-results-qual.aux
 ) (./chapters/production-discussion.aux) (./chapters/perception-method.aux)
-(./chapters/perception-results.aux) (./chapters/perception-discussion.aux))
+(./chapters/perception-results.aux) (./chapters/perception-discussion.aux)
+(./chapters/conclusion.aux) (./chapters/questionnaire.aux)
+(./chapters/reading.aux) (./chapters/list.aux) (./chapters/stimuli.aux)
+(./localseealso.aux) (./backmatter.aux)
+(./langsci/graphics/langsci-advertisement.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -3179,14 +3197,15 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `main.mw'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-No file main.bbl.
+Package biblatex Info: ... file 'main.bbl' found.
+(./main.bbl)
 Package biblatex Info: Reference section=0 on input line 40.
 Package biblatex Info: Reference segment=0 on input line 40.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: floatrow package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
+
 (/usr/local/texlive/2016/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
@@ -3200,13 +3219,13 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \flrow@LT@prelastfoot=\box132
 \c@FBLTpage=\count524
 )
-\idxtitle@default=\toks72
+\idxtitle@default=\toks77
 \tf@default=\write8
 Package index Info: Writing index file main.idx on input line 40.
-\idxtitle@lan=\toks73
+\idxtitle@lan=\toks78
 \tf@lan=\write9
 Package index Info: Writing index file main.ldx on input line 40.
-\idxtitle@sbj=\toks74
+\idxtitle@sbj=\toks79
 \tf@sbj=\write10
 Package index Info: Writing index file main.sdx on input line 40.
 \openout3 = `main.idx'.
@@ -3225,6 +3244,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 40.
 LaTeX Info: Redefining \pageref on input line 40.
 LaTeX Info: Redefining \nameref on input line 40.
+
+(./main.out) (./main.out)
 \@outlinefile=\write11
 Package polyglossia Info: Option: english variant=british.
 
@@ -3564,29 +3585,41 @@ T;mapping=tex-text;mapping=tex-text;+liga;+pnum;" at 20.74pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 Package tocbasic Info: character protrusion at toc deactivated on input line 48
 .
-
-No file main.toc.
-\tf@toc=\write12
+ (./main.toc
+Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
+;mapping=tex-text;mapping=tex-text;+liga;+pnum;+smcp;slant=0;+onum;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
 ;mapping=tex-text;mapping=tex-text;+liga;+pnum;slant=0.25;" at 10.95pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
-[1] (./main.mw)
+ [1] (./main.mw)
 \openout3 = `main.mw'.
 
 
 
-\openout2 = `chapters/acknowledgements.aux'.
-
- (./chapters/acknowledgements.tex
 \openout3 = `main.mw'.
 
  [2] (./main.mw)
+\openout3 = `main.mw'.
+
+ [3] (./main.mw)
+\openout3 = `main.mw'.
 
 
+[4] (./main.mw))
+\tf@toc=\write12
+\openout3 = `main.mw'.
+
+ [5] (./main.mw)
+\openout3 = `main.mw'.
+
+ [6] (./main.mw)
+\openout2 = `chapters/acknowledgements.aux'.
 
 
+(./chapters/acknowledgements.tex
 Overfull \hbox (5.75262pt too wide) in paragraph at lines 11--14
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Michaela Hejna, Victorina Gonzalez-Diaz,
  Sofia Lampropoulou, Ian McEvoy, Linda
@@ -3595,10 +3628,13 @@ Overfull \hbox (5.75262pt too wide) in paragraph at lines 11--14
 )
 \openout3 = `main.mw'.
 
- [3] (./main.mw)
+ [7] (./main.mw)
+
+
+
 \openout3 = `main.mw'.
 
- [4] (./main.mw)
+ [8] (./main.mw)
 
 
 
@@ -3626,41 +3662,17 @@ T;mapping=tex-text;mapping=tex-text;+liga;+pnum;" at 14.4pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'niedzielski1999' on page 1 undefined on input line 10.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 1 undefined on input line 10.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 1 undefined on input line 11.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 1 undefined on input line 12.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 1 undefined on input line 1
-6.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 1 undefined on input line 18.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 1 undefined on input line 18.
 
 \openout3 = `main.mw'.
 
@@ -3674,60 +3686,28 @@ LaTeX Warning: Citation 'hayetal2006a' on page 1 undefined on input line 18.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'trudgill1999' on page 2 undefined on input line 24.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'montgomery2007' on page 2 undefined on input line 25.
-
-Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
-;mapping=tex-text;mapping=tex-text;+liga;+pnum;+smcp;slant=0;+onum;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kerswill2003' on page 2 undefined on input line 33.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'watson2007a' on page 2 undefined on input line 34.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'watson2007' on page 2 undefined on input line 40.
+ [2] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 2 undefined on input line 42.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'watson2007' on page 2 undefined on input line 42.
-
-\openout3 = `main.mw'.
-
-[2] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'knowles1973' on page 3 undefined on input line 51.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 3 undefined on input line 51.
-
-\openout3 = `main.mw'.
-
-[3] (./main.mw)
+ [3] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -3738,16 +3718,7 @@ pling), measured (parameters, semi-automatic
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 4 undefined on input line 82.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 4 undefined on input line 82.
-
-
-LaTeX Warning: Reference `ch.conclusion' on page 4 undefined on input line 83.
 
 \openout3 = `main.mw'.
 
@@ -3926,44 +3897,22 @@ Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'QGIS2016' on page 7 undefined on input line 12.
-
-Requested font "[./langsci/fonts/LinLibertine_RZ_B]/OT:script=latn;language=DFL
-T;mapping=tex-text;mapping=tex-text;+liga;+pnum;+lnum;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kermodeetal2006' on page 7 undefined on input line 13.
-
+Underfull \hbox (badness 3557) in paragraph at lines 12--12
+[][]\EU1/LinLibertine_R_B.otf(1)/m/n/9 Created with [][][][]QGIS Development Te
+am (2016)[][]. Free vector and raster map data @
+ []
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'kermodeetal2006' on page 7 undefined on input line 16.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'kermodeetal2006' on page 7 undefined on input line 20.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'kermodeetal2006' on page 7 undefined on input line 21.
-
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'longmore2006' on page 7 undefined on input line 24.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'longmore2006' on page 7 undefined on input line 26.
 
 \openout3 = `main.mw'.
 
@@ -3974,119 +3923,52 @@ LaTeX Warning: Citation 'longmore2006' on page 7 undefined on input line 26.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'longmore2006' on page 8 undefined on input line 32.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'longmore2006' on page 8 undefined on input line 35.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'crowley2012' on page 8 undefined on input line 37.
+ [8] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 8 undefined on input line 41.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'longmore2006' on page 8 undefined on input line 42.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[8] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'longmore2006' on page 9 undefined on input line 46.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'longmore2006' on page 9 undefined on input line 46.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'belchemmacraild2006' on page 9 undefined on input line
- 46.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'belchemmacraild2006' on page 9 undefined on input line
- 46.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 48.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 48.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 48.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'troughton1810' on page 9 undefined on input line 49.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 49.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 52.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 52.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 55.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 56.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 57.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006d' on page 9 undefined on input line 58.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'crowley2012' on page 9 undefined on input line 58.
-
-\openout3 = `main.mw'.
-
-[9] (./main.mw)
+ [9] (./main.mw)
 Requested font "[libertinusmath-regular]/OT:script=math;language=DFLT;" at 14.4
 pt
  -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/liberti
@@ -4160,19 +4042,9 @@ T;mapping=tex-text;mapping=tex-text;+liga;+pnum;" at 10.0pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 10 undefined on input line 64.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 10 undefined on input line 65.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 10 undefined on input line 65.
 
 LaTeX Font Info:    Font shape `EU1/Arimo_B.ttf(0)/bx/n' will be
 (Font)              scaled to size 8.89153pt on input line 68.
@@ -4181,830 +4053,428 @@ ping=tex-text;" at 8.89153pt
  -> ./langsci/fonts/Arimo-Bold_B.ttf
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 10 undefined on input line 73.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'gbhistgis' on page 10 undefined on input line 75.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'gbhistgis' on page 10 undefined on input line 78.
-
-
-Overfull \hbox (11.52513pt too wide) in paragraph at lines 73--80
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Manchester, for instance, also went fr
-om 88,000 in 1801 to 642,000 in 1901 ([]).
- []
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hohenberglees1985' on page 10 undefined on input line 
-86.
-
-\openout3 = `main.mw'.
-
-[10] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'milne2006' on page 11 undefined on input line 92.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 11 undefined on input line 95.
+ [10] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'belchem2006c' on page 11 undefined on input line 98.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'belchem2006a' on page 11 undefined on input line 99.
-
-
-Overfull \hbox (12.6767pt too wide) in paragraph at lines 97--102
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 the United States) and acquired the nick
- name ‘New York of Europe’ ([]).
- []
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'anon1812' on page 11 undefined on input line 104.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 11 undefined on input line 104.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'belchem2006a' on page 11 undefined on input line 106.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006d' on page 11 undefined on input line 107.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'scott1907' on page 11 undefined on input line 107.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006d' on page 11 undefined on input line 107.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 11 undefined on input line 109.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 11 undefined on input line 110.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 11 undefined on input line 111.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 11 undefined on input line 111.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'trudgill1986' on page 11 undefined on input line 112.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'trudgill2004' on page 11 undefined on input line 112.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 11 undefined on input line 112.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 11 undefined on input line 114.
-
-
-
-Overfull \hbox (2.50412pt too wide) in paragraph at lines 109--115
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 “corresponds with the period of massive 
-immigration from Ireland” ([])
- []
-
-
-Overfull \hbox (9.90085pt too wide) in paragraph at lines 109--115
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 during and after the Irish Potato Famine
- (1845–1852). This is crucial for []
- []
-
-
-Overfull \hbox (37.26396pt too wide) in paragraph at lines 109--115
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 model of new []dialect formation ([]; []
-) to []Liverpool, []
- []
 
 Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
 ;mapping=tex-text;mapping=tex-text;+liga;+pnum;slant=0.25;" at 8.75496pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
-[11] (./main.mw)
+ [11]
+(./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 12 undefined on input line 119.
-
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'pooley2006' on page 12 undefined on input line 120.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
 ;mapping=tex-text;mapping=tex-text;+liga;+pnum;" at 7.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'knowles1973' on page 12 undefined on input line 141.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 12 undefined on input line 145.
-
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'belchemmacraild2006' on page 12 undefined on input lin
-e 147.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 12 undefined on input line 150.
-
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 12 undefined on input line 152.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 [12] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 13 undefined on input line 156.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 13 undefined on input line 156.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'belchem2006b' on page 13 undefined on input line 157.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 13 undefined on input line 159.
-
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'ellis1889' on page 13 undefined on input line 162.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 13 undefined on input line 162.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 13 undefined on input line 162.
-
 
 Requested font "[./langsci/fonts/LinLibertine_RZ_B]/OT:script=latn;language=DFL
 T;mapping=tex-text;mapping=tex-text;+liga;+pnum;" at 12.0pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pooley2006' on page 13 undefined on input line 168.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'murden2006' on page 13 undefined on input line 169.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 13 undefined on input line 170.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006a' on page 13 undefined on input line 171.
-
-\openout3 = `main.mw'.
-
-[13] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 14 undefined on input line 173.
+ [13] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 14 undefined on input line 175.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 14 undefined on input line 175.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'agha2003' on page 14 undefined on input line 176.
+ [14] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 14 undefined on input line 178.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybonewatson2013' on page 14 undefined on input lin
-e 180.
-
-
-Overfull \hbox (28.5703pt too wide) in paragraph at lines 173--181
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 At around the same time (the early to 
-mid-20$[]$ century) developed what []
- []
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 14 undefined on input line 182.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'murden2006' on page 14 undefined on input line 183.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'belchem2006a' on page 14 undefined on input line 183.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 14 undefined on input line 185.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'murden2006' on page 14 undefined on input line 185.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[14] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'crowley2012' on page 15 undefined on input line 187.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 15 undefined on input line 190.
+ [15] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'silverstein2003' on page 15 undefined on input line 19
-1.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'silverstein2003' on page 15 undefined on input line 19
-1.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'johnstoneetal2006' on page 15 undefined on input line 
-191.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'johnstoneetal2006' on page 15 undefined on input line 
-192.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 15 undefined on input line 194.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'crowley2012' on page 15 undefined on input line 194.
+ [16]
+(./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 15 undefined on input line 195.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'wales2006' on page 15 undefined on input line 196.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'murden2006' on page 15 undefined on input line 200.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'juddparkinson1990a' on page 15 undefined on input line
- 202.
-
-\openout3 = `main.mw'.
-
-[15] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'belchem2006a' on page 16 undefined on input line 204.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'couch2003a' on page 16 undefined on input line 204.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'milne2006' on page 16 undefined on input line 205.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'murden2006' on page 16 undefined on input line 206.
-
-
-Overfull \hbox (16.66339pt too wide) in paragraph at lines 204--207
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 the end of the empire, the “collapse of 
-the colonial economic system” ([]),
- []
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006a' on page 16 undefined on input line 209.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006a' on page 16 undefined on input line 210.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'juddparkinson1990a' on page 16 undefined on input line
- 213.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'parkinson1990' on page 16 undefined on input line 216.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'parkinson1990' on page 16 undefined on input line 218.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'couch2003a' on page 16 undefined on input line 218.
-
-
-Overfull \hbox (28.91005pt too wide) in paragraph at lines 212--219
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Thatcher became []prime minister, howeve
-r, urban policy changed ([]).
- []
-
-\openout3 = `main.mw'.
-
-[16] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
 
-LaTeX Warning: Citation 'couch2003' on page 17 undefined on input line 221.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'fraser2003' on page 17 undefined on input line 222.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'nomis' on page 17 undefined on input line 225.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'pooley2006' on page 17 undefined on input line 226.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'pooley2006' on page 17 undefined on input line 247.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'murden2006' on page 17 undefined on input line 248.
 
 \openout3 = `main.mw'.
 
 [17] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'wales2006' on page 18 undefined on input line 251.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'parkinson1990' on page 18 undefined on input line 252.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'parkinson1990' on page 18 undefined on input line 253.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1978' on page 18 undefined on input line 259.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'parkinson1990' on page 18 undefined on input line 267.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006a' on page 18 undefined on input line 270.
-
-\openout3 = `main.mw'.
-
-[18] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'fraser2003' on page 19 undefined on input line 274.
+\openout3 = `main.mw'.
+
+ [18] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [19] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [20] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'murden2006' on page 19 undefined on input line 275.
+(./figures/population.plot.tex)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'fraser2003' on page 19 undefined on input line 276.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'couch2003a' on page 19 undefined on input line 278.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'couch2003' on page 19 undefined on input line 282.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'fraser2003a' on page 19 undefined on input line 285.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'couch2003' on page 19 undefined on input line 285.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'percy2003' on page 19 undefined on input line 289.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'fraser2003' on page 19 undefined on input line 292.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'fraser2003' on page 19 undefined on input line 295.
-
-\openout3 = `main.mw'.
-
-[19] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'trudgill1999' on page 20 undefined on input line 300.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 20 undefined on input line 300.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'montgomery2007a' on page 20 undefined on input line 30
-1.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'foulkesdocherty1999a' on page 20 undefined on input li
-ne 302.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'murden2006' on page 20 undefined on input line 308.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'garciaetal2010' on page 20 undefined on input line 317
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'garciaetal2010' on page 20 undefined on input line 321
-.
-
-\openout3 = `main.mw'.
-
-[20] (./main.mw)
-\openout3 = `main.mw'.
-
- (./figures/population.plot.tex)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'fraser2003' on page 21 undefined on input line 332.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'nomis' on page 21 undefined on input line 333.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'nomis' on page 21 undefined on input line 336.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006c' on page 21 undefined on input line 341.
 
 \openout3 = `main.mw'.
 
 [21] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'pooley2006' on page 22 undefined on input line 344.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'percy2003' on page 22 undefined on input line 345.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'murden2006' on page 22 undefined on input line 346.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'lcc2016' on page 22 undefined on input line 347.
-
+ [22] (./main.mw)
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'belchem2006a' on page 22 undefined on input line 348.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'murden2006' on page 22 undefined on input line 348.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006d' on page 22 undefined on input line 352.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'belchem2006d' on page 22 undefined on input line 353.
 
 File: figures/benhair.JPG Graphic file (type QTm)
-<use  "figures/benhair.JPG" >
+ <use  "figures/benhair.JPG" >
 File: figures/stubby.JPG Graphic file (type QTm)
- <use  "figures/stubby.JPG" >
+
+<use  "figures/stubby.JPG" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 \openout3 = `main.mw'.
 
- [22] (./main.mw)
-\openout3 = `main.mw'.
-
  [23] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout2 = `chapters/variables.aux'.
-
- (./chapters/variables.tex
 \openout3 = `main.mw'.
 
  [24] (./main.mw)
+\openout2 = `chapters/variables.aux'.
 
-
-
-
-
+ (./chapters/variables.tex
 chapter 3.
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'trudgill1999' on page 25 undefined on input line 6.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'montgomery2007' on page 25 undefined on input line 7.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'montgomery2007' on page 25 undefined on input line 8.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'montgomery2007a' on page 25 undefined on input line 10
-.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'crowley2012' on page 25 undefined on input line 12.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'trudgill1999' on page 25 undefined on input line 14.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'wales2006' on page 25 undefined on input line 16.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'trudgill1999' on page 25 undefined on input line 16.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 25 undefined on input line 17.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1978' on page 25 undefined on input line 17.
-
-
-Overfull \hbox (3.45313pt too wide) in paragraph at lines 14--18
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Merseyside is a “‘transition’ [zone] b
-etween Northern and Midland []dialect speech”
- []
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 25 undefined on input line 19.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 25 undefined on input line 21.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 25 undefined on input line 22.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 25 undefined on input line 24.
 
 \openout3 = `main.mw'.
 
 [25] (./main.mw)
+
+
+
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [26] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5012,188 +4482,9 @@ LaTeX Warning: Citation 'knowles1973' on page 25 undefined on input line 24.
 \openout3 = `main.mw'.
 
 
-
-LaTeX Warning: Citation 'knowles1973' on page 26 undefined on input line 26.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 26 undefined on input line 27.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 26 undefined on input line 28.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 26 undefined on input line 34.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wales2006' on page 26 undefined on input line 36.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wales2006' on page 26 undefined on input line 36.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 26 undefined on input line 38.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 26 undefined on input line 38.
-
-\openout3 = `main.mw'.
-
-[26] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 40.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 40.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 41.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 41.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 42.
-
-
-Overfull \hbox (13.99527pt too wide) in paragraph at lines 40--43
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 in origin”, with “Irish influence [being
-] much more likely than Welsh” ([])
- []
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 44.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 44.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hoganrozsypal1980' on page 27 undefined on input line 
-44.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 44.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 44.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 44.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watson2007' on page 27 undefined on input line 48.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1997' on page 27 undefined on input line 49.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 50.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watson2007' on page 27 undefined on input line 50.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 51.
-
-
-Overfull \hbox (3.6466pt too wide) in paragraph at lines 48--52
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 varieties of English English” but the ph
-onetic realisation is often not ([]).
- []
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 53.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 54.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 27 undefined on input line 54.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watson2007' on page 27 undefined on input line 55.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watson2007' on page 27 undefined on input line 55.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watson2007' on page 27 undefined on input line 55.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watson2007a' on page 27 undefined on input line 55.
-
-
-Overfull \hbox (15.93523pt too wide) in paragraph at lines 53--56
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 “Anglo-Irish [T, D] which can be post-de
-ntal or (apico-)alveolar stops” ([]).
- []
-
-
-Overfull \hbox (0.51491pt too wide) in paragraph at lines 53--56
-[] \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 found the realisation as stops being 
-“virtually restricted (…) to work-
+Overfull \hbox (0.84338pt too wide) in paragraph at lines 53--56
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 to working class Catholics” and more fre
+quent among men than women ([][][][]Knowles
  []
 
 \openout3 = `main.mw'.
@@ -5203,714 +4494,289 @@ Overfull \hbox (0.51491pt too wide) in paragraph at lines 53--56
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'trudgill1999' on page 28 undefined on input line 63.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 65.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 68.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 68.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 69.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 69.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 72.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 73.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 73.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 75.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 75.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 77.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 78.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 79.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 28 undefined on input line 79.
-
 \openout3 = `main.mw'.
 
-[28] (./main.mw)
+ [28] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
-
 
-
-LaTeX Warning: Citation 'knowles1973' on page 29 undefined on input line 81.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 29 undefined on input line 81.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'watson2007' on page 29 undefined on input line 82.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 29 undefined on input line 82.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 29 undefined on input line 84.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'newbrook1999' on page 29 undefined on input line 85.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'newbrook1999' on page 29 undefined on input line 87.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 29 undefined on input line 91.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 29 undefined on input line 91.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 29 undefined on input line 91.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'watson2002' on page 29 undefined on input line 93.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybone2007' on page 29 undefined on input line 93.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 29 undefined on input line 94.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2001' on page 29 undefined on input line 95.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybone2001' on page 29 undefined on input line 95.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'sangster2001' on page 29 undefined on input line 95.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'watson2002' on page 29 undefined on input line 95.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'watson2006' on page 29 undefined on input line 95.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybone2001' on page 29 undefined on input line 96.
-
-
-Overfull \hbox (17.41437pt too wide) in paragraph at lines 91--97
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 clearest phonological characteristics of
- Modern []Liverpool English” ([]).
- []
-
 \openout3 = `main.mw'.
 
-[29] (./main.mw)
+ [29] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'honeybone2001' on page 30 undefined on input line 98.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'watson2007' on page 30 undefined on input line 100.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'trudgill1999' on page 30 undefined on input line 101.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1973' on page 30 undefined on input line 102.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 30 undefined on input line 103.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 30 undefined on input line 105.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1973' on page 30 undefined on input line 105.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1973' on page 30 undefined on input line 108.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 30 undefined on input line 110.
 
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybone2001' on page 30 undefined on input line 110.
-
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybone2001' on page 30 undefined on input line 111.
-
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hickey1996' on page 30 undefined on input line 114.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybone2007' on page 30 undefined on input line 115.
-
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybone2007' on page 30 undefined on input line 117.
-
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybone2007' on page 30 undefined on input line 118.
-
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 30 undefined on input line 119.
-
 
-
-Overfull \hbox (16.77017pt too wide) in paragraph at lines 113--120
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 The history of []lenition is a bit mor
-e complex than that of other features. []
- []
-
 \openout3 = `main.mw'.
 
-[30] (./main.mw)
+ [30] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 31 undefined on input line 122.
-
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 31 undefined on input line 125.
-
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 31 undefined on input line 126.
 
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 31 undefined on input line 129.
 
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 31 undefined on input line 131.
 
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybone2007' on page 31 undefined on input line 131.
-
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybonewatson2013' on page 31 undefined on input lin
-e 134.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybonewatson2013' on page 31 undefined on input lin
-e 137.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybonewatson2013' on page 31 undefined on input lin
-e 137.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'honeybonewatson2013' on page 31 undefined on input lin
-e 138.
-
-
-Overfull \hbox (76.88474pt too wide) in paragraph at lines 134--140
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Somewhat surprisingly, /k/ []lenition 
-does not figure prominently in what []
- []
-
 \openout3 = `main.mw'.
 
-[31] (./main.mw)
+ [31]
+(./main.mw)
 \openout3 = `main.mw'.
-
-
 
-LaTeX Warning: Citation 'newbrook1999' on page 32 undefined on input line 141.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watsonclark2015' on page 32 undefined on input line 14
-4.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 32 undefined on input line 158.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1973' on page 32 undefined on input line 159.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1978' on page 32 undefined on input line 159.
-
 \openout3 = `main.mw'.
 
-[32] (./main.mw)
+ [32] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
-
-
 
-LaTeX Warning: Citation 'knowles1973' on page 33 undefined on input line 164.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1978' on page 33 undefined on input line 164.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'watson2007' on page 33 undefined on input line 165.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'watson2007' on page 33 undefined on input line 166.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'knowles1973' on page 33 undefined on input line 166.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 33 undefined on input line 169.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 33 undefined on input line 169.
-
 \openout3 = `main.mw'.
-
 
-LaTeX Warning: Citation 'watson2007' on page 33 undefined on input line 171.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watson2007' on page 33 undefined on input line 176.
 
 Requested font "[./langsci/fonts/LinLibertine_RZ_B]/OT:script=latn;language=DFL
 T;mapping=tex-text;mapping=tex-text;+liga;+pnum;+smcp;slant=0;+onum;" at 12.0pt
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'harrington2006' on page 33 undefined on input line 181
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wells1997' on page 33 undefined on input line 185.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'harrington2006' on page 33 undefined on input line 186
-.
-
-\openout3 = `main.mw'.
-
-[33] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'wells1982' on page 34 undefined on input line 188.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'trudgill1999' on page 34 undefined on input line 188.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'harrington2006' on page 34 undefined on input line 189
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'trudgill1999' on page 34 undefined on input line 193.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'trudgill1999' on page 34 undefined on input line 194.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'flynn2010' on page 34 undefined on input line 196.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'stoddartetal1999' on page 34 undefined on input line 1
-98.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watts2006' on page 34 undefined on input line 198.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'newbrook1999' on page 34 undefined on input line 202.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'trudgill1999' on page 34 undefined on input line 208.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'trudgill1999' on page 34 undefined on input line 208.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watsonclark2013' on page 34 undefined on input line 20
-8.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'west2015' on page 34 undefined on input line 209.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'delyon1981' on page 34 undefined on input line 210.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watson2007' on page 34 undefined on input line 210.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 34 undefined on input line 211.
-
-
-\openout3 = `main.mw'.
-
-[34] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'watson2007' on page 35 undefined on input line 213.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'delyon1981' on page 35 undefined on input line 213.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 35 undefined on input line 214.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 35 undefined on input line 216.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 35 undefined on input line 218.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 35 undefined on input line 219.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 35 undefined on input line 221.
-
-
-\openout3 = `main.mw'.
-
-[35] (./main.mw)
+ [33] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'honeybone2007' on page 36 undefined on input line 225.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'wells1982' on page 36 undefined on input line 226.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'harris1985' on page 36 undefined on input line 227.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hickey1999' on page 36 undefined on input line 229.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'honeybone2007' on page 36 undefined on input line 230.
-
+ [34] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 36 undefined on input line 230.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 36 undefined on input line 233.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 36 undefined on input line 234.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 36 undefined on input line 234.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 36 undefined on input line 236.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'newbrook1999' on page 36 undefined on input line 238.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'newbrook1999' on page 36 undefined on input line 239.
+ [35] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybone2007' on page 36 undefined on input line 241.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'trudgill1999' on page 36 undefined on input line 242.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'trudgill1999' on page 36 undefined on input line 243.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'honeybonewatson2013' on page 36 undefined on input lin
-e 245.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'honeybonewatson2013' on page 36 undefined on input lin
-e 246.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 [36] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'watsonclark2013' on page 37 undefined on input line 24
-9.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'watsonclark2013' on page 37 undefined on input line 25
-1.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watsonclark2013' on page 37 undefined on input line 25
-2.
-
-
-Overfull \hbox (11.40643pt too wide) in paragraph at lines 248--253
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ([]). Listeners from St. Helens and []Li
-verpool reacted to non-standard
+Overfull \hbox (4.09555pt too wide) in paragraph at lines 248--253
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 were re-synthesised and participants wer
+e randomly assigned to one of two guises,
  []
 
 )
@@ -5919,45 +4785,24 @@ verpool reacted to non-standard
  [37] (./main.mw)
 \openout3 = `main.mw'.
 
+ [38] (./main.mw)
 \openout3 = `main.mw'.
 
- [38] (./main.mw)
 \openout2 = `chapters/salience.aux'.
 
  (./chapters/salience.tex
 chapter 4.
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'kerswillwilliams2002' on page 39 undefined on input li
-ne 16.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'racz2013' on page 39 undefined on input line 16.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'auer2014' on page 39 undefined on input line 16.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kerswillwilliams2002' on page 39 undefined on input li
-ne 23.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kerswillwilliams2002' on page 39 undefined on input li
-ne 24.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'auer2014' on page 39 undefined on input line 25.
 
 \openout3 = `main.mw'.
 
@@ -5974,44 +4819,13 @@ LaTeX Warning: Citation 'auer2014' on page 39 undefined on input line 25.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'kerswillwilliams2002' on page 40 undefined on input li
-ne 30.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'trudgill1986' on page 40 undefined on input line 30.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'trudgill1986' on page 40 undefined on input line 31.
-
-
-Overfull \hbox (34.66974pt too wide) in paragraph at lines 29--34
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 guage change) are not strictly kept apar
-t. This issue is addressed by []
- []
-
-
-Overfull \hbox (16.55301pt too wide) in paragraph at lines 29--34
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 that is illustrated very well by their c
-ritique of [] According to []
- []
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kerswillwilliams2002' on page 40 undefined on input li
-ne 44.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kerswillwilliams2002' on page 40 undefined on input li
-ne 45.
 
 
 Overfull \hbox (7.12134pt too wide) in paragraph at lines 44--46
@@ -6020,9 +4834,9 @@ ith sociolinguistic and psychological (extra-
  []
 
 
-Overfull \hbox (29.86174pt too wide) in paragraph at lines 44--46
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 bination of cognitive, social psychologi
-cal or pragmatic factors” ([]). 
+Overfull \hbox (6.77919pt too wide) in paragraph at lines 44--46
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 which will be a combination of cognitive
+, social psychological or pragmatic factors”
  []
 
 \openout3 = `main.mw'.
@@ -6030,129 +4844,56 @@ cal or pragmatic factors” ([]).
 [40] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'racz2013' on page 41 undefined on input line 51.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'auer2014' on page 41 undefined on input line 53.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'racz2013' on page 41 undefined on input line 56.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'racz2013' on page 41 undefined on input line 61.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'jaegeretal2017' on page 41 undefined on input line 63.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'jaegeretal2017' on page 41 undefined on input line 64.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'jaegeretal2017' on page 41 undefined on input line 65.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'jaegeretal2017' on page 41 undefined on input line 66.
-
-
-\openout3 = `main.mw'.
-
-[41] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'auer2014' on page 42 undefined on input line 74.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'zarconeetal2017' on page 42 undefined on input line 75
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'zarconeetal2017' on page 42 undefined on input line 76
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'auer2014' on page 42 undefined on input line 78.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'auer2014' on page 42 undefined on input line 79.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'auer2014' on page 42 undefined on input line 81.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'llamasetal2017' on page 42 undefined on input line 82.
-
-
-\openout3 = `main.mw'.
-
-[42] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'racz2013' on page 43 undefined on input line 93.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'racz2013' on page 43 undefined on input line 94.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watsonclark2013' on page 43 undefined on input line 99
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watsonclark2015' on page 43 undefined on input line 99
-.
-
-\openout3 = `main.mw'.
-
-[43] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'racz2013' on page 44 undefined on input line 104.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [41] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [42] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [43] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 
 Overfull \hbox (32.9971pt too wide) in paragraph at lines 103--108
@@ -6162,373 +4903,148 @@ udes towards a particular phonetic/phonological
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'labov1972' on page 44 undefined on input line 109.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'labov2001a' on page 44 undefined on input line 112.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'labov1972' on page 44 undefined on input line 114.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'labov1972' on page 44 undefined on input line 115.
 
 \openout3 = `main.mw'.
 
 [44] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'labov2001a' on page 45 undefined on input line 123.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [45] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [46] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [47] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [48]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [49] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [50] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [51] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'labov1972' on page 45 undefined on input line 125.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'labov1972' on page 45 undefined on input line 125.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'labov1972' on page 45 undefined on input line 130.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'labov1972' on page 45 undefined on input line 133.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'labov1994' on page 45 undefined on input line 134.
-
-
-Overfull \hbox (9.22743pt too wide) in paragraph at lines 133--136
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 markers and that heavily stigmatised var
-iants can nevertheless survive ([]),
+Overfull \hbox (8.39249pt too wide) in paragraph at lines 243--252
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 They had an essentially identical method
+ology, but used the New Zealand-Australia
  []
 
 \openout3 = `main.mw'.
 
-[45] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'silverstein2003' on page 46 undefined on input line 13
-7.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'silverstein2003' on page 46 undefined on input line 13
-7.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'johnstoneetal2006' on page 46 undefined on input line 
-137.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'johnstoneetal2006' on page 46 undefined on input line 
-139.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'johnstoneetal2006' on page 46 undefined on input line 
-140.
-
-
-Overfull \hbox (53.1132pt too wide) in paragraph at lines 137--143
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Based on the work of [] (cf., for inst
-ance, []) []
- []
-
-
-Overfull \hbox (11.27507pt too wide) in paragraph at lines 137--143
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 are not completely identical. Notable di
-fferences can, for example, be found between
- []
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'racz2013' on page 46 undefined on input line 144.
-
-\openout3 = `main.mw'.
-
-[46] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'kerswillwilliams2002' on page 47 undefined on input li
-ne 149.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'racz2013' on page 47 undefined on input line 149.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kerswillwilliams2002' on page 47 undefined on input li
-ne 152.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'juskanma' on page 47 undefined on input line 163.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 47 undefined on input line 
-164.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'medinschaffer1978' on page 47 undefined on input line 
-169.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 47 undefined on input line 
-173.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'medinschaffer1978' on page 47 undefined on input line 
-176.
-
-\openout3 = `main.mw'.
-
-[47] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'medinschaffer1978' on page 48 undefined on input line 
-186.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'medinschaffer1978' on page 48 undefined on input line 
-188.
-
-\openout3 = `main.mw'.
-
-[48] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 49 undefined on input line 
-195.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'goldinger1996' on page 49 undefined on input line 195.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'johnson1997' on page 49 undefined on input line 195.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 49 undefined on input line 
-197.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 49 undefined on input line 
-198.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'pierrehumbert2002' on page 49 undefined on input line 
-199.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 49 undefined on input line 203.
-
-\openout3 = `main.mw'.
-
-[49] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 50 undefined on input line 215.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'strandjohnson1996' on page 50 undefined on input line 
-219.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'strandjohnson1996' on page 50 undefined on input line 
-224.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'strand1999' on page 50 undefined on input line 224.
-
-\openout3 = `main.mw'.
-
-[50] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 51 undefined on input line 22
-9.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 51 undefined on input line 23
-2.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 51 undefined on input line 23
-3.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 51 undefined on input line 23
-5.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 51 undefined on input line 23
-7.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 51 undefined on input line 241.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 51 undefined on input line 243.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 51 undefined on input line 24
-3.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 51 undefined on input line 24
-4.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 51 undefined on input line 247.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 51 undefined on input line 25
-0.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 51 undefined on input line 250.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'jannedyetal2011' on page 51 undefined on input line 25
-1.
-
-
-Overfull \hbox (0.69914pt too wide) in paragraph at lines 243--252
-[][] \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 later successfully replicated []’s 
-findings. They had
- []
-
-\openout3 = `main.mw'.
-
-[51] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 52 undefined on input line 253.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 52 undefined on input line 254.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 52 undefined on input line 25
-7.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 52 undefined on input line 257.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'medinschaffer1978' on page 52 undefined on input line 
-267.
 
 \openout3 = `main.mw'.
 
@@ -6537,148 +5053,65 @@ LaTeX Warning: Citation 'medinschaffer1978' on page 52 undefined on input line
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'johnson2005' on page 53 undefined on input line 275.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'racz2013' on page 53 undefined on input line 275.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2002' on page 53 undefined on input line 
-276.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'pierrehumbert2006' on page 53 undefined on input line 
-277.
+ [53] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 53 undefined on input line 
-281.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 53 undefined on input line 
-283.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 53 undefined on input line 
-284.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[53] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 54 undefined on input line 
-288.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 54 undefined on input line 
-289.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'racz2013' on page 54 undefined on input line 290.
+ [54] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 54 undefined on input line 
-290.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 54 undefined on input line 
-291.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 54 undefined on input line 
-297.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 54 undefined on input line 
-300.
-
+ [55] (./main.mw))
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'pierrehumbert2006' on page 54 undefined on input line 
-302.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006b' on page 54 undefined on input line 303.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kendallfridland2017' on page 54 undefined on input lin
-e 303.
-
-\openout3 = `main.mw'.
-
-[54] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 55 undefined on input line 30
-8.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 55 undefined on input line 309.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 55 undefined on input line 309.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 55 undefined on input line 311.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 55 undefined on input line 312.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 55 undefined on input line 316.
-
-\openout3 = `main.mw'.
-
-[55] (./main.mw))
-\openout3 = `main.mw'.
-
- [56] (./main.mw)
+ [56]
+(./main.mw)
 \openout3 = `main.mw'.
 
 \openout2 = `chapters/production-method.aux'.
@@ -6687,23 +5120,7 @@ LaTeX Warning: Citation 'hayetal2006a' on page 55 undefined on input line 316.
 chapter 5.
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'labov1972' on page 57 undefined on input line 5.
-
-
-Overfull \hbox (0.31966pt too wide) in paragraph at lines 3--7
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 side’, as it were, and also to go beyond
- the simple binary distinction of []salient/non-
- []
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'beal2010' on page 57 undefined on input line 14.
-
-
-LaTeX Warning: Reference `app.questionnaire' on page 57 undefined on input line
- 16.
 
 \openout3 = `main.mw'.
 
@@ -6716,30 +5133,16 @@ LaTeX Warning: Reference `app.questionnaire' on page 57 undefined on input line
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Reference `app.reading' on page 58 undefined on input line 19.
-
-
-LaTeX Warning: Reference `app.list' on page 58 undefined on input line 19.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'labov1972' on page 58 undefined on input line 24.
+ [58] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[58] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'honeybone2001' on page 59 undefined on input line 46.
-
-\openout3 = `main.mw'.
-
-[59] (./main.mw)
+ [59] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -6750,7 +5153,10 @@ ine 79.
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'QGIS2016' on page 60 undefined on input line 79.
+Overfull \hbox (1.1364pt too wide) in paragraph at lines 79--80
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Figure [] — generated with the QGIS so
+ftware ([][][][]QGIS Development Team 2016[][])[][][][][]
+ []
 
 \openout3 = `main.mw'.
 
@@ -6758,8 +5164,10 @@ LaTeX Warning: Citation 'QGIS2016' on page 60 undefined on input line 79.
 \openout3 = `main.mw'.
 
 
-
-LaTeX Warning: Citation 'praat' on page 61 undefined on input line 91.
+Overfull \hbox (5.29819pt too wide) in paragraph at lines 91--98
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 where the participant’s speech was segme
+nted into chunks and transcribed. Words
+ []
 
 File: figures/TextGrid_screenshot.eps Graphic file (type eps)
 <figures/TextGrid_screenshot.eps>
@@ -6767,9 +5175,6 @@ File: figures/TextGrid_screenshot.eps Graphic file (type eps)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'sangster2001' on page 61 undefined on input line 112.
 
 \openout3 = `main.mw'.
 
@@ -6782,24 +5187,18 @@ LaTeX Warning: Citation 'sangster2001' on page 61 undefined on input line 112.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'sangster2001' on page 62 undefined on input line 117.
-
 \openout3 = `main.mw'.
 
-[62] (./main.mw)
+ [62] (./main.mw)
 File: figures/like_plosive.eps Graphic file (type eps)
  <figures/like_plosive.eps>
 File: figures/like_fricative.eps Graphic file (type eps)
- <figures/like_fricative.eps>
+
+<figures/like_fricative.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'sangster2001' on page 63 undefined on input line 154.
 
 \openout3 = `main.mw'.
 
@@ -6819,76 +5218,40 @@ Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
  -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'harrington2006' on page 65 undefined on input line 199
-.
+ [65] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[65] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'fabriciusetal2009' on page 66 undefined on input line 
-203.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'clopper2009' on page 66 undefined on input line 203.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'disner1980' on page 66 undefined on input line 203.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kendallthomas2014' on page 66 undefined on input line 
-203.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'thomas2002' on page 66 undefined on input line 203.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'clopper2009' on page 66 undefined on input line 212.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'fabriciusetal2009' on page 66 undefined on input line 
-212.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kendallthomas2014' on page 66 undefined on input line 
-212.
-
-
-Overfull \hbox (30.47227pt too wide) in paragraph at lines 210--215
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 and focus more on points [][]1[][] and [
-][]2[][] (cf. [][][]),
+Overfull \hbox (4.50342pt too wide) in paragraph at lines 201--205
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Kendall & Thomas 2009–2014[][][][]; 
+[][]Thomas 2002[][]), []nor[]-[]m[]-[]al[]-[]isa[]-[]tion[] should ideally achi
+eve
  []
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'kendallthomas2014' on page 66 undefined on input line 
-216.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'labovetal2006' on page 66 undefined on input line 220.
+[66] (./main.mw)
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 
 Overfull \hbox (11.9968pt too wide) in paragraph at lines 216--221
@@ -6898,139 +5261,50 @@ ic and speaker-intrinsic vs. speaker-extrinsic
 
 \openout3 = `main.mw'.
 
-[66] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'hindle1978' on page 67 undefined on input line 222.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'disner1980' on page 67 undefined on input line 222.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'adanketal2004' on page 67 undefined on input line 222.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'clopper2009' on page 67 undefined on input line 222.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'kendallthomas2014' on page 67 undefined on input line 
-224.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'syrdalgopal1986' on page 67 undefined on input line 22
-5.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'clopper2009' on page 67 undefined on input line 226.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'traunmueller1990' on page 67 undefined on input line 2
-26.
-
-
-Overfull \hbox (26.92262pt too wide) in paragraph at lines 222--227
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 appealing as []perceptually plausible mo
-dels of human speech processing” ([]).
- []
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'syrdalgopal1986' on page 67 undefined on input line 23
-2.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kendallthomas2014' on page 67 undefined on input line 
-232.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lobanov1971' on page 67 undefined on input line 234.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'clopper2009' on page 67 undefined on input line 235.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lobanov1971' on page 67 undefined on input line 236.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 67 undefined on input line 
-238.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'fabriciusetal2009' on page 67 undefined on input line 
-238.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'clopper2009' on page 67 undefined on input line 238.
 
 \openout3 = `main.mw'.
 
 [67] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 68 undefined on input line 
-240.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 68 undefined on input line 
-243.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 68 undefined on input line 
-245.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'fabriciusetal2009' on page 68 undefined on input line 
-252.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'kendallthomas2014' on page 68 undefined on input line 
-252.
-
-(./figures/plot.scatter.raw.tex)
+ (./figures/plot.scatter.raw.tex)
 Overfull \hbox (28.08492pt too wide) in paragraph at lines 405--259
  [][] 
  []
@@ -7050,160 +5324,68 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'langstrofdiss' on page 68 undefined on input line 280.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 68 undefined on input line 
-290.
-
 \openout3 = `main.mw'.
 
 [68] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'wattfabricius2002' on page 69 undefined on input line 
-318.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [69] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [70] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [71] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [72]
+(./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'wattfabricius2002' on page 69 undefined on input line 
-321.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 69 undefined on input line 
-322.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006b' on page 69 undefined on input line 325.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'halllew2010' on page 69 undefined on input line 325.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006b' on page 69 undefined on input line 326.
-
-\openout3 = `main.mw'.
-
-[69] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 70 undefined on input line 
-383.
-
-\openout3 = `main.mw'.
-
-[70] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 71 undefined on input line 
-405.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 71 undefined on input line 
-406.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 71 undefined on input line 
-407.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 71 undefined on input line 
-409.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 71 undefined on input line 
-410.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 71 undefined on input line 
-410.
-
-
-Overfull \hbox (1.51132pt too wide) in paragraph at lines 404--411
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 The values for our other candidate, ho
-wever, are even better. []
- []
-
-
-Overfull \hbox (6.41327pt too wide) in paragraph at lines 404--411
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 that the smaller differences we find for
- \EU1/LinLibertine_R_B.otf(0)/m/sc/10.95 nurse \EU1/LinLibertine_R_B.otf(0)/m/n
-/10.95 and \EU1/LinLibertine_R_B.otf(0)/m/sc/10.95 square \EU1/LinLibertine_R_B
-.otf(0)/m/n/10.95 in the []
+Overfull \hbox (11.01498pt too wide) in paragraph at lines 454--456
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 comparisons, and euclidean distance rati
+os. Despite the fact that the Bark-difference
  []
 
 \openout3 = `main.mw'.
 
-[71] (./main.mw)
-\openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 72 undefined on input line 
-451.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 72 undefined on input line 
-452.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 72 undefined on input line 
-454.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'wattfabricius2002' on page 72 undefined on input line 
-455.
-
-\openout3 = `main.mw'.
-
-[72] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'baayenetal1993' on page 73 undefined on input line 461
-.
-
-
-Overfull \hbox (9.03307pt too wide) in paragraph at lines 460--469
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 gathered from the interactive web-based 
-CELEX lexicon database ([]).
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
 
@@ -7212,40 +5394,18 @@ CELEX lexicon database ([]).
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'labov2006a' on page 74 undefined on input line 503.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'heuvenetal2014' on page 74 undefined on input line 508
-.
-
-
-Overfull \hbox (1.07333pt too wide) in paragraph at lines 500--510
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 therefore decided to drop happ\EU1/LinLi
-bertine_R_B.otf(0)/m/sc/10.95 y \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 tokens t
-hat occurred before another []vowel (along
- []
+ [74] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'barretal2013' on page 74 undefined on input line 520.
-
 \openout3 = `main.mw'.
 
-[74] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'barretal2013' on page 75 undefined on input line 530.
-
-\openout3 = `main.mw'.
-
-[75] (./main.mw)
+ [75] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7253,27 +5413,15 @@ LaTeX Warning: Citation 'barretal2013' on page 75 undefined on input line 530.
  [76] (./main.mw)
 \openout3 = `main.mw'.
 
- [77] (./main.mw)
+ [77]
+(./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'R' on page 78 undefined on input line 574.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'lmerTest' on page 78 undefined on input line 575.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'lme4' on page 78 undefined on input line 575.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'glmwiki' on page 78 undefined on input line 579.
 
 )
 \openout3 = `main.mw'.
@@ -7284,11 +5432,11 @@ LaTeX Warning: Citation 'glmwiki' on page 78 undefined on input line 579.
  [79] (./main.mw)
 \openout2 = `chapters/production-results-vow.aux'.
 
- (./chapters/production-results-vow.tex
+
+(./chapters/production-results-vow.tex
 \openout3 = `main.mw'.
 
-
-[80] (./main.mw)
+ [80] (./main.mw)
 
 
 
@@ -7297,10 +5445,6 @@ LaTeX Warning: Citation 'glmwiki' on page 78 undefined on input line 579.
 chapter 6.
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'harrington2006' on page 81 undefined on input line 30.
-
-
 \openout3 = `main.mw'.
 
 [81] (./main.mw)
@@ -7308,14 +5452,7 @@ LaTeX Warning: Citation 'harrington2006' on page 81 undefined on input line 30.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'ggplot2' on page 82 undefined on input line 42.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knitr' on page 82 undefined on input line 42.
 
 Requested font "[./langsci/fonts/LinLibertine_RZ_B]/OT:script=latn;language=DFL
 T;mapping=tex-text;mapping=tex-text;+liga;+pnum;+smcp;slant=0;+onum;" at 14.4pt
@@ -7330,13 +5467,13 @@ nts as described in Section [][]5.6[][] suffered
 \openout3 = `main.mw'.
 
 [82] (./main.mw)
-Overfull \hbox (5.29715pt too wide) in paragraph at lines 81--81
-[]|\EU1/LinLibertine_R_B.otf(0)/m/n/9 POSTMANNER[[]affricate]| 
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]|\EU1/LinLibertine_R_B.otf(0)/m/n/9 POSTMANNER[[]af[]-[]fric[]-
  []
 
 
-Overfull \hbox (5.57616pt too wide) in paragraph at lines 82--82
-[]|\EU1/LinLibertine_R_B.otf(0)/m/n/9 POSTMANNER[[]fricative]| 
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\EU1/LinLibertine_R_B.otf(0)/m/n/9 POSTMANNER[[]fric[]-[]at[]-
  []
 
 
@@ -7362,10 +5499,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'housestevens1956' on page 83 undefined on input line 1
-21.
 
 Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
 ;mapping=tex-text;mapping=tex-text;+liga;+pnum;slant=0.25;+smcp;slant=0;+onum;"
@@ -7482,24 +5615,18 @@ Overfull \hbox (34.78914pt too wide) in alignment at lines 390--391
 
  (./figures/box_f2w_happy_premanner-1.tikz)
 (./figures/box_f2w_happy_postmanner-1.tikz)
+\openout3 = `main.mw'.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+ [94] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[94] (./main.mw)
+ [95] (./main.mw)
 \openout3 = `main.mw'.
 
 
-
-LaTeX Warning: Citation 'lehiste1964' on page 95 undefined on input line 434.
-
-\openout3 = `main.mw'.
-
-[95] (./main.mw)
-\openout3 = `main.mw'.
-
- (./figures/scatter_happy_f2w_dur-1.tikz)
+(./figures/scatter_happy_f2w_dur-1.tikz)
 \openout3 = `main.mw'.
 
  [96] (./main.mw)
@@ -7523,6 +5650,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 \openout3 = `main.mw'.
 
  [99] (./main.mw) (./figures/box_f2w_happy_stylegender-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -7552,9 +5682,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'plyr' on page 104 undefined on input line 679.
 
 \openout3 = `main.mw'.
 
@@ -7768,8 +5895,8 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
  [130] (./main.mw)
 Overfull \hbox (5.50627pt too wide) in paragraph at lines 1422--1428
 \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 despite the fact that we are dealing wit
-h a []vowel \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 merger \EU1/LinLibertine_R_
-B.otf(0)/m/n/10.95 here. Since (near-standard)
+h a []vowel[] \EU1/LinLibertine_R_B.otf(0)/m/it/10.95 merger \EU1/LinLibertine_
+R_B.otf(0)/m/n/10.95 here. Since (near-standard)
  []
 
 
@@ -7847,10 +5974,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
  (./chapters/production-results-con.tex
 chapter 7.
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'juskanaccentrevivallipp' on page 141 undefined on inpu
-t line 4.
 
 \openout3 = `main.mw'.
 
@@ -7989,9 +6112,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \openout3 = `main.mw'.
 
 
-
-LaTeX Warning: Citation 'watson2007a' on page 160 undefined on input line 584.
-
 (./figures/box_k_agegender-1.tikz) (./figures/scatter_k_agegender-1.tikz)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -8077,23 +6197,15 @@ al issues, subjects in different age groups
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'rampton1995' on page 173 undefined on input line 59.
-
 \openout3 = `main.mw'.
 
-[173] (./main.mw)
+ [173] (./main.mw)
 \openout3 = `main.mw'.
 
 
-
-LaTeX Warning: Citation 'belchem2006b' on page 174 undefined on input line 75.
-
-
-Overfull \hbox (4.80821pt too wide) in paragraph at lines 73--77
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 the []distinctness of []Scouse, nor the 
-views expressed about so-called plastic Scousers
+Overfull \hbox (4.91768pt too wide) in paragraph at lines 73--77
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 the []dis[]-[]tinct[]-[]ness[] of []Scou
+se[], nor the views expressed about so-called plastic Scousers
  []
 
 \openout3 = `main.mw'.
@@ -8109,34 +6221,21 @@ views expressed about so-called plastic Scousers
  [176] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'knowles1973' on page 177 undefined on input line 149.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'knowles1973' on page 177 undefined on input line 149.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lcc2010' on page 177 undefined on input line 150.
-
-\openout3 = `main.mw'.
-
-[177] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'knowles1973' on page 178 undefined on input line 174.
+ [177] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 
 [178] (./main.mw)
 \openout3 = `main.mw'.
@@ -8250,9 +6349,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 chapter 9.
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'flynn2010' on page 197 undefined on input line 24.
-
 \openout3 = `main.mw'.
 
 [197] (./main.mw)
@@ -8273,46 +6369,26 @@ LaTeX Warning: Citation 'flynn2010' on page 197 undefined on input line 24.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'flynn2010' on page 199 undefined on input line 53.
-
 \openout3 = `main.mw'.
 
-[199] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'newbrook1999' on page 200 undefined on input line 77.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'newbrook1999' on page 200 undefined on input line 80.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'newbrook1999' on page 200 undefined on input line 82.
-
-\openout3 = `main.mw'.
-
-[200] (./main.mw)
+ [199] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'labov2006a' on page 201 undefined on input line 89.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'labov1994' on page 201 undefined on input line 90.
+ [200] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 
 [201] (./main.mw)
 \openout3 = `main.mw'.
@@ -8327,8 +6403,8 @@ Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
  -> ./langsci/fonts/LinLibertine_R_B.otf
 
 Overfull \hbox (2.84358pt too wide) in paragraph at lines 114--118
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Plots of mean []vowel realisations als
-o unearthed interesting differences between
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Plots of mean []vowel[] realisations a
+lso unearthed interesting differences between
  []
 
 \openout3 = `main.mw'.
@@ -8344,18 +6420,15 @@ o unearthed interesting differences between
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'labov2001a' on page 205 undefined on input line 169.
-
 \openout3 = `main.mw'.
 
-[205] (./main.mw)
+ [205] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [206] (./main.mw)
+
+[206] (./main.mw)
 \openout3 = `main.mw'.
 
  [207] (./main.mw)
@@ -8370,21 +6443,13 @@ LaTeX Warning: Citation 'labov2001a' on page 205 undefined on input line 169.
 
 \openout3 = `main.mw'.
 
-
-[209] (./main.mw)
+ [209] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'knowles1973' on page 210 undefined on input line 278.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'newbrook1999' on page 210 undefined on input line 280.
-
-
 \openout3 = `main.mw'.
+
 
 [210] (./main.mw)
 \openout3 = `main.mw'.
@@ -8421,9 +6486,9 @@ LaTeX Warning: Citation 'newbrook1999' on page 210 undefined on input line 280.
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (2.92754pt too wide) in paragraph at lines 420--423
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 middle-aged speakers (sub-[]conscious) a
-wareness is lower than in the young group
+Overfull \hbox (2.92752pt too wide) in paragraph at lines 420--423
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 middle-aged speakers (sub-[]con[]-[]scio
+us[]) awareness is lower than in the young group
  []
 
 \openout3 = `main.mw'.
@@ -8433,43 +6498,22 @@ wareness is lower than in the young group
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'delyon1981' on page 218 undefined on input line 434.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'delyon1981' on page 218 undefined on input line 435.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'delyon1981' on page 218 undefined on input line 435.
-
-\openout3 = `main.mw'.
-
-[218] (./main.mw)
+ [218] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
-
-LaTeX Warning: Citation 'foulkesdocherty1999a' on page 219 undefined on input l
-ine 448.
-
-
-Overfull \hbox (1.95667pt too wide) in paragraph at lines 445--450
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 use (highly) []salient markers and stere
-otypes (\EU1/LinLibertine_R_B.otf(0)/m/sc/10.95 nurse \EU1/LinLibertine_R_B.otf
-(0)/m/n/10.95 and /k/ []lenition in my sample)
- []
-
-
-Overfull \hbox (8.88249pt too wide) in paragraph at lines 445--450
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 “disloyalty to local norms” or, in parti
-cular, “‘snobishness’” ([]).
+Overfull \hbox (1.95663pt too wide) in paragraph at lines 445--450
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 use (highly) []sa[]-[]li[]-[]ent[] marke
+rs and stereotypes (\EU1/LinLibertine_R_B.otf(0)/m/sc/10.95 nurse \EU1/LinLiber
+tine_R_B.otf(0)/m/n/10.95 and /k/ []len[]-[]i[]-[]tion[] in my sample)
  []
 
 )
@@ -8485,42 +6529,11 @@ cular, “‘snobishness’” ([]).
 chapter 10.
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 221 undefined on input line 12.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'niedzielski1999' on page 221 undefined on input line 1
-2.
-
-
-LaTeX Warning: Reference `app.list' on page 221 undefined on input line 13.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 221 undefined on input line 15.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 221 undefined on input line 16.
-
-
-Overfull \hbox (25.13509pt too wide) in paragraph at lines 12--18
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 To ensure comparability, stimuli were de
-signed in a way similar to that of []
- []
-
-
-Overfull \hbox (5.46974pt too wide) in paragraph at lines 12--18
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 finally and once sentence-medially. This
- way it was possible to investigate whether
- []
-
-
-LaTeX Warning: Reference `app.stimuli' on page 221 undefined on input line 23.
 
 \openout3 = `main.mw'.
 
@@ -8537,16 +6550,7 @@ LaTeX Warning: Reference `app.stimuli' on page 221 undefined on input line 23.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'heuvenetal2014' on page 222 undefined on input line 35
-.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'heuvenetal2014' on page 222 undefined on input line 36
-.
 
 Requested font "[LinLibertine_R.otf]/OT:script=latn;language=DFLT;mapping=tex-t
 ext;+tnum;+lnum;" at 10.95pt
@@ -8566,28 +6570,11 @@ ext;+tnum;+lnum;" at 6.6021pt
 tine_R.otf
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'heuvenetal2014' on page 222 undefined on input line 43
-.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'heuvenetal2014' on page 222 undefined on input line 75
-.
-
-
-Overfull \hbox (0.55777pt too wide) in paragraph at lines 74--81
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 middle and low frequency ranges for ever
-y variable investigated: []
- []
-
+ [222] (./main.mw)
 \openout3 = `main.mw'.
 
-[222] (./main.mw)
 \openout3 = `main.mw'.
 
  [223] (./main.mw)
@@ -8603,60 +6590,27 @@ Requested font "[LinLibertine_R.otf]/OT:script=latn;language=DFLT;mapping=tex-t
 ext;+tnum;+lnum;" at 5.0pt
  -> /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/libertine/LinLiber
 tine_R.otf
-
-
-LaTeX Warning: Reference `sec.perc_res.disc.issues' on page 224 undefined on in
-put line 84.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 224 undefined on input line 88.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'niedzielski1999' on page 224 undefined on input line 8
-8.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'niedzielski1999' on page 224 undefined on input line 9
-5.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 224 undefined on input line 95.
-
+ [224] (./main.mw)
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'niedzielski1999' on page 224 undefined on input line 1
-00.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 224 undefined on input line 1
-00.
-
-\openout3 = `main.mw'.
-
-[224] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'styler2008' on page 225 undefined on input line 106.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'praat' on page 225 undefined on input line 108.
 
 File: ./figures/fur_spectrogram.png Graphic file (type QTm)
+
 <use  "./figures/fur_spectrogram.png" >
 Requested font "[./langsci/fonts/LinLibertine_RI_B]/OT:script=latn;language=DFL
 T;mapping=tex-text;mapping=tex-text;+liga;+pnum;" at 10.0pt
@@ -8683,80 +6637,43 @@ File: ./figures/chicken_spectrogram.eps Graphic file (type eps)
 [227] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'sosci' on page 228 undefined on input line 215.
-
 \openout3 = `main.mw'.
 
-[228] (./main.mw)
+ [228] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 File: ./figures/questionnaire_screenshot.jpg Graphic file (type QTm)
- <use  "./figures/questionnaire_screenshot.jpg" >
+
+<use  "./figures/questionnaire_screenshot.jpg" >
 \openout3 = `main.mw'.
 
- [229]
-(./main.mw)
+ [229] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 230 undefined on input line 294
-.
 
 Requested font "[./langsci/fonts/LinLibertine_RI_B]/OT:script=latn;language=DFL
 T;mapping=tex-text;mapping=tex-text;+liga;+pnum;+lnum;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_RI_B.otf
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 230 undefined on input line 294
-.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'sosci' on page 230 undefined on input line 308.
+ [230]
+(./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[230] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'sosci' on page 231 undefined on input line 312.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'niedzielski1999' on page 231 undefined on input line 3
-22.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006b' on page 231 undefined on input line 322.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 231 undefined on input line 322
-.
-
-
-Overfull \hbox (6.41869pt too wide) in paragraph at lines 318--328
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 with previous research. Neither [] nor [
-]; []
- []
-
-\openout3 = `main.mw'.
-
-[231] (./main.mw)
+ [231] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -8766,15 +6683,7 @@ Overfull \hbox (6.41869pt too wide) in paragraph at lines 318--328
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'montgomery2007' on page 233 undefined on input line 35
-3.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'nomis' on page 233 undefined on input line 358.
 
 
 Overfull \hbox (1.05598pt too wide) in paragraph at lines 362--363
@@ -8790,33 +6699,17 @@ File: ./figures/participant_map.jpg Graphic file (type QTm)
  <use  "./figures/participant_map.jpg" >
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'niedzielski1999' on page 234 undefined on input line 3
-93.
+ [234] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[234] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 235 undefined on input line 418.
-
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 235 undefined on input line 418
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'Rordinal' on page 235 undefined on input line 419.
-
-\openout3 = `main.mw'.
 
 [235] (./main.mw)
 \openout3 = `main.mw'.
@@ -8831,14 +6724,13 @@ LaTeX Warning: Citation 'Rordinal' on page 235 undefined on input line 419.
 chapter 11.
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'niedzielski1999' on page 237 undefined on input line 4
-.
-
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'hayetal2006a' on page 237 undefined on input line 4.
+Overfull \hbox (2.3207pt too wide) in paragraph at lines 4--11
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 equivalent of the oppositions Michigan-O
+ntario in [][][][]Niedzielski 1999[][], and Australia-
+ []
 
 \openout3 = `main.mw'.
 
@@ -8898,18 +6790,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  (./figures/scatter_happy_ext_age-1.tikz)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'flynn2010' on page 244 undefined on input line 182.
-
 \openout3 = `main.mw'.
 
-[244] (./main.mw)
+ [244] (./main.mw)
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (5.90244pt too wide) in paragraph at lines 208--208
-[]|\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liverpool]| 
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+[]|\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
  []
 
 
@@ -8921,9 +6809,6 @@ Overfull \hbox (45.92467pt too wide) in paragraph at lines 211--211
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'juskanma' on page 245 undefined on input line 222.
 
 \openout3 = `main.mw'.
 
@@ -8966,13 +6851,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [249] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'juskanma' on page 250 undefined on input line 323.
-
 \openout3 = `main.mw'.
 
-[250] (./main.mw)
+ [250] (./main.mw)
 \openout3 = `main.mw'.
 
  [251] (./main.mw)
@@ -8981,8 +6862,8 @@ LaTeX Warning: Citation 'juskanma' on page 250 undefined on input line 323.
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (5.90244pt too wide) in paragraph at lines 361--361
-[]|\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liverpool]| 
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[]|\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
  []
 
 
@@ -8996,48 +6877,41 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 252 undefined on input line 395.
-
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 252 undefined on input line 395
-.
 
 \openout3 = `main.mw'.
 
 [252] (./main.mw)
 \openout3 = `main.mw'.
 
+ [253] (./main.mw)
 \openout3 = `main.mw'.
 
- [253] (./main.mw) (./figures/bar_ng_ext_intervoc-1.tikz)
+ (./figures/bar_ng_ext_intervoc-1.tikz)
 (./figures/bar_ng_ext_wordfinal-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 \openout3 = `main.mw'.
 
- [254] (./main.mw)
+[254] (./main.mw)
 \openout3 = `main.mw'.
 
-
-(./figures/scatter_ng_ext_age-1.tikz)
+ (./figures/scatter_ng_ext_age-1.tikz)
 (./figures/histogram_perception_age-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 \openout3 = `main.mw'.
 
- [255] (./main.mw)
+[255] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
  [256] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (5.90244pt too wide) in paragraph at lines 494--494
-[]|\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liverpool]| 
+Underfull \hbox (badness 10000) in paragraph at lines 494--494
+[]|\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
  []
 
 
@@ -9050,10 +6924,14 @@ Overfull \hbox (26.35703pt too wide) in paragraph at lines 498--498
 []|\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[Liv.]:Class[mc]| 
  []
 
-(./figures/bar_k_ext-1.tikz)
 \openout3 = `main.mw'.
 
- [257] (./main.mw)
+[257] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/bar_k_ext-1.tikz)
 \openout3 = `main.mw'.
 
  [258] (./main.mw)
@@ -9065,36 +6943,35 @@ Overfull \hbox (26.35703pt too wide) in paragraph at lines 498--498
 
  [259]
 (./main.mw) (./figures/scatter_k_ext_classprime-1.tikz)
-\openout3 = `main.mw'.
 
- [260] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 261 undefined on input line 606.
-
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 261 undefined on input line 606
-.
+[260] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[261] (./main.mw)
 \openout3 = `main.mw'.
 
- (./figures/bar_k_ext_intervoc-1.tikz)
+ [261] (./main.mw) (./figures/bar_k_ext_intervoc-1.tikz)
 (./figures/bar_k_ext_wordfinal-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 \openout3 = `main.mw'.
 
- [262] (./main.mw)
+[262] (./main.mw)
 \openout3 = `main.mw'.
 
- [263] (./main.mw)
-(./figures/scatter_k_ext_dist-1.tikz)
+\openout3 = `main.mw'.
+
+ [263] (./main.mw) (./figures/scatter_k_ext_dist-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Overfull \hbox (15.43704pt too wide) in paragraph at lines 684--695
 []\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Both regression lines have a clear upw
 ard slope, indicating that a higher numbered
@@ -9105,7 +6982,11 @@ ard slope, indicating that a higher numbered
 [264] (./main.mw)
 \openout3 = `main.mw'.
 
- (./figures/scatter_k_ext_zipf-1.tikz))
+ (./figures/scatter_k_ext_zipf-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
 \openout3 = `main.mw'.
 
  [265] (./main.mw)
@@ -9113,8 +6994,7 @@ ard slope, indicating that a higher numbered
 
 \openout3 = `main.mw'.
 
-
-[266] (./main.mw)
+ [266] (./main.mw)
 \openout2 = `chapters/perception-discussion.aux'.
 
  (./chapters/perception-discussion.tex
@@ -9139,499 +7019,200 @@ chapter 12.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'preston1999' on page 269 undefined on input line 54.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielskipreston2000' on page 269 undefined on input
- line 54.
-
-\openout3 = `main.mw'.
-
-[269] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 270 undefined on input line 8
-0.
-
-
-Overfull \hbox (21.25874pt too wide) in paragraph at lines 79--84
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 episodic framework. After all, if, say, 
-some general sort of social filter ([])
- []
-
-\openout3 = `main.mw'.
-
-[270] (./main.mw)
-\openout3 = `main.mw'.
-
- [271] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 272 undefined on input line 112.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 272 undefined on input line 112
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 272 undefined on input line 114
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 272 undefined on input line 115
-.
-
-
-Overfull \hbox (36.66992pt too wide) in paragraph at lines 111--117
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 social characteristics of the \EU1/LinLi
-bertine_R_B.otf(0)/m/it/10.95 perceiver \EU1/LinLibertine_R_B.otf(0)/m/n/10.95 
-play a role in []priming. []; []
- []
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 272 undefined on input line 118
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 272 undefined on input line 120
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'drager2005' on page 272 undefined on input line 121.
-
-\openout3 = `main.mw'.
-
-[272] (./main.mw)
+ [269] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 273 undefined on input line 1
-42.
-
+ [270] (./main.mw)
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'niedzielski1999' on page 273 undefined on input line 1
-42.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 273 undefined on input line 1
-43.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 273 undefined on input line 145.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 273 undefined on input line 145
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 273 undefined on input line 1
-46.
-
-
-LaTeX Warning: Reference `sec.perc_res.disc.issues' on page 273 undefined on in
-put line 147.
-
-\openout3 = `main.mw'.
-
-[273] (./main.mw)
+[271] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'harrington2006' on page 274 undefined on input line 15
-3.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'flynn2010' on page 274 undefined on input line 156.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 274 undefined on input line 159
-.
-
-\openout3 = `main.mw'.
-
-[274] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'trudgill1999' on page 275 undefined on input line 172.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'trudgill1999' on page 275 undefined on input line 172.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
+
+ [272] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [273] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [274] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 
 [275] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 276 undefined on input line 193
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 276 undefined on input line 194
-.
-
-\openout3 = `main.mw'.
-
-[276] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 277 undefined on input line 206.
-
-
-
-Overfull \hbox (23.04085pt too wide) in paragraph at lines 205--211
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Let us now turn to independent variables
- which are non-social in nature. []
- []
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 277 undefined on input line 219
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 277 undefined on input line 220
-.
-
-\openout3 = `main.mw'.
-
-[277] (./main.mw)
+ [276] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 278 undefined on input line 225.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 278 undefined on input line 227.
-
+ [277] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 278 undefined on input line 231.
-
-
-
-LaTeX Warning: Reference `sec.perc_res.disc.direction' on page 278 undefined on
- input line 237.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[278] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 279 undefined on input line 242.
-
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 279 undefined on input line 242
-.
+ [278] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'petersensix2008' on page 279 undefined on input line 2
-43.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 279 undefined on input line 255.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 279 undefined on input line 255
-.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 279 undefined on input line 259
-.
-
-\openout3 = `main.mw'.
 
 [279] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'juskanma' on page 280 undefined on input line 263.
-
-
-LaTeX Warning: Reference `sec.perc_res.disc.direction' on page 280 undefined on
- input line 265.
-
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'knowles1973' on page 280 undefined on input line 280.
-
+ [280] (./main.mw)
 \openout3 = `main.mw'.
 
-[280] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
  [281] (./main.mw)
-
-LaTeX Warning: Reference `sec.perc_res.disc.direction' on page 282 undefined on
- input line 298.
-
 \openout3 = `main.mw'.
 
-[282] (./main.mw)
+ [282] (./main.mw)
 \openout3 = `main.mw'.
 
- [283] (./main.mw)
+
+[283] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'montgomery2007' on page 284 undefined on input line 34
-4.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'montgomery2007' on page 284 undefined on input line 34
-4.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'montgomery2007' on page 284 undefined on input line 34
-6.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'montgomery2007' on page 284 undefined on input line 34
-8.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'montgomery2007' on page 284 undefined on input line 34
-9.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'montgomery2007' on page 284 undefined on input line 34
-9.
-
-
-Overfull \hbox (14.50537pt too wide) in paragraph at lines 343--350
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 only about one participant in four drew 
-and labelled a []Manc area ([]).
- []
-
-
-Overfull \hbox (7.91887pt too wide) in paragraph at lines 343--350
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Manchester area receives only a single
- comment overall ([]). Given
- []
-
-\openout3 = `main.mw'.
-
-[284] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 285 undefined on input line 3
-61.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 285 undefined on input line 361.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006b' on page 285 undefined on input line 361.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 285 undefined on input line 361
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 285 undefined on input line 368
-.
-
-\openout3 = `main.mw'.
-
-[285] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 286 undefined on input line 373.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 286 undefined on input line 373
-.
-
-\openout3 = `main.mw'.
-
-[286] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 287 undefined on input line 398
-.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'niedzielski1999' on page 287 undefined on input line 4
-10.
+ [284] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'hayetal2006a' on page 287 undefined on input line 410.
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 287 undefined on input line 410
-.
-
-
-Overfull \hbox (1.35895pt too wide) in paragraph at lines 410--412
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 ciolinguistic study that fails to closel
-y replicate []’s, []’s,
- []
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'squires2013' on page 287 undefined on input line 413.
+ [285] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'squires2013' on page 287 undefined on input line 414.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'squires2013' on page 287 undefined on input line 415.
+ [286] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'squires2013' on page 287 undefined on input line 418.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'squires2013' on page 287 undefined on input line 419.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
+
 
 [287] (./main.mw)
 \openout3 = `main.mw'.
@@ -9642,245 +7223,114 @@ LaTeX Warning: Citation 'squires2013' on page 287 undefined on input line 419.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'squires2013' on page 288 undefined on input line 421.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 288 undefined on input line 423.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 288 undefined on input line 424.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 288 undefined on input line 425.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 288 undefined on input line 426.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 288 undefined on input line 428.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'cesario2014' on page 288 undefined on input line 431.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'cesario2014' on page 288 undefined on input line 432.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'cesario2014' on page 288 undefined on input line 434.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'cesario2014' on page 288 undefined on input line 435.
-
-\openout3 = `main.mw'.
-
-[288] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 289 undefined on input line 440.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 289 undefined on input line 440
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 289 undefined on input line 441
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 289 undefined on input line 441
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 289 undefined on input line 450
-.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 289 undefined on input line 453
-.
-
-\openout3 = `main.mw'.
-
-[289] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'herr1986' on page 290 undefined on input line 470.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 290 undefined on input line 472.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 290 undefined on input line 475.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 290 undefined on input line 478.
-
-\openout3 = `main.mw'.
-
-[290] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'herr1986' on page 291 undefined on input line 482.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'herr1986' on page 291 undefined on input line 483.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'herr1986' on page 291 undefined on input line 486.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'herr1986' on page 291 undefined on input line 488.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'herr1986' on page 291 undefined on input line 493.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [288] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [289] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [290] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 
 [291] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'foulkesdocherty1999a' on page 292 undefined on input l
-ine 500.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'foulkesdocherty1999a' on page 292 undefined on input l
-ine 501.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 292 undefined on input line 503.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 292 undefined on input line 508.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 292 undefined on input line 508
-.
-
-\openout3 = `main.mw'.
-
-[292] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'strand1999' on page 293 undefined on input line 523.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'petersensix2008' on page 293 undefined on input line 5
-24.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'halford2002' on page 293 undefined on input line 528.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 293 undefined on input line 528.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'niedzielski1999' on page 293 undefined on input line 5
-29.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 293 undefined on input line 529.
-
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'haydrager2010' on page 293 undefined on input line 529
-.
-
-\openout3 = `main.mw'.
-
-[293] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'lawrence2015' on page 294 undefined on input line 534.
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+ [292] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [293] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 )
 \openout3 = `main.mw'.
@@ -9888,12 +7338,10 @@ LaTeX Warning: Citation 'lawrence2015' on page 294 undefined on input line 534.
  [294] (./main.mw)
 \openout2 = `chapters/conclusion.aux'.
 
- (./chapters/conclusion.tex
+
+(./chapters/conclusion.tex
 chapter 13.
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'watson2007a' on page 295 undefined on input line 5.
 
 \openout3 = `main.mw'.
 
@@ -9906,24 +7354,12 @@ LaTeX Warning: Citation 'watson2007a' on page 295 undefined on input line 5.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'hayetal2006a' on page 296 undefined on input line 39.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'haydrager2010' on page 296 undefined on input line 39.
-
-
+ [296] (./main.mw)
 \openout3 = `main.mw'.
-
-[296] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'cesario2014' on page 297 undefined on input line 45.
 
 )
 \openout3 = `main.mw'.
@@ -9931,7 +7367,8 @@ LaTeX Warning: Citation 'cesario2014' on page 297 undefined on input line 45.
  [297] (./main.mw)
 \openout2 = `chapters/questionnaire.aux'.
 
- (./chapters/questionnaire.tex
+
+(./chapters/questionnaire.tex
 \openout3 = `main.mw'.
 
  [298] (./main.mw)
@@ -9975,7 +7412,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
 
 Underfull \hbox (badness 6927) in paragraph at lines 99--100
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Do you think []Liverpool has
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Do you think []Liv[]-[]er[]-[]pool[] h
+as
  []
 
 
@@ -9991,8 +7429,9 @@ Underfull \hbox (badness 5832) in paragraph at lines 107--108
 \openout3 = `main.mw'.
 
 [301] (./main.mw)
-Underfull \hbox (badness 6252) in paragraph at lines 128--129
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Liverpool and []Manchester. Is
+Underfull \hbox (badness 5548) in paragraph at lines 128--129
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Liv[]-[]er[]-[]pool[] and []Manchester
+[]. Is
  []
 
 
@@ -10004,12 +7443,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
 [302] (./main.mw)
 Underfull \hbox (badness 7907) in paragraph at lines 146--147
-\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 of []Scouse? Pleasant, likeable,
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 of []Scouse[]? Pleasant, likeable,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 147--148
-[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Do you think []Scouse has
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Do you think []Scouse[] has
  []
 
 )
@@ -10084,43 +7523,144 @@ Underfull \hbox (badness 2644) in paragraph at lines 101--102
  [310] (./main.mw)
 \openout2 = `localseealso.aux'.
 
- (./localseealso.tex)
-\openout2 = `backmatter.aux'.
+ (./localseealso.tex
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 1.
+Package marginnote Info: Margin note 325.1 is on absolute page 325
+(marginnote)              on input line 1.
+Package marginnote Info: xpos seems to be 69.27814pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1.
+Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
+;mapping=tex-text;mapping=tex-text;+liga;+pnum;" at 8.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
+;mapping=tex-text;mapping=tex-text;+liga;+pnum;" at 6.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 
- (./backmatter.tex
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 1--1
+[][]  
+ []
 
-LaTeX Warning: Empty bibliography on input line 3.
+Package marginnote Info: Margin note 325.2 is on absolute page 325
+(marginnote)              on input line 2.
+Package marginnote Info: xpos seems to be 72.01564pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2.
 
-No file main.and.
-No file main.lnd.
-No file main.snd.
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 2--2
+[][]  
+ []
+
+Package marginnote Info: Margin note 325.3 is on absolute page 325
+(marginnote)              on input line 3.
+Package marginnote Info: xpos seems to be 74.75314pt,
+(marginnote)             \marginnoterightadjust ignored on input line 3.
+
+Overfull \hbox (23.87288pt too wide) in paragraph at lines 3--3
+\EU1/LinLibertine_R_B.otf(0)/m/n/6 pages@langsciseealsosome 
+ []
+
+
+Overfull \hbox (23.87288pt too wide) in paragraph at lines 3--3
+\EU1/LinLibertine_R_B.otf(0)/m/n/6 pages@langsciseealsosome 
+ []
+
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 3--3
+[][]  
+ []
+
+Package marginnote Info: Margin note 325.4 is on absolute page 325
+(marginnote)              on input line 4.
+Package marginnote Info: xpos seems to be 77.49065pt,
+(marginnote)             \marginnoterightadjust ignored on input line 4.
+
+Overfull \hbox (23.87288pt too wide) in paragraph at lines 4--4
+\EU1/LinLibertine_R_B.otf(0)/m/n/6 pages@langsciseealsosome 
+ []
+
+
+Overfull \hbox (23.87288pt too wide) in paragraph at lines 4--4
+\EU1/LinLibertine_R_B.otf(0)/m/n/6 pages@langsciseealsosome 
+ []
+
+
+Overfull \hbox (0.69522pt too wide) in paragraph at lines 4--4
+[][]  
+ []
+
 )
 \openout3 = `main.mw'.
 
- [311
-\@writefile{sbj}{\indexentry{some term|hyperindexformat{\see {some other term}}
-}{311}}
-\@writefile{lan}{\indexentry{some language|hyperindexformat{\see {some other la
-nguage}}}{311}}
-\@writefile{sbj}{\indexentry{some term with pages@\igobble |hyperindexformat{\l
-angsciseealso{some other term also of interest}}}{311}}
-\@writefile{lan}{\indexentry{some language with pages@\igobble |hyperindexforma
-t{\langsciseealso{some other lect also of interest}}}{311}}
-\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {chapter}{Index}{311}{section*.149}}
-\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Name index}{311}{section*.150}}
-\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Language index}{311}{section*.151}}
-\@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Subject index}{311}{section*.152}}
-] (./main.mw)
+ [311] (./main.mw)
+
+
+\openout2 = `backmatter.aux'.
+
+ (./backmatter.tex
+\openout3 = `main.mw'.
+
+ [312] (./main.mw)
 
 
 
 
 
+chapter without number
+\openout3 = `main.mw'.
 
+[313] (./main.mw)
+
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [314] (./main.mw)
+\openout3 = `main.mw'.
+
+ [315] (./main.mw)
+\openout3 = `main.mw'.
+
+ [316] (./main.mw)
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Kuznetsova, Alexandra, Per Bruun Bro
+ckhoff & Rune Haubo Bojesen
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 3--3
+\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Christensen. 2015. \EU1/LinLibertine_R_B
+.otf(0)/m/it/10.95 lmerTest: Tests in Linear Mixed Effects Models\EU1/LinLibert
+ine_R_B.otf(0)/m/n/10.95 . [][]$[][][][] []
+ []
+
+\openout3 = `main.mw'.
+
+[317] (./main.mw)
+\openout3 = `main.mw'.
+
+ [318] (./main.mw)
+\openout3 = `main.mw'.
+
+ [319] (./main.mw)
+Underfull \hbox (badness 1418) in paragraph at lines 3--3
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Rácz, Péter. 2013. \EU1/LinLibertine
+_R_B.otf(0)/m/it/10.95 Salience in sociolinguistics: A quantitative approach\EU
+1/LinLibertine_R_B.otf(0)/m/n/10.95 . Ber-
+ []
+
+\openout3 = `main.mw'.
+
+[320] (./main.mw)
+\openout3 = `main.mw'.
+
+ [321] (./main.mw)
+\openout3 = `main.mw'.
+
+ [322] (./main.mw) (./main.and) (./main.lnd) (./main.snd
+\openout3 = `main.mw'.
+
+ [323] (./main.mw)
 
 
 \openout3 = `main.mw'.
@@ -10134,11 +7674,84 @@ ine {section}{Subject index}{311}{section*.152}}
 
 
 \openout3 = `main.mw'.
+
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 155--157
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 language perception, [][]51[][], [][]2
+90[][], [][]294[][],
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 179--197
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 82[][], [][]131[][], [][]154[][], []
+[]168[][], [][]172[][]–[][]180[][],
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 179--197
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 232[][]–[][]238[][], [][]238[][]$[]$
+, [][]239[][], [][]240[][],
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 210--222
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Manchester, [][]7[][], [][]10[][], [][
+]11[][], [][]13[][], [][]17[][], [][]19[][],
+ []
+
+\openout3 = `main.mw'.
+
+[324] (./main.mw)
+Underfull \hbox (badness 1642) in paragraph at lines 273--279
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 phonological environment, [][]30[][], 
+[][]76[][],
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 293--303
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 prime, [][]10[][], [][]14[][], [][]16[
+][], [][]39[][], [][]51[][], [][]52[][], [][]194[][],
+ []
+
+\openout3 = `main.mw'.
+
+[325] (./main.mw)
+Underfull \hbox (badness 2205) in paragraph at lines 438--453
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 vowel, [][]iii[][], [][]26[][], [][]32
+[][]–[][]36[][], [][]50[][], [][]51[][], [][]55[][]$[]$,
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 438--453
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 63[][], [][]65[][]–[][]71[][], [][]7
+3[][], [][]74[][], [][]78[][], [][]82[][],
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 470--474
+[]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 Zipf, [][]74[][], [][]86[][], [][]222[
+][], [][]223[][], [][]236[][], [][]238[][],
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 470--474
+[][]\EU1/LinLibertine_R_B.otf(0)/m/n/10.95 238[][]$[]$, [][]243[][]–[][]245[][]
+, [][]251[][], [][]252[][]$[]$,
+ []
+
+\openout3 = `main.mw'.
+
+[326] (./main.mw)))
+\openout3 = `main.mw'.
+
+ [327] (./main.mw)
 
 
 \openout2 = `./langsci/graphics/langsci-advertisement.aux'.
 
- (./langsci/graphics/langsci-advertisement.tex
+
+(./langsci/graphics/langsci-advertisement.tex
 \pgf@layerbox@lspadvert_bg=\box133
 \pgf@layerboxsaved@lspadvert_bg=\box134
 Requested font "[./langsci/fonts/LinLibertine_R_B]/OT:script=latn;language=DFLT
@@ -10262,12 +7875,12 @@ Requested font "msbm10" at 8.5pt
 )
 \openout3 = `main.mw'.
 
- [312] (./main.mw)
+ [328] (./main.mw)
 
 \openout3 = `main.mw'.
 
 
-[313] (./main.mw)
+[329] (./main.mw)
 
 .................................................
 . fontspec info: "set-scale"
@@ -10286,7 +7899,7 @@ Overfull \hbox (16.14459pt too wide) in paragraph at lines 95--95
 
 \openout3 = `main.mw'.
 
-[314] (./main.mw)
+[330] (./main.mw)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
  (./main.aux
@@ -10317,6 +7930,48 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 )
 (./chapters/introduction.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -10914,8 +8569,592 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 )
 (./chapters/variables.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -12059,6 +10298,292 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 )
 (./chapters/production-method.aux
 \openout3 = `main.mw'.
@@ -12459,7 +10984,219 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 ) (./chapters/production-results-vow.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -13696,7 +12433,23 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 ) (./chapters/production-results-qual.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -15222,7 +13975,109 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 ) (./chapters/perception-method.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -15525,6 +14380,34 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 )
 (./chapters/perception-results.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -17446,8 +16329,300 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 )
 (./chapters/conclusion.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -17688,7 +16863,39 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 \openout3 = `main.mw'.
 
 )
-(./localseealso.aux) (./backmatter.aux)
+(./localseealso.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+) (./backmatter.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+)
 (./langsci/graphics/langsci-advertisement.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 95.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 95.
@@ -17698,11 +16905,6 @@ LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
 
 \openout3 = `main.mw'.
 
@@ -17724,12 +16926,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  )
 (\end occurred when \ifx on line 40 was incomplete) 
 Here is how much of TeX's memory you used:
- 68036 strings out of 493589
- 1320979 string characters out of 6143513
- 4242686 words of memory out of 5000000
- 69253 multiletter control sequences out of 15000+600000
- 17785 words of font info for 190 fonts, out of 8000000 for 9000
+ 69351 strings out of 493589
+ 1344547 string characters out of 6143513
+ 4360360 words of memory out of 5000000
+ 70491 multiletter control sequences out of 15000+600000
+ 18220 words of font info for 192 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
- 71i,14n,107p,10375b,5760s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,107p,10375b,5932s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (324 pages).
+Output written on main.pdf (344 pages).
