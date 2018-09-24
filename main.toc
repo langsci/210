@@ -18,17 +18,17 @@
 \defcounter {refsection}{0}\relax
 \contentsline {section}{\numberline {2.2}19\textsuperscript {th} century}{10}{section.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.3}20\textsuperscript {th} century}{14}{section.2.3}
+\contentsline {section}{\numberline {2.3}20\textsuperscript {th} century}{13}{section.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {2.3.1}Enregisterment and the `Scouse industry'}{14}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}Enregisterment and the `Scouse industry'}{13}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {2.3.2}Decline}{16}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {2.3.3}Regeneration}{19}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.3}Regeneration}{18}{subsection.2.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.4}21\textsuperscript {st} century --- outlook}{21}{section.2.4}
+\contentsline {section}{\numberline {2.4}21\textsuperscript {st} century --- outlook}{20}{section.2.4}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.5}Summary}{24}{section.2.5}
+\contentsline {section}{\numberline {2.5}Summary}{23}{section.2.5}
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\numberline {3}Variables}{25}{chapter.3}
 \defcounter {refsection}{0}\relax
@@ -66,7 +66,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {4.2.2}Application in (socio-)linguistics}{49}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.2.3}Frequency and salience in exemplar theory}{53}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.3}Frequency and salience in exemplar theory}{52}{subsection.4.2.3}
 \defcounter {refsection}{0}\relax
 \contentsline {section}{\numberline {4.3}Summary}{56}{section.4.3}
 \defcounter {refsection}{0}\relax
@@ -76,13 +76,13 @@
 \defcounter {refsection}{0}\relax
 \contentsline {section}{\numberline {5.2}Participants}{59}{section.5.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {5.3}Transcription}{62}{section.5.3}
+\contentsline {section}{\numberline {5.3}Transcription}{61}{section.5.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {5.4}Measuring}{62}{section.5.4}
+\contentsline {section}{\numberline {5.4}Measuring}{61}{section.5.4}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {5.4.1}Consonants}{62}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.1}Consonants}{61}{subsection.5.4.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {5.4.2}Vowels}{65}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.2}Vowels}{63}{subsection.5.4.2}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {5.4.3}Normalisation}{66}{subsection.5.4.3}
 \defcounter {refsection}{0}\relax
@@ -150,7 +150,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsubsection}{\numberline {6.2.2.4}Gender and age}{123}{subsubsection.6.2.2.4}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.2.5}Style and social class}{125}{subsubsection.6.2.2.5}
+\contentsline {subsubsection}{\numberline {6.2.2.5}Style and social class}{124}{subsubsection.6.2.2.5}
 \defcounter {refsection}{0}\relax
 \contentsline {subsubsection}{\numberline {6.2.2.6}Age and social class}{126}{subsubsection.6.2.2.6}
 \defcounter {refsection}{0}\relax
@@ -218,9 +218,9 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsubsection}{\numberline {8.2.2.1}Voice quality}{178}{subsubsection.8.2.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.2.2.2}Intonation}{179}{subsubsection.8.2.2.2}
+\contentsline {subsubsection}{\numberline {8.2.2.2}Intonation}{178}{subsubsection.8.2.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.2.3}Phonological variables}{180}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.3}Phonological variables}{179}{subsection.8.2.3}
 \defcounter {refsection}{0}\relax
 \contentsline {subsubsection}{\numberline {8.2.3.1}\textsc {nurse}-\textsc {square} merger}{180}{subsubsection.8.2.3.1}
 \defcounter {refsection}{0}\relax
@@ -352,7 +352,7 @@
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {11.4.2}Prime and social class}{258}{subsection.11.4.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.4.3}Phonological context}{262}{subsection.11.4.3}
+\contentsline {subsection}{\numberline {11.4.3}Phonological context}{261}{subsection.11.4.3}
 \defcounter {refsection}{0}\relax
 \contentsline {subsection}{\numberline {11.4.4}Geographical distance}{264}{subsection.11.4.4}
 \defcounter {refsection}{0}\relax
@@ -415,5 +415,3 @@
 \contentsline {chapter}{\nonumberline Appendix~C: Word list}{307}{appendix.C}
 \defcounter {refsection}{0}\relax
 \contentsline {chapter}{\nonumberline Appendix~D: Stimuli for perception test}{309}{appendix.D}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\nonumberline References}{313}{chapter*.153}

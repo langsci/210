@@ -22,25 +22,25 @@ for f in files:
     preamble = a[0]
     joiner = r"\begin{document}"
   lines = content.split('\n')
-  excluders = ("section","caption","chapter")
+  excluders = ("section","caption","chapter", "addplot"  )
   newlines = []
   for line in lines: 
     included = True
     for excluder in excluders: 
       if "%s{"%excluder in line:
-	included = False
-	print line
+        included = False
+        #print line
     if included:
       for lg in lgs: 
-	lg = lg.strip()
-	if lg == '':
-	  continue 
-	line = re.sub('(?<!ili{)%s(?![\w}])'%lg, '\ili{%s}'%lg, line)
+        lg = lg.strip()
+        if lg == '':
+          continue 
+        line = re.sub('(?<!ili{)%s(?![\w}])'%lg, '\ili{%s}'%lg, line)
       for term in terms:
-	term = term.strip() 
-	if term == '':
-	  continue
-	line = re.sub('(?<!isi{|...[A-Za-z])%s(?![-_\w}])'%term, '\isi{%s}'%term, line) 
+        term = term.strip() 
+        if term == '':
+          continue
+        line = re.sub('(?<!isi{|...[A-Za-z])%s(?![-_\w}])'%term, '\isi{%s}'%term, line) 
     newlines.append(line)
   content = "\n".join(newlines)  
   nlg = len(re.findall('\\ili{',content))
