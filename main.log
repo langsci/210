@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.5.26)  28 SEP 2018 16:15
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.5.26)  28 SEP 2018 17:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3085,8 +3085,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
  (./main.aux
 (./chapters/acknowledgements.aux) (./chapters/introduction.aux)
-(./chapters/salience.aux) (./chapters/production-results-qual.aux)
-(./chapters/production-discussion.aux) (./localseealso.aux) (./backmatter.aux)
+(./chapters/perception-method.aux) (./localseealso.aux) (./backmatter.aux)
 (./langsci/graphics/langsci-advertisement.aux))
 \openout1 = `main.aux'.
 
@@ -3545,10 +3544,8 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 Package tocbasic Info: character protrusion at toc deactivated on input line 48
 .
- (./main.toc
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
+ (./main.toc)
+\tf@toc=\write12
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 10.95pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
@@ -3559,15 +3556,17 @@ DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 10.95pt
 
 
 
-)
-\tf@toc=\write12
-\openout3 = `main.mw'.
-
- [2] (./main.mw)
 \openout2 = `chapters/acknowledgements.aux'.
 
 
 (./chapters/acknowledgements.tex
+\openout3 = `main.mw'.
+
+ [2] (./main.mw)
+
+
+
+
 Overfull \hbox (5.75262pt too wide) in paragraph at lines 11--14
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 Michaela Hejna, Victorina Gonzalez-Diaz, 
 Sofia Lampropoulou, Ian McEvoy, Linda
@@ -3577,9 +3576,6 @@ Sofia Lampropoulou, Ian McEvoy, Linda
 \openout3 = `main.mw'.
 
  [3] (./main.mw)
-
-
-
 \openout3 = `main.mw'.
 
  [4] (./main.mw)
@@ -3636,6 +3632,9 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 
 \openout3 = `main.mw'.
 
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -3653,9 +3652,13 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 
 \openout3 = `main.mw'.
 
+
+
+LaTeX Warning: Reference `ch.sal' on page 3 undefined on input line 58.
+
 \openout3 = `main.mw'.
 
- [3] (./main.mw)
+[3] (./main.mw)
 \openout3 = `main.mw'.
 
 
@@ -3664,6 +3667,9 @@ LaTeX Warning: Reference `ch.hist' on page 4 undefined on input line 70.
 
 
 LaTeX Warning: Reference `ch.var' on page 4 undefined on input line 71.
+
+
+LaTeX Warning: Reference `ch.sal' on page 4 undefined on input line 72.
 
 
 LaTeX Warning: Reference `ch.prod_method' on page 4 undefined on input line 75.
@@ -3677,14 +3683,17 @@ e 76.
 LaTeX Warning: Reference `prod.res.con' on page 4 undefined on input line 76.
 
 
+LaTeX Warning: Reference `prod.res.qual' on page 4 undefined on input line 76.
+
+
+LaTeX Warning: Reference `ch.prod_discussion' on page 4 undefined on input line
+ 77.
+
+
 Overfull \hbox (12.0561pt too wide) in paragraph at lines 75--79
 \TU/LinLibertine_R_B.otf(0)/m/n/10.95 automatic processing), and analysed ([]no
 r[]-[]m[]-[]al[]-[]isa[]-[]tion[], statistical modelling). Chapters
  []
-
-
-LaTeX Warning: Reference `ch.perc_method' on page 4 undefined on input line 81.
-
 
 
 LaTeX Warning: Reference `ch.perc_res' on page 4 undefined on input line 81.
@@ -3706,15 +3715,19 @@ LaTeX Warning: Reference `ch.conclusion' on page 4 undefined on input line 83.
 
 
 
+LaTeX Warning: Reference `ch.prod_discussion' on page 5 undefined on input line
+ 88.
+
+
 LaTeX Warning: Reference `ch.perc_disc' on page 5 undefined on input line 88.
 
 )
 \openout3 = `main.mw'.
 
  [5] (./main.mw)
-\openout2 = `chapters/salience.aux'.
+\openout2 = `chapters/perception-results.aux'.
 
- (./chapters/salience.tex
+ (./chapters/perception-results.tex
 \openout3 = `main.mw'.
 
  [6] (./main.mw)
@@ -3728,300 +3741,38 @@ chapter 2.
 
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
+Overfull \hbox (2.3207pt too wide) in paragraph at lines 4--11
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 equivalent of the oppositions Michigan-On
+tario in [][][][]Niedzielski 1999[][], and Australia-
+ []
 
 \openout3 = `main.mw'.
 
 [7] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `prod.res.qual' on page 8 undefined on input line 19.
 
-\openout3 = `main.mw'.
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 14.4pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
 
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `sec.perc_res.nurse' on page 8 undefined on input line
+ 29.
 
-\openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `sec.perc_res.ng' on page 8 undefined on input line 29
+.
 
 
-Overfull \hbox (7.12134pt too wide) in paragraph at lines 44--46
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 structural (language-internal) factors wi
-th sociolinguistic and psychological (extra-
- []
+LaTeX Warning: Reference `sec.perc_res.k' on page 8 undefined on input line 29.
 
-
-Overfull \hbox (6.7792pt too wide) in paragraph at lines 44--46
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 which will be a combination of cognitive,
- social psychological or pragmatic factors”
- []
-
-\openout3 = `main.mw'.
-
-[8] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [9] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [10] (./main.mw)
-
-LaTeX Warning: Reference `ch.var' on page 11 undefined on input line 87.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Reference `ch.var' on page 11 undefined on input line 96.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-[11] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (33.16136pt too wide) in paragraph at lines 103--108
-[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Unfortunately, uncovering social attitu
-des towards a particular phonetic-phonological
- []
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-[12] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [13] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [14] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [15] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [16]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [17] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [18] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [19] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (8.39247pt too wide) in paragraph at lines 243--252
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 They had an essentially identical methodo
-logy, but used the New Zealand-Australia
- []
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-[20] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [21] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
 
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
@@ -4116,37 +3867,37 @@ Requested font "cmmi9" at 9.0pt
 Requested font "cmmi6" at 6.0pt
  -> c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 303.
+(Font)              scaled to size 9.00014pt on input line 29.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =0;" at 9.00014pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 303.
+(Font)              scaled to size 6.00009pt on input line 29.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 6.00009pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 303.
+(Font)              scaled to size 5.00008pt on input line 29.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 5.00008pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 303.
+(Font)              scaled to size 8.99986pt on input line 29.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =0;" at 8.99986pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 303.
+(Font)              scaled to size 5.99991pt on input line 29.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 5.99991pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 303.
+(Font)              scaled to size 4.99992pt on input line 29.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 4.99992pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
@@ -4166,182 +3917,591 @@ Requested font "msbm5" at 5.0pt
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 6.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [22] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [23] (./main.mw))
-\openout3 = `main.mw'.
-
- [24]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout2 = `chapters/production-results-qual.aux'.
-
- (./chapters/production-results-qual.tex
-chapter 3.
-
-LaTeX Warning: Reference `ch.prod_results_vow' on page 25 undefined on input li
-ne 8.
-
-
-LaTeX Warning: Reference `prod.res.con' on page 25 undefined on input line 8.
-
-
-LaTeX Warning: Reference `sec.prod_method.participants' on page 25 undefined on
- input line 8.
-
-
-LaTeX Warning: Reference `sec.prod_method.interview' on page 25 undefined on in
-put line 9.
-
-\openout3 = `main.mw'.
-
-[25] (./main.mw)
-
-
-
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (9.6554pt too wide) in paragraph at lines 42--46
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Notwithstanding these minor terminologica
-l issues, subjects in different age groups
- []
-
-\openout3 = `main.mw'.
-
-[26] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [27] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (4.91766pt too wide) in paragraph at lines 73--77
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 the []dis[]-[]tinct[]-[]ness[] of []Scous
-e[], nor the views expressed about so-called plastic Scousers
- []
-
-\openout3 = `main.mw'.
-
-[28] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [29] (./main.mw)
-\openout3 = `main.mw'.
-
- [30] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [31] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [32]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (3.64752pt too wide) in paragraph at lines 176--183
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 other aspect, namely that of supposedly “
-high pitch as well sometimes” (07FMC23)
- []
-
-
-LaTeX Warning: Reference `ch.prod_results_vow' on page 33 undefined on input li
-ne 191.
-
-
-LaTeX Warning: Reference `prod.res.con' on page 33 undefined on input line 191.
-
-
-\openout3 = `main.mw'.
-
-[33] (./main.mw)
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-\openout3 = `main.mw'.
-
- [34] (./main.mw)
-\openout3 = `main.mw'.
-
- (./figures/aware_nurse_vow-1.tikz)
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig.bar.happy.tot.ext' on page 8 undefined on input l
+ine 61.
+
 \openout3 = `main.mw'.
 
- [35]
-(./main.mw)
+[8] (./main.mw)
 \openout3 = `main.mw'.
 
- [36] (./main.mw)
 \openout3 = `main.mw'.
 
- (./figures/aware_k_con-1.tikz)
+ (./figures/bar_happy_ext-1.tikz)
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0.25;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+ [9] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `fig.bar.happy.tot.ext.pos' on page 10 undefined on in
+put line 79.
+
+(./figures/bar_happy_ext_med-1.tikz) (./figures/bar_happy_ext_fin-1.tikz)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
 
+[10] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `fig.bar.happy.tot.ext.fin' on page 11 undefined on in
+put line 119.
+
+
+LaTeX Warning: Reference `fig.bar.happy.tot.ext.med' on page 11 undefined on in
+put line 119.
+
+(./figures/scatter_happy_ext_dist-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.dist' on page 11 undefined on i
+nput line 134.
+
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.dist' on page 11 undefined on i
+nput line 139.
+
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.dist' on page 11 undefined on i
+nput line 140.
+
+\openout3 = `main.mw'.
+
+[11] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_happy_ext_zipf-1.tikz)
+\openout3 = `main.mw'.
+
+ [12] (./main.mw)
+
+LaTeX Warning: Reference `sec.perc_res.happy' on page 13 undefined on input lin
+e 154.
+
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.zipf' on page 13 undefined on i
+nput line 156.
+
+\openout3 = `main.mw'.
+
+[13] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_happy_ext_age-1.tikz)
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.age' on page 14 undefined on in
+put line 178.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'flynn2010' on page 14 undefined on input line 182.
+
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.age' on page 14 undefined on in
+put line 183.
+
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.zipf' on page 14 undefined on i
+nput line 186.
+
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.age' on page 14 undefined on in
+put line 186.
+
+\openout3 = `main.mw'.
+
+[14] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
+ []
+
+
+Overfull \hbox (45.92467pt too wide) in paragraph at lines 211--211
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[Liv.]:Position[final]| 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'juskanma' on page 15 undefined on input line 222.
+
+
+LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 15 undefined on input 
+line 228.
+
+\openout3 = `main.mw'.
+
+[15] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/bar_nurse_ext-1.tikz)
+
+LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 16 undefined on input 
+line 248.
+
+\openout3 = `main.mw'.
+
+[16] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `fig.bar.nurse.tot.ext.pos' on page 17 undefined on in
+put line 256.
+
+(./figures/bar_nurse_ext_med-1.tikz) (./figures/bar_nurse_ext_fin-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig.bar.nurse.tot.ext.med' on page 17 undefined on in
+put line 278.
+
+
+LaTeX Warning: Reference `fig.bar.nurse.tot.ext.fin' on page 17 undefined on in
+put line 278.
+
+
+LaTeX Warning: Reference `fig.bar.happy.tot.ext.med' on page 17 undefined on in
+put line 278.
+
+
+LaTeX Warning: Reference `fig.bar.happy.tot.ext.fin' on page 17 undefined on in
+put line 278.
+
+
+LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 17 undefined on input 
+line 279.
+
+
+LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 17 undefined on input 
+line 285.
+
+\openout3 = `main.mw'.
+
+[17] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_nurse_ext_token-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 18 undefined on 
+input line 302.
+
+\openout3 = `main.mw'.
+
+[18] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/line_nurse_ext_token_grouped-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig.line.nurse.ext.token' on page 19 undefined on inp
+ut line 317.
+
+
+LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 19 undefined on 
+input line 319.
+
+
+LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 19 undefined on 
+input line 319.
+
+\openout3 = `main.mw'.
+
+[19] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'juskanma' on page 20 undefined on input line 323.
+
+
+LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 20 undefined on 
+input line 328.
+
+
+LaTeX Warning: Reference `fig.line.nurse.ext.token' on page 20 undefined on inp
+ut line 329.
+
+
+LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 20 undefined on 
+input line 330.
+
+
+LaTeX Warning: Reference `fig.line.nurse.ext.token' on page 20 undefined on inp
+ut line 330.
+
+\openout3 = `main.mw'.
+
+[20] (./main.mw)
+
+LaTeX Warning: Reference `sec.perc_res.k' on page 21 undefined on input line 35
+1.
+
+\openout3 = `main.mw'.
+
+[21] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Environment[_-
+ []
+
+
+LaTeX Warning: Reference `fig.bar.ng.tot.ext' on page 22 undefined on input lin
+e 377.
+
+(./figures/bar_ng_ext-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig.bar.ng.tot.ext' on page 22 undefined on input lin
+e 390.
+
+
+LaTeX Warning: Reference `fig.bar.happy.tot.ext' on page 22 undefined on input 
+line 390.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[22] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [23] (./main.mw)
+
+LaTeX Warning: Reference `fig.bar.ng.ext.intervoc' on page 24 undefined on inpu
+t line 405.
+
+
+LaTeX Warning: Reference `fig.bar.ng.ext.wordfinal' on page 24 undefined on inp
+ut line 405.
+
+
+LaTeX Warning: Reference `fig.bar.ng.ext.wordfinal' on page 24 undefined on inp
+ut line 409.
+
+
+LaTeX Warning: Reference `fig.bar.ng.ext.intervoc' on page 24 undefined on inpu
+t line 410.
+
+(./figures/bar_ng_ext_intervoc-1.tikz) (./figures/bar_ng_ext_wordfinal-1.tikz)
+
+LaTeX Warning: Reference `fig.bar.ng.ext.intervoc' on page 24 undefined on inpu
+t line 433.
+
+
+LaTeX Warning: Reference `fig.bar.ng.ext.wordfinal' on page 24 undefined on inp
+ut line 433.
+
+
+LaTeX Warning: Reference `fig.bar.ng.tot.ext' on page 24 undefined on input lin
+e 434.
+
+
+LaTeX Warning: Reference `fig.bar.ng.ext.intervoc' on page 24 undefined on inpu
+t line 435.
+
+\openout3 = `main.mw'.
+
+[24] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_ng_ext_age-1.tikz)
+(./figures/histogram_perception_age-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig.scatter.ng.ext.age' on page 25 undefined on input
+ line 466.
+
+
+LaTeX Warning: Reference `fig.hist.ext.age' on page 25 undefined on input line 
+474.
+
+\openout3 = `main.mw'.
+
+[25] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [26] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Environment[_-
+ []
+
+
+Overfull \hbox (26.35703pt too wide) in paragraph at lines 499--499
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[Liv.]:Class[mc]| 
+ []
+
+\openout3 = `main.mw'.
+
+[27] (./main.mw) (./figures/bar_k_ext-1.tikz)
+
+LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 28 undefined on input 
+line 531.
+
+
+LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 28 undefined on input line
+ 531.
+
+
+LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 28 undefined on input line
+ 532.
+
+
+LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 28 undefined on input line
+ 540.
+
+\openout3 = `main.mw'.
+
+[28] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/bar_k_ext_wc-1.tikz) (./figures/bar_k_ext_mc-1.tikz)
+
+LaTeX Warning: Reference `fig.bar.k.ext.wc' on page 29 undefined on input line 
+563.
+
+
+LaTeX Warning: Reference `fig.bar.k.ext.mc' on page 29 undefined on input line 
+563.
+
+
+LaTeX Warning: Reference `fig.bar.k.ext.class' on page 29 undefined on input li
+ne 565.
+
+
+Overfull \hbox (2.98227pt too wide) in paragraph at lines 563--572
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 (0.622) suggests that middle-class partic
+ipants were more likely to perceive higher-
+ []
+
+\openout3 = `main.mw'.
+
+[29] (./main.mw)
+
+LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 30 undefined on input line
+ 573.
+
+
+LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 30 undefined on input line
+ 576.
+
+(./figures/scatter_k_ext_classprime-1.tikz)
+
+LaTeX Warning: Reference `fig.scatter.k.ext.classprime' on page 30 undefined on
+ input line 588.
+
+\openout3 = `main.mw'.
+
+[30] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (4.5892pt too wide) in paragraph at lines 601--608
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 give their []so[]-[]cial[] [][][]class[])
+, any conclusions drawn about []so[]-[]cial[] [][][]class[] differences should
+ []
+
+\openout3 = `main.mw'.
+
+[31] (./main.mw)
+
+LaTeX Warning: Reference `fig.bar.k.ext.intervoc' on page 32 undefined on input
+ line 619.
+
+
+LaTeX Warning: Reference `fig.bar.k.ext.wordfinal' on page 32 undefined on inpu
+t line 619.
+
+
+LaTeX Warning: Reference `fig.bar.k.ext.intervoc' on page 32 undefined on input
+ line 620.
+
+
+LaTeX Warning: Reference `fig.bar.k.ext.wordfinal' on page 32 undefined on inpu
+t line 620.
+
+(./figures/bar_k_ext_intervoc-1.tikz) (./figures/bar_k_ext_wordfinal-1.tikz)
+
+LaTeX Warning: Reference `fig.bar.k.ext.wordfinal' on page 32 undefined on inpu
+t line 648.
+
+\openout3 = `main.mw'.
+
+[32] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `sec.prod.res.con.k.phon' on page 33 undefined on inpu
+t line 654.
+
+
+LaTeX Warning: Reference `fig.bar.k.ext.intervoc' on page 33 undefined on input
+ line 664.
+
+
+LaTeX Warning: Reference `fig.bar.k.ext.wordfinal' on page 33 undefined on inpu
+t line 664.
+
+\openout3 = `main.mw'.
+
+[33] (./main.mw)
+
+LaTeX Warning: Reference `fig.scatter.k.ext.dist' on page 34 undefined on input
+ line 673.
+
+(./figures/scatter_k_ext_dist-1.tikz)
+
+LaTeX Warning: Reference `fig.scatter.k.ext.dist' on page 34 undefined on input
+ line 689.
+
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.dist' on page 34 undefined on i
+nput line 689.
+
+
+Overfull \hbox (17.31313pt too wide) in paragraph at lines 685--696
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Both regression lines have a clear upwa
+rd slope, indicating that a higher-numbered
+ []
+
+\openout3 = `main.mw'.
+
+[34] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_k_ext_zipf-1.tikz)
+
+LaTeX Warning: Reference `fig.scatter.k.ext.zipf' on page 35 undefined on input
+ line 709.
+
+
+LaTeX Warning: Reference `fig.scatter.happy.ext.zipf' on page 35 undefined on i
+nput line 712.
+
+)
+\openout3 = `main.mw'.
+
+ [35] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [36] (./main.mw)
+\openout2 = `chapters/perception-discussion.aux'.
+
+ (./chapters/perception-discussion.tex
+chapter 3.
+\openout3 = `main.mw'.
+
 [37] (./main.mw)
+
+
+
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
  [38] (./main.mw)
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `sec.prod.res.con.k.agegender' on page 39 undefined on
- input line 310.
+
+
+LaTeX Warning: Reference `sec.prod_method.con' on page 39 undefined on input li
+ne 52.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'preston1999' on page 39 undefined on input line 54.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'niedzielskipreston2000' on page 39 undefined on input 
+line 54.
+
+
+LaTeX Warning: Reference `sec.sal.exemplar.freq' on page 39 undefined on input 
+line 61.
+
+
+LaTeX Warning: Reference `sec.sal.sal.circle' on page 39 undefined on input lin
+e 67.
+
+
+LaTeX Warning: Reference `ch.sal' on page 39 undefined on input line 69.
 
 \openout3 = `main.mw'.
 
@@ -4352,40 +4512,119 @@ LaTeX Warning: Reference `sec.prod.res.con.k.agegender' on page 39 undefined on
 
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
  [40] (./main.mw)
-\openout3 = `main.mw'.
 
- [41] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [42] (./main.mw)
-\openout3 = `main.mw'.
+LaTeX Warning: Reference `prod.disc.summary' on page 41 undefined on input line
+ 102.
 
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
- [43]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [44] (./main.mw)
-\openout3 = `main.mw'.
-
- [45] (./main.mw)
+[41] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [46] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'drager2005' on page 42 undefined on input line 121.
+
+\openout3 = `main.mw'.
+
+[42] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `aware_res.phon' on page 43 undefined on input line 13
+3.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Reference `sec.perc_res.disc.issues' on page 43 undefined on inp
+ut line 147.
+
+\openout3 = `main.mw'.
+
+[43] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'harrington2006' on page 44 undefined on input line 153
+.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'flynn2010' on page 44 undefined on input line 156.
+
+
+LaTeX Warning: Reference `prod.disc.happy.age' on page 44 undefined on input li
+ne 156.
+
+\openout3 = `main.mw'.
+
+[44] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `prod.disc.ng.classification' on page 45 undefined on 
+input line 169.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[45] (./main.mw)
+
+LaTeX Warning: Reference `sec.perc_res.k' on page 46 undefined on input line 18
+7.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[46] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
  [47] (./main.mw)
@@ -4393,91 +4632,100 @@ LaTeX Warning: Reference `sec.prod.res.con.k.agegender' on page 39 undefined on
 
 \openout3 = `main.mw'.
 
-[48] (./main.mw))
 \openout3 = `main.mw'.
 
- [49] (./main.mw)
 \openout3 = `main.mw'.
 
- [50] (./main.mw)
-\openout2 = `chapters/production-discussion.aux'.
-
-
-(./chapters/production-discussion.tex
-chapter 4.
-
-LaTeX Warning: Reference `ch.prod_results_vow' on page 51 undefined on input li
-ne 4.
-
-
-LaTeX Warning: Reference `prod.res.con' on page 51 undefined on input line 4.
-
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 14.4pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
 \openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `sec.perc_res.disc.direction' on page 48 undefined on 
+input line 237.
+
+\openout3 = `main.mw'.
+
+[48] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'petersensix2008' on page 49 undefined on input line 24
+3.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[49] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'juskanma' on page 50 undefined on input line 263.
+
+
+LaTeX Warning: Reference `sec.perc_res.disc.direction' on page 50 undefined on 
+input line 265.
+
+\openout3 = `main.mw'.
+
+[50] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `sec.perc_res.ng.phon' on page 51 undefined on input l
+ine 279.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Reference `sec.var.con.ng' on page 51 undefined on input line 28
+0.
+
+
+LaTeX Warning: Reference `sec.prod.res.con.k.phon' on page 51 undefined on inpu
+t line 289.
 
 \openout3 = `main.mw'.
 
 [51] (./main.mw)
 
-
-
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `sec.prod.res.vow.happy.f1' on page 52 undefined on in
-put line 36.
-
-
-LaTeX Warning: Reference `sec.prod.res.vow.happy.f2' on page 52 undefined on in
-put line 36.
-
-
-LaTeX Warning: Reference `fig.box.f2w.happy.stylegender' on page 52 undefined o
-n input line 47.
-
-
-LaTeX Warning: Reference `fig.box.f2w.happy.stylegender' on page 52 undefined o
-n input line 47.
+LaTeX Warning: Reference `sec.perc_res.disc.direction' on page 52 undefined on 
+input line 298.
 
 \openout3 = `main.mw'.
 
 [52] (./main.mw)
-\openout3 = `main.mw'.
+
+LaTeX Warning: Reference `sec.var.con.ng' on page 53 undefined on input line 32
+6.
 
 
+LaTeX Warning: Reference `sec.var.con.len' on page 53 undefined on input line 3
+31.
 
-LaTeX Warning: Reference `fig.box.f1w.happy.genderclass' on page 53 undefined o
-n input line 52.
-
-
-LaTeX Warning: Reference `fig.box.f1w.happy.genderclass' on page 53 undefined o
-n input line 52.
-
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (7.26009pt too wide) in paragraph at lines 56--60
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 class women in particular would have more
- standard realisations than their middle-
- []
-
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0.25;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
 [53] (./main.mw)
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `tab.dur.style.happy' on page 54 undefined on input li
-ne 69.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
@@ -4487,7 +4735,13 @@ ne 69.
 
 \openout3 = `main.mw'.
 
-[54] (./main.mw)
+\openout3 = `main.mw'.
+
+ [54] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4503,124 +4757,230 @@ ne 69.
 
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-
-
-LaTeX Warning: Reference `sec.var.vow.nurse' on page 56 undefined on input line
- 115.
-
-
-Overfull \hbox (2.84358pt too wide) in paragraph at lines 114--118
-[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Plots of mean []vowel[] realisations al
-so unearthed interesting differences between
- []
-
 \openout3 = `main.mw'.
 
-[56] (./main.mw)
-\openout3 = `main.mw'.
-
- [57] (./main.mw)
-\openout3 = `main.mw'.
-
- [58] (./main.mw)
+ [56] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [59] (./main.mw)
 \openout3 = `main.mw'.
 
- [60]
-(./main.mw)
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 
 
-LaTeX Warning: Reference `sec.prod.res.vow.nurse.pil' on page 61 undefined on i
-nput line 207.
+LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 413.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 414.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 415.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 418.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 419.
+
+\openout3 = `main.mw'.
+
+[57] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'squires2013' on page 58 undefined on input line 421.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 423.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 424.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 425.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 426.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 428.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'cesario2014' on page 58 undefined on input line 431.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'cesario2014' on page 58 undefined on input line 432.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'cesario2014' on page 58 undefined on input line 434.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'cesario2014' on page 58 undefined on input line 435.
+
+\openout3 = `main.mw'.
+
+[58] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `ch.perc_res' on page 59 undefined on input line 461.
+
+
+LaTeX Warning: Reference `aware_res.eval' on page 59 undefined on input line 46
+5.
+
+\openout3 = `main.mw'.
+
+[59] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'herr1986' on page 60 undefined on input line 471.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'herr1986' on page 60 undefined on input line 473.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'herr1986' on page 60 undefined on input line 476.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'herr1986' on page 60 undefined on input line 479.
+
+\openout3 = `main.mw'.
+
+[60] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 483.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 484.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 487.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 489.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 494.
 
 \openout3 = `main.mw'.
 
 [61] (./main.mw)
 \openout3 = `main.mw'.
 
- [62] (./main.mw)
+
+
+LaTeX Warning: Citation 'foulkesdocherty1999a' on page 62 undefined on input li
+ne 501.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'foulkesdocherty1999a' on page 62 undefined on input li
+ne 502.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Citation 'herr1986' on page 62 undefined on input line 504.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
- [63] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `sec.var.con.ng' on page 64 undefined on input line 27
-8.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-[64] (./main.mw)
+[62] (./main.mw)
 \openout3 = `main.mw'.
 
 
 
-LaTeX Warning: Reference `prod.res.con.k' on page 65 undefined on input line 28
-3.
+LaTeX Warning: Citation 'strand1999' on page 63 undefined on input line 524.
 
 \openout3 = `main.mw'.
 
-[65] (./main.mw)
-\openout3 = `main.mw'.
+
+LaTeX Warning: Citation 'petersensix2008' on page 63 undefined on input line 52
+5.
 
 \openout3 = `main.mw'.
 
- [66] (./main.mw)
-\openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
+LaTeX Warning: Citation 'halford2002' on page 63 undefined on input line 529.
 
-\openout3 = `main.mw'.
-
- [67] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [68] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [69]
-(./main.mw)
-\openout3 = `main.mw'.
-
- [70] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (2.92752pt too wide) in paragraph at lines 420--423
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 middle-aged speakers (sub-[]con[]-[]sciou
-s[]) awareness is lower than in the young group
- []
-
-\openout3 = `main.mw'.
-
-[71] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4631,34 +4991,63 @@ s[]) awareness is lower than in the young group
 
 \openout3 = `main.mw'.
 
- [72] (./main.mw)
+[63] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
-Overfull \hbox (1.95662pt too wide) in paragraph at lines 445--450
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 use (highly) []sa[]-[]li[]-[]ent[] marker
-s and stereotypes (\TU/LinLibertine_R_B.otf(0)/m/sc/10.95 nurse \TU/LinLibertin
-e_R_B.otf(0)/m/n/10.95 and /k/ []len[]-[]i[]-[]tion[] in my sample)
- []
+
+LaTeX Warning: Citation 'lawrence2015' on page 64 undefined on input line 535.
 
 )
 \openout3 = `main.mw'.
 
- [73] (./main.mw)
+ [64] (./main.mw)
+\openout2 = `chapters/conclusion.aux'.
+
+ (./chapters/conclusion.tex
+chapter 4.
 \openout3 = `main.mw'.
 
- [74] (./main.mw)
+\openout3 = `main.mw'.
+
+[65] (./main.mw)
+
+
+
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `ch.sal' on page 66 undefined on input line 30.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[66] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'cesario2014' on page 67 undefined on input line 45.
+
+)
+\openout3 = `main.mw'.
+
+ [67] (./main.mw)
 \openout2 = `localseealso.aux'.
 
  (./localseealso.tex
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 1.
-Package marginnote Info: Margin note 85.1 is on absolute page 85
-(marginnote)              on input line 1.
-Package marginnote Info: xpos seems to be 69.27814pt,
-(marginnote)             \marginnoterightadjust ignored on input line 1.
+Package marginnote Info: Suggest that margin note 78.1 will be on
+(marginnote)             absolute page 78.
+(marginnote)             This may be wrong on input line 1.
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 8.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
@@ -4667,22 +5056,24 @@ DFLT;+liga;+pnum;mapping=tex-text;" at 6.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 
 Overfull \hbox (0.69522pt too wide) in paragraph at lines 1--1
-[][]  
+ [][]
  []
 
-Package marginnote Info: Margin note 85.2 is on absolute page 85
-(marginnote)              on input line 2.
-Package marginnote Info: xpos seems to be 72.01564pt,
-(marginnote)             \marginnoterightadjust ignored on input line 2.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 1.
+Package marginnote Info: Suggest that margin note 78.2 will be on
+(marginnote)             absolute page 78.
+(marginnote)             This may be wrong on input line 2.
 
 Overfull \hbox (0.69522pt too wide) in paragraph at lines 2--2
-[][]  
+ [][]
  []
 
-Package marginnote Info: Margin note 85.3 is on absolute page 85
-(marginnote)              on input line 3.
-Package marginnote Info: xpos seems to be 74.75314pt,
-(marginnote)             \marginnoterightadjust ignored on input line 3.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 2.
+Package marginnote Info: Suggest that margin note 78.3 will be on
+(marginnote)             absolute page 78.
+(marginnote)             This may be wrong on input line 3.
 
 Overfull \hbox (23.87288pt too wide) in paragraph at lines 3--3
 \TU/LinLibertine_R_B.otf(0)/m/n/6 pages@langsciseealsosome 
@@ -4695,13 +5086,14 @@ Overfull \hbox (23.87288pt too wide) in paragraph at lines 3--3
 
 
 Overfull \hbox (0.69522pt too wide) in paragraph at lines 3--3
-[][]  
+ [][]
  []
 
-Package marginnote Info: Margin note 85.4 is on absolute page 85
-(marginnote)              on input line 4.
-Package marginnote Info: xpos seems to be 77.49065pt,
-(marginnote)             \marginnoterightadjust ignored on input line 4.
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 3.
+Package marginnote Info: Suggest that margin note 78.4 will be on
+(marginnote)             absolute page 78.
+(marginnote)             This may be wrong on input line 4.
 
 Overfull \hbox (23.87288pt too wide) in paragraph at lines 4--4
 \TU/LinLibertine_R_B.otf(0)/m/n/6 pages@langsciseealsosome 
@@ -4714,64 +5106,50 @@ Overfull \hbox (23.87288pt too wide) in paragraph at lines 4--4
 
 
 Overfull \hbox (0.69522pt too wide) in paragraph at lines 4--4
-[][]  
+ [][]
  []
 
+Package marginnote Info: xpos not known,
+(marginnote)             using \marginnoteleftadjust on input line 4.
 )
 \openout3 = `main.mw'.
 
- [75] (./main.mw)
+ [68] (./main.mw)
 
 
 \openout2 = `backmatter.aux'.
 
  (./backmatter.tex
-\openout3 = `main.mw'.
-
- [76] (./main.mw)
-
-
-
-
-
 chapter without number
 \openout3 = `main.mw'.
 
-[77] (./main.mw)
+[69] (./main.mw)
+
+
+
+
 
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [78] (./main.mw)
-Underfull \hbox (badness 1418) in paragraph at lines 3--3
-[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Rácz, Péter. 2013. \TU/LinLibertine_R
-_B.otf(0)/m/it/10.95 Salience in sociolinguistics: A quantitative approach\TU/L
-inLibertine_R_B.otf(0)/m/n/10.95 . Ber-
- []
-
-\openout3 = `main.mw'.
-
-[79] (./main.mw)
-\openout3 = `main.mw'.
-
- [80] (./main.mw)
+ [70] (./main.mw)
 No file main.and.
 No file main.lnd.
 No file main.snd.
 )
 \openout3 = `main.mw'.
 
- [81
+ [71
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {chapter}{Index}{81}{section*.11}}
+ine {chapter}{Index}{71}{section*.31}}
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Name index}{81}{section*.12}}
+ine {section}{Name index}{71}{section*.32}}
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Language index}{81}{section*.13}}
+ine {section}{Language index}{71}{section*.33}}
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Subject index}{81}{section*.14}}
+ine {section}{Subject index}{71}{section*.34}}
 ] (./main.mw)
 
 
@@ -4896,12 +5274,12 @@ Requested font "msbm10" at 8.5pt
 )
 \openout3 = `main.mw'.
 
- [82] (./main.mw)
+ [72] (./main.mw)
 
 \openout3 = `main.mw'.
 
 
-[83] (./main.mw)
+[73] (./main.mw)
 
 .................................................
 . fontspec info: "set-scale"
@@ -4920,7 +5298,7 @@ Overfull \hbox (16.14459pt too wide) in paragraph at lines 95--95
 
 \openout3 = `main.mw'.
 
-[84] (./main.mw)
+[74] (./main.mw)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
  (./main.aux
@@ -5145,43 +5523,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
-) (./chapters/salience.aux
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
+) (./chapters/perception-results.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6051,7 +6393,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 \openout3 = `main.mw'.
 
 )
-(./chapters/production-results-qual.aux
+(./chapters/perception-discussion.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6812,7 +7154,6 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
-) (./chapters/production-discussion.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7323,6 +7664,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+) (./chapters/conclusion.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7447,173 +7789,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-) (./localseealso.aux
+)
+(./localseealso.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7635,6 +7812,14 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 95.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.bcf'.
@@ -7655,12 +7840,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  )
 (\end occurred when \ifx on line 40 was incomplete) 
 Here is how much of TeX's memory you used:
- 63439 strings out of 493068
- 1227917 string characters out of 6138948
- 2046691 words of memory out of 5000000
- 66099 multiletter control sequences out of 15000+600000
- 14687 words of font info for 150 fonts, out of 8000000 for 9000
+ 63437 strings out of 493068
+ 1229892 string characters out of 6138948
+ 2026040 words of memory out of 5000000
+ 66057 multiletter control sequences out of 15000+600000
+ 14606 words of font info for 147 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
  71i,14n,119p,10377b,6174s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (94 pages).
+Output written on main.pdf (84 pages).

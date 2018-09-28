@@ -38,7 +38,7 @@ Not all of these environments were equally quiet, but recording quality was at l
 	\item two digits coding the participant's age in years at recording time
 \end{enumerate}
 
-``02MWC20'', for example, is the code for interview number 2 with a male, working class subject, who was 20 years old at the time of the interview.
+``02MWC20'', for example, is the code for interview number 2 with a male, working-class subject, who was 20 years old at the time of the interview.
 These codes will occasionally be used in this study to refer to specific interviews or to attribute quotations to their sources.
 
 	\section{Participants}\label{sec.prod_method.participants}
@@ -543,11 +543,11 @@ As explained above, the reasoning behind treating subject as a random effect in 
 This crucial assumption, however, is not met in the dataset that is analysed in this chapter.
 There was no active a priori selection of participants (cf. \ref{sec.prod_method.participants}) in terms of typicality etc.
 Nonetheless, the participants that ended up in the sample \emph{are} considered to be representative of their social group.
-We look at a comparatively small number of middle and working class (female/male, old/young\ldots) speakers and analyse their speech because we believe our results \emph{can} be generalised to the group as a whole (at least to a certain extent).
+We look at a comparatively small number of middle- and working-class (female/male, old/young\ldots) speakers and analyse their speech because we believe our results \emph{can} be generalised to the group as a whole (at least to a certain extent).
 This is an essential tenet of any sociolinguistic analysis and argues against treating participant as a random effect.
 
-It is possible to calculate random effects for speaker sub-clusters, e.g. for young working class women only.
-This would eliminate the theoretical problem just outlined, as the variation between, say, young working class women and young working class men would not be filtered out, but just the differences between individuals \emph{within} the respective sub-groups.
+It is possible to calculate random effects for speaker sub-clusters, e.g. for young working-class women only.
+This would eliminate the theoretical problem just outlined, as the variation between, say, young working-class women and young working-class men would not be filtered out, but just the differences between individuals \emph{within} the respective sub-groups.
 This course of action was still rejected, because
 	\begin{inparaenum}[(a)]
 		\item for the relevant sub-groups (divided by gender and \isi{social class}) among the young and middle-aged subjects this would mean filtering out the variation between two participants only (which does not really seem worth-while), and
@@ -556,7 +556,7 @@ This course of action was still rejected, because
 
 In summary, there are both conceptual and practical problems if one is to consider speaker and/or carrier word as random effects in the production data under scrutiny here.
 The use of carrier word as a random effect seemed to be more acceptable, though, since this might, in fact, make the results somewhat more representative and comes with less severe downsides.
-A random intercept for carrier word was therefore included in all mixed effects models that will be reported on.
+A random intercept for carrier word was therefore included in all mixed-effects models that will be reported on.
 Sum coding was used for all these analyses so that main effects and interactions (instead of \emph{simple} effects and interactions) could be identified.
 For the \isi{vocalic} variables, the set of main predictors entered into the maximal model was: style, age group, gender, \isi{social class}, frequency, \isi{vowel duration}, place of articulation (preceding sound), manner of articulation (preceding sound), place of articulation (following sound), and manner of articulation (following sound).
 Style is the independent variable I am most interested in as the presence or absence of style-shifting is taken as an indicator of \isi{salience} (cf. Chapter \ref{ch.sal}).
@@ -566,7 +566,7 @@ Interactions of the phonetic-phonological factors were not considered, as these 
 
 Model structure for the two \isi{consonantal} variables velar nasal plus and /k/-\isi{lenition} was identical as far as the social predictors are concerned (both in terms of main effects and interactions).
 Frequency of the carrier word was also included, but the set of phonetic and phonological predictors had to be different.
-Firstly, \isi{vowel duration} is not applicable to consonants (plus the timing domain is already included in the dependent variable --- proportional duration of friction), so this factor was not relevant for the mixed effects regression models that were fit to the /ŋ(g)/ and /k/ measurements.
+Firstly, \isi{vowel duration} is not applicable to consonants (plus the timing domain is already included in the dependent variable --- proportional duration of friction), so this factor was not relevant for the mixed-effects regression models that were fit to the /ŋ(g)/ and /k/ measurements.
 Secondly, the \isi{phonological context} had been restricted to \isi{intervocalic} and \isi{word-final} occurrences from the start, so it was considered unnecessary to enter information in the same way as it had been done for the two \isi{vocalic} variables (i.e. `spread out' over four different independent variables).
 Instead, \isi{phonological environment} was summarised in a single predictor (``Environment'' in the spreadsheet), which was to code whether the measurement had been taken in an \isi{intervocalic} context (within a word) or at the end of a word.
 The second context was further divided with respect to whether the measurement was followed by silence (pre-pausal), or by another word, in which case the type of the first sound in the following word (\isi{vowel}, \isi{affricate}, liquid\ldots) was coded.
@@ -575,7 +575,7 @@ All statistical test were performed using the R software \parencite{R}.
 Mixed linear effects models were computed with the help of `lmerTest' \parencite{lmerTest}, an R package which builds on `lme4' \parencite{lme4}, but adds p-values calculated on the basis of F statistics, with degrees of freedom derived from Satterthwaite's approximation.
 Sum coding, instead of R's default treatment coding, was used for all regressions.
 Model selection was based on AIC scores and F-tests comparing nested models.
-Calculating a simple goodness-of-fit measure is not a straightforward task in the context of mixed effects models.
-As a rough (!) equivalent of the R\textsuperscript{2} value known from linear regression models this thesis reports the R\textsuperscript{2} of a linear model that regresses the observed values on the fitted ones from the linear mixed effects model \parencite[cf.][]{glmwiki}.
+Calculating a simple goodness-of-fit measure is not a straightforward task in the context of mixed-effects models.
+As a rough (!) equivalent of the R\textsuperscript{2} value known from linear regression models this thesis reports the R\textsuperscript{2} of a linear model that regresses the observed values on the fitted ones from the linear mixed-effects model \parencite[cf.][]{glmwiki}.
 Models were checked for \isi{collinearity} using the kappa.mer and vif.mer
 functions written by Austin Frank\footnote{code downloadable from \url{hlplab.wordpress.com/2011/02/24/diagnosing-collinearity-in-lme4/}}.
