@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.5.26)  25 SEP 2018 18:17
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.5.26)  28 SEP 2018 13:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3085,7 +3085,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
  (./main.aux
 (./chapters/acknowledgements.aux) (./chapters/introduction.aux)
-(./chapters/history.aux) (./localseealso.aux) (./backmatter.aux)
+(./chapters/variables.aux) (./localseealso.aux) (./backmatter.aux)
 (./langsci/graphics/langsci-advertisement.aux))
 \openout1 = `main.aux'.
 
@@ -3544,7 +3544,11 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 Package tocbasic Info: character protrusion at toc deactivated on input line 48
 .
- (./main.toc)
+ (./main.toc
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+)
 \tf@toc=\write12
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 10.95pt
@@ -3632,9 +3636,6 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -3663,7 +3664,7 @@ LaTeX Warning: Reference `ch.sal' on page 3 undefined on input line 58.
 
 
 
-LaTeX Warning: Reference `ch.var' on page 4 undefined on input line 71.
+LaTeX Warning: Reference `ch.hist' on page 4 undefined on input line 70.
 
 
 LaTeX Warning: Reference `ch.sal' on page 4 undefined on input line 72.
@@ -3726,9 +3727,9 @@ LaTeX Warning: Reference `ch.perc_disc' on page 5 undefined on input line 88.
 \openout3 = `main.mw'.
 
  [5] (./main.mw)
-\openout2 = `chapters/history.aux'.
+\openout2 = `chapters/variables.aux'.
 
- (./chapters/history.tex
+ (./chapters/variables.tex
 \openout3 = `main.mw'.
 
  [6] (./main.mw)
@@ -3738,11 +3739,348 @@ LaTeX Warning: Reference `ch.perc_disc' on page 5 undefined on input line 88.
 
 
 chapter 2.
-File: figures/Map-England.png Graphic file (type QTm)
-<use  "figures/Map-England.png" >
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (2.08163pt too wide) in paragraph at lines 6--12
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Whatever the precise details of its evolu
+tion, in []Liv[]-[]er[]-[]pool[] developed what Trudgill
+ []
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+LaTeX Warning: Reference `sec.hist.19' on page 7 undefined on input line 16.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[7] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `sec.qual.supra' on page 8 undefined on input line 34.
+
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[8] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (0.84338pt too wide) in paragraph at lines 52--55
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 to working class Catholics” and more freq
+uent among men than women ([][][][]Knowles
+ []
+
+\openout3 = `main.mw'.
+
+[9] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [10] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [11] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [12] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [13]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [14] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: Reference `sec.prod_method.interview' on page 15 undefined on in
+put line 173.
+
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 12.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[15] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [16] (./main.mw)
+\openout3 = `main.mw'.
+
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
@@ -3836,37 +4174,37 @@ Requested font "cmmi9" at 9.0pt
 Requested font "cmmi6" at 6.0pt
  -> c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 12.
+(Font)              scaled to size 9.00014pt on input line 208.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =0;" at 9.00014pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 12.
+(Font)              scaled to size 6.00009pt on input line 208.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 6.00009pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 12.
+(Font)              scaled to size 5.00008pt on input line 208.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 5.00008pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 12.
+(Font)              scaled to size 8.99986pt on input line 208.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =0;" at 8.99986pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 12.
+(Font)              scaled to size 5.99991pt on input line 208.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 5.99991pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 12.
+(Font)              scaled to size 4.99992pt on input line 208.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 4.99992pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
@@ -3888,344 +4226,10 @@ DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 6.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
-
-Underfull \hbox (badness 3557) in paragraph at lines 12--12
-  [][]\TU/LinLibertine_R_B.otf(1)/m/n/9 Created with [][][][]QGIS Development T
-eam (2016)[][]. Free vector and raster map data @
- []
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-[7] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [8] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (23.12755pt too wide) in paragraph at lines 48--53
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 “local manners in the town” such as “hosp
-itality, activity and sprightliness” ([][][][]Troughton
- []
-
-\openout3 = `main.mw'.
-
-[9] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;" at 
-14.4pt
- -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
-regular.otf
-Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
-=0;" at 10.0pt
- -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
-regular.otf
-Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
-=1;" at 7.0pt
- -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
-regular.otf
-Requested font "cmmi12" at 14.4pt
- -> c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 14.4002pt on input line 61.
-Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;" at 
-14.4002pt
- -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
-regular.otf
-LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 61.
-Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
-=0;" at 10.00015pt
- -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
-regular.otf
-LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 61.
-Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
-=1;" at 7.0001pt
- -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
-regular.otf
-LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 14.39977pt on input line 61.
-Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;" at 
-14.39977pt
- -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
-regular.otf
-LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 61.
-Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
-=0;" at 9.99985pt
- -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
-regular.otf
-LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 61.
-Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
-=1;" at 6.9999pt
- -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
-regular.otf
-Requested font "msam10" at 14.4pt
- -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-Requested font "msam10" at 10.0pt
- -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-Requested font "msam7" at 7.0pt
- -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-Requested font "msbm10" at 14.4pt
- -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-Requested font "msbm10" at 10.0pt
- -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-Requested font "msbm7" at 7.0pt
- -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/bx/n' will be
-(Font)              scaled to size 8.89153pt on input line 68.
-Requested font "[./langsci/fonts/Arimo-Bold_B.ttf]/OT:script=latn;language=DFLT
-;mapping=tex-text;" at 8.89153pt
- -> ./langsci/fonts/Arimo-Bold_B.ttf
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [10] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 8.75496pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
-
- [11] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [12] (./main.mw)
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;+liga;+pnum;mapping=tex-text;" at 7.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [13]
-(./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `ch.var' on page 14 undefined on input line 180.
-
-\openout3 = `main.mw'.
-
-[14] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-Package marginnote Info: Margin note 25.1 is on absolute page 25
-(marginnote)              on input line 184.
-Package marginnote Info: xpos seems to be 253.59724pt,
-(marginnote)             \marginnoterightadjust ignored on input line 184.
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [15] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [16] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4263,8 +4267,19 @@ Package marginnote Info: xpos seems to be 253.59724pt,
 
 \openout3 = `main.mw'.
 
- [18]
-(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [18] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4279,94 +4294,21 @@ Package marginnote Info: xpos seems to be 253.59724pt,
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (4.09555pt too wide) in paragraph at lines 248--254
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 were re-synthesised and participants were
+ randomly assigned to one of two guises,
+ []
+
+)
 \openout3 = `main.mw'.
 
  [19] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
  [20] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [21] (./main.mw)
-\openout3 = `main.mw'.
-
-
-(./figures/population.plot.tex)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [22] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (1.26038pt too wide) in paragraph at lines 342--348
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 than tourism are also growing, particular
-ly ‘knowledge-intensive’ industries such
- []
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-File: figures/benhair.jpg Graphic file (type QTm)
-<use  "figures/benhair.jpg" >
-File: figures/stubby.jpg Graphic file (type QTm)
- <use  "figures/stubby.jpg" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)
-\openout3 = `main.mw'.
-
- [23] (./main.mw)
-\openout3 = `main.mw'.
-
- [24] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout2 = `localseealso.aux'.
@@ -4374,7 +4316,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  (./localseealso.tex
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 1.
-Package marginnote Info: Margin note 35.1 is on absolute page 35
+Package marginnote Info: Margin note 31.1 is on absolute page 31
 (marginnote)              on input line 1.
 Package marginnote Info: xpos seems to be 69.27814pt,
 (marginnote)             \marginnoterightadjust ignored on input line 1.
@@ -4389,7 +4331,7 @@ Overfull \hbox (0.69522pt too wide) in paragraph at lines 1--1
 [][]  
  []
 
-Package marginnote Info: Margin note 35.2 is on absolute page 35
+Package marginnote Info: Margin note 31.2 is on absolute page 31
 (marginnote)              on input line 2.
 Package marginnote Info: xpos seems to be 72.01564pt,
 (marginnote)             \marginnoterightadjust ignored on input line 2.
@@ -4398,7 +4340,7 @@ Overfull \hbox (0.69522pt too wide) in paragraph at lines 2--2
 [][]  
  []
 
-Package marginnote Info: Margin note 35.3 is on absolute page 35
+Package marginnote Info: Margin note 31.3 is on absolute page 31
 (marginnote)              on input line 3.
 Package marginnote Info: xpos seems to be 74.75314pt,
 (marginnote)             \marginnoterightadjust ignored on input line 3.
@@ -4417,7 +4359,7 @@ Overfull \hbox (0.69522pt too wide) in paragraph at lines 3--3
 [][]  
  []
 
-Package marginnote Info: Margin note 35.4 is on absolute page 35
+Package marginnote Info: Margin note 31.4 is on absolute page 31
 (marginnote)              on input line 4.
 Package marginnote Info: xpos seems to be 77.49065pt,
 (marginnote)             \marginnoterightadjust ignored on input line 4.
@@ -4439,7 +4381,7 @@ Overfull \hbox (0.69522pt too wide) in paragraph at lines 4--4
 )
 \openout3 = `main.mw'.
 
- [25] (./main.mw)
+ [21] (./main.mw)
 
 
 \openout2 = `backmatter.aux'.
@@ -4447,7 +4389,7 @@ Overfull \hbox (0.69522pt too wide) in paragraph at lines 4--4
  (./backmatter.tex
 \openout3 = `main.mw'.
 
- [26] (./main.mw)
+ [22] (./main.mw)
 
 
 
@@ -4456,38 +4398,39 @@ Overfull \hbox (0.69522pt too wide) in paragraph at lines 4--4
 chapter without number
 \openout3 = `main.mw'.
 
-[27] (./main.mw)
+[23] (./main.mw)
 
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [28] (./main.mw)
+ [24] (./main.mw)
 \openout3 = `main.mw'.
 
- [29] (./main.mw)
+ [25] (./main.mw)
 \openout3 = `main.mw'.
 
- [30] (./main.mw)
+ [26] (./main.mw)
+
+
+
 No file main.and.
 No file main.lnd.
 No file main.snd.
 )
 \openout3 = `main.mw'.
 
- [31
+ [27
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {chapter}{Index}{31}{section*.14}}
+ine {chapter}{Index}{27}{section*.9}}
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Name index}{31}{section*.15}}
+ine {section}{Name index}{27}{section*.10}}
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Language index}{31}{section*.16}}
+ine {section}{Language index}{27}{section*.11}}
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Subject index}{31}{section*.17}}
+ine {section}{Subject index}{27}{section*.12}}
 ] (./main.mw)
-
-
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4609,12 +4552,12 @@ Requested font "msbm10" at 8.5pt
 )
 \openout3 = `main.mw'.
 
- [32] (./main.mw)
+ [28] (./main.mw)
 
 \openout3 = `main.mw'.
 
 
-[33] (./main.mw)
+[29] (./main.mw)
 
 .................................................
 . fontspec info: "set-scale"
@@ -4633,7 +4576,7 @@ Overfull \hbox (16.14459pt too wide) in paragraph at lines 95--95
 
 \openout3 = `main.mw'.
 
-[34] (./main.mw)
+[30] (./main.mw)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
  (./main.aux
@@ -4852,7 +4795,119 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
-) (./chapters/history.aux
+) (./chapters/variables.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -5617,6 +5672,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 95.
 
 LaTeX Warning: There were undefined references.
 
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.bcf'.
@@ -5637,12 +5696,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  )
 (\end occurred when \ifx on line 40 was incomplete) 
 Here is how much of TeX's memory you used:
- 63291 strings out of 493068
- 1225279 string characters out of 6138948
- 2022722 words of memory out of 5000000
- 66050 multiletter control sequences out of 15000+600000
- 16792 words of font info for 164 fonts, out of 8000000 for 9000
+ 63168 strings out of 493068
+ 1222337 string characters out of 6138948
+ 2022175 words of memory out of 5000000
+ 65965 multiletter control sequences out of 15000+600000
+ 14411 words of font info for 144 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
- 71i,14n,119p,10377b,6179s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,119p,10377b,6279s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (44 pages).
+Output written on main.pdf (40 pages).
