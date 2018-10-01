@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.5.26)  28 SEP 2018 17:27
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/W32TeX) (preloaded format=xelatex 2017.5.26)  1 OCT 2018 10:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3085,7 +3085,14 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
  (./main.aux
 (./chapters/acknowledgements.aux) (./chapters/introduction.aux)
-(./chapters/perception-method.aux) (./localseealso.aux) (./backmatter.aux)
+(./chapters/history.aux) (./chapters/variables.aux) (./chapters/salience.aux)
+(./chapters/production-method.aux) (./chapters/production-results-vow.aux)
+(./chapters/production-results-con.aux) (./chapters/production-results-qual.aux
+) (./chapters/production-discussion.aux) (./chapters/perception-method.aux)
+(./chapters/perception-results.aux) (./chapters/perception-discussion.aux)
+(./chapters/conclusion.aux) (./chapters/questionnaire.aux)
+(./chapters/reading.aux) (./chapters/list.aux) (./chapters/stimuli.aux)
+(./localseealso.aux) (./backmatter.aux)
 (./langsci/graphics/langsci-advertisement.aux))
 \openout1 = `main.aux'.
 
@@ -3544,8 +3551,10 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
  -> ./langsci/fonts/LinLibertine_RZ_B.otf
 Package tocbasic Info: character protrusion at toc deactivated on input line 48
 .
- (./main.toc)
-\tf@toc=\write12
+ (./main.toc
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 10.95pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
@@ -3556,13 +3565,27 @@ DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 10.95pt
 
 
 
+\openout3 = `main.mw'.
+
+ [2] (./main.mw)
+\openout3 = `main.mw'.
+
+
+[3] (./main.mw)
+\openout3 = `main.mw'.
+
+ [4] (./main.mw))
+\tf@toc=\write12
+\openout3 = `main.mw'.
+
+ [5] (./main.mw)
 \openout2 = `chapters/acknowledgements.aux'.
 
 
 (./chapters/acknowledgements.tex
 \openout3 = `main.mw'.
 
- [2] (./main.mw)
+ [6] (./main.mw)
 
 
 
@@ -3575,10 +3598,10 @@ Sofia Lampropoulou, Ian McEvoy, Linda
 )
 \openout3 = `main.mw'.
 
- [3] (./main.mw)
+ [7] (./main.mw)
 \openout3 = `main.mw'.
 
- [4] (./main.mw)
+ [8] (./main.mw)
 
 
 
@@ -3632,9 +3655,6 @@ Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
 
 \openout3 = `main.mw'.
 
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -3652,82 +3672,33 @@ DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Reference `ch.sal' on page 3 undefined on input line 58.
-
 \openout3 = `main.mw'.
 
-[3] (./main.mw)
+ [3] (./main.mw)
 \openout3 = `main.mw'.
 
 
-
-LaTeX Warning: Reference `ch.hist' on page 4 undefined on input line 70.
-
-
-LaTeX Warning: Reference `ch.var' on page 4 undefined on input line 71.
-
-
-LaTeX Warning: Reference `ch.sal' on page 4 undefined on input line 72.
-
-
-LaTeX Warning: Reference `ch.prod_method' on page 4 undefined on input line 75.
-
-
-
-LaTeX Warning: Reference `ch.prod_results_vow' on page 4 undefined on input lin
-e 76.
-
-
-LaTeX Warning: Reference `prod.res.con' on page 4 undefined on input line 76.
-
-
-LaTeX Warning: Reference `prod.res.qual' on page 4 undefined on input line 76.
-
-
-LaTeX Warning: Reference `ch.prod_discussion' on page 4 undefined on input line
- 77.
-
-
-Overfull \hbox (12.0561pt too wide) in paragraph at lines 75--79
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 automatic processing), and analysed ([]no
-r[]-[]m[]-[]al[]-[]isa[]-[]tion[], statistical modelling). Chapters
+Overfull \hbox (21.64378pt too wide) in paragraph at lines 75--79
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 were collected (interview structure, samp
+ling), measured (parameters, semi-automatic
  []
 
-
-LaTeX Warning: Reference `ch.perc_res' on page 4 undefined on input line 81.
-
-
-LaTeX Warning: Reference `ch.perc_disc' on page 4 undefined on input line 82.
-
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Reference `ch.conclusion' on page 4 undefined on input line 83.
 
 \openout3 = `main.mw'.
 
 [4] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Reference `ch.prod_discussion' on page 5 undefined on input line
- 88.
-
-
-LaTeX Warning: Reference `ch.perc_disc' on page 5 undefined on input line 88.
-
 )
 \openout3 = `main.mw'.
 
  [5] (./main.mw)
-\openout2 = `chapters/perception-results.aux'.
+\openout2 = `chapters/history.aux'.
 
- (./chapters/perception-results.tex
+ (./chapters/history.tex
 \openout3 = `main.mw'.
 
  [6] (./main.mw)
@@ -3737,43 +3708,11 @@ LaTeX Warning: Reference `ch.perc_disc' on page 5 undefined on input line 88.
 
 
 chapter 2.
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-Overfull \hbox (2.3207pt too wide) in paragraph at lines 4--11
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 equivalent of the oppositions Michigan-On
-tario in [][][][]Niedzielski 1999[][], and Australia-
- []
-
-\openout3 = `main.mw'.
-
-[7] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `prod.res.qual' on page 8 undefined on input line 19.
-
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 14.4pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
-=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
- -> ./langsci/fonts/LinLibertine_RZ_B.otf
-
-LaTeX Warning: Reference `sec.perc_res.nurse' on page 8 undefined on input line
- 29.
-
-
-LaTeX Warning: Reference `sec.perc_res.ng' on page 8 undefined on input line 29
-.
-
-
-LaTeX Warning: Reference `sec.perc_res.k' on page 8 undefined on input line 29.
-
-
+File: figures/Map-England.png Graphic file (type QTm)
+<use  "figures/Map-England.png" >
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 9.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
@@ -3867,37 +3806,37 @@ Requested font "cmmi9" at 9.0pt
 Requested font "cmmi6" at 6.0pt
  -> c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 29.
+(Font)              scaled to size 9.00014pt on input line 12.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =0;" at 9.00014pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 29.
+(Font)              scaled to size 6.00009pt on input line 12.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 6.00009pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 29.
+(Font)              scaled to size 5.00008pt on input line 12.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 5.00008pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 29.
+(Font)              scaled to size 8.99986pt on input line 12.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =0;" at 8.99986pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 29.
+(Font)              scaled to size 5.99991pt on input line 12.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 5.99991pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
 regular.otf
 LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 29.
+(Font)              scaled to size 4.99992pt on input line 12.
 Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
 =1;" at 4.99992pt
  -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
@@ -3917,360 +3856,547 @@ Requested font "msbm5" at 5.0pt
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 6.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 12--12
+  [][]\TU/LinLibertine_R_B.otf(1)/m/n/9 Created with [][][][]QGIS Development T
+eam (2016)[][]. Free vector and raster map data @
+ []
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[7] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [8] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (23.12755pt too wide) in paragraph at lines 48--53
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 “local manners in the town” such as “hosp
+itality, activity and sprightliness” ([][][][]Troughton
+ []
+
+\openout3 = `main.mw'.
+
+[9] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;" at 
+14.4pt
+ -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
+regular.otf
+Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
+=0;" at 10.0pt
+ -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
+regular.otf
+Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
+=1;" at 7.0pt
+ -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
+regular.otf
+Requested font "cmmi12" at 14.4pt
+ -> c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
+(Font)              scaled to size 14.4002pt on input line 61.
+Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;" at 
+14.4002pt
+ -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
+regular.otf
+LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
+(Font)              scaled to size 10.00015pt on input line 61.
+Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
+=0;" at 10.00015pt
+ -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
+regular.otf
+LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(1)/m/n' will be
+(Font)              scaled to size 7.0001pt on input line 61.
+Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
+=1;" at 7.0001pt
+ -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
+regular.otf
+LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
+(Font)              scaled to size 14.39977pt on input line 61.
+Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;" at 
+14.39977pt
+ -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
+regular.otf
+LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
+(Font)              scaled to size 9.99985pt on input line 61.
+Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
+=0;" at 9.99985pt
+ -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
+regular.otf
+LaTeX Font Info:    Font shape `TU/libertinusmath-regular.otf(2)/m/n' will be
+(Font)              scaled to size 6.9999pt on input line 61.
+Requested font "[libertinusmath-regular.otf]/OT:script=math;language=DFLT;+ssty
+=1;" at 6.9999pt
+ -> c:/texlive/2016/texmf-dist/fonts/opentype/public/libertinus/libertinusmath-
+regular.otf
+Requested font "msam10" at 14.4pt
+ -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam10" at 10.0pt
+ -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 7.0pt
+ -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 14.4pt
+ -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm10" at 10.0pt
+ -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 7.0pt
+ -> c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+LaTeX Font Info:    Font shape `TU/Arimo_B.ttf(0)/bx/n' will be
+(Font)              scaled to size 8.89153pt on input line 68.
+Requested font "[./langsci/fonts/Arimo-Bold_B.ttf]/OT:script=latn;language=DFLT
+;mapping=tex-text;" at 8.89153pt
+ -> ./langsci/fonts/Arimo-Bold_B.ttf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [10] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.0pt
- -> ./langsci/fonts/LinLibertine_R_B.otf
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig.bar.happy.tot.ext' on page 8 undefined on input l
-ine 61.
-
-\openout3 = `main.mw'.
-
-[8] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- (./figures/bar_happy_ext-1.tikz)
-Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
-DFLT;slant=0.25;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
+DFLT;slant=0.25;+liga;+pnum;mapping=tex-text;" at 8.75496pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
- [9] (./main.mw)
+ [11] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `fig.bar.happy.tot.ext.pos' on page 10 undefined on in
-put line 79.
-
-(./figures/bar_happy_ext_med-1.tikz) (./figures/bar_happy_ext_fin-1.tikz)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
 
-[10] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `fig.bar.happy.tot.ext.fin' on page 11 undefined on in
-put line 119.
-
-
-LaTeX Warning: Reference `fig.bar.happy.tot.ext.med' on page 11 undefined on in
-put line 119.
-
-(./figures/scatter_happy_ext_dist-1.tikz)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig.scatter.happy.ext.dist' on page 11 undefined on i
-nput line 134.
-
-
-LaTeX Warning: Reference `fig.scatter.happy.ext.dist' on page 11 undefined on i
-nput line 139.
-
-
-LaTeX Warning: Reference `fig.scatter.happy.ext.dist' on page 11 undefined on i
-nput line 140.
 
 \openout3 = `main.mw'.
 
-[11] (./main.mw)
 \openout3 = `main.mw'.
 
- (./figures/scatter_happy_ext_zipf-1.tikz)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
  [12] (./main.mw)
-
-LaTeX Warning: Reference `sec.perc_res.happy' on page 13 undefined on input lin
-e 154.
-
-
-LaTeX Warning: Reference `fig.scatter.happy.ext.zipf' on page 13 undefined on i
-nput line 156.
-
-\openout3 = `main.mw'.
-
-[13] (./main.mw)
-\openout3 = `main.mw'.
-
- (./figures/scatter_happy_ext_age-1.tikz)
-
-LaTeX Warning: Reference `fig.scatter.happy.ext.age' on page 14 undefined on in
-put line 178.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'flynn2010' on page 14 undefined on input line 182.
-
-
-LaTeX Warning: Reference `fig.scatter.happy.ext.age' on page 14 undefined on in
-put line 183.
-
-
-LaTeX Warning: Reference `fig.scatter.happy.ext.zipf' on page 14 undefined on i
-nput line 186.
-
-
-LaTeX Warning: Reference `fig.scatter.happy.ext.age' on page 14 undefined on in
-put line 186.
-
-\openout3 = `main.mw'.
-
-[14] (./main.mw)
-\openout3 = `main.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--208
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
- []
-
-
-Overfull \hbox (45.92467pt too wide) in paragraph at lines 211--211
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[Liv.]:Position[final]| 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'juskanma' on page 15 undefined on input line 222.
-
-
-LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 15 undefined on input 
-line 228.
-
-\openout3 = `main.mw'.
-
-[15] (./main.mw)
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 7.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- (./figures/bar_nurse_ext-1.tikz)
-
-LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 16 undefined on input 
-line 248.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[16] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `fig.bar.nurse.tot.ext.pos' on page 17 undefined on in
-put line 256.
-
-(./figures/bar_nurse_ext_med-1.tikz) (./figures/bar_nurse_ext_fin-1.tikz)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig.bar.nurse.tot.ext.med' on page 17 undefined on in
-put line 278.
-
-
-LaTeX Warning: Reference `fig.bar.nurse.tot.ext.fin' on page 17 undefined on in
-put line 278.
-
-
-LaTeX Warning: Reference `fig.bar.happy.tot.ext.med' on page 17 undefined on in
-put line 278.
-
-
-LaTeX Warning: Reference `fig.bar.happy.tot.ext.fin' on page 17 undefined on in
-put line 278.
-
-
-LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 17 undefined on input 
-line 279.
-
-
-LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 17 undefined on input 
-line 285.
 
 \openout3 = `main.mw'.
 
-[17] (./main.mw)
 \openout3 = `main.mw'.
 
- (./figures/scatter_nurse_ext_token-1.tikz)
+\openout3 = `main.mw'.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 18 undefined on 
-input line 302.
+ [13]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 12.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [14] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+Package marginnote Info: Margin note 29.1 is on absolute page 29
+(marginnote)              on input line 184.
+Package marginnote Info: xpos seems to be 253.59724pt,
+(marginnote)             \marginnoterightadjust ignored on input line 184.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [15] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [16] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [17] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 [18] (./main.mw)
 \openout3 = `main.mw'.
 
- (./figures/line_nurse_ext_token_grouped-1.tikz)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [19] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [20] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [21] (./main.mw)
+\openout3 = `main.mw'.
+
+
+(./figures/population.plot.tex)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [22] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.26038pt too wide) in paragraph at lines 342--348
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 than tourism are also growing, particular
+ly ‘knowledge-intensive’ industries such
+ []
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+File: figures/benhair.jpg Graphic file (type QTm)
+<use  "figures/benhair.jpg" >
+File: figures/stubby.jpg Graphic file (type QTm)
+ <use  "figures/stubby.jpg" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-LaTeX Warning: Reference `fig.line.nurse.ext.token' on page 19 undefined on inp
-ut line 317.
-
-
-LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 19 undefined on 
-input line 319.
-
-
-LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 19 undefined on 
-input line 319.
-
-\openout3 = `main.mw'.
-
-[19] (./main.mw)
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'juskanma' on page 20 undefined on input line 323.
-
-
-LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 20 undefined on 
-input line 328.
-
-
-LaTeX Warning: Reference `fig.line.nurse.ext.token' on page 20 undefined on inp
-ut line 329.
-
-
-LaTeX Warning: Reference `fig.scatter.nurse.ext.token' on page 20 undefined on 
-input line 330.
-
-
-LaTeX Warning: Reference `fig.line.nurse.ext.token' on page 20 undefined on inp
-ut line 330.
-
-\openout3 = `main.mw'.
-
-[20] (./main.mw)
-
-LaTeX Warning: Reference `sec.perc_res.k' on page 21 undefined on input line 35
-1.
-
-\openout3 = `main.mw'.
-
-[21] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 361--361
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--363
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Environment[_-
- []
-
-
-LaTeX Warning: Reference `fig.bar.ng.tot.ext' on page 22 undefined on input lin
-e 377.
-
-(./figures/bar_ng_ext-1.tikz)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig.bar.ng.tot.ext' on page 22 undefined on input lin
-e 390.
-
-
-LaTeX Warning: Reference `fig.bar.happy.tot.ext' on page 22 undefined on input 
-line 390.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-[22] (./main.mw)
-\openout3 = `main.mw'.
-
+)
 \openout3 = `main.mw'.
 
  [23] (./main.mw)
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `fig.bar.ng.ext.intervoc' on page 24 undefined on inpu
-t line 405.
+ [24] (./main.mw)
+\openout3 = `main.mw'.
 
+\openout2 = `chapters/variables.aux'.
 
-LaTeX Warning: Reference `fig.bar.ng.ext.wordfinal' on page 24 undefined on inp
-ut line 405.
-
-
-LaTeX Warning: Reference `fig.bar.ng.ext.wordfinal' on page 24 undefined on inp
-ut line 409.
-
-
-LaTeX Warning: Reference `fig.bar.ng.ext.intervoc' on page 24 undefined on inpu
-t line 410.
-
-(./figures/bar_ng_ext_intervoc-1.tikz) (./figures/bar_ng_ext_wordfinal-1.tikz)
-
-LaTeX Warning: Reference `fig.bar.ng.ext.intervoc' on page 24 undefined on inpu
-t line 433.
-
-
-LaTeX Warning: Reference `fig.bar.ng.ext.wordfinal' on page 24 undefined on inp
-ut line 433.
-
-
-LaTeX Warning: Reference `fig.bar.ng.tot.ext' on page 24 undefined on input lin
-e 434.
-
-
-LaTeX Warning: Reference `fig.bar.ng.ext.intervoc' on page 24 undefined on inpu
-t line 435.
+ (./chapters/variables.tex
+chapter 3.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[24] (./main.mw)
 \openout3 = `main.mw'.
 
- (./figures/scatter_ng_ext_age-1.tikz)
-(./figures/histogram_perception_age-1.tikz)
+\openout3 = `main.mw'.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig.scatter.ng.ext.age' on page 25 undefined on input
- line 466.
+\openout3 = `main.mw'.
 
 
-LaTeX Warning: Reference `fig.hist.ext.age' on page 25 undefined on input line 
-474.
+Overfull \hbox (2.08163pt too wide) in paragraph at lines 6--12
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Whatever the precise details of its evolu
+tion, in []Liv[]-[]er[]-[]pool[] developed what Trudgill
+ []
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 [25] (./main.mw)
+
+
+
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4280,172 +4406,298 @@ LaTeX Warning: Reference `fig.hist.ext.age' on page 25 undefined on input line
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
- []
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--497
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Environment[_-
- []
-
-
-Overfull \hbox (26.35703pt too wide) in paragraph at lines 499--499
-[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[Liv.]:Class[mc]| 
+Overfull \hbox (0.84338pt too wide) in paragraph at lines 52--55
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 to working class Catholics” and more freq
+uent among men than women ([][][][]Knowles
  []
 
 \openout3 = `main.mw'.
 
-[27] (./main.mw) (./figures/bar_k_ext-1.tikz)
-
-LaTeX Warning: Reference `fig.bar.nurse.tot.ext' on page 28 undefined on input 
-line 531.
-
-
-LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 28 undefined on input line
- 531.
-
-
-LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 28 undefined on input line
- 532.
-
-
-LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 28 undefined on input line
- 540.
+[27] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[28] (./main.mw)
 \openout3 = `main.mw'.
 
- (./figures/bar_k_ext_wc-1.tikz) (./figures/bar_k_ext_mc-1.tikz)
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `fig.bar.k.ext.wc' on page 29 undefined on input line 
-563.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [28] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 
-LaTeX Warning: Reference `fig.bar.k.ext.mc' on page 29 undefined on input line 
-563.
-
-
-LaTeX Warning: Reference `fig.bar.k.ext.class' on page 29 undefined on input li
-ne 565.
-
-
-Overfull \hbox (2.98227pt too wide) in paragraph at lines 563--572
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 (0.622) suggests that middle-class partic
-ipants were more likely to perceive higher-
+Overfull \hbox (0.27853pt too wide) in paragraph at lines 80--82
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Interestingly, [][][]Knowles[][] report
+s that in the (mostly middle-class) district of Aigh-
  []
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 [29] (./main.mw)
-
-LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 30 undefined on input line
- 573.
-
-
-LaTeX Warning: Reference `fig.bar.k.tot.ext' on page 30 undefined on input line
- 576.
-
-(./figures/scatter_k_ext_classprime-1.tikz)
-
-LaTeX Warning: Reference `fig.scatter.k.ext.classprime' on page 30 undefined on
- input line 588.
-
-\openout3 = `main.mw'.
-
-[30] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-Overfull \hbox (4.5892pt too wide) in paragraph at lines 601--608
-\TU/LinLibertine_R_B.otf(0)/m/n/10.95 give their []so[]-[]cial[] [][][]class[])
-, any conclusions drawn about []so[]-[]cial[] [][][]class[] differences should
- []
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[31] (./main.mw)
-
-LaTeX Warning: Reference `fig.bar.k.ext.intervoc' on page 32 undefined on input
- line 619.
-
-
-LaTeX Warning: Reference `fig.bar.k.ext.wordfinal' on page 32 undefined on inpu
-t line 619.
-
-
-LaTeX Warning: Reference `fig.bar.k.ext.intervoc' on page 32 undefined on input
- line 620.
-
-
-LaTeX Warning: Reference `fig.bar.k.ext.wordfinal' on page 32 undefined on inpu
-t line 620.
-
-(./figures/bar_k_ext_intervoc-1.tikz) (./figures/bar_k_ext_wordfinal-1.tikz)
-
-LaTeX Warning: Reference `fig.bar.k.ext.wordfinal' on page 32 undefined on inpu
-t line 648.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[32] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `sec.prod.res.con.k.phon' on page 33 undefined on inpu
-t line 654.
-
-
-LaTeX Warning: Reference `fig.bar.k.ext.intervoc' on page 33 undefined on input
- line 664.
-
-
-LaTeX Warning: Reference `fig.bar.k.ext.wordfinal' on page 33 undefined on inpu
-t line 664.
 
 \openout3 = `main.mw'.
 
-[33] (./main.mw)
-
-LaTeX Warning: Reference `fig.scatter.k.ext.dist' on page 34 undefined on input
- line 673.
-
-(./figures/scatter_k_ext_dist-1.tikz)
-
-LaTeX Warning: Reference `fig.scatter.k.ext.dist' on page 34 undefined on input
- line 689.
-
-
-LaTeX Warning: Reference `fig.scatter.happy.ext.dist' on page 34 undefined on i
-nput line 689.
-
-
-Overfull \hbox (17.31313pt too wide) in paragraph at lines 685--696
-[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Both regression lines have a clear upwa
-rd slope, indicating that a higher-numbered
- []
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[34] (./main.mw)
 \openout3 = `main.mw'.
 
- (./figures/scatter_k_ext_zipf-1.tikz)
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `fig.scatter.k.ext.zipf' on page 35 undefined on input
- line 709.
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `fig.scatter.happy.ext.zipf' on page 35 undefined on i
-nput line 712.
+\openout3 = `main.mw'.
 
-)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [30] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [31] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [32] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 12.0pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [33]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [34] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
  [35] (./main.mw)
@@ -4453,17 +4705,36 @@ nput line 712.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
  [36] (./main.mw)
-\openout2 = `chapters/perception-discussion.aux'.
-
- (./chapters/perception-discussion.tex
-chapter 3.
 \openout3 = `main.mw'.
 
-[37] (./main.mw)
+\openout3 = `main.mw'.
 
-
-
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
@@ -4471,55 +4742,50 @@ chapter 3.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (4.09555pt too wide) in paragraph at lines 248--254
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 were re-synthesised and participants were
+ randomly assigned to one of two guises,
+ []
+
+)
+\openout3 = `main.mw'.
+
+ [37] (./main.mw)
 \openout3 = `main.mw'.
 
  [38] (./main.mw)
 \openout3 = `main.mw'.
 
+\openout2 = `chapters/salience.aux'.
 
-
-LaTeX Warning: Reference `sec.prod_method.con' on page 39 undefined on input li
-ne 52.
+ (./chapters/salience.tex
+chapter 4.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Citation 'preston1999' on page 39 undefined on input line 54.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'niedzielskipreston2000' on page 39 undefined on input 
-line 54.
-
-
-LaTeX Warning: Reference `sec.sal.exemplar.freq' on page 39 undefined on input 
-line 61.
-
-
-LaTeX Warning: Reference `sec.sal.sal.circle' on page 39 undefined on input lin
-e 67.
-
-
-LaTeX Warning: Reference `ch.sal' on page 39 undefined on input line 69.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 [39] (./main.mw)
-\openout3 = `main.mw'.
+
+
+
 
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
- [40] (./main.mw)
-
-LaTeX Warning: Reference `prod.disc.summary' on page 41 undefined on input line
- 102.
-
-\openout3 = `main.mw'.
-
-[41] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4535,23 +4801,20 @@ LaTeX Warning: Reference `prod.disc.summary' on page 41 undefined on input line
 \openout3 = `main.mw'.
 
 
-
-LaTeX Warning: Citation 'drager2005' on page 42 undefined on input line 121.
-
-\openout3 = `main.mw'.
-
-[42] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
+Overfull \hbox (7.12134pt too wide) in paragraph at lines 44--46
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 structural (language-internal) factors wi
+th sociolinguistic and psychological (extra-
+ []
 
 
-
-LaTeX Warning: Reference `aware_res.phon' on page 43 undefined on input line 13
-3.
+Overfull \hbox (6.7792pt too wide) in paragraph at lines 44--46
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 which will be a combination of cognitive,
+ social psychological or pragmatic factors”
+ []
 
 \openout3 = `main.mw'.
 
+[40] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4562,30 +4825,62 @@ LaTeX Warning: Reference `aware_res.phon' on page 43 undefined on input line 13
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Reference `sec.perc_res.disc.issues' on page 43 undefined on inp
-ut line 147.
-
-\openout3 = `main.mw'.
-
-[43] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'harrington2006' on page 44 undefined on input line 153
-.
+ [41] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [42] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [43] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'flynn2010' on page 44 undefined on input line 156.
+Overfull \hbox (33.16136pt too wide) in paragraph at lines 103--108
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Unfortunately, uncovering social attitu
+des towards a particular phonetic-phonological
+ []
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `prod.disc.happy.age' on page 44 undefined on input li
-ne 156.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
@@ -4594,10 +4889,18 @@ ne 156.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `prod.disc.ng.classification' on page 45 undefined on 
-input line 169.
+\openout3 = `main.mw'.
+
+ [45] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
@@ -4605,18 +4908,15 @@ input line 169.
 
 \openout3 = `main.mw'.
 
-[45] (./main.mw)
-
-LaTeX Warning: Reference `sec.perc_res.k' on page 46 undefined on input line 18
-7.
-
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[46] (./main.mw)
+ [46] (./main.mw)
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4638,24 +4938,19 @@ LaTeX Warning: Reference `sec.perc_res.k' on page 46 undefined on input line 18
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Reference `sec.perc_res.disc.direction' on page 48 undefined on 
-input line 237.
-
-\openout3 = `main.mw'.
-
-[48] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+ [48]
+(./main.mw)
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
 
-LaTeX Warning: Citation 'petersensix2008' on page 49 undefined on input line 24
-3.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
@@ -4665,60 +4960,93 @@ LaTeX Warning: Citation 'petersensix2008' on page 49 undefined on input line 24
 
 \openout3 = `main.mw'.
 
-[49] (./main.mw)
+\openout3 = `main.mw'.
+
+ [49] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'juskanma' on page 50 undefined on input line 263.
-
-
-LaTeX Warning: Reference `sec.perc_res.disc.direction' on page 50 undefined on 
-input line 265.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[50] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `sec.perc_res.ng.phon' on page 51 undefined on input l
-ine 279.
 
 \openout3 = `main.mw'.
 
-
-LaTeX Warning: Reference `sec.var.con.ng' on page 51 undefined on input line 28
-0.
-
-
-LaTeX Warning: Reference `sec.prod.res.con.k.phon' on page 51 undefined on inpu
-t line 289.
+ [50] (./main.mw)
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[51] (./main.mw)
+\openout3 = `main.mw'.
 
-LaTeX Warning: Reference `sec.perc_res.disc.direction' on page 52 undefined on 
-input line 298.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [51] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (8.39247pt too wide) in paragraph at lines 243--252
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 They had an essentially identical methodo
+logy, but used the New Zealand-Australia
+ []
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
 [52] (./main.mw)
-
-LaTeX Warning: Reference `sec.var.con.ng' on page 53 undefined on input line 32
-6.
-
-
-LaTeX Warning: Reference `sec.var.con.len' on page 53 undefined on input line 3
-31.
+\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[53] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [53] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -4750,116 +5078,29 @@ LaTeX Warning: Reference `sec.var.con.len' on page 53 undefined on input line 3
 
 \openout3 = `main.mw'.
 
- [55] (./main.mw)
+\openout3 = `main.mw'.
+
+ [55] (./main.mw))
+\openout3 = `main.mw'.
+
+ [56]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/production-method.aux'.
+
+ (./chapters/production-method.tex
+chapter 5.
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
- [56] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 413.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 414.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 415.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 418.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'squires2013' on page 57 undefined on input line 419.
 
 \openout3 = `main.mw'.
 
 [57] (./main.mw)
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
 
 
 
-LaTeX Warning: Citation 'squires2013' on page 58 undefined on input line 421.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 423.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 424.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 425.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 426.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'lawrence2015' on page 58 undefined on input line 428.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'cesario2014' on page 58 undefined on input line 431.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'cesario2014' on page 58 undefined on input line 432.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'cesario2014' on page 58 undefined on input line 434.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'cesario2014' on page 58 undefined on input line 435.
-
-\openout3 = `main.mw'.
-
-[58] (./main.mw)
-\openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
@@ -4869,93 +5110,51 @@ LaTeX Warning: Citation 'cesario2014' on page 58 undefined on input line 435.
 
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `ch.perc_res' on page 59 undefined on input line 461.
-
-
-LaTeX Warning: Reference `aware_res.eval' on page 59 undefined on input line 46
-5.
-
-\openout3 = `main.mw'.
-
-[59] (./main.mw)
+ [58] (./main.mw)
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
+ [59] (./main.mw)
+\openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'herr1986' on page 60 undefined on input line 471.
+
+LaTeX Warning: Reference `fig.map.participants' on page 60 undefined on input l
+ine 79.
 
 \openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'herr1986' on page 60 undefined on input line 473.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 60 undefined on input line 476.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 60 undefined on input line 479.
+Overfull \hbox (1.1364pt too wide) in paragraph at lines 79--80
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Figure [] — generated with the QGIS sof
+tware ([][][][]QGIS Development Team 2016[][])[][][][][]
+ []
 
 \openout3 = `main.mw'.
 
 [60] (./main.mw)
 \openout3 = `main.mw'.
 
-\openout3 = `main.mw'.
 
+Overfull \hbox (5.29819pt too wide) in paragraph at lines 91--98
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 where the participant’s speech was segmen
+ted into chunks and transcribed. Words
+ []
 
+File: figures/TextGrid_screenshot.eps Graphic file (type eps)
+<figures/TextGrid_screenshot.eps>
 
-LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 483.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 484.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 487.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 489.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 61 undefined on input line 494.
 
 \openout3 = `main.mw'.
 
 [61] (./main.mw)
 \openout3 = `main.mw'.
 
-
-
-LaTeX Warning: Citation 'foulkesdocherty1999a' on page 62 undefined on input li
-ne 501.
-
 \openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'foulkesdocherty1999a' on page 62 undefined on input li
-ne 502.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'herr1986' on page 62 undefined on input line 504.
 
 \openout3 = `main.mw'.
 
@@ -4963,29 +5162,14 @@ LaTeX Warning: Citation 'herr1986' on page 62 undefined on input line 504.
 
 \openout3 = `main.mw'.
 
-[62] (./main.mw)
-\openout3 = `main.mw'.
+ [62] (./main.mw)
+File: figures/like_plosive.eps Graphic file (type eps)
+ <figures/like_plosive.eps>
+File: figures/like_fricative.eps Graphic file (type eps)
 
+<figures/like_fricative.eps>
 
-
-LaTeX Warning: Citation 'strand1999' on page 63 undefined on input line 524.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'petersensix2008' on page 63 undefined on input line 52
-5.
-
-\openout3 = `main.mw'.
-
-
-LaTeX Warning: Citation 'halford2002' on page 63 undefined on input line 529.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
-
-\openout3 = `main.mw'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout3 = `main.mw'.
 
@@ -4996,32 +5180,2159 @@ LaTeX Warning: Citation 'halford2002' on page 63 undefined on input line 529.
 
 \openout3 = `main.mw'.
 
+ [64] (./main.mw)
+File: figures/F1F1AUTO.eps Graphic file (type eps)
+ <figures/F1F1AUTO.eps>
+File: figures/F2F2AUTO.eps Graphic file (type eps)
+
+<figures/F2F2AUTO.eps>
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [65] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [66] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 
-LaTeX Warning: Citation 'lawrence2015' on page 64 undefined on input line 535.
+Overfull \hbox (11.9968pt too wide) in paragraph at lines 216--221
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 sions: vowel-intrinsic vs. vowel-extrinsi
+c and speaker-intrinsic vs. speaker-extrinsic
+ []
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[67] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/plot.scatter.raw.tex)
+(./figures/plot.scatter.bark.tex) (./figures/plot.scatter.watt.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[68] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [69] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [70] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [71] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [72]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (11.015pt too wide) in paragraph at lines 454--456
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 comparisons, and euclidean distance ratio
+s. Despite the fact that the Bark-difference
+ []
+
+\openout3 = `main.mw'.
+
+[73] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [74] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [75] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [76] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [77]
+(./main.mw)
+\openout3 = `main.mw'.
+
+ [78] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
 
 )
 \openout3 = `main.mw'.
 
- [64] (./main.mw)
+ [79] (./main.mw)
+\openout2 = `chapters/production-results-vow.aux'.
+
+
+(./chapters/production-results-vow.tex
+\openout3 = `main.mw'.
+
+ [80] (./main.mw)
+
+
+
+
+
+chapter 6.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[81] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 14.4pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+
+Overfull \hbox (4.90216pt too wide) in paragraph at lines 55--61
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 The maximal model for happ\TU/LinLibertin
+e_R_B.otf(0)/m/sc/10.95 y \TU/LinLibertine_R_B.otf(0)/m/n/10.95 F1 measurements
+ as described in Section [][]5.6[][] suffered
+ []
+
+\openout3 = `main.mw'.
+
+[82] (./main.mw)
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 POSTMANNER[[]af[]-[]fric[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 POSTMANNER[[]fric[]-[]at[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 AGE[56-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 AGE[30-
+ []
+
+
+Overfull \hbox (21.14615pt too wide) in paragraph at lines 88--88
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 GENDER[female]:CLASS[mc]| 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+(./figures/box_f1w_happy_postmanner-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0.25;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+[83] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/scatter_happy_f1w_dur-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[84] (./main.mw)
+\openout3 = `main.mw'.
+
+ [85] (./main.mw) (./figures/scatter_happy_f1w_zipf-1.tikz)
+\openout3 = `main.mw'.
+
+
+[86] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.85623pt too wide) in paragraph at lines 162--167
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 interviewees. This highly significant cor
+relation indicates that middle-class speak-
+ []
+
+(./figures/box_f1w_happy_genderclass-1.tikz)
+(./figures/scatter_happy_f1w_genderclass-1.tikz)
+\openout3 = `main.mw'.
+
+ [87] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [88]
+(./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/box_f1w_happy_age-1.tikz)
+\openout3 = `main.mw'.
+
+ [89] (./main.mw)
+(./figures/box_f1w_happy_genderage-1.tikz)
+(./figures/scatter_happy_f1w_genderage-1.tikz)
+\openout3 = `main.mw'.
+
+ [90] (./main.mw)
+(./figures/line_f1w_happy_age-1.tikz)
+\openout3 = `main.mw'.
+
+ [91] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [92] (./main.mw)
+Overfull \hbox (34.78914pt too wide) in alignment at lines 345--369
+ [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--373
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 STYLEreading:AGE56-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--375
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 STYLEimitation:AGE56-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 STYLEreading:AGE30-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--378
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 STYLEimitation:AGE30-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--380
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 STYLEreading:AGE56-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--383
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 STYLEreading:AGE30-
+ []
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 369--390
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 390--391
+ [] [] [] [] [] [] [] 
+ []
+
+\openout3 = `main.mw'.
+
+[93] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/box_f2w_happy_premanner-1.tikz)
+(./figures/box_f2w_happy_postmanner-1.tikz)
+\openout3 = `main.mw'.
+
+ [94] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [95] (./main.mw)
+\openout3 = `main.mw'.
+
+
+(./figures/scatter_happy_f2w_dur-1.tikz)
+\openout3 = `main.mw'.
+
+ [96] (./main.mw)
+(./figures/box_f2w_happy_age-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[97] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/box_f2w_happy_ageclass-1.tikz)
+(./figures/scatter_happy_f2w_ageclass-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[98] (./main.mw)
+\openout3 = `main.mw'.
+
+ [99] (./main.mw) (./figures/box_f2w_happy_stylegender-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[100] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [101] (./main.mw) (./figures/line_f2w_happy_age-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[102] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [103] (./main.mw)
+(./figures/plot_scatter_pillai_happy_old_listread-1.tikz)
+(./figures/plot_scatter_pillai_happy_mid_listread-1.tikz)
+(./figures/plot_scatter_pillai_happy_young_listread-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[104] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [105] (./main.mw)
+\openout3 = `main.mw'.
+
+ [106] (./main.mw)
+(./figures/plot.vowel.overview.happy.listread.tex)
+\openout3 = `main.mw'.
+
+ [107] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 746--770
+ [] [] [] [] [] [] [] 
+ []
+
+\openout3 = `main.mw'.
+
+[108] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--777
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 STYLEreading:AGE56-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--780
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 STYLEreading:AGE30-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--783
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/9 STYLEreading:AGE19-
+ []
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 770--790
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 790--800
+ [] [] [] [] [] [] [] 
+ []
+
+\openout3 = `main.mw'.
+
+[109] (./main.mw)
+\openout3 = `main.mw'.
+
+ [110] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/box_f1w_nurse_genderage-1.tikz)
+(./figures/scatter_nurse_f1w_genderage-1.tikz)
+\openout3 = `main.mw'.
+
+ [111] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [112]
+(./main.mw)
+\openout3 = `main.mw'.
+
+ [113] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/box_f1w_nurse_age-1.tikz)
+(./figures/line_f1w_nurse_age-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[114] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/line_f1w_nurse_age_fem-1.tikz)
+(./figures/line_f1w_nurse_age_mal-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[115] (./main.mw) (./figures/line_f1w_nurse_age_mc-1.tikz)
+(./figures/line_f1w_nurse_age_wc-1.tikz)
+\openout3 = `main.mw'.
+
+ [116] (./main.mw)
+Overfull \hbox (6.17146pt too wide) in paragraph at lines 1017--1024
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 ever, is then (highly) significantly diff
+erent from all other registers. Young working-
+ []
+
+\openout3 = `main.mw'.
+
+[117] (./main.mw)
+Overfull \hbox (34.78914pt too wide) in alignment at lines 1037--1061
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 1061--1082
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 1082--1083
+ [] [] [] [] [] [] [] 
+ []
+
+\openout3 = `main.mw'.
+
+[118] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/box_f2w_nurse_premanner-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[119] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_nurse_f2w_dur-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[120] (./main.mw) (./figures/box_f2w_nurse_genderclass-1.tikz)
+(./figures/scatter_nurse_f2w_genderclass-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[121] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [122] (./main.mw) (./figures/box_f2w_nurse_genderage-1.tikz)
+(./figures/scatter_nurse_f2w_genderage-1.tikz)
+\openout3 = `main.mw'.
+
+ [123] (./main.mw)
+\openout3 = `main.mw'.
+
+
+(./figures/box_f2w_nurse_styleclass-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[124] (./main.mw)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[125] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/box_f2w_nurse_age-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+(./figures/box_f2w_nurse_ageclass-1.tikz)
+(./figures/scatter_nurse_f2w_ageclass-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[126] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [127] (./main.mw) (./figures/line_f2w_nurse_age-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[128] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/line_f2w_nurse_age_mc-1.tikz)
+(./figures/line_f2w_nurse_age_wc-1.tikz)
+\openout3 = `main.mw'.
+
+ [129] (./main.mw)
+\openout3 = `main.mw'.
+
+ [130] (./main.mw)
+Overfull \hbox (5.50627pt too wide) in paragraph at lines 1422--1428
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 despite the fact that we are dealing with
+ a []vowel[] \TU/LinLibertine_R_B.otf(0)/m/it/10.95 merger \TU/LinLibertine_R_B
+.otf(0)/m/n/10.95 here. Since (near-standard)
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[131] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/plot_scatter_pillai_nurse_old_list-1.tikz)
+(./figures/plot_scatter_pillai_nurse_old_reading-1.tikz)
+(./figures/plot_scatter_pillai_nurse_old_free-1.tikz)
+(./figures/plot_scatter_pillai_nurse_old_imit-1.tikz)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[132] (./main.mw)
+\openout3 = `main.mw'.
+
+ [133] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [134] (./main.mw)
+(./figures/plot_scatter_pillai_nurse_mid_list-1.tikz)
+(./figures/plot_scatter_pillai_nurse_mid_reading-1.tikz)
+(./figures/plot_scatter_pillai_nurse_mid_free-1.tikz)
+(./figures/plot_scatter_pillai_nurse_mid_imit-1.tikz)
+\openout3 = `main.mw'.
+
+ [135] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[136] (./main.mw) (./figures/plot_scatter_pillai_nurse_young_list-1.tikz)
+(./figures/plot_scatter_pillai_nurse_young_reading-1.tikz)
+(./figures/plot_scatter_pillai_nurse_young_free-1.tikz)
+(./figures/plot_scatter_pillai_nurse_young_imit-1.tikz)
+\openout3 = `main.mw'.
+
+ [137] (./main.mw)
+\openout3 = `main.mw'.
+
+
+(./figures/plot.vowel.overview.nurse.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[138] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter.pillai.class.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout3 = `main.mw'.
+
+[139] (./main.mw))
+\openout3 = `main.mw'.
+
+ [140] (./main.mw)
+\openout3 = `main.mw'.
+
+ [141] (./main.mw)
+\openout2 = `chapters/production-results-con.aux'.
+
+
+(./chapters/production-results-con.tex
+\openout3 = `main.mw'.
+
+ [142] (./main.mw)
+
+
+
+
+
+chapter 7.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[143] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (34.78914pt too wide) in paragraph at lines 49--83
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+(./figures/box_environment_ng-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[144] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[145] (./main.mw)
+\openout3 = `main.mw'.
+
+ [146] (./main.mw) (./figures/box_ng_stylegender-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[147] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [148] (./main.mw) (./figures/box_age_ng-1.tikz)
+\openout3 = `main.mw'.
+
+ [149]
+(./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/box_ng_ageclass-1.tikz)
+(./figures/scatter_ng_ageclass-1.tikz)
+\openout3 = `main.mw'.
+
+ [150] (./main.mw)
+\openout3 = `main.mw'.
+
+ [151] (./main.mw)
+(./figures/line_style_ng-1.tikz)
+\openout3 = `main.mw'.
+
+ [152] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 323--348
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 348--368
+ [] [] [] [] [] [] [] 
+ []
+
+\openout3 = `main.mw'.
+
+[153] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (34.78914pt too wide) in alignment at lines 368--383
+ [] [] [] [] [] [] [] 
+ []
+
+\openout3 = `main.mw'.
+
+[154] (./main.mw) (./figures/box_environment_k-1.tikz)
+\openout3 = `main.mw'.
+
+ [155] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[156] (./main.mw) (./figures/box_k_stylegender-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[157] (./main.mw)
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[158] (./main.mw) (./figures/box_k_styleclass-1.tikz)
+\openout3 = `main.mw'.
+
+ [159] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[160] (./main.mw)
+Overfull \hbox (7.0995pt too wide) in paragraph at lines 551--556
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 strange that middle-class speakers show f
+ewer style differences than their working-
+ []
+
+(./figures/box_age_k-1.tikz)
+\openout3 = `main.mw'.
+
+ [161] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+(./figures/box_k_agegender-1.tikz) (./figures/scatter_k_agegender-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[162] (./main.mw)
+\openout3 = `main.mw'.
+
+ [163] (./main.mw) (./figures/box_k_ageclass-1.tikz)
+(./figures/scatter_k_ageclass-1.tikz)
+\openout3 = `main.mw'.
+
+ [164] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [165] (./main.mw)
+(./figures/box_k_classgender-1.tikz) (./figures/scatter_k_classgender-1.tikz)
+\openout3 = `main.mw'.
+
+
+[166] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/line_style_k-1.tikz)
+\openout3 = `main.mw'.
+
+ [167] (./main.mw)
+\openout3 = `main.mw'.
+
+
+(./figures/line_style_kfem-1.tikz) (./figures/line_style_kmal-1.tikz)
+\openout3 = `main.mw'.
+
+ [168]
+(./main.mw) (./figures/line_style_kmc-1.tikz) (./figures/line_style_kwc-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[169] (./main.mw))
+\openout3 = `main.mw'.
+
+ [170] (./main.mw)
+\openout3 = `main.mw'.
+
+ [171] (./main.mw)
+\openout2 = `chapters/production-results-qual.aux'.
+
+
+(./chapters/production-results-qual.tex
+\openout3 = `main.mw'.
+
+ [172] (./main.mw)
+
+
+
+
+
+chapter 8.
+\openout3 = `main.mw'.
+
+[173] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (9.6554pt too wide) in paragraph at lines 42--46
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Notwithstanding these minor terminologica
+l issues, subjects in different age groups
+ []
+
+\openout3 = `main.mw'.
+
+[174] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [175] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (4.91766pt too wide) in paragraph at lines 73--77
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 the []dis[]-[]tinct[]-[]ness[] of []Scous
+e[], nor the views expressed about so-called plastic Scousers
+ []
+
+\openout3 = `main.mw'.
+
+[176] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [177] (./main.mw)
+\openout3 = `main.mw'.
+
+ [178] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.18375pt too wide) in paragraph at lines 146--152
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 whereas the ‘south end’ is dominated by m
+ore middle-class areas (Aigburth, Moss-
+ []
+
+\openout3 = `main.mw'.
+
+[179] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [180] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (3.64752pt too wide) in paragraph at lines 176--183
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 other aspect, namely that of supposedly “
+high pitch as well sometimes” (07FMC23)
+ []
+
+\openout3 = `main.mw'.
+
+[181] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RZ_B.otf]/OT:script=latn;language
+=DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 10.95pt
+ -> ./langsci/fonts/LinLibertine_RZ_B.otf
+\openout3 = `main.mw'.
+
+ [182] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/aware_nurse_vow-1.tikz)
+\openout3 = `main.mw'.
+
+ [183]
+(./main.mw)
+\openout3 = `main.mw'.
+
+ [184] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/aware_k_con-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[185] (./main.mw)
+\openout3 = `main.mw'.
+
+ [186] (./main.mw)
+\openout3 = `main.mw'.
+
+ [187] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [188] (./main.mw)
+\openout3 = `main.mw'.
+
+
+[189] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [190] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [191] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.10983pt too wide) in paragraph at lines 405--406
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 The following quote from a 33-year-old 
+middle-class male probably quite nicely
+ []
+
+\openout3 = `main.mw'.
+
+[192] (./main.mw)
+\openout3 = `main.mw'.
+
+ [193] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [194] (./main.mw)
+\openout3 = `main.mw'.
+
+ [195] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[196] (./main.mw))
+\openout3 = `main.mw'.
+
+ [197] (./main.mw)
+\openout3 = `main.mw'.
+
+ [198] (./main.mw)
+\openout2 = `chapters/production-discussion.aux'.
+
+
+(./chapters/production-discussion.tex
+chapter 9.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[199] (./main.mw)
+
+
+
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [200] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (7.26009pt too wide) in paragraph at lines 56--60
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 class women in particular would have more
+ standard realisations than their middle-
+ []
+
+\openout3 = `main.mw'.
+
+[201] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [202] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [203] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;slant=0;+liga;+pnum;+smcp;+onum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+
+Overfull \hbox (2.84358pt too wide) in paragraph at lines 114--118
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Plots of mean []vowel[] realisations al
+so unearthed interesting differences between
+ []
+
+\openout3 = `main.mw'.
+
+[204] (./main.mw)
+\openout3 = `main.mw'.
+
+ [205] (./main.mw)
+\openout3 = `main.mw'.
+
+ [206] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [207] (./main.mw)
+\openout3 = `main.mw'.
+
+
+[208] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [209] (./main.mw)
+\openout3 = `main.mw'.
+
+ [210] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [211] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[212] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [213] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [214] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [215] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[216] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [217] (./main.mw)
+\openout3 = `main.mw'.
+
+ [218] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (2.92752pt too wide) in paragraph at lines 420--423
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 middle-aged speakers (sub-[]con[]-[]sciou
+s[]) awareness is lower than in the young group
+ []
+
+\openout3 = `main.mw'.
+
+[219] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [220] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.95662pt too wide) in paragraph at lines 445--450
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 use (highly) []sa[]-[]li[]-[]ent[] marker
+s and stereotypes (\TU/LinLibertine_R_B.otf(0)/m/sc/10.95 nurse \TU/LinLibertin
+e_R_B.otf(0)/m/n/10.95 and /k/ []len[]-[]i[]-[]tion[] in my sample)
+ []
+
+)
+\openout3 = `main.mw'.
+
+ [221] (./main.mw)
+\openout3 = `main.mw'.
+
+ [222] (./main.mw)
+\openout2 = `chapters/perception-method.aux'.
+
+ (./chapters/perception-method.tex
+chapter 10.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[223] (./main.mw)
+
+
+
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
+DFLT;+liga;+pnum;mapping=tex-text;" at 6.6021pt
+ -> ./langsci/fonts/LinLibertine_R_B.otf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [224] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [225] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [226] (./main.mw)
+File: ./figures/fur_spectrogram.png Graphic file (type QTm)
+
+<use  "./figures/fur_spectrogram.png" >
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;mapping=tex-text;" at 10.0pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[227] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [228] (./main.mw)
+\openout3 = `main.mw'.
+
+File: ./figures/chicken_spectrogram.eps Graphic file (type eps)
+ <./figures/chicken_spectrogram.eps>
+\openout3 = `main.mw'.
+
+
+[229] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [230] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+File: ./figures/questionnaire_screenshot.jpg Graphic file (type QTm)
+
+<use  "./figures/questionnaire_screenshot.jpg" >
+\openout3 = `main.mw'.
+
+ [231] (./main.mw)
+\openout3 = `main.mw'.
+
+Requested font "[./langsci/fonts/LinLibertine_RI_B.otf]/OT:script=latn;language
+=DFLT;+liga;+pnum;+lnum;mapping=tex-text;" at 9.0pt
+ -> ./langsci/fonts/LinLibertine_RI_B.otf
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [232]
+(./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [233] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [234] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (1.05598pt too wide) in paragraph at lines 363--364
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 were obtained from [][]$[][][][] [] [] []
+ [][][][][][][][][] [] [][] [] [][] [] [][][][][][][][][][][][]$[][], and a euc
+lidean distance
+ []
+
+\openout3 = `main.mw'.
+
+[235] (./main.mw)
+File: ./figures/participant_map.jpg Graphic file (type QTm)
+ <use  "./figures/participant_map.jpg" >
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [236] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[237] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [238] (./main.mw)
+\openout2 = `chapters/perception-results.aux'.
+
+ (./chapters/perception-results.tex
+chapter 11.
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (2.3207pt too wide) in paragraph at lines 4--11
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 equivalent of the oppositions Michigan-On
+tario in [][][][]Niedzielski 1999[][], and Australia-
+ []
+
+\openout3 = `main.mw'.
+
+[239] (./main.mw)
+
+
+
+
+\openout3 = `main.mw'.
+
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[240] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/bar_happy_ext-1.tikz)
+\openout3 = `main.mw'.
+
+ [241] (./main.mw)
+\openout3 = `main.mw'.
+
+
+(./figures/bar_happy_ext_med-1.tikz) (./figures/bar_happy_ext_fin-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[242] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_happy_ext_dist-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[243] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_happy_ext_zipf-1.tikz)
+\openout3 = `main.mw'.
+
+ [244] (./main.mw)
+\openout3 = `main.mw'.
+
+
+[245] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_happy_ext_age-1.tikz)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [246] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
+ []
+
+
+Overfull \hbox (45.92467pt too wide) in paragraph at lines 211--211
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[Liv.]:Position[final]| 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[247] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/bar_nurse_ext-1.tikz)
+\openout3 = `main.mw'.
+
+ [248] (./main.mw)
+\openout3 = `main.mw'.
+
+
+(./figures/bar_nurse_ext_med-1.tikz) (./figures/bar_nurse_ext_fin-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[249] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_nurse_ext_token-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[250] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/line_nurse_ext_token_grouped-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[251] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [252] (./main.mw)
+\openout3 = `main.mw'.
+
+ [253] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--363
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Environment[_-
+ []
+
+(./figures/bar_ng_ext-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+[254] (./main.mw)
+\openout3 = `main.mw'.
+
+ [255] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/bar_ng_ext_intervoc-1.tikz)
+(./figures/bar_ng_ext_wordfinal-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[256] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_ng_ext_age-1.tikz)
+(./figures/histogram_perception_age-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[257] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [258] (./main.mw)
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[[]Liv[]-[]er[]-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Environment[_-
+ []
+
+
+Overfull \hbox (26.35703pt too wide) in paragraph at lines 499--499
+[]|\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Prime[Liv.]:Class[mc]| 
+ []
+
+\openout3 = `main.mw'.
+
+[259] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ (./figures/bar_k_ext-1.tikz)
+\openout3 = `main.mw'.
+
+ [260] (./main.mw)
+\openout3 = `main.mw'.
+
+
+(./figures/bar_k_ext_wc-1.tikz) (./figures/bar_k_ext_mc-1.tikz)
+Overfull \hbox (3.45404pt too wide) in paragraph at lines 563--572
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 earlier, the correlation coefficient calc
+ulated by the mixed-effects model for middle
+ []
+
+\openout3 = `main.mw'.
+
+[261] (./main.mw) (./figures/scatter_k_ext_classprime-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[262] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+Overfull \hbox (4.5892pt too wide) in paragraph at lines 601--608
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 give their []so[]-[]cial[] [][][]class[])
+, any conclusions drawn about []so[]-[]cial[] [][][]class[] differences should
+ []
+
+\openout3 = `main.mw'.
+
+[263] (./main.mw) (./figures/bar_k_ext_intervoc-1.tikz)
+(./figures/bar_k_ext_wordfinal-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+\openout3 = `main.mw'.
+
+[264] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [265] (./main.mw) (./figures/scatter_k_ext_dist-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (17.31313pt too wide) in paragraph at lines 685--696
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Both regression lines have a clear upwa
+rd slope, indicating that a higher-numbered
+ []
+
+\openout3 = `main.mw'.
+
+[266] (./main.mw)
+\openout3 = `main.mw'.
+
+ (./figures/scatter_k_ext_zipf-1.tikz)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+\openout3 = `main.mw'.
+
+ [267] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [268] (./main.mw)
+\openout2 = `chapters/perception-discussion.aux'.
+
+ (./chapters/perception-discussion.tex
+chapter 12.
+\openout3 = `main.mw'.
+
+[269] (./main.mw)
+
+
+
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [270] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [271] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [272] (./main.mw)
+\openout3 = `main.mw'.
+
+
+[273] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [274] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [275] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [276] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[277] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [278] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [279] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [280] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[281] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [282] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [283] (./main.mw)
+\openout3 = `main.mw'.
+
+ [284] (./main.mw)
+\openout3 = `main.mw'.
+
+
+[285] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [286] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [287] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [288] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[289] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [290] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [291] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [292] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+
+[293] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [294] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+ [295] (./main.mw)
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [296] (./main.mw)
+\openout3 = `main.mw'.
+
+
+[297] (./main.mw)
 \openout2 = `chapters/conclusion.aux'.
 
  (./chapters/conclusion.tex
-chapter 4.
+\openout3 = `main.mw'.
+
+ [298] (./main.mw)
+
+
+
+
+
+chapter 13.
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
-[65] (./main.mw)
-
-
-
-
+[299] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Reference `ch.sal' on page 66 undefined on input line 30.
 
 \openout3 = `main.mw'.
 
@@ -5029,25 +7340,178 @@ LaTeX Warning: Reference `ch.sal' on page 66 undefined on input line 30.
 
 \openout3 = `main.mw'.
 
-[66] (./main.mw)
+ [300] (./main.mw)
 \openout3 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'cesario2014' on page 67 undefined on input line 45.
 
 )
 \openout3 = `main.mw'.
 
- [67] (./main.mw)
+ [301] (./main.mw)
+\openout2 = `chapters/questionnaire.aux'.
+
+
+(./chapters/questionnaire.tex
+\openout3 = `main.mw'.
+
+ [302] (./main.mw)
+
+
+
+
+
+chapter A.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Please name as many quar-
+ []
+
+\openout3 = `main.mw'.
+
+[303] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 58--59
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Did you know any clapping
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 71--72
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Are there places you would
+ []
+
+\openout3 = `main.mw'.
+
+[304] (./main.mw)
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 What would you call your-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 self (British, English, North-
+ []
+
+
+Underfull \hbox (badness 6927) in paragraph at lines 99--100
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Do you think []Liv[]-[]er[]-[]pool[] ha
+s
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 101--102
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Do you think urban restruc-
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 107--108
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 How do you feel about the
+ []
+
+\openout3 = `main.mw'.
+
+[305] (./main.mw)
+Underfull \hbox (badness 5548) in paragraph at lines 128--129
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Liv[]-[]er[]-[]pool[] and []Manchester[
+]. Is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Do you sometimes go to
+ []
+
+\openout3 = `main.mw'.
+
+[306] (./main.mw)
+Underfull \hbox (badness 7907) in paragraph at lines 146--147
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 of []Scouse[]? Pleasant, likeable,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+[]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Do you think []Scouse[] has
+ []
+
+)
+\openout3 = `main.mw'.
+
+ [307] (./main.mw)
+\openout2 = `chapters/reading.aux'.
+
+ (./chapters/reading.tex
+\openout3 = `main.mw'.
+
+ [308] (./main.mw)
+
+
+
+
+
+chapter B.
+\openout3 = `main.mw'.
+
+[309] (./main.mw)
+\openout3 = `main.mw'.
+
+)
+\openout3 = `main.mw'.
+
+ [310] (./main.mw)
+\openout2 = `chapters/list.aux'.
+
+ (./chapters/list.tex
+chapter C.
+)
+\openout3 = `main.mw'.
+
+ [311] (./main.mw)
+
+
+
+
+\openout3 = `main.mw'.
+
+\openout2 = `chapters/stimuli.aux'.
+
+ (./chapters/stimuli.tex
+\openout3 = `main.mw'.
+
+ [312] (./main.mw)
+
+
+
+
+
+chapter D.
+
+Underfull \hbox (badness 1152) in paragraph at lines 13--14
+[]\TU/LinLibertine_R_B.otf(0)/m/n/9 He always managed to ruin his new
+ []
+
+\openout3 = `main.mw'.
+
+[313] (./main.mw)
+\openout3 = `main.mw'.
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 101--102
+[]\TU/LinLibertine_R_B.otf(0)/m/n/9 She adores this so|   [] because of its
+ []
+
+)
+\openout3 = `main.mw'.
+
+ [314] (./main.mw)
 \openout2 = `localseealso.aux'.
 
  (./localseealso.tex
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 1.
-Package marginnote Info: Suggest that margin note 78.1 will be on
-(marginnote)             absolute page 78.
-(marginnote)             This may be wrong on input line 1.
+Package marginnote Info: Margin note 329.1 is on absolute page 329
+(marginnote)              on input line 1.
+Package marginnote Info: xpos seems to be 69.27814pt,
+(marginnote)             \marginnoterightadjust ignored on input line 1.
 Requested font "[./langsci/fonts/LinLibertine_R_B.otf]/OT:script=latn;language=
 DFLT;+liga;+pnum;mapping=tex-text;" at 8.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
@@ -5056,24 +7520,22 @@ DFLT;+liga;+pnum;mapping=tex-text;" at 6.0pt
  -> ./langsci/fonts/LinLibertine_R_B.otf
 
 Overfull \hbox (0.69522pt too wide) in paragraph at lines 1--1
- [][]
+[][]  
  []
 
-Package marginnote Info: xpos not known,
-(marginnote)             using \marginnoteleftadjust on input line 1.
-Package marginnote Info: Suggest that margin note 78.2 will be on
-(marginnote)             absolute page 78.
-(marginnote)             This may be wrong on input line 2.
+Package marginnote Info: Margin note 329.2 is on absolute page 329
+(marginnote)              on input line 2.
+Package marginnote Info: xpos seems to be 72.01564pt,
+(marginnote)             \marginnoterightadjust ignored on input line 2.
 
 Overfull \hbox (0.69522pt too wide) in paragraph at lines 2--2
- [][]
+[][]  
  []
 
-Package marginnote Info: xpos not known,
-(marginnote)             using \marginnoteleftadjust on input line 2.
-Package marginnote Info: Suggest that margin note 78.3 will be on
-(marginnote)             absolute page 78.
-(marginnote)             This may be wrong on input line 3.
+Package marginnote Info: Margin note 329.3 is on absolute page 329
+(marginnote)              on input line 3.
+Package marginnote Info: xpos seems to be 74.75314pt,
+(marginnote)             \marginnoterightadjust ignored on input line 3.
 
 Overfull \hbox (23.87288pt too wide) in paragraph at lines 3--3
 \TU/LinLibertine_R_B.otf(0)/m/n/6 pages@langsciseealsosome 
@@ -5086,14 +7548,13 @@ Overfull \hbox (23.87288pt too wide) in paragraph at lines 3--3
 
 
 Overfull \hbox (0.69522pt too wide) in paragraph at lines 3--3
- [][]
+[][]  
  []
 
-Package marginnote Info: xpos not known,
-(marginnote)             using \marginnoteleftadjust on input line 3.
-Package marginnote Info: Suggest that margin note 78.4 will be on
-(marginnote)             absolute page 78.
-(marginnote)             This may be wrong on input line 4.
+Package marginnote Info: Margin note 329.4 is on absolute page 329
+(marginnote)              on input line 4.
+Package marginnote Info: xpos seems to be 77.49065pt,
+(marginnote)             \marginnoterightadjust ignored on input line 4.
 
 Overfull \hbox (23.87288pt too wide) in paragraph at lines 4--4
 \TU/LinLibertine_R_B.otf(0)/m/n/6 pages@langsciseealsosome 
@@ -5106,50 +7567,94 @@ Overfull \hbox (23.87288pt too wide) in paragraph at lines 4--4
 
 
 Overfull \hbox (0.69522pt too wide) in paragraph at lines 4--4
- [][]
+[][]  
  []
 
-Package marginnote Info: xpos not known,
-(marginnote)             using \marginnoteleftadjust on input line 4.
 )
 \openout3 = `main.mw'.
 
- [68] (./main.mw)
+ [315] (./main.mw)
 
 
 \openout2 = `backmatter.aux'.
 
  (./backmatter.tex
+\openout3 = `main.mw'.
+
+ [316] (./main.mw)
+
+
+
+
+
 chapter without number
 \openout3 = `main.mw'.
 
-[69] (./main.mw)
-
-
-
-
+[317] (./main.mw)
 
 
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
 
- [70] (./main.mw)
+ [318] (./main.mw)
+\openout3 = `main.mw'.
+
+ [319] (./main.mw)
+\openout3 = `main.mw'.
+
+ [320] (./main.mw)
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Kuznetsova, Alexandra, Per Bruun Broc
+khoff & Rune Haubo Bojesen
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 3--3
+\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Christensen. 2015. \TU/LinLibertine_R_B.o
+tf(0)/m/it/10.95 lmerTest: Tests in Linear Mixed Effects Models\TU/LinLibertine
+_R_B.otf(0)/m/n/10.95 . [][]$[][][][] []
+ []
+
+\openout3 = `main.mw'.
+
+[321] (./main.mw)
+\openout3 = `main.mw'.
+
+ [322] (./main.mw)
+\openout3 = `main.mw'.
+
+ [323] (./main.mw)
+Underfull \hbox (badness 1418) in paragraph at lines 3--3
+[][]\TU/LinLibertine_R_B.otf(0)/m/n/10.95 Rácz, Péter. 2013. \TU/LinLibertine_R
+_B.otf(0)/m/it/10.95 Salience in sociolinguistics: A quantitative approach\TU/L
+inLibertine_R_B.otf(0)/m/n/10.95 . Ber-
+ []
+
+\openout3 = `main.mw'.
+
+[324] (./main.mw)
+\openout3 = `main.mw'.
+
+ [325] (./main.mw)
+\openout3 = `main.mw'.
+
+ [326] (./main.mw)
 No file main.and.
 No file main.lnd.
 No file main.snd.
 )
 \openout3 = `main.mw'.
 
- [71
+ [327
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {chapter}{Index}{71}{section*.31}}
+ine {chapter}{Index}{327}{section*.154}}
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Name index}{71}{section*.32}}
+ine {section}{Name index}{327}{section*.155}}
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Language index}{71}{section*.33}}
+ine {section}{Language index}{327}{section*.156}}
 \@writefile{toc}{\defcounter {refsection}{0}\relax }\@writefile{toc}{\contentsl
-ine {section}{Subject index}{71}{section*.34}}
+ine {section}{Subject index}{327}{section*.157}}
 ] (./main.mw)
 
 
@@ -5274,12 +7779,12 @@ Requested font "msbm10" at 8.5pt
 )
 \openout3 = `main.mw'.
 
- [72] (./main.mw)
+ [328] (./main.mw)
 
 \openout3 = `main.mw'.
 
 
-[73] (./main.mw)
+[329] (./main.mw)
 
 .................................................
 . fontspec info: "set-scale"
@@ -5298,7 +7803,7 @@ Overfull \hbox (16.14459pt too wide) in paragraph at lines 95--95
 
 \openout3 = `main.mw'.
 
-[74] (./main.mw)
+[330] (./main.mw)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
  (./main.aux
@@ -5523,7 +8028,1642 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
-) (./chapters/perception-results.aux
+) (./chapters/history.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+)
+(./chapters/variables.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+) (./chapters/salience.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6393,7 +10533,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 \openout3 = `main.mw'.
 
 )
-(./chapters/perception-discussion.aux
+(./chapters/production-method.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -6990,6 +11130,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+) (./chapters/production-results-vow.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7664,7 +11805,6 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
-) (./chapters/conclusion.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7705,6 +11845,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+)
+(./chapters/production-results-con.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7783,6 +11925,4881 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
 
 \openout3 = `main.mw'.
 
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+) (./chapters/production-results-qual.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+) (./chapters/production-discussion.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+) (./chapters/perception-method.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+)
+(./chapters/perception-results.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+) (./chapters/perception-discussion.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+)
+(./chapters/conclusion.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+) (./chapters/questionnaire.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+)
+(./chapters/reading.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+) (./chapters/list.aux
+\openout3 = `main.mw'.
+
+\openout3 = `main.mw'.
+
+) (./chapters/stimuli.aux
 \openout3 = `main.mw'.
 
 \openout3 = `main.mw'.
@@ -7812,14 +16829,6 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 95.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 \openout3 = `main.mw'.
 
 \openout3 = `main.bcf'.
@@ -7840,12 +16849,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  )
 (\end occurred when \ifx on line 40 was incomplete) 
 Here is how much of TeX's memory you used:
- 63437 strings out of 493068
- 1229892 string characters out of 6138948
- 2026040 words of memory out of 5000000
- 66057 multiletter control sequences out of 15000+600000
- 14606 words of font info for 147 fonts, out of 8000000 for 9000
+ 66259 strings out of 493068
+ 1294051 string characters out of 6138948
+ 4405610 words of memory out of 5000000
+ 67975 multiletter control sequences out of 15000+600000
+ 17092 words of font info for 173 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
- 71i,14n,119p,10377b,6174s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,119p,10377b,6539s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (84 pages).
+Output written on main.pdf (344 pages).
