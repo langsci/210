@@ -4,416 +4,122 @@
 \defcounter {refsection}{0}\relax
 \select@language {english}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {1}Experiment design}{1}{chapter.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {1.1}Intentions --- what this study is about}{1}{section.1.1}
+\contentsline {section}{\numberline {1.1}Stimuli}{1}{section.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {1.2}Restrictions --- what this study is not about}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.1.1}Stimuli sentences and frequency of keywords}{1}{subsection.1.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {1.3}Structure of the book}{4}{section.1.3}
+\contentsline {subsection}{\numberline {1.1.2}Vowel stimuli}{5}{subsection.1.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {2}A brief history of Liverpool and Scouse}{7}{chapter.2}
+\contentsline {subsection}{\numberline {1.1.3}Consonant stimuli}{6}{subsection.1.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.1}The first 600 years}{7}{section.2.1}
+\contentsline {section}{\numberline {1.2}Presentation}{8}{section.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.2}19\textsuperscript {th} century}{10}{section.2.2}
+\contentsline {subsection}{\numberline {1.2.1}Online platform}{8}{subsection.1.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.3}20\textsuperscript {th} century}{14}{section.2.3}
+\contentsline {subsection}{\numberline {1.2.2}Reaction times}{11}{subsection.1.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {2.3.1}Enregisterment and the `Scouse industry'}{14}{subsection.2.3.1}
+\contentsline {section}{\numberline {1.3}Participants}{12}{section.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {2.3.2}Decline}{16}{subsection.2.3.2}
+\contentsline {section}{\numberline {1.4}Statistical analysis}{15}{section.1.4}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {2.3.3}Regeneration}{19}{subsection.2.3.3}
+\contentsline {chapter}{\numberline {2}Perception results}{17}{chapter.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.4}21\textsuperscript {st} century --- outlook}{21}{section.2.4}
+\contentsline {section}{\numberline {2.1}happ\textrm {\textsc {y}}}{18}{section.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {2.5}Summary}{24}{section.2.5}
+\contentsline {subsection}{\numberline {2.1.1}Overview}{18}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {3}Variables}{25}{chapter.3}
+\contentsline {subsection}{\numberline {2.1.2}Prime}{19}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.1}General remarks}{25}{section.3.1}
+\contentsline {subsection}{\numberline {2.1.3}Position of carrier word}{20}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.2}Supragsegmentals}{26}{section.3.2}
+\contentsline {subsection}{\numberline {2.1.4}Geographical distance}{21}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.3}Consonants}{27}{section.3.3}
+\contentsline {subsection}{\numberline {2.1.5}Frequency}{23}{subsection.2.1.5}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.3.1}/ŋ(g)/}{28}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {2.1.6}Age}{24}{subsection.2.1.6}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.3.2}Lenition (of /k/)}{29}{subsection.3.3.2}
+\contentsline {section}{\numberline {2.2}\textrm {\textsc {nurse}}}{25}{section.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.4}Vowels}{32}{section.3.4}
+\contentsline {subsection}{\numberline {2.2.1}Overview}{25}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.4.1}happ\textsc {y}}{33}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {2.2.2}Prime}{26}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {3.4.2}\textsc {nurse} --- \textsc {square}}{35}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {2.2.3}Position of carrier word}{27}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {3.5}Summary}{38}{section.3.5}
+\contentsline {subsection}{\numberline {2.2.4}Stimulus order}{28}{subsection.2.2.4}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {4}A few words on salience and exemplar theory}{39}{chapter.4}
+\contentsline {section}{\numberline {2.3}/ŋ(g)/}{31}{section.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {4.1}Salience}{39}{section.4.1}
+\contentsline {subsection}{\numberline {2.3.1}Overview}{31}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.1.1}Salience and circularity}{39}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {2.3.2}Prime}{32}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.1.2}Cognitive vs. social salience}{41}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {2.3.3}Phonological context}{34}{subsection.2.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.1.3}Salience in this study}{43}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {2.3.4}Age}{35}{subsection.2.3.4}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {4.2}Exemplar theory}{47}{section.4.2}
+\contentsline {section}{\numberline {2.4}/k/}{36}{section.2.4}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.2.1}Basic principles}{48}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {2.4.1}Overview}{36}{subsection.2.4.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.2.2}Application in (socio-)linguistics}{49}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {2.4.2}Prime and social class}{38}{subsection.2.4.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {4.2.3}Frequency and salience in exemplar theory}{53}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {2.4.3}Phonological context}{42}{subsection.2.4.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {4.3}Summary}{56}{section.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Geographical distance}{44}{subsection.2.4.4}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {5}Interview method}{57}{chapter.5}
+\contentsline {subsection}{\numberline {2.4.5}Frequency}{45}{subsection.2.4.5}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {5.1}Interview structure}{57}{section.5.1}
+\contentsline {chapter}{\numberline {3}Discussion (Perception)}{47}{chapter.3}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {5.2}Participants}{59}{section.5.2}
+\contentsline {section}{\numberline {3.1}Priming and salience}{47}{section.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {5.3}Transcription}{61}{section.5.3}
+\contentsline {subsection}{\numberline {3.1.1}Salient vs. non-salient variables}{47}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {5.4}Measuring}{61}{section.5.4}
+\contentsline {subsection}{\numberline {3.1.2}Degree of priming and accuracy}{48}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {5.4.1}Consonants}{61}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {3.1.3}Salience as likelihood of remembrance}{49}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {5.4.2}Vowels}{63}{subsection.5.4.2}
+\contentsline {section}{\numberline {3.2}Social factors}{52}{section.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {5.4.3}Normalisation}{66}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {3.2.1}Social class}{52}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {5.5}Phonological context}{74}{section.5.5}
+\contentsline {subsection}{\numberline {3.2.2}Gender}{53}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {5.6}Statistical analysis}{76}{section.5.6}
+\contentsline {subsection}{\numberline {3.2.3}Age}{54}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {6}Vowel production}{81}{chapter.6}
+\contentsline {subsection}{\numberline {3.2.4}Geographical distance}{56}{subsection.3.2.4}
 \defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {6.1}happ\textrm {\textsc {y}}}{83}{section.6.1}
+\contentsline {section}{\numberline {3.3}Non-social factors}{57}{section.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {6.1.1}F1 (happ\textrm {\textsc {y}})}{83}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {3.3.1}Time held in memory}{57}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.1.1}Overview}{83}{subsubsection.6.1.1.1}
+\contentsline {subsection}{\numberline {3.3.2}Stimulus order}{59}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.1.2}Phonological context}{83}{subsubsection.6.1.1.2}
+\contentsline {subsection}{\numberline {3.3.3}Phonological environment}{60}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.1.3}Frequency}{86}{subsubsection.6.1.1.3}
+\contentsline {section}{\numberline {3.4}Issues and limitations}{63}{section.3.4}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.1.4}Class and gender}{87}{subsubsection.6.1.1.4}
+\contentsline {subsection}{\numberline {3.4.1}The problem of velar nasal plus}{63}{subsection.3.4.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.1.5}Age and gender}{88}{subsubsection.6.1.1.5}
+\contentsline {subsection}{\numberline {3.4.2}Comparability with previous research}{65}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.1.6}Style shifting}{91}{subsubsection.6.1.1.6}
+\contentsline {subsection}{\numberline {3.4.3}The issue of frequency}{66}{subsection.3.4.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {6.1.2}F2 (happ\textrm {\textsc {y}})}{93}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {3.4.4}Size of the priming effect}{67}{subsection.3.4.4}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.2.1}Overview}{93}{subsubsection.6.1.2.1}
+\contentsline {section}{\numberline {3.5}Direction of priming}{67}{section.3.5}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.2.2}Phonological context}{95}{subsubsection.6.1.2.2}
+\contentsline {subsection}{\numberline {3.5.1}The problem of replicating priming experiments}{67}{subsection.3.5.1}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.2.3}Age and class}{97}{subsubsection.6.1.2.3}
+\contentsline {subsection}{\numberline {3.5.2}Hay et al.'s explanation for inverted effects}{69}{subsection.3.5.2}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.2.4}Style and gender}{100}{subsubsection.6.1.2.4}
+\contentsline {subsection}{\numberline {3.5.3}Assimilation and contrast effects}{70}{subsection.3.5.3}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.2.5}Style shifting}{102}{subsubsection.6.1.2.5}
+\contentsline {section}{\numberline {3.6}Summary and implications}{73}{section.3.6}
 \defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {6.1.3}Synthesis and Pillai scores (happ\textrm {\textsc {y}})}{104}{subsection.6.1.3}
+\contentsline {chapter}{\numberline {4}Conclusion}{75}{chapter.4}
 \defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.3.1}Overview}{104}{subsubsection.6.1.3.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.1.3.2}Age means}{107}{subsubsection.6.1.3.2}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {6.2}\textrm {\textsc {nurse}}}{108}{section.6.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {6.2.1}F1 (\textrm {\textsc {nurse}})}{108}{subsection.6.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.1.1}Overview}{108}{subsubsection.6.2.1.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.1.2}Gender and class}{110}{subsubsection.6.2.1.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.1.3}Gender and age}{111}{subsubsection.6.2.1.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.1.4}Age and class}{113}{subsubsection.6.2.1.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.1.5}Style shifting}{114}{subsubsection.6.2.1.5}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {6.2.2}F2 (\textrm {\textsc {nurse}})}{118}{subsection.6.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.2.1}Overview}{118}{subsubsection.6.2.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.2.2}Phonological context}{119}{subsubsection.6.2.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.2.3}Gender and class}{121}{subsubsection.6.2.2.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.2.4}Gender and age}{123}{subsubsection.6.2.2.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.2.5}Style and social class}{125}{subsubsection.6.2.2.5}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.2.6}Age and social class}{126}{subsubsection.6.2.2.6}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.2.7}Style shifting}{128}{subsubsection.6.2.2.7}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {6.2.3}Synthesis and Pillai scores (\textrm {\textsc {nurse}})}{131}{subsection.6.2.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.3.1}Overview}{131}{subsubsection.6.2.3.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.3.2}Old speakers}{133}{subsubsection.6.2.3.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.3.3}Middle-aged speakers}{135}{subsubsection.6.2.3.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.3.4}Young speakers}{137}{subsubsection.6.2.3.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {6.2.3.5}Age means and individual differences}{138}{subsubsection.6.2.3.5}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {7}Consonant production}{143}{chapter.7}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {7.1}/ŋ(g)/}{144}{section.7.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.1.1}Overview}{144}{subsection.7.1.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.1.2}Phonological context}{144}{subsection.7.1.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.1.3}Style and gender}{147}{subsection.7.1.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.1.4}Age and social class}{149}{subsection.7.1.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.1.5}Style shifting}{152}{subsection.7.1.5}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {7.2}/k/}{153}{section.7.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.1}Overview}{153}{subsection.7.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.2}Phonological context}{155}{subsection.7.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.3}Style and gender}{157}{subsection.7.2.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.4}Style and social class}{159}{subsection.7.2.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.5}Age and gender}{161}{subsection.7.2.5}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.6}Age and social class}{164}{subsection.7.2.6}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.7}Social class and gender}{166}{subsection.7.2.7}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {7.2.8}Style shifting}{167}{subsection.7.2.8}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {8}Awareness, comments, evaluation}{173}{chapter.8}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {8.1}Scouse and `Liverpoolness'}{173}{section.8.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.1.1}Accent and identity}{173}{subsection.8.1.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.1.2}Distinctness, geographical spread, and `plastic' Scousers}{174}{subsection.8.1.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.1.3}In the north, but not of it?}{176}{subsection.8.1.3}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {8.2}Features of Scouse}{179}{section.8.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.2.1}Geographical variation}{179}{subsection.8.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.2.2}Suprasegmentals}{180}{subsection.8.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.2.2.1}Voice quality}{180}{subsubsection.8.2.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.2.2.2}Intonation}{180}{subsubsection.8.2.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.2.3}Phonological variables}{181}{subsection.8.2.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.2.3.1}\textsc {nurse}-\textsc {square} merger}{182}{subsubsection.8.2.3.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.2.3.2}Lenition of /k/}{184}{subsubsection.8.2.3.2}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {8.3}Evolution and evaluation of Scouse}{187}{section.8.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.3.1}Old speakers}{187}{subsection.8.3.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.3.1.1}Increase of `slovenly Scouse'}{187}{subsubsection.8.3.1.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.3.1.2}From `amiable' to `grating'}{189}{subsubsection.8.3.1.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.3.2}Middle-aged speakers}{190}{subsection.8.3.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.3.2.1}Kids so Scouse it's unbelievable}{190}{subsubsection.8.3.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.3.2.2}From `down-to earth' to `thick'}{191}{subsubsection.8.3.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {8.3.3}Young speakers}{193}{subsection.8.3.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.3.3.1}A matter of personal experience}{193}{subsubsection.8.3.3.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsubsection}{\numberline {8.3.3.2}`Unpleasant but friendly'}{195}{subsubsection.8.3.3.2}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {9}Discussion (production)}{199}{chapter.9}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {9.1}happ\textrm {\textsc {y}}: Indicator (of northernness)}{199}{section.9.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.1.1}Overall age differences}{199}{subsection.9.1.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.1.2}Gender and class}{200}{subsection.9.1.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.1.3}Style shifting and awareness}{202}{subsection.9.1.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.1.4}Classification}{203}{subsection.9.1.4}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {9.2}\textrm {\textsc {nurse}}: Marker to stereotype and back again}{203}{section.9.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.2.1}Overall age differences}{203}{subsection.9.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.2.2}Gender and social class}{206}{subsection.9.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.2.3}Style shifting and awareness}{208}{subsection.9.2.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.2.4}Classification}{210}{subsection.9.2.4}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {9.3}Velar nasal plus: Indicator with prestige option}{210}{section.9.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.3.1}Age, class, and gender}{210}{subsection.9.3.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.3.2}Style shifting and awareness}{212}{subsection.9.3.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.3.3}Classification}{213}{subsection.9.3.3}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {9.4}Lenition: From indicator to stereotype}{214}{section.9.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.4.1}Age}{214}{subsection.9.4.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.4.2}Gender and class}{215}{subsection.9.4.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.4.3}Style shifting}{216}{subsection.9.4.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.4.4}Awareness and attitudes}{218}{subsection.9.4.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {9.4.5}Classification}{219}{subsection.9.4.5}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {9.5}Summary}{220}{section.9.5}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {10}Experiment design}{223}{chapter.10}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {10.1}Stimuli}{223}{section.10.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {10.1.1}Stimuli sentences and frequency of keywords}{223}{subsection.10.1.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {10.1.2}Vowel stimuli}{227}{subsection.10.1.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {10.1.3}Consonant stimuli}{228}{subsection.10.1.3}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {10.2}Presentation}{230}{section.10.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {10.2.1}Online platform}{230}{subsection.10.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {10.2.2}Reaction times}{233}{subsection.10.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {10.3}Participants}{234}{section.10.3}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {10.4}Statistical analysis}{237}{section.10.4}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {11}Perception results}{239}{chapter.11}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {11.1}happ\textrm {\textsc {y}}}{240}{section.11.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.1.1}Overview}{240}{subsection.11.1.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.1.2}Prime}{241}{subsection.11.1.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.1.3}Position of carrier word}{242}{subsection.11.1.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.1.4}Geographical distance}{243}{subsection.11.1.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.1.5}Frequency}{245}{subsection.11.1.5}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.1.6}Age}{246}{subsection.11.1.6}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {11.2}\textrm {\textsc {nurse}}}{247}{section.11.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.2.1}Overview}{247}{subsection.11.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.2.2}Prime}{248}{subsection.11.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.2.3}Position of carrier word}{249}{subsection.11.2.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.2.4}Stimulus order}{250}{subsection.11.2.4}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {11.3}/ŋ(g)/}{253}{section.11.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.3.1}Overview}{253}{subsection.11.3.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.3.2}Prime}{255}{subsection.11.3.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.3.3}Phonological context}{256}{subsection.11.3.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.3.4}Age}{257}{subsection.11.3.4}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {11.4}/k/}{259}{section.11.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.4.1}Overview}{259}{subsection.11.4.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.4.2}Prime and social class}{260}{subsection.11.4.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.4.3}Phonological context}{264}{subsection.11.4.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.4.4}Geographical distance}{266}{subsection.11.4.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {11.4.5}Frequency}{267}{subsection.11.4.5}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {12}Discussion (Perception)}{269}{chapter.12}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {12.1}Priming and salience}{269}{section.12.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.1.1}Salient vs. non-salient variables}{269}{subsection.12.1.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.1.2}Degree of priming and accuracy}{270}{subsection.12.1.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.1.3}Salience as likelihood of remembrance}{271}{subsection.12.1.3}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {12.2}Social factors}{274}{section.12.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.2.1}Social class}{274}{subsection.12.2.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.2.2}Gender}{276}{subsection.12.2.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.2.3}Age}{276}{subsection.12.2.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.2.4}Geographical distance}{278}{subsection.12.2.4}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {12.3}Non-social factors}{279}{section.12.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.3.1}Time held in memory}{279}{subsection.12.3.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.3.2}Stimulus order}{281}{subsection.12.3.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.3.3}Phonological environment}{282}{subsection.12.3.3}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {12.4}Issues and limitations}{285}{section.12.4}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.4.1}The problem of velar nasal plus}{285}{subsection.12.4.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.4.2}Comparability with previous research}{287}{subsection.12.4.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.4.3}The issue of frequency}{288}{subsection.12.4.3}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.4.4}Size of the priming effect}{289}{subsection.12.4.4}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {12.5}Direction of priming}{289}{section.12.5}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.5.1}The problem of replicating priming experiments}{290}{subsection.12.5.1}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.5.2}Hay et al.'s explanation for inverted effects}{291}{subsection.12.5.2}
-\defcounter {refsection}{0}\relax
-\contentsline {subsection}{\numberline {12.5.3}Assimilation and contrast effects}{292}{subsection.12.5.3}
-\defcounter {refsection}{0}\relax
-\contentsline {section}{\numberline {12.6}Summary and implications}{295}{section.12.6}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\numberline {13}Conclusion}{299}{chapter.13}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\nonumberline Appendix~A: Questionnaire}{303}{appendix.A}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\nonumberline Appendix~B: Reading passage}{309}{appendix.B}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\nonumberline Appendix~C: Word list}{311}{appendix.C}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\nonumberline Appendix~D: Stimuli for perception test}{313}{appendix.D}
-\defcounter {refsection}{0}\relax
-\contentsline {chapter}{\nonumberline References}{317}{chapter*.153}
+\contentsline {chapter}{\nonumberline References}{79}{chapter*.431}
