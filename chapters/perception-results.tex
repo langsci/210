@@ -37,18 +37,18 @@ For this reason the factor was kept in the model.
 \begin{table}[h]
 	\caption{happ\textsc{y} (perception): mixed-effects ordinal regression}
 	\centering
-	\begin{tabular}{p{0.2\textwidth}rrrrl}
+	\begin{tabular}{p{0.3\textwidth}rrrrl}
 		\hline
 		Fixed effects: & Estimate & Std. Error &  z value & Pr($>$$|$z$|$) & \\ 
 		\hline
-		Position[final] & -0.932 & 0.091 & -10.194 & <0.001 & ***\\ 
-		Distance & 0.169 & 0.093 & 1.811 & 0.070 & .\\ 
+		POSfinal & -0.932 & 0.091 & -10.194 & <0.001 & ***\\ 
+		DISTANCE & 0.169 & 0.093 & 1.811 & 0.070 & .\\ 
 		\hline
 		Random effects: & & & & & \\
 		Groups &         Name & Variance &      Std.Dev. & & \\
-		Questionnaire &  (Intercept) & 0.162 & 0.402 & & \\
-		Questionnaire & Token      & <0.001 & <0.001 & & \\
-		\multicolumn{3}{l}{(number of obs: 516, groups: Questionnaire, 55)} & & & \\
+		QUESTIONNAIRE &  (Intercept) & 0.162 & 0.402 & & \\
+		QUESTIONNAIRE & TOKEN      & <0.001 & <0.001 & & \\
+		\multicolumn{3}{l}{(number of obs: 516, groups: QUESTIONNAIRE, 55)} & & & \\
 		\hline
 	\end{tabular}
 \end{table}
@@ -201,20 +201,20 @@ No significant interactions of prime\is{priming} and any of the other factors co
 \begin{table}[h]
 	\caption{\textsc{nurse} (perception): mixed-effects ordinal regression}
 	\centering
-	\begin{tabular}{p{0.2\textwidth}rrrrl}
+	\begin{tabular}{p{0.3\textwidth}rrrrl}
 		\hline
 		Fixed effects: & Estimate & Std. Error & z value & Pr($>$$|$z$|$) & \\ 
 		\hline
-		Prime[Liverpool] & -0.325 & 0.125 & -2.599 & 0.009 & **\\ 
-		Token & -0.011 & 0.007 & -1.621 & 0.105 & \\ 
-		Position[final] & 0.395 & 0.098 & 4.031 & < 0.001 & ***\\ 
-		Prime[Liv.]:Position[final] & 0.183 & 0.095 & 1.913 & 0.056 & .\\
+		PRIMELiv & -0.325 & 0.125 & -2.599 & 0.009 & **\\ 
+		TOKEN & -0.011 & 0.007 & -1.621 & 0.105 & \\ 
+		POSfinal & 0.395 & 0.098 & 4.031 & < 0.001 & ***\\ 
+		PRIMELiv:POSfinal & 0.183 & 0.095 & 1.913 & 0.056 & .\\
 		\hline
 		Random effects: & & & & &\\
 		Groups & Name & Variance &      Std.Dev. & &  \\
-		Questionnaire &  (Intercept) & 0.219 & 0.469 & & \\
-		Questionnaire & Token      & <0.001 & 0.014 & & \\
-		\multicolumn{3}{l}{(number of obs: 547, groups: Questionnaire, 55)} & & & \\
+		QUESTIONNAIRE &  (Intercept) & 0.219 & 0.469 & & \\
+		QUESTIONNAIRE & TOKEN      & <0.001 & 0.014 & & \\
+		\multicolumn{3}{l}{(number of obs: 547, groups: QUESTIONNAIRE, 55)} & & & \\
 		\hline
 	\end{tabular}
 \end{table}
@@ -354,19 +354,19 @@ The minimal adequate model for velar nasal plus is, once more, a rather simple o
 \begin{table}
 	\caption{/ŋ(g)/ (perception): mixed-effects ordinal regression}
 	\centering
-	\begin{tabular}{p{0.2\textwidth}rrrrl}
+	\begin{tabular}{p{0.3\textwidth}rrrrl}
 		\hline
 		Fixed effects: & Estimate & Std. Error & z value & Pr($>$$|$z$|$) & \\ 
 		\hline
-		Prime[Liverpool] & -0.250 & 0.145 & -1.723 & 0.085 & .\\ 
-		Age & -0.025 & 0.015 & -1.700 & 0.089 & .\\ 
-		Environment[\_\#] & 0.239 & 0.084 & 2.854 & < 0.01 & ** \\ 
+		PRIMELiv & -0.250 & 0.145 & -1.723 & 0.085 & .\\ 
+		AGE & -0.025 & 0.015 & -1.700 & 0.089 & .\\ 
+		ENVIR\_\# & 0.239 & 0.084 & 2.854 & < 0.01 & ** \\ 
 		\hline
 		Random effects: & & & & & \\
 		Groups & Name & Variance & Std.Dev. & & \\
-		Questionnaire &  (Intercept) & 0.653 & 0.808 & & \\
-		Questionnaire & Token & <0.001 & 0.010 & & \\
-		\multicolumn{3}{l}{(number of obs: 534, groups: Questionnaire, 55)} & & &\\
+		QUESTIONNAIRE &  (Intercept) & 0.653 & 0.808 & & \\
+		QUESTIONNAIRE & TOKEN & <0.001 & 0.010 & & \\
+		\multicolumn{3}{l}{(number of obs: 534, groups: QUESTIONNAIRE, 55)} & & &\\
 		\hline
 	\end{tabular}
 \end{table}
@@ -392,7 +392,7 @@ Tokens 2 (actual, long nasal) and 3 (`Liverpool', nasal plus burst) together acc
 Participants who were in the `Manchester' condition then chose tokens 1 and 3 equally often, namely in around 10\% of cases each.
 Subjects who thought the speaker was from Liverpool clearly preferred the hyper-standard token 1 (shortened nasal) to the hyper-Liverpudlian token 4 (nasal plus burst and aspiration).
 Apart from this difference, \isi{priming} also manifests itself when we look at tokens 2 and 3: People prime\is{priming}d for Liverpool reported having perceived the long nasal slightly more often than the nasal followed by a burst, whereas the opposite is true for participants who were correctly told the speaker was from Manchester.
-This graph thus looks very similar to those reported in \textcite{hayetal2006a, haydrager2010}, with the peak of the distribution falling on one token for the first condition (`Liverpool', token 2) and on another for the second condition (`Manchester', token 3).
+This graph thus looks very similar to those reported in \citealt{hayetal2006a, haydrager2010}, with the peak of the distribution falling on one token for the first condition (`Liverpool', token 2) and on another for the second condition (`Manchester', token 3).
 Subjects prime\is{priming}d for Liverpool thus tend to perceive the /ŋ(g)/ stimuli more often as a long or shortened nasal than those in the control group who believed the speaker was from Manchester.
 The mixed-effects ordinal regression model did not find prime\is{priming} to be a significant predictor, but it does qualify as a statistical trend (p = 0.085) and a less conservative \(\chi\)\textsuperscript{2}-test on the raw data actually finds this effect to be very significant (\(\chi\)\textsuperscript{2} = 12.876, \emph{df} = 3; p = 0.005).
 While the effect is not as statistically robust as for \textsc{nurse}, then, it seems as if there might at least be some \isi{priming} going on for velar nasal plus as well.
@@ -488,21 +488,21 @@ Model selection based on AIC scores and F-tests comparing nested models resulted
 \begin{table}
 	\caption{/k/ (perception): mixed-effects ordinal regression}
 	\centering
-	\begin{tabular}{p{0.2\textwidth}rrrrl}
+	\begin{tabular}{p{0.3\textwidth}rrrrl}
 		\hline
 		Fixed effects: & Estimate & Std. Error & z value & Pr($>$$|$z$|$) & \\ 
 		\hline
-		Prime[Liverpool] & 0.048 & 0.199 & 0.240 & 0.810 & \\ 
-		ClassSubj[mc] & 0.622 & 0.200 & 3.110 & < 0.01 & **\\ 
-		Environment[\_\#] & -0.391 & 0.104 & -3.764 & < 0.001 & ***\\ 
-		Distance & 0.232 & 0.121 & 1.912 & 0.056 & .\\ 
-		Prime[Liv.]:Class[mc] & -0.373 & 0.199 & -1.870 & 0.061 & .\\ 
+		PRIMELiv & 0.048 & 0.199 & 0.240 & 0.810 & \\ 
+		CLASSmc & 0.622 & 0.200 & 3.110 & < 0.01 & **\\ 
+		ENVIR\_\# & -0.391 & 0.104 & -3.764 & < 0.001 & ***\\ 
+		DISTANCE & 0.232 & 0.121 & 1.912 & 0.056 & .\\ 
+		PRIMELiv:CLASSmc & -0.373 & 0.199 & -1.870 & 0.061 & .\\ 
 		\hline
 		Random effects: & & & & & \\
 		Groups & Name & Variance & Std.Dev. & &  \\
-		Questionnaire &  (Intercept) & 0.227 & 0.477 & &  \\
-		Questionnaire & Token      & <0.001 & <0.001 & &  \\
-		\multicolumn{3}{l}{(number of obs: 522, groups: Questionnaire, 55)} & & & \\
+		QUESTIONNAIRE &  (Intercept) & 0.227 & 0.477 & &  \\
+		QUESTIONNAIRE & TOKEN      & <0.001 & <0.001 & &  \\
+		\multicolumn{3}{l}{(number of obs: 522, groups: QUESTIONNAIRE, 55)} & & & \\
 		\hline
 	\end{tabular}
 \end{table}

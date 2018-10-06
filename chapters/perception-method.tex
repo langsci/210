@@ -86,7 +86,7 @@ She used her native Mancunian accent, meaning that \textsc{nurse} was realised a
 
 The stimuli participants had to choose from were created in Praat.
 A script extracted the key word from every sentence, manipulated the relevant sound and saved the resulting four different versions of the word.
-This study differs from many previous studies, e.g. \cite{hayetal2006a} or \cite{niedzielski1999}, in that participants were presented with whole words \emph{containing} manipulated sounds instead of just individual vowels.
+This study differs from many previous studies, e.g. \citealt{hayetal2006a} or \citealt{niedzielski1999}, in that participants were presented with whole words \emph{containing} manipulated sounds instead of just individual vowels.
 This choice was made because
 \begin{inparaenum}[(a)]
 	\item it made the experimental situation ever so slightly less artificial, and
@@ -213,7 +213,7 @@ This pilot study did not reveal any problems, so the investigation proper was ca
 \subsection{Online platform}
 \label{sec.perc_method.pres.platform}
 
-The actual test was administered online using SoSciSurvey.de \parencite{sosci}, a professional tool for academic online surveys and questionnaires.
+The actual test was administered online using \textcite{sosci}, a professional tool for academic online surveys and questionnaires.
 The platform uses flash to play audio and video files.
 Although declining in importance, flash is still installed on most desktop and laptop computers (though not on tablets and smartphones) so the vast majority of potential subjects should have had no technical problems related to the website.
 Nevertheless, participants first of all had to answer a filter question to make sure they had flash installed and activated and could actually play the sound recordings.
@@ -320,7 +320,7 @@ As a consequence of these restrictions, it was possible for subjects to make the
 It would have been quite easy to filter out all of these premature answers by simply eliminating all observations with negative RTs from the dataset.
 This course of action was not taken for two reasons.
 The first one is comparability with previous research.
-Neither \textcite{niedzielski1999} nor \textcite{hayetal2006b,haydrager2010} even recorded reaction times and responses were given on a physical answer sheet so it is quite possible that these studies were, in part, based on answers that had been given before subjects had listened to all of their options.
+Neither \citealt{niedzielski1999} nor \citealt{hayetal2006b,haydrager2010} even recorded reaction times and responses were given on a physical answer sheet so it is quite possible that these studies were, in part, based on answers that had been given before subjects had listened to all of their options.
 The second, more important reason, is that it does not necessarily make sense to exclude an answer just because the subject did not listen to all resynthesis\is{resynthesis}ed sounds first.
 After all, this study is interested in finding out how (stereotypical\is{stereotype}) expectations influence people's perception.
 The claim that at least some expectations and \isi{attitude}s will prime\is{priming} people to perceive particular sounds \emph{implies} that at least to a certain extent the choice is already made before subjects can really process the physical signal and this might well show in negative RTs.
@@ -416,7 +416,7 @@ However, the data collected by the experiment described above are not ratio or i
 While answers are expressed in numbers (token 1, 2, 3, or 4), these are really labels for 4 distinct\is{distinctness} categories rather than measurements on a continuous scale.
 There is no guarantee, for instance, that the (perceptual) distance from token 1 to token 2 is identical to that between tokens 2 and 3 (although this \emph{was} the aim when creating the tokens; cf. Sections \ref{sec.perc_method.vow} and \ref{sec.perc_method.con}) --- which is what the values suggest when they are being treated as numerical measurements.
 On the other hand, the data \emph{are} ordered in a way (from most standard/Mancunian to most Liverpool), so while choosing token 4 instead of token 3 might not be the same as choosing 3 instead of 2 in terms of \isi{perceptual distance}, higher values do in all cases represent a more Liverpool-like percept than lower values --- much in the same way that, say, a higher RT always mean that a subject took more time to respond than another one with a lower RT.
-It was therefore decided not to follow \textcite{hayetal2006a,haydrager2010} in treating the answers as numerical data for the purposes of statistical modelling.
+It was therefore decided not to follow \citealt{hayetal2006a,haydrager2010} in treating the answers as numerical data for the purposes of statistical modelling.
 Instead, the R package `ordinal' \parencite{Rordinal} was used to calculate cumulative link mixed ordered regression models via the Laplace approximation.
 
 Subject was entered as a random intercept (cf. Section \ref{sec.prod_method.stats}), and a random by-subject slope for stimulus order was also included to counter any individual training or fatigue effects.

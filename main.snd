@@ -4,17 +4,17 @@
 		\hyperindexformat{\see {accent performance}}{313}
   \item accent performance, \hyperpage{10}, \hyperpage{16}, 
 		\hyperpage{33}, \hyperpage{46}, \hyperpage{58}, 
-		\hyperpage{62}, \hyperpage{81}, \hyperpage{91--93}, 
-		\hyperpage{100--104}, \hyperpage{114, 115}, 
-		\hyperpage{117}, \hyperpage{125, 126}, 
-		\hyperpage{129--132}, \hyperpage{134--136}, 
-		\hyperpage{138}, \hyperpage{143}, \hyperpage{147--149}, 
-		\hyperpage{152, 153}, \hyperpage{157--161}, 
-		\hyperpage{167--171}, \hyperpage{176}, \hyperpage{181}, 
-		\hyperpage{185}, \hyperpage{193}, \hyperpage{196}, 
-		\hyperpage{201, 202}, \hyperpage{204, 205}, 
-		\hyperpage{208, 209}, \hyperpage{211--213}, 
-		\hyperpage{215--218}, \hyperpage{220}, \hyperpage{235}
+		\hyperpage{62}, \hyperpage{81}, \hyperpage{91, 92}, 
+		\hyperpage{100--104}, \hyperpage{115--118}, 
+		\hyperpage{125, 126}, \hyperpage{129--132}, 
+		\hyperpage{134, 135}, \hyperpage{137}, \hyperpage{143}, 
+		\hyperpage{147--149}, \hyperpage{152, 153}, 
+		\hyperpage{158--161}, \hyperpage{168--171}, 
+		\hyperpage{176}, \hyperpage{181}, \hyperpage{185}, 
+		\hyperpage{193}, \hyperpage{196}, \hyperpage{201, 202}, 
+		\hyperpage{204, 205}, \hyperpage{208, 209}, 
+		\hyperpage{211--213}, \hyperpage{215--218}, 
+		\hyperpage{220}, \hyperpage{235}
   \item activation, \hyperpage{49--56}, \hyperpage{223}, 
 		\hyperpage{235}, \hyperpage{252}, \hyperpage{263}, 
 		\hyperpage{272--275}, \hyperpage{278, 279}, 
@@ -29,7 +29,7 @@
   \item \igobble , 
 		\hyperindexformat{\langsciseealso {contrast effect}}{313}
   \item attention, \hyperpage{4}, \hyperpage{42, 43}, 
-		\hyperpage{54--56}, \hyperpage{58}, \hyperpage{156}, 
+		\hyperpage{54--56}, \hyperpage{58}, \hyperpage{157}, 
 		\hyperpage{213}, \hyperpage{217}, \hyperpage{231}, 
 		\hyperpage{271--275}, \hyperpage{283}
   \item attitude, \hyperpage{2}, \hyperpage{4}, \hyperpage{44}, 
@@ -66,7 +66,7 @@
 		\hyperpage{24}, \hyperpage{31}, \hyperpage{34}, 
 		\hyperpage{36}, \hyperpage{40--42}, \hyperpage{47}, 
 		\hyperpage{59}, \hyperpage{81}, \hyperpage{108}, 
-		\hyperpage{128}, \hyperpage{151, 152}, \hyperpage{164}, 
+		\hyperpage{129}, \hyperpage{151, 152}, \hyperpage{164}, 
 		\hyperpage{187--191}, \hyperpage{193--195}, 
 		\hyperpage{197}, \hyperpage{199--201}, 
 		\hyperpage{203, 204}, \hyperpage{206--208}, 
@@ -78,7 +78,7 @@
 		\hyperpage{21}
   \item circularity, \hyperpage{40, 41}
   \item collinearity, \hyperpage{80}, \hyperpage{83}, \hyperpage{93}, 
-		\hyperpage{108}, \hyperpage{118}, \hyperpage{120}, 
+		\hyperpage{108}, \hyperpage{118}, \hyperpage{121}, 
 		\hyperpage{144}, \hyperpage{153}, \hyperpage{238}, 
 		\hyperpage{240}, \hyperpage{247}, \hyperpage{253, 254}, 
 		\hyperpage{258}, \hyperindexformat{\infn {3}}{259}, 
@@ -98,10 +98,10 @@
   \item distinctness, \hyperpage{9, 10}, \hyperpage{12}, \hyperpage{15}, 
 		\hyperpage{25, 26}, \hyperpage{30, 31}, \hyperpage{43}, 
 		\hyperpage{46, 47}, \hyperpage{69}, \hyperpage{71--73}, 
-		\hyperpage{114}, \hyperpage{134}, \hyperpage{136}, 
-		\hyperpage{140}, \hyperpage{162, 163}, 
-		\hyperpage{174--178}, \hyperpage{180}, \hyperpage{182}, 
-		\hyperpage{185}, \hyperpage{187}, \hyperpage{199, 200}, 
+		\hyperpage{115}, \hyperpage{134}, \hyperpage{137}, 
+		\hyperpage{141}, \hyperpage{163}, \hyperpage{174--178}, 
+		\hyperpage{180}, \hyperpage{182}, \hyperpage{185}, 
+		\hyperpage{187}, \hyperpage{199, 200}, 
 		\hyperpage{204--206}, \hyperpage{211}, \hyperpage{215}, 
 		\hyperpage{219, 220}, \hyperpage{238}, \hyperpage{271}, 
 		\hyperpage{277}, \hyperpage{295}
@@ -131,7 +131,7 @@
   \item \igobble , \hyperindexformat{\langsciseealso {activation}}{313}
   \item frequency, \hyperpage{27}, \hyperpage{30}, \hyperpage{37}, 
 		\hyperpage{42}, \hyperpage{53, 54}, \hyperpage{77--79}, 
-		\hyperpage{83}, \hyperpage{86, 87}, \hyperpage{92--95}, 
+		\hyperpage{83}, \hyperpage{86}, \hyperpage{92--95}, 
 		\hyperpage{97}, \hyperpage{108}, \hyperpage{110}, 
 		\hyperpage{144}, \hyperpage{155}, \hyperpage{214}, 
 		\hyperpage{224, 225}, \hyperpage{238}, 
@@ -155,7 +155,7 @@
   \indexspace
 
   \item hypercorrection, \hyperpage{33}, \hyperpage{44, 45}, 
-		\hyperpage{47}, \hyperpage{56}, \hyperpage{129}, 
+		\hyperpage{47}, \hyperpage{56}, \hyperpage{130}, 
 		\hyperpage{201}, \hyperpage{204--210}, \hyperpage{217}, 
 		\hyperpage{221}, \hyperpage{299}
   \item \igobble , 
@@ -176,7 +176,7 @@
 		\hyperpage{24}, \hyperpage{57, 58}, \hyperpage{175}, 
 		\hyperpage{189}, \hyperpage{197}, \hyperpage{221}, 
 		\hyperpage{299}
-  \item indexation, \hyperpage{48}, \hyperpage{50, 51}, \hyperpage{252}, 
+  \item indexation, \hyperpage{48--51}, \hyperpage{252}, 
 		\hyperpage{272}, \hyperpage{274}
   \item indexicality, \hyperpage{15, 16}, \hyperpage{46}
   \item \igobble , 
@@ -240,26 +240,24 @@
   \indexspace
 
   \item PDF, \hyperpage{63}, \hyperpage{144--147}, \hyperpage{149--151}, 
-		\hyperpage{153}, \hyperpage{155--158}, 
+		\hyperpage{153}, \hyperpage{155--159}, 
 		\hyperpage{161--171}, \hyperpage{187}, 
 		\hyperpage{211, 212}, \hyperpage{214--217}
   \item perceptual distance, \hyperpage{227, 228}, \hyperpage{238}
   \item phonetic distance, \hyperpage{271}, \hyperpage{300, 301}
-  \item phonological context, \hyperpage{27--30}, \hyperpage{34}, 
+  \item phonological context, \hyperpage{27--31}, \hyperpage{34}, 
 		\hyperpage{74}, \hyperpage{78, 79}, \hyperpage{83}, 
 		\hyperpage{95}, \hyperpage{97}, \hyperpage{110}, 
-		\hyperpage{119, 120}, \hyperpage{144, 145}, 
-		\hyperpage{147}, \hyperpage{153}, \hyperpage{155--157}, 
-		\hyperpage{213}, \hyperpage{224}, \hyperpage{230}, 
-		\hyperpage{238}, \hyperpage{253, 254}, 
-		\hyperpage{256--259}, 
-		\hyperindexformat{\infn {3}}{260}, 
+		\hyperpage{120}, \hyperpage{144, 145}, \hyperpage{147}, 
+		\hyperpage{153}, \hyperpage{155--157}, \hyperpage{213}, 
+		\hyperpage{224}, \hyperpage{230}, \hyperpage{238}, 
+		\hyperpage{253, 254}, \hyperpage{256--258}, 
+		\hyperindexformat{\infn {3}}{259}, \hyperpage{259}, 
 		\hyperpage{264--266}, \hyperpage{282--285}, 
 		\hyperpage{296}, \hyperpage{300}
   \item Pillai, \hyperpage{66}, \hyperpage{71--74}, 
-		\hyperpage{106--108}, \hyperpage{131--134}, 
-		\hyperpage{139, 140}, \hyperpage{199}, 
-		\hyperpage{204, 205}
+		\hyperpage{106--108}, \hyperpage{132--134}, 
+		\hyperpage{140}, \hyperpage{199}, \hyperpage{204, 205}
   \item plastic Scouse(r), \hyperpage{175, 176}, \hyperpage{196, 197}, 
 		\hyperpage{220}, \hyperpage{299}
   \item \igobble , 
@@ -273,9 +271,9 @@
 		\hyperpage{223, 224}, 
 		\hyperindexformat{\infn {1}}{226}, 
 		\hyperindexformat{\infn {2}}{232}, 
-		\hyperpage{234, 235}, \hyperpage{237--259}, 
-		\hyperindexformat{\infn {3}}{260}, 
-		\hyperpage{260--296}, \hyperpage{299--301}
+		\hyperpage{234, 235}, \hyperpage{237--258}, 
+		\hyperindexformat{\infn {3}}{259}, 
+		\hyperpage{259--296}, \hyperpage{299--301}
   \item \igobble , 
 		\hyperindexformat{\langsciseealso {assimilation effect}}{313}, 
 		\hyperindexformat{\langsciseealso {contrast effect}}{313}
@@ -297,14 +295,13 @@
 		\hyperpage{31, 32}, \hyperpage{35}, \hyperpage{37--47}, 
 		\hyperpage{53}, \hyperpage{55--57}, \hyperpage{63}, 
 		\hyperpage{73}, \hyperpage{79}, \hyperpage{91}, 
-		\hyperpage{128}, \hyperpage{161}, \hyperpage{169}, 
-		\hyperpage{171}, \hyperpage{183, 184}, 
-		\hyperpage{200, 201}, \hyperpage{203--210}, 
-		\hyperpage{213--216}, \hyperpage{218, 219}, 
-		\hyperpage{221--223}, \hyperpage{239, 240}, 
-		\hyperpage{249}, \hyperpage{260}, \hyperpage{263}, 
-		\hyperpage{265}, \hyperpage{267}, \hyperpage{269}, 
-		\hyperpage{271--277}, \hyperpage{279}, 
+		\hyperpage{129}, \hyperpage{161}, \hyperpage{170, 171}, 
+		\hyperpage{183, 184}, \hyperpage{200, 201}, 
+		\hyperpage{203--210}, \hyperpage{213--216}, 
+		\hyperpage{218, 219}, \hyperpage{221--223}, 
+		\hyperpage{239, 240}, \hyperpage{249}, \hyperpage{260}, 
+		\hyperpage{263}, \hyperpage{265}, \hyperpage{267}, 
+		\hyperpage{269}, \hyperpage{271--277}, \hyperpage{279}, 
 		\hyperpage{282--290}, \hyperpage{294--296}, 
 		\hyperpage{299--301}
   \item Scottish, \hyperpage{9}, \hyperpage{13}, \hyperpage{36, 37}, 
@@ -323,14 +320,13 @@
   \item stereotype, \hyperpage{1, 2}, \hyperpage{17}, \hyperpage{25}, 
 		\hyperpage{31}, \hyperpage{38}, \hyperpage{45--47}, 
 		\hyperpage{51, 52}, \hyperpage{55--57}, 
-		\hyperpage{134}, \hyperpage{136}, \hyperpage{175}, 
-		\hyperpage{181}, \hyperpage{193}, \hyperpage{197}, 
-		\hyperpage{199}, \hyperpage{201, 202}, 
-		\hyperpage{204, 205}, \hyperpage{210}, \hyperpage{213}, 
-		\hyperpage{215, 216}, \hyperpage{218--222}, 
-		\hyperpage{234, 235}, \hyperpage{273}, 
-		\hyperpage{275, 276}, \hyperpage{281}, \hyperpage{286}, 
-		\hyperpage{292}, \hyperpage{295}
+		\hyperpage{134, 135}, \hyperpage{175}, \hyperpage{181}, 
+		\hyperpage{193}, \hyperpage{197}, \hyperpage{199}, 
+		\hyperpage{201, 202}, \hyperpage{204, 205}, 
+		\hyperpage{210}, \hyperpage{213}, \hyperpage{215, 216}, 
+		\hyperpage{218--222}, \hyperpage{234, 235}, 
+		\hyperpage{273}, \hyperpage{275, 276}, \hyperpage{281}, 
+		\hyperpage{286}, \hyperpage{292}, \hyperpage{295}
   \item \igobble , \hyperindexformat{\langsciseealso {shibboleth}}{313}
   \item stigmatisation, \hyperpage{2}, \hyperpage{13}, \hyperpage{25}, 
 		\hyperpage{40}, \hyperpage{44}, \hyperpage{46}, 
@@ -341,11 +337,11 @@
   \item style shifting, \hyperpage{29}, \hyperpage{44, 45}, 
 		\hyperpage{47}, \hyperpage{56}, \hyperpage{79}, 
 		\hyperpage{82}, \hyperpage{91, 92}, 
-		\hyperpage{103, 104}, \hyperpage{114, 115}, 
-		\hyperpage{117}, \hyperpage{129}, \hyperpage{152}, 
-		\hyperpage{167--171}, \hyperpage{202, 203}, 
-		\hyperpage{208--210}, \hyperpage{212, 213}, 
-		\hyperpage{216--222}, \hyperpage{283}
+		\hyperpage{103, 104}, \hyperpage{115, 116}, 
+		\hyperpage{130}, \hyperpage{152}, \hyperpage{168--171}, 
+		\hyperpage{202, 203}, \hyperpage{208--210}, 
+		\hyperpage{212, 213}, \hyperpage{216--222}, 
+		\hyperpage{283}
   \item surprisal, \hyperpage{41, 42}, \hyperpage{54}
 
   \indexspace
@@ -359,9 +355,9 @@
 
   \indexspace
 
-  \item vowel duration, \hyperpage{79}, \hyperpage{86}, 
+  \item vowel duration, \hyperpage{78, 79}, \hyperpage{86}, 
 		\hyperpage{92, 93}, \hyperpage{96, 97}, 
-		\hyperpage{103}, \hyperpage{110}, \hyperpage{120}, 
+		\hyperpage{103}, \hyperpage{110}, \hyperpage{121}, 
 		\hyperpage{202}
 
   \indexspace
@@ -378,8 +374,7 @@
 		\hyperpage{224, 225}, \hyperpage{238}, 
 		\hyperindexformat{\infn {1}}{240}, \hyperpage{240}, 
 		\hyperpage{245--247}, \hyperpage{253}, 
-		\hyperindexformat{\infn {2}}{254}, 
-		\hyperindexformat{\infn {3}}{259}, \hyperpage{259}, 
-		\hyperpage{267}
+		\hyperindexformat{\infn {2}}{254}, \hyperpage{258}, 
+		\hyperindexformat{\infn {3}}{259}, \hyperpage{267}
 
 \end{theindex}

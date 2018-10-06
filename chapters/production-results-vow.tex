@@ -64,28 +64,28 @@ The minimal adequate model for F1 of happ\textsc{y} (R\textsuperscript{2}-equiva
 		\caption{happ\textsc{y} (F1): mixed linear effects regression}
 		\label{tab.regression.happy.f1}
 		\footnotesize
-		\begin{tabular}{p{0.25\textwidth}rrrrrl}
+		\begin{tabular}{p{0.3\textwidth}rrrrrl}
 			\hline
 			Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\ 
 			\hline
 			(Intercept) & 0.69 & 0.03 & 178.02 & 24.42 & < 0.001 & *** \\ 
-			STYLE[list] & -0.06 & 0.03 & 1901.45 & -2.04 & 0.04 & * \\ 
-			STYLE[reading] & 0.02 & 0.01 & 1553.02 & 1.33 & 0.18 & \\ 
-			STYLE[free] & 0.05 & 0.01 & 954.42 & 4.72 & < 0.001 & *** \\ 
-			AGE[56-85] & -0.01 & 0.00 & 2114.86 & -2.96 & < 0.01 & **\\ 
-			AGE[30-55] & -0.00 & 0.00 & 2109.14 & -0.33 & 0.74 & \\ 
-			GENDER[female] & -0.02 & 0.00 & 2111.94 & -5.87 & < 0.001 & *** \\ 
-			CLASS[mc] & 0.01 & 0.00 & 2115.13 & 4.06 & < 0.001 & *** \\ 
+			STYLElist & -0.06 & 0.03 & 1901.45 & -2.04 & 0.04 & * \\ 
+			STYLEread & 0.02 & 0.01 & 1553.02 & 1.33 & 0.18 & \\ 
+			STYLEfree & 0.05 & 0.01 & 954.42 & 4.72 & < 0.001 & *** \\ 
+			AGE56-85 & -0.01 & 0.00 & 2114.86 & -2.96 & < 0.01 & **\\ 
+			AGE30-55 & -0.00 & 0.00 & 2109.14 & -0.33 & 0.74 & \\ 
+			GENDERf & -0.02 & 0.00 & 2111.94 & -5.87 & < 0.001 & *** \\ 
+			CLASSmc & 0.01 & 0.00 & 2115.13 & 4.06 & < 0.001 & *** \\ 
 			ZIPF & 0.01 & 0.01 & 106.00 & 1.73 & 0.09 & .\\ 
 			DURATION & -0.00 & 0.00 & 2114.64 & -2.53 & 0.01 & *\\ 
-			POSTMANNER[affricate] & -0.05 & 0.02 & 2103.57 & -3.05 & < 0.01 & ** \\ 
-			POSTMANNER[fricative] & 0.01 & 0.01 & 2103.23 & 1.00 & 0.32 & \\ 
-			POSTMANNER[glide] & 0.00 & 0.01 & 2076.64 & 0.80 & 0.42 & \\ 
-			POSTMANNER[liquid] & 0.01 & 0.01 & 1993.46 & 1.11 & 0.27 & \\ 
-			POSTMANNER[nasal] & 0.04 & 0.01 & 2105.78 & 5.05 & < 0.001 & *** \\ 
-			AGE[56-85]:GENDER[female] & -0.03 & 0.00 & 2115.77 & -6.71 & < 0.001 & *** \\ 
-			AGE[30-55]:GENDER[female] & 0.01 & 0.00 & 2114.16 & 3.14 & < 0.01 & ** \\ 
-			GENDER[female]:CLASS[mc] & 0.01 & 0.00 & 2093.34 & 2.69 & 0.01 & **\\ 
+			POSTMANNERaffr & -0.05 & 0.02 & 2103.57 & -3.05 & < 0.01 & ** \\ 
+			POSTMANNERfric & 0.01 & 0.01 & 2103.23 & 1.00 & 0.32 & \\ 
+			POSTMANNERgli & 0.00 & 0.01 & 2076.64 & 0.80 & 0.42 & \\ 
+			POSTMANNERliq & 0.01 & 0.01 & 1993.46 & 1.11 & 0.27 & \\ 
+			POSTMANNERnas & 0.04 & 0.01 & 2105.78 & 5.05 & < 0.001 & *** \\ 
+			AGE56-85:GENDERf & -0.03 & 0.00 & 2115.77 & -6.71 & < 0.001 & *** \\ 
+			AGE30-55:GENDERf & 0.01 & 0.00 & 2114.16 & 3.14 & < 0.01 & ** \\ 
+			GENDERf:CLASSmc & 0.01 & 0.00 & 2093.34 & 2.69 & 0.01 & **\\ 
 			\hline
 			Random effects: & \multicolumn{6}{l}{(number of obs: 2116, groups: WORD, 221)} \\
 			Groups &         Name & Variance &      Std.Dev. & & & \\
@@ -341,46 +341,46 @@ In the end, interactions were likewise re-entered into the regression and model 
 
 {
 	\footnotesize
-	\begin{longtable}[c]{p{0.4\textwidth}rrrrrl}
+	\begin{longtable}[c]{p{0.3\textwidth}rrrrrl}
 		\caption{happ\textsc{y} (F2): mixed linear effects regression}\label{tab.regression.happy.f2}\\
 
 		\hline
 		Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\ 
 		\hline
 		(Intercept) & 1.64 & 0.02 & 656.54 & 75.97 & < 0.001 & *** \\ 
-		STYLE[list] & 0.10 & 0.05 & 1799.79 & 1.98 & 0.05 & *\\ 
-		STYLE[reading] & -0.05 & 0.02 & 1638.38 & -2.55 & 0.01 & *\\ 
-		STYLE[free] & -0.04 & 0.02 & 1501.28 & -2.09 & 0.04 & *\\ 
-		AGE[56-85] & 0.03 & 0.02 & 1959.22 & 1.41 & 0.16 & \\ 
-		AGE[30-55] & 0.01 & 0.02 & 1947.73 & 0.36 & 0.72 & \\ 
-		GENDER[female] & 0.02 & 0.00 & 2079.61 & 6.38 & < 0.001 & *** \\ 
-		CLASS[mc] & -0.01 & 0.00 & 2081.99 & -1.88 & 0.06 & .\\ 
+		STYLElist & 0.10 & 0.05 & 1799.79 & 1.98 & 0.05 & *\\ 
+		STYLEread & -0.05 & 0.02 & 1638.38 & -2.55 & 0.01 & *\\ 
+		STYLEfree & -0.04 & 0.02 & 1501.28 & -2.09 & 0.04 & *\\ 
+		AGE56-85 & 0.03 & 0.02 & 1959.22 & 1.41 & 0.16 & \\ 
+		AGE30-55 & 0.01 & 0.02 & 1947.73 & 0.36 & 0.72 & \\ 
+		GENDERf & 0.02 & 0.00 & 2079.61 & 6.38 & < 0.001 & *** \\ 
+		CLASSmc & -0.01 & 0.00 & 2081.99 & -1.88 & 0.06 & .\\ 
 		DURATION & 0.00 & 0.00 & 2070.57 & 7.80 & < 0.001 & *** \\ 
-		PREMANNER[affricate] & 0.00 & 0.04 & 115.37 & 0.01 & 1.00 & \\ 
-		PREMANNER[fricative] & 0.05 & 0.02 & 125.52 & 2.19 & 0.03 & *\\ 
-		PREMANNER[liquid] & -0.04 & 0.01 & 114.24 & -3.22 & < 0.01 & ** \\ 
-		PREMANNER[nasal] & -0.02 & 0.02 & 93.43 & -0.92 & 0.36 & \\ 
-		POSTMANNER[affricate] & 0.06 & 0.02 & 2071.42 & 3.23 & < 0.01 & ** \\ 
-		POSTMANNER[fricative] & -0.01 & 0.01 & 2077.31 & -2.22 & 0.03 & * \\ 
-		POSTMANNER[glide] & 0.00 & 0.01 & 2063.14 & 0.32 & 0.75 & \\ 
-		POSTMANNER[liquid] & -0.05 & 0.01 & 2025.37 & -5.72 & < 0.001 & *** \\ 
-		POSTMANNER[nasal] & 0.01 & 0.01 & 2067.51 & 0.69 & 0.49 & \\ 
-		STYLE[list]:GENDER[female] & 0.09 & 0.02 & 1982.28 & 5.36 & < 0.001 & *** \\ 
-		STYLE[reading]:GENDER[female] & -0.03 & 0.01 & 1962.17 & -3.22 & < 0.01 & ** \\ 
-		AGE[56-85]:CLASS[mc] & -0.01 & 0.00 & 2080.77 & -2.93 & < 0.01 & ** \\ 
-		AGE[30-55]:CLASS[mc] & 0.01 & 0.00 & 2070.63 & 3.18 & < 0.01 & ** \\ 
-		STYLEreading:AGE56-85:GENDERfemale & -0.02 & 0.03 & 1950.17 & -0.54 & 0.59 & \\ 
-		STYLEfree:AGE56-85:GENDERfemale & -0.03 & 0.02 & 1988.95 & -1.22 & 0.22 & \\ 
-		STYLEimitation:AGE56-85:GENDERfemale & -0.01 & 0.04 & 1945.32 & -0.34 & 0.74 & \\ 
-		STYLEreading:AGE30-55:GENDERfemale & -0.01 & 0.03 & 1945.26 & -0.22 & 0.82 & \\ 
-		STYLEfree:AGE30-55:GENDERfemale & 0.01 & 0.02 & 1965.59 & 0.37 & 0.71 & \\ 
-		STYLEimitation:AGE30-55:GENDERfemale & 0.05 & 0.03 & 1944.32 & 1.61 & 0.11 & \\ 
-		STYLElist:AGE56-85:GENDERmale & -0.02 & 0.10 & 2063.72 & -0.19 & 0.85 & \\ 
-		STYLEreading:AGE56-85:GENDERmale & 0.00 & 0.03 & 1949.44 & 0.07 & 0.95 & \\ 
-		STYLEfree:AGE56-85:GENDERmale & -0.04 & 0.02 & 1978.35 & -1.75 & 0.08 & .\\ 
-		STYLElist:AGE30-55:GENDERmale & 0.10 & 0.07 & 2081.56 & 1.39 & 0.17 & \\ 
-		STYLEreading:AGE30-55:GENDERmale & -0.00 & 0.03 & 1942.75 & -0.08 & 0.94 & \\ 
-		STYLEfree:AGE30-55:GENDERmale & 0.04 & 0.02 & 1963.18 & 1.75 & 0.08 & .\\ 
+		PREMANNERaffr & 0.00 & 0.04 & 115.37 & 0.01 & 1.00 & \\ 
+		PREMANNERfric & 0.05 & 0.02 & 125.52 & 2.19 & 0.03 & *\\ 
+		PREMANNERliq & -0.04 & 0.01 & 114.24 & -3.22 & < 0.01 & ** \\ 
+		PREMANNERnas & -0.02 & 0.02 & 93.43 & -0.92 & 0.36 & \\ 
+		POSTMANNERaffr & 0.06 & 0.02 & 2071.42 & 3.23 & < 0.01 & ** \\ 
+		POSTMANNERfric & -0.01 & 0.01 & 2077.31 & -2.22 & 0.03 & * \\ 
+		POSTMANNERgli & 0.00 & 0.01 & 2063.14 & 0.32 & 0.75 & \\ 
+		POSTMANNERliq & -0.05 & 0.01 & 2025.37 & -5.72 & < 0.001 & *** \\ 
+		POSTMANNERnas & 0.01 & 0.01 & 2067.51 & 0.69 & 0.49 & \\ 
+		STYLElist:GENDERf & 0.09 & 0.02 & 1982.28 & 5.36 & < 0.001 & *** \\ 
+		STYLEread:GENDERf & -0.03 & 0.01 & 1962.17 & -3.22 & < 0.01 & ** \\ 
+		AGE56-85:CLASSmc & -0.01 & 0.00 & 2080.77 & -2.93 & < 0.01 & ** \\ 
+		AGE30-55:CLASSmc & 0.01 & 0.00 & 2070.63 & 3.18 & < 0.01 & ** \\ 
+		STYLEread:AGE56-85:GENDERf & -0.02 & 0.03 & 1950.17 & -0.54 & 0.59 & \\ 
+		STYLEfree:AGE56-85:GENDERf & -0.03 & 0.02 & 1988.95 & -1.22 & 0.22 & \\ 
+		STYLEimit:AGE56-85:GENDERf & -0.01 & 0.04 & 1945.32 & -0.34 & 0.74 & \\ 
+		STYLEread:AGE30-55:GENDERf & -0.01 & 0.03 & 1945.26 & -0.22 & 0.82 & \\ 
+		STYLEfree:AGE30-55:GENDERf & 0.01 & 0.02 & 1965.59 & 0.37 & 0.71 & \\ 
+		STYLEimit:AGE30-55:GENDERf & 0.05 & 0.03 & 1944.32 & 1.61 & 0.11 & \\ 
+		STYLElist:AGE56-85:GENDERm & -0.02 & 0.10 & 2063.72 & -0.19 & 0.85 & \\ 
+		STYLEread:AGE56-85:GENDERm & 0.00 & 0.03 & 1949.44 & 0.07 & 0.95 & \\ 
+		STYLEfree:AGE56-85:GENDERm & -0.04 & 0.02 & 1978.35 & -1.75 & 0.08 & .\\ 
+		STYLElist:AGE30-55:GENDERm & 0.10 & 0.07 & 2081.56 & 1.39 & 0.17 & \\ 
+		STYLEread:AGE30-55:GENDERm & -0.00 & 0.03 & 1942.75 & -0.08 & 0.94 & \\ 
+		STYLEfree:AGE30-55:GENDERm & 0.04 & 0.02 & 1963.18 & 1.75 & 0.08 & .\\ 
 		\hline
 		Random effects: & \multicolumn{6}{l}{(number of obs: 2116, groups: WORD, 221)} \\
 		Groups &         Name & Variance &      Std.Dev. & & & \\
@@ -430,7 +430,7 @@ Cases where happ\textsc{y} is preceded by a liquid were also the ones (along wit
 It should be noted that this context (preceding liquid) includes regularly formed adverbs, and therefore, by itself, accounts for the majority of happ\textsc{y} observations (2790 out of 4565, or 61.12\%), which means that the statistical basis for this phonological environment\is{phonological context} is considerably larger than for the others.
 Furthermore, high \isi{frequency} words such as \emph{very} or \emph{really} are to be found in this category, so it is not unlikely that \isi{phonological context} is here mixed up with other features such as duration (see below).
 
-Interestingly, a \emph{following} liquid (at the beginning of the next word) seems to have a very similar effect on F2 measures as a preceding one (lowering of F2 in this context has been attested before, cf. \textcite[26]{lehiste1964}).
+Interestingly, a \emph{following} liquid (at the beginning of the next word) seems to have a very similar effect on F2 measures as a preceding one (lowering of F2 in this context has been attested before, cf. \citealt[26]{lehiste1964}).
 The corresponding box plot for F2 by following phoneme (Figure \ref{fig.box.f2w.happy.follsound}) shows happ\textsc{y} to be somewhat more central (lower F2) when a liquid follows.
 This is in line with the regression model (which found a negative correlation coefficient for this context).
 The significantly negative coefficient (in the model) for a following fricative is less obvious in this figure: while mean and median are somewhat lower, they do not appear to be significantly so (cf., for instance, the partially overlapping confidence notches of ``fricative'' and the neighbouring ``glide'').
@@ -742,53 +742,53 @@ The minimal adequate model (R\textsuperscript{2}-equivalent = 0.314) that was th
 
 {
 	\footnotesize
-	\begin{longtable}[c]{p{0.4\textwidth}rrrrrl}
+	\begin{longtable}[c]{p{0.3\textwidth}rrrrrl}
 		\caption{\textsc{nurse} (F1): mixed linear effects regression}\label{tab.regression.nurse.f1}\\
 		
 		\hline
 		Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\ 
 		\hline
 		(Intercept) & 1.09 & 0.01 & 127.19 & 125.58 & < 0.001 & *** \\ 
-		STYLE[list] & 0.03 & 0.01 & 1078.12 & 3.61 & < 0.001 & *** \\ 
-		STYLE[reading] & 0.00 & 0.01 & 1344.45 & 0.70 & 0.48 & \\ 
-		STYLE[free] & 0.00 & 0.01 & 362.94 & 0.48 & 0.63 & \\ 
-		AGE[56-85] & 0.02 & 0.01 & 1475.42 & 3.19 & < 0.01 & ** \\ 
-		AGE[30-55] & -0.01 & 0.01 & 1484.51 & -2.86 & < 0.01 & ** \\ 
-		GENDER[female] & -0.03 & 0.00 & 1477.09 & -8.60 & < 0.001 & *** \\ 
-		CLASS[mc] & 0.05 & 0.00 & 1479.04 & 12.16 & < 0.001 & *** \\ 
-		PREMANNER[affricate] & -0.05 & 0.02 & 74.59 & -2.90 & < 0.01 & ** \\ 
-		PREMANNER[fricative] & -0.01 & 0.01 & 98.39 & -0.82 & 0.42 & \\ 
-		PREMANNER[glide] & 0.01 & 0.01 & 65.20 & 0.54 & 0.59 & \\ 
-		PREMANNER[liquid] & 0.02 & 0.02 & 118.12 & 0.82 & 0.41 & \\ 
-		PREMANNER[nasal] & 0.02 & 0.02 & 377.34 & 0.95 & 0.34 & \\ 
-		STYLE[list]:AGE[56-85] & 0.02 & 0.01 & 1464.53 & 2.18 & 0.03 & * \\ 
-		STYLE[reading]:AGE[56-85] & -0.01 & 0.01 & 1465.50 & -0.66 & 0.51 & \\ 
-		STYLE[free]:AGE[56-85] & 0.01 & 0.01 & 1514.74 & 1.93 & 0.05 & .\\ 
-		STYLE[list]:AGE[30-55] & -0.01 & 0.01 & 1468.34 & -1.42 & 0.16 & \\ 
-		STYLE[reading]:AGE[30-55] & 0.01 & 0.01 & 1470.78 & 0.80 & 0.42 & \\ 
-		STYLE[free]:AGE[30-55] & -0.01 & 0.01 & 1513.20 & -0.89 & 0.37 & \\ 
-		AGE[56-85]:GENDER[female] & -0.03 & 0.01 & 1475.15 & -5.98 & < 0.001 & *** \\ 
-		AGE[30-55]:GENDER[female] & -0.01 & 0.01 & 1475.93 & -1.86 & 0.06 & .\\ 
-		AGE[56-85]:CLASS[mc] & 0.02 & 0.01 & 1471.18 & 3.15 & < 0.01 & ** \\ 
-		AGE[30-55]:CLASS[mc] & -0.01 & 0.01 & 1475.87 & -1.28 & 0.20 & \\ 
-		GENDER[female]:CLASS[mc] & -0.01 & 0.00 & 1525.94 & -2.80 & 0.01 & **\\ 
-		STYLElist:AGE56-85:GENDERfemale & 0.00 & 0.01 & 1464.29 & 0.25 & 0.80 & \\ 
-		STYLEreading:AGE56-85:GENDERfemale & 0.02 & 0.01 & 1464.64 & 1.26 & 0.21 & \\ 
-		STYLEfree:AGE56-85:GENDERfemale & 0.02 & 0.01 & 1507.65 & 1.76 & 0.08 & .\\ 
-		STYLElist:AGE30-55:GENDERfemale & 0.00 & 0.01 & 1466.69 & 0.40 & 0.69 & \\ 
-		STYLEreading:AGE30-55:GENDERfemale & -0.01 & 0.01 & 1473.07 & -1.07 & 0.28 & \\ 
-		STYLEfree:AGE30-55:GENDERfemale & 0.01 & 0.01 & 1506.49 & 1.63 & 0.10 & \\ 
-		STYLElist:AGE19-29:GENDERfemale & 0.01 & 0.01 & 1466.78 & 0.92 & 0.36 & \\ 
-		STYLEreading:AGE19-29:GENDERfemale & -0.00 & 0.01 & 1467.05 & -0.03 & 0.97 & \\ 
-		STYLEfree:AGE19-29:GENDERfemale & -0.02 & 0.01 & 1519.51 & -2.30 & 0.02 & *\\ 
+		STYLElist & 0.03 & 0.01 & 1078.12 & 3.61 & < 0.001 & *** \\ 
+		STYLEread & 0.00 & 0.01 & 1344.45 & 0.70 & 0.48 & \\ 
+		STYLEfree & 0.00 & 0.01 & 362.94 & 0.48 & 0.63 & \\ 
+		AGE56-85 & 0.02 & 0.01 & 1475.42 & 3.19 & < 0.01 & ** \\ 
+		AGE30-55 & -0.01 & 0.01 & 1484.51 & -2.86 & < 0.01 & ** \\ 
+		GENDERf & -0.03 & 0.00 & 1477.09 & -8.60 & < 0.001 & *** \\ 
+		CLASSmc & 0.05 & 0.00 & 1479.04 & 12.16 & < 0.001 & *** \\ 
+		PREMANNERaffr & -0.05 & 0.02 & 74.59 & -2.90 & < 0.01 & ** \\ 
+		PREMANNERfric & -0.01 & 0.01 & 98.39 & -0.82 & 0.42 & \\ 
+		PREMANNERgli & 0.01 & 0.01 & 65.20 & 0.54 & 0.59 & \\ 
+		PREMANNERliq & 0.02 & 0.02 & 118.12 & 0.82 & 0.41 & \\ 
+		PREMANNERnas & 0.02 & 0.02 & 377.34 & 0.95 & 0.34 & \\ 
+		STYLElist:AGE56-85 & 0.02 & 0.01 & 1464.53 & 2.18 & 0.03 & * \\ 
+		STYLEread:AGE56-85 & -0.01 & 0.01 & 1465.50 & -0.66 & 0.51 & \\ 
+		STYLEfree:AGE56-85 & 0.01 & 0.01 & 1514.74 & 1.93 & 0.05 & .\\ 
+		STYLElist:AGE30-55 & -0.01 & 0.01 & 1468.34 & -1.42 & 0.16 & \\ 
+		STYLEread:AGE30-55 & 0.01 & 0.01 & 1470.78 & 0.80 & 0.42 & \\ 
+		STYLEfree:AGE30-55 & -0.01 & 0.01 & 1513.20 & -0.89 & 0.37 & \\ 
+		AGE56-85:GENDERf & -0.03 & 0.01 & 1475.15 & -5.98 & < 0.001 & *** \\ 
+		AGE30-55:GENDERf & -0.01 & 0.01 & 1475.93 & -1.86 & 0.06 & .\\ 
+		AGE56-85:CLASSmc & 0.02 & 0.01 & 1471.18 & 3.15 & < 0.01 & ** \\ 
+		AGE30-55:CLASSmc & -0.01 & 0.01 & 1475.87 & -1.28 & 0.20 & \\ 
+		GENDERf:CLASSmc & -0.01 & 0.00 & 1525.94 & -2.80 & 0.01 & **\\ 
+		STYLElist:AGE56-85:GENDERf & 0.00 & 0.01 & 1464.29 & 0.25 & 0.80 & \\ 
+		STYLEread:AGE56-85:GENDERf & 0.02 & 0.01 & 1464.64 & 1.26 & 0.21 & \\ 
+		STYLEfree:AGE56-85:GENDERf & 0.02 & 0.01 & 1507.65 & 1.76 & 0.08 & .\\ 
+		STYLElist:AGE30-55:GENDERf & 0.00 & 0.01 & 1466.69 & 0.40 & 0.69 & \\ 
+		STYLEread:AGE30-55:GENDERf & -0.01 & 0.01 & 1473.07 & -1.07 & 0.28 & \\ 
+		STYLEfree:AGE30-55:GENDERf & 0.01 & 0.01 & 1506.49 & 1.63 & 0.10 & \\ 
+		STYLElist:AGE19-29:GENDERf & 0.01 & 0.01 & 1466.78 & 0.92 & 0.36 & \\ 
+		STYLEread:AGE19-29:GENDERf & -0.00 & 0.01 & 1467.05 & -0.03 & 0.97 & \\ 
+		STYLEfree:AGE19-29:GENDERf & -0.02 & 0.01 & 1519.51 & -2.30 & 0.02 & *\\ 
 		STYLElist:AGE56-85:CLASSmc & 0.01 & 0.01 & 1463.33 & 0.52 & 0.60 & \\ 
-		STYLEreading:AGE56-85:CLASSmc & -0.02 & 0.01 & 1464.04 & -1.27 & 0.20 & \\ 
+		STYLEread:AGE56-85:CLASSmc & -0.02 & 0.01 & 1464.04 & -1.27 & 0.20 & \\ 
 		STYLEfree:AGE56-85:CLASSmc & -0.02 & 0.01 & 1506.47 & -1.85 & 0.06 & .\\ 
 		STYLElist:AGE30-55:CLASSmc & 0.02 & 0.01 & 1466.82 & 2.26 & 0.02 & * \\ 
-		STYLEreading:AGE30-55:CLASSmc & 0.01 & 0.01 & 1469.86 & 1.27 & 0.20 & \\ 
-		STYLEfree:AGE30-5]:CLASSmc & -0.02 & 0.01 & 1497.92 & -2.26 & 0.02 & * \\ 
-		STYLElist:AGE19-2]:CLASSmc & -0.00 & 0.01 & 1468.20 & -0.42 & 0.67 & \\ 
-		STYLEreading:AGE19-29:CLASSmc & 0.00 & 0.01 & 1468.92 & 0.19 & 0.85 & \\ 
+		STYLEread:AGE30-55:CLASSmc & 0.01 & 0.01 & 1469.86 & 1.27 & 0.20 & \\ 
+		STYLEfree:AGE30-55:CLASSmc & -0.02 & 0.01 & 1497.92 & -2.26 & 0.02 & * \\ 
+		STYLElist:AGE19-29:CLASSmc & -0.00 & 0.01 & 1468.20 & -0.42 & 0.67 & \\ 
+		STYLEread:AGE19-29:CLASSmc & 0.00 & 0.01 & 1468.92 & 0.19 & 0.85 & \\ 
 		STYLEfree:AGE19-29:CLASSmc & 0.02 & 0.01 & 1516.74 & 2.46 & 0.01 & * \\ 
 		\hline
 		Random effects: & \multicolumn{6}{l}{(number of obs: 1568, groups: WORD, 137)} \\
@@ -1033,45 +1033,45 @@ Model selection based on AIC scores and F-tests comparing nested models resulted
 
 {
 	\footnotesize
-	\begin{longtable}[c]{p{0.4\textwidth}rrrrrl}
+	\begin{longtable}[c]{p{0.3\textwidth}rrrrrl}
 		\caption{\textsc{nurse} (F2): mixed linear effects regression}\label{tab.regression.nurse.f2}\\
 				
 		\hline
 		Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\ 
 		\hline
 		(Intercept) & 1.40 & 0.01 & 347.52 & 103.21 & < 0.001 & *** \\ 
-		STYLE[list] & -0.01 & 0.01 & 1514.59 & -1.33 & 0.18 & \\ 
-		STYLE[reading] & -0.03 & 0.01 & 1533.43 & -5.22 & < 0.001 & *** \\ 
-		STYLE[free] & 0.01 & 0.01 & 870.58 & 1.20 & 0.23 & \\ 
-		AGE[56-85] & -0.03 & 0.01 & 1432.62 & -5.14 & < 0.001 & *** \\ 
-		AGE[30-55] & 0.00 & 0.00 & 1447.88 & 0.38 & 0.70 & \\ 
-		GENDER[female] & 0.05 & 0.00 & 1516.12 & 18.82 & < 0.001 & *** \\ 
-		CLASS[mc] & -0.06 & 0.00 & 1444.81 & -18.59 & < 0.001 & *** \\ 
+		STYLElist & -0.01 & 0.01 & 1514.59 & -1.33 & 0.18 & \\ 
+		STYLEread & -0.03 & 0.01 & 1533.43 & -5.22 & < 0.001 & *** \\ 
+		STYLEfree & 0.01 & 0.01 & 870.58 & 1.20 & 0.23 & \\ 
+		AGE56-85 & -0.03 & 0.01 & 1432.62 & -5.14 & < 0.001 & *** \\ 
+		AGE30-55 & 0.00 & 0.00 & 1447.88 & 0.38 & 0.70 & \\ 
+		GENDERf & 0.05 & 0.00 & 1516.12 & 18.82 & < 0.001 & *** \\ 
+		CLASSmc & -0.06 & 0.00 & 1444.81 & -18.59 & < 0.001 & *** \\ 
 		DURATION & 0.00 & 0.00 & 1506.54 & 3.16 & < 0.01 & ** \\ 
-		PREMANNER[affricate] & 0.07 & 0.02 & 71.47 & 3.44 & < 0.001 & *** \\ 
-		PREMANNER[fricative] & 0.00 & 0.01 & 86.50 & 0.41 & 0.68 & \\ 
-		PREMANNER[glide] & -0.07 & 0.01 & 62.72 & -4.53 & < 0.001 & *** \\ 
-		PREMANNER[liquid] & -0.03 & 0.03 & 91.59 & -1.07 & 0.29 & \\ 
-		PREMANNER[nasal] & 0.01 & 0.02 & 159.94 & 0.57 & 0.57 & \\ 
-		STYLE[list]:AGE[56-85] & -0.05 & 0.01 & 1425.23 & -4.97 & < 0.001 & *** \\ 
-		STYLE[reading]:AGE[56-85] & -0.01 & 0.01 & 1419.97 & -1.33 & 0.18 & \\ 
-		STYLE[free]:AGE[56-85] & -0.02 & 0.01 & 1493.50 & -3.29 & < 0.01 & ** \\ 
-		STYLE[list]:AGE[30-55] & 0.02 & 0.01 & 1426.13 & 2.37 & 0.02 & * \\ 
-		STYLE[reading]:AGE[30-55] & 0.02 & 0.01 & 1430.56 & 2.05 & 0.04 & * \\ 
-		STYLE[free]:AGE[30-55] & 0.01 & 0.01 & 1493.35 & 2.63 & 0.01 & **\\ 
-		STYLE[list]:CLASS[mc] & -0.02 & 0.01 & 1424.03 & -3.49 & < 0.001 & *** \\ 
-		STYLE[reading]:CLASS[mc] & 0.01 & 0.01 & 1425.34 & 0.99 & 0.32 & \\ 
-		STYLE[free]:CLASS[mc] & -0.01 & 0.00 & 1495.02 & -2.31 & 0.02 & *\\ 
-		AGE[56-85]:GENDER[female] & -0.02 & 0.00 & 1518.78 & -5.49 & < 0.001 & *** \\ 
-		AGE[30-55]:GENDER[female] & 0.07 & 0.00 & 1512.01 & 22.03 & < 0.001 & *** \\ 
-		AGE[56-85]:CLASS[mc] & -0.05 & 0.01 & 1431.94 & -10.02 & < 0.001 & *** \\ 
-		AGE[30-55]:CLASS[mc] & 0.02 & 0.00 & 1449.85 & 4.97 & < 0.001 & *** \\ 
-		GENDER[female]:CLASS[mc] & -0.02 & 0.00 & 1517.33 & -8.76 & < 0.001 & *** \\ 
+		PREMANNERaffr & 0.07 & 0.02 & 71.47 & 3.44 & < 0.001 & *** \\ 
+		PREMANNERfric & 0.00 & 0.01 & 86.50 & 0.41 & 0.68 & \\ 
+		PREMANNERgli & -0.07 & 0.01 & 62.72 & -4.53 & < 0.001 & *** \\ 
+		PREMANNERliq & -0.03 & 0.03 & 91.59 & -1.07 & 0.29 & \\ 
+		PREMANNERnas & 0.01 & 0.02 & 159.94 & 0.57 & 0.57 & \\ 
+		STYLElist:AGE56-85 & -0.05 & 0.01 & 1425.23 & -4.97 & < 0.001 & *** \\ 
+		STYLEread:AGE56-85 & -0.01 & 0.01 & 1419.97 & -1.33 & 0.18 & \\ 
+		STYLEfree:AGE56-85 & -0.02 & 0.01 & 1493.50 & -3.29 & < 0.01 & ** \\ 
+		STYLElist:AGE30-55 & 0.02 & 0.01 & 1426.13 & 2.37 & 0.02 & * \\ 
+		STYLEread:AGE30-55 & 0.02 & 0.01 & 1430.56 & 2.05 & 0.04 & * \\ 
+		STYLEfree:AGE30-55 & 0.01 & 0.01 & 1493.35 & 2.63 & 0.01 & **\\ 
+		STYLElist:CLASSmc & -0.02 & 0.01 & 1424.03 & -3.49 & < 0.001 & *** \\ 
+		STYLEread:CLASSmc & 0.01 & 0.01 & 1425.34 & 0.99 & 0.32 & \\ 
+		STYLEfree:CLASSmc & -0.01 & 0.00 & 1495.02 & -2.31 & 0.02 & *\\ 
+		AGE56-85:GENDERf & -0.02 & 0.00 & 1518.78 & -5.49 & < 0.001 & *** \\ 
+		AGE30-55:GENDERf & 0.07 & 0.00 & 1512.01 & 22.03 & < 0.001 & *** \\ 
+		AGE56-85:CLASSmc & -0.05 & 0.01 & 1431.94 & -10.02 & < 0.001 & *** \\ 
+		AGE30-55:CLASSmc & 0.02 & 0.00 & 1449.85 & 4.97 & < 0.001 & *** \\ 
+		GENDERf:CLASSmc & -0.02 & 0.00 & 1517.33 & -8.76 & < 0.001 & *** \\ 
 		STYLElist:AGE56-85:CLASSmc & 0.04 & 0.01 & 1426.89 & 4.02 & < 0.001 & *** \\ 
-		STYLEreading:AGE56-85:CLASSmc & 0.00 & 0.01 & 1419.93 & 0.52 & 0.61 & \\ 
+		STYLEread:AGE56-85:CLASSmc & 0.00 & 0.01 & 1419.93 & 0.52 & 0.61 & \\ 
 		STYLEfree:AGE56-85:CLASSmc & -0.00 & 0.01 & 1481.98 & -0.41 & 0.68 & \\ 
 		STYLElist:AGE30-55:CLASSmc & -0.02 & 0.01 & 1427.41 & -2.22 & 0.03 & * \\ 
-		STYLEreading:AGE30-55:CLASSmc & -0.01 & 0.01 & 1430.06 & -1.78 & 0.08 & .\\ 
+		STYLEread:AGE30-55:CLASSmc & -0.01 & 0.01 & 1430.06 & -1.78 & 0.08 & .\\ 
 		STYLEfree:AGE30-55:CLASSmc & -0.01 & 0.01 & 1487.18 & -1.03 & 0.30 & \\ 
 		\hline
 		Random effects: & \multicolumn{6}{l}{(number of obs: 1568, groups: WORD, 137)} \\
@@ -1372,7 +1372,7 @@ Only the extreme rise when actively perform\is{accent performance}ing Scouse res
 This sharp increase in F2 values from free speech to accent imitation\is{accent performance} is also present (and just as significant) in the middle-aged group.
 Spontaneous realisations in this age group are also significantly different from the `reading' register, but, interestingly, \textsc{nurse} is \emph{fronter} --- more Scouse --- in this more formal register.
 The same goes for the word list, a register which is not significantly different from reading for these subjects.
-F2 values in the middle age group thus strongly hint at hypercorrect\is{hypercorrection}ion (cf. \ref{sec.prod.res.vow.nurse.pil}).
+F2 values in the middle age group thus strongly hint at hypercorrect\is{hypercorrection}ion (cf. Section \ref{sec.prod.res.vow.nurse.pil}).
 Speakers in the young group, finally, exhibit a pattern which is closest to what we would expect if we assume there to be \isi{style shifting}: F2 increases from reading a text to free speech and from spontaneous speech to accent imitation\is{accent performance}; both these increases are (just about in the former case) statistically robust.
 The only thing that does not fit into this frame is that realisations when reading out the word list are actually just as front as when these speakers imitate a particularly strong Scouse accent (no significant difference).
 In the most formal register young speakers' behaviour is therefore opposite to what would be expected.
