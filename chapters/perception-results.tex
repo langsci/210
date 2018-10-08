@@ -25,8 +25,8 @@ All further results reported in this chapter are exclusively based on responses 
 	\subsection{Overview}
 	\label{sec.perc_res.happy.overview}
 
-As described in Section \ref{sec.perc_method.stats}, a mixed-effects ordinal regression model was fit to the data by hand.
-This maximal model did not contain any troubling \isi{collinearity} (κ = 13.99), but for reasons of comparability (cf. \ref{sec.perc_res.nurse}, \ref{sec.perc_res.ng}, and \ref{sec.perc_res.k}), the \isi{frequency} of the keyword expressed in Zipf\is{Zipf score} scores, as well as the interaction of Zipf\is{Zipf score} score and \isi{priming} condition, were removed from the model.\footnote{When Zipf\is{Zipf score} scores are included they show up as a significant predictor in the corresponding minimal adequate model (p < 0.001). The same is true for position of keyword (p < 0.001) and age of participant (p = 0.043). In addition, \isi{geographical distance} from Liverpool almost reaches statistical significance as well (p = 0.080). Frequency\is{frequency} and age are therefore briefly discussed below for the sake of completeness.}
+As described in \sectref{sec.perc_method.stats}, a mixed-effects ordinal regression model was fit to the data by hand.
+This maximal model did not contain any troubling \isi{collinearity} (κ = 13.99), but for reasons of comparability (cf. \sectref{sec.perc_res.nurse}, \sectref{sec.perc_res.ng}, and \sectref{sec.perc_res.k}), the \isi{frequency} of the keyword expressed in Zipf\is{Zipf score} scores, as well as the interaction of Zipf\is{Zipf score} score and \isi{priming} condition, were removed from the model.\footnote{When Zipf\is{Zipf score} scores are included they show up as a significant predictor in the corresponding minimal adequate model (p < 0.001). The same is true for position of keyword (p < 0.001) and age of participant (p = 0.043). In addition, \isi{geographical distance} from Liverpool almost reaches statistical significance as well (p = 0.080). Frequency\is{frequency} and age are therefore briefly discussed below for the sake of completeness.}
 Collinearity\is{collinearity} was further reduced this way (κ = 10.61).
 Model selection based on AIC scores and F-tests comparing nested models resulted in the minimal adequate model printed below.
 Only two factors show up as main effects (one of them not quite significant) and no statistically significant interactions could be found.
@@ -38,18 +38,18 @@ For this reason the factor was kept in the model.
 	\caption{happ\textsc{y} (perception): mixed-effects ordinal regression}
 	\centering
 	\begin{tabular}{p{0.3\textwidth}rrrrl}
-		\hline
+		\toprule
 		Fixed effects: & Estimate & Std. Error &  z value & Pr($>$$|$z$|$) & \\ 
-		\hline
+		\midrule
 		POSfinal & -0.932 & 0.091 & -10.194 & <0.001 & ***\\ 
 		DISTANCE & 0.169 & 0.093 & 1.811 & 0.070 & .\\ 
-		\hline
+		\midrule
 		Random effects: & & & & & \\
 		Groups &         Name & Variance &      Std.Dev. & & \\
 		QUESTIONNAIRE &  (Intercept) & 0.162 & 0.402 & & \\
 		QUESTIONNAIRE & TOKEN      & <0.001 & <0.001 & & \\
 		\multicolumn{3}{l}{(number of obs: 516, groups: QUESTIONNAIRE, 55)} & & & \\
-		\hline
+		\bottomrule
 	\end{tabular}
 \end{table}
 
@@ -58,7 +58,7 @@ For this reason the factor was kept in the model.
 
 Prime is not among the fixed effects.
 This indicates that for the happ\textsc{y} stimuli it did not make a difference whether participants thought they were listening to a speaker from Liverpool or Manchester.
-Figure \ref{fig.bar.happy.tot.ext} visualises this fact.
+\figref{fig.bar.happy.tot.ext} visualises this fact.
 As with all the following bar plots in this chapter, answers from subjects who were prime\is{priming}d for ``Liverpool'' are represented by black bars, those given by people who were correctly told the speaker was from Manchester are visualised by light grey bars.
 
 \begin{figure}[h]
@@ -76,7 +76,7 @@ The crucial point, however, is that only marginal differences between the two co
 \subsection{Position of carrier word}
 \label{sec.perc_res.happy.position}
 
-Figure \ref{fig.bar.happy.tot.ext.pos} shows the clear influence of carrier word position within the stimulus sentence that was identified as a significant predictor by the mixed-effects model.
+\figref{fig.bar.happy.tot.ext.pos} shows the clear influence of carrier word position within the stimulus sentence that was identified as a significant predictor by the mixed-effects model.
 Perception of sentence-final stimuli can be said to be more objective as participants chose stimulus 2 (which actually occurred in the recording) in around 45\% of cases.
 The hyper-centralised stimulus 1 was, at about 35\%, also quite frequent, whereas the `Liverpool' stimuli 3 and 4 only account for 20\% of answers, with stimulus 4 being particularly rare.
 When the carrier word was presented in the middle of the sentence, subjects most often reported having heard stimulus number 3, a vowel higher and fronter than in the actual recording.
@@ -103,20 +103,20 @@ Overall then, participants were more likely to perceive a `Liverpool'-type tense
 	\label{fig.bar.happy.tot.ext.pos}
 \end{figure}
 
-It is dubious, however, whether this difference is due to the fact that subjects have to hold the relevant sound in memory\is{memory structure} --- which would be what the different stimulus sentences were meant to test (cf. Section \ref{sec.perc_method.sentences}).
+It is dubious, however, whether this difference is due to the fact that subjects have to hold the relevant sound in memory\is{memory structure} -- which would be what the different stimulus sentences were meant to test (cf. \sectref{sec.perc_method.sentences}).
 It seems at least as plausible that the effect is caused by the acoustic material.
-In Mancunian English, happ\textsc{y} is typically realised as [ɪ] in phrase-medial and [ə] in phrase-final position, and the stimulus sentences used in this experiment were authentic\is{authenticity} in this respect (cf. \ref{sec.perc_method.sentences}).
+In Mancunian English, happ\textsc{y} is typically realised as [ɪ] in phrase-medial and [ə] in phrase-final position, and the stimulus sentences used in this experiment were authentic\is{authenticity} in this respect (cf. \sectref{sec.perc_method.sentences}).
 The happ\textsc{y} realisations were thus more central when the word occurred at the end of the sentence than when it appeared in the middle of it.
 It is possible that participants picked up on this difference in realisation and hyper-corrected by selecting one of the tenser answer options when the carrier word was sentence-medially, simply because the vowel sounded tenser than the one they encountered in the sentence-final stimuli.
 
 Another option is that the difference due to word position is an artefact of the method of stimulus creation.
-Since satisfactory continua could not be resynthesis\is{resynthesis}ed out of many phrase-final happ\textsc{y} vowels, the continua resynthesis\is{resynthesis}ed on the basis of the same words presented in a sentence-medial context were used as answer options instead (cf. \ref{sec.perc_method.vow}).
+Since satisfactory continua could not be resynthesis\is{resynthesis}ed out of many phrase-final happ\textsc{y} vowels, the continua resynthesis\is{resynthesis}ed on the basis of the same words presented in a sentence-medial context were used as answer options instead (cf. \sectref{sec.perc_method.vow}).
 This meant that, for sentence-final happ\textsc{y} stimuli, answer option 2 was a bit tenser than the vowel actually present in the sentence.
-In this interpretation then, subjects would have reacted quite similarly for both sentence-medial and sentence-final stimuli --- most often choosing an answer option that was a bit tenser than the vowel they had actually heard.
+In this interpretation then, subjects would have reacted quite similarly for both sentence-medial and sentence-final stimuli -- most often choosing an answer option that was a bit tenser than the vowel they had actually heard.
 The only difference would then be that for phrase-final sentences stimulus 2 already fulfilled this criterion, whereas for phrase-medial sentences it was not before stimulus 3 that participants encountered a vowel that was tenser than the one contained in the carrier word.
 
 In any case, position of the stimulus does not show up in the mixed-effects model because of \isi{priming} which only occurred in one context but not in the other (if this was the case the model should have revealed a significant interaction of prime\is{priming} and position).
-This is also visible in Figures \ref{fig.bar.happy.tot.ext.fin} and \ref{fig.bar.happy.tot.ext.med}, none of which show pronounced differences between \isi{priming} conditions.
+This is also visible in \figref{fig.bar.happy.tot.ext.fin} and \figref{fig.bar.happy.tot.ext.med}, neither of which shows pronounced differences between \isi{priming} conditions.
 
 \subsection{Geographical distance}
 \label{sec.perc_res.happy.geography}
@@ -131,13 +131,13 @@ This is also visible in Figures \ref{fig.bar.happy.tot.ext.fin} and \ref{fig.bar
 
 Geographical distance does not quite reach statistical significance, but qualifies as a statistical trend (p = 0.070).
 The regression coefficient is little greater than zero (0.169), indicating a weak correlation of distance and answer, which means that subjects who live further from Liverpool are, on average, more likely to choose one of the more Liverpool-like tokens.
-Inspection of Figure \ref{fig.scatter.happy.ext.dist} reveals, however, that this effect seems to be mostly driven by participants in the \isi{priming} condition `Manchester'.
+Inspection of \figref{fig.scatter.happy.ext.dist} reveals, however, that this effect seems to be mostly driven by participants in the \isi{priming} condition `Manchester'.
 In this graph, answer is marked on the y-axis and \isi{geographical distance} on the x-axis.
 Priming\is{priming} conditions are coded by line type: solid for `Liverpool', dashed for `Manchester'.
 The estimated percept increases for subjects in the `Liverpool' condition as well, but only ever so slightly from 2.25 to around 2.4.
 In the `Manchester' condition, on the other hand, the regression line has a much steeper slope, with estimated percept rising from 2.1 to roughly 2.6.
-That being said, it should be borne in mind that both Figure \ref{fig.scatter.happy.ext.dist} and the mixed effect ordinal regression model reported above make it clear that there is no statistically \emph{significant} difference between \isi{priming} conditions in relation to \isi{geographical distance}.
-The two regression lines in Figure \ref{fig.scatter.happy.ext.dist} lie within the overlapping standard error range of both conditions, represented by dark grey in the graph, and the minimal adequate model reported above does not contain a significant interaction of prime\is{priming} and \isi{geographical distance}.
+That being said, it should be borne in mind that both \figref{fig.scatter.happy.ext.dist} and the mixed effect ordinal regression model reported above make it clear that there is no statistically \emph{significant} difference between \isi{priming} conditions in relation to \isi{geographical distance}.
+The two regression lines in \figref{fig.scatter.happy.ext.dist} lie within the overlapping standard error range of both conditions, represented by dark grey in the graph, and the minimal adequate model reported above does not contain a significant interaction of prime\is{priming} and \isi{geographical distance}.
 The simple main effect of distance, however, is close to statistical significance, so it is at least worth mentioning that subjects across conditions have a certain tendency to perceive more Liverpool-like tokens the further away they live from Liverpool.
 
 \subsection{Frequency}
@@ -153,12 +153,12 @@ The simple main effect of distance, however, is close to statistical significanc
 
 For the sake of completeness we will now briefly turn to \isi{frequency} and age because these two factors show up as (near-)significant in a mixed-effects model that includes the Zipf\is{Zipf score} scores (see page \pageref{sec.perc_res.happy}).
 The coefficient for the factor \isi{frequency} of the carrier word (0.622) is positive in the model not reported here, which means that for higher \isi{frequency} carrier words higher-numbered (i.e. more Liverpool-like) answer options were more likely.
-This general correlation is visible in Figure \ref{fig.scatter.happy.ext.zipf}, which shows Zipf\is{Zipf score} scores on the x-axis and estimated percept on the y-axis; \isi{priming} condition is again shown by line type (solid for Liverpool, dashed for Manchester).
+This general correlation is visible in \figref{fig.scatter.happy.ext.zipf}, which shows Zipf\is{Zipf score} scores on the x-axis and estimated percept on the y-axis; \isi{priming} condition is again shown by line type (solid for Liverpool, dashed for Manchester).
 We can see the positive correlation suggested by the linear mixed-effects model: more centralised percepts for lower \isi{frequency} items (on the left) and tenser percepts for higher \isi{frequency} items (on the right).
 It should be borne in mind, however, that we are only looking at a very restricted set of 6 different carrier words, so the potential \isi{frequency} effect we are seeing could be heavily overlaid with \emph{lexical} effects, although the two are not unlikely to interact anyway.
 The direct cause for the correlation of \isi{frequency} and reported percept might quite simply be that the higher \isi{frequency} carrier words are realised with tenser happ\textsc{y} in the particular stimuli used for this study.
 There is indeed a trend of this sort in the data: higher-\isi{frequency} words in the stimuli sentence have a slightly lower F1 and simultaneously a higher F2, the difference between the most frequent and the least frequent two carrier words is about 100 Hz for F1 and about 80 Hz for F2.
-However, this difference is then carried into the answer tokens since they were generated individually for each sentence (cf. \ref{sec.perc_method.sentences} and \ref{sec.perc_method.vow}), so the effect cannot really be due to the test material.
+However, this difference is then carried into the answer tokens since they were generated individually for each sentence (cf. \sectref{sec.perc_method.sentences} and \sectref{sec.perc_method.vow}), so the effect cannot really be due to the test material.
 The most important point, in any case, is that, again, the figure supports the absence of a prime\is{priming} X Zipf\is{Zipf score} score interaction in the mixed-effects ordinal regression model.
 While there are smaller differences between \isi{priming} conditions, the general relationship between reported percept and Zipf\is{Zipf score} score seems to be the same regardless of whether participants believe they are listening to a speaker from Liverpool or Manchester.
 Both the solid and the dashed regression line have an upward slope that is almost identical (the lines are very nearly parallel), which illustrates that the effect of \isi{frequency} (if there is any) is the same in both \isi{priming} conditions.
@@ -175,15 +175,15 @@ Both the solid and the dashed regression line have an upward slope that is almos
 \end{figure}
 
 As mentioned above, age only reaches significance as a predictor (p = 0.043) in the mixed-effects model that includes Zipf\is{Zipf score} scores, but we will still have a very quick glance at this factor as it is of particular interest in the production part of this book.
-Figure \ref{fig.scatter.happy.ext.age} shows age of the participant on the x-axis and estimated percept on the y-axis, again coding \isi{priming} condition by line type.
+\figref{fig.scatter.happy.ext.age} shows age of the participant on the x-axis and estimated percept on the y-axis, again coding \isi{priming} condition by line type.
 The general downward trend is visible, but it is rather weak and especially in the `Manchester' condition there is a very large amount of variation in the dataset.
 It is not straightforward how to interpret the relationship of age and perception of happ\textsc{y}.
 One might speculate that older subjects are on average more aware\is{awareness} of lax happ\textsc{y} variants because happ\textsc{y}-tensing is now the norm both in standard British English and in many other accents of the British Isles.
 On the other hand, however, there are still large regions of England that have lax happ\textsc{y} and there is evidence of happ\textsc{y} becoming even more centralised in some of these areas \parencite[cf.][]{flynn2010}, so it is not really clear why younger subjects should expect more peripheral happ\textsc{y} vowels across the board.
-Suffice it to say, in the context of this study, that once more no \isi{priming} effect is visible in Figure \ref{fig.scatter.happy.ext.age}.
+Suffice it to say, in the context of this study, that once more no \isi{priming} effect is visible in \figref{fig.scatter.happy.ext.age}.
 It does look as if \isi{priming} might have more of an effect the older the participant (the distance between the regression lines grows towards the right hand side of the graph), but if this was statistically significant it should have shown in the regression models as an interaction of prime\is{priming} and age.
 This was not the case in either the mixed-effects model that was finally chosen or the one that included \isi{frequency} of the keyword.
-Both Figures \ref{fig.scatter.happy.ext.zipf} and \ref{fig.scatter.happy.ext.age} also visualise that there is no significant difference between \isi{priming} conditions for any level of \isi{frequency} or age of participant because all regression lines run fully within the dark grey area, i.e. within the standard error of the other condition.
+Both \figref{fig.scatter.happy.ext.zipf} and \figref{fig.scatter.happy.ext.age} also visualise that there is no significant difference between \isi{priming} conditions for any level of \isi{frequency} or age of participant because all regression lines run fully within the dark grey area, i.e. within the standard error of the other condition.
 
 \section{\textsc{nurse}}
 \label{sec.perc_res.nurse}	
@@ -202,20 +202,20 @@ No significant interactions of prime\is{priming} and any of the other factors co
 	\caption{\textsc{nurse} (perception): mixed-effects ordinal regression}
 	\centering
 	\begin{tabular}{p{0.3\textwidth}rrrrl}
-		\hline
+		\toprule
 		Fixed effects: & Estimate & Std. Error & z value & Pr($>$$|$z$|$) & \\ 
-		\hline
+		\midrule
 		PRIMELiv & -0.325 & 0.125 & -2.599 & 0.009 & **\\ 
 		TOKEN & -0.011 & 0.007 & -1.621 & 0.105 & \\ 
 		POSfinal & 0.395 & 0.098 & 4.031 & < 0.001 & ***\\ 
 		PRIMELiv:POSfinal & 0.183 & 0.095 & 1.913 & 0.056 & .\\
-		\hline
+		\midrule
 		Random effects: & & & & &\\
 		Groups & Name & Variance &      Std.Dev. & &  \\
 		QUESTIONNAIRE &  (Intercept) & 0.219 & 0.469 & & \\
 		QUESTIONNAIRE & TOKEN      & <0.001 & 0.014 & & \\
 		\multicolumn{3}{l}{(number of obs: 547, groups: QUESTIONNAIRE, 55)} & & & \\
-		\hline
+		\bottomrule
 	\end{tabular}
 \end{table}
 
@@ -225,7 +225,7 @@ Token was kept in the model because it just about fails to qualify as a statisti
 \label{sec.perc_res.nurse.prime}
 
 First of all the most interesting predictor, prime\is{priming}, will be investigated.
-Figure \ref{fig.bar.nurse.tot.ext} shows the pooled results for \textsc{nurse}.
+\figref{fig.bar.nurse.tot.ext} shows the pooled results for \textsc{nurse}.
 We can see that in a very clear majority of cases (between 65 and 70\%) subjects reported having perceived stimulus number 2, the one that objectively corresponded most closely to the vowel in the carrier sentence.
 
 \begin{figure}[h]
@@ -245,7 +245,7 @@ For \textsc{nurse} we thus find the \isi{priming} effect that was absent for hap
 This was expected and is in line with the hypothesis that only salient\is{salience} variables will show a \isi{priming} effect.
 What is surprising, though, is that the \isi{priming} effect is not in the expected \emph{direction}.
 When participants are prime\is{priming}d for `Liverpool' they are actually \emph{less} likely to perceive one of the Liverpool \textsc{nurse} variants 3 and 4.
-As is visible in Figure \ref{fig.bar.nurse.tot.ext}, token 3 accounts for about 30\% of answers in the `Manchester' condition, but less than 20\% in the `Liverpool' condition.
+As is visible in \figref{fig.bar.nurse.tot.ext}, token 3 accounts for about 30\% of answers in the `Manchester' condition, but less than 20\% in the `Liverpool' condition.
 Token 4 was very rarely chosen in both conditions, but again slightly more often when participants had been prime\is{priming}d for `Manchester'.
 Tokens 1 and 2, on the other hand, were more often chosen when subjects had been told the speaker was from Liverpool.
 
@@ -253,7 +253,7 @@ Tokens 1 and 2, on the other hand, were more often chosen when subjects had been
 \label{sec.perc_res.nurse.position}
 
 The mixed-effects ordinal regression model returned an interaction of prime\is{priming} and position close to a trend and also a highly significant main effect for position of the carrier word alone.
-Figure \ref{fig.bar.nurse.tot.ext.pos} shows the distribution of \textsc{nurse} answers by position in the stimulus sentence.
+\figref{fig.bar.nurse.tot.ext.pos} shows the distribution of \textsc{nurse} answers by position in the stimulus sentence.
 
 \begin{figure}[h]
 	\centering
@@ -275,16 +275,16 @@ Figure \ref{fig.bar.nurse.tot.ext.pos} shows the distribution of \textsc{nurse} 
 	\label{fig.bar.nurse.tot.ext.pos}
 \end{figure}
 
-It is immediately obvious that Figures \ref{fig.bar.nurse.tot.ext.med} and \ref{fig.bar.nurse.tot.ext.fin} do not differ as much as Figures \ref{fig.bar.happy.tot.ext.med} and \ref{fig.bar.happy.tot.ext.fin} do.
-The general pattern of the distribution is the same as in Figure \ref{fig.bar.nurse.tot.ext}: token 2 is by far the most frequent answer, followed by 3, 1, and 4, and the Liverpool tokens 3 and 4 together are more likely in the `Manchester' condition.
+It is immediately obvious that \figref{fig.bar.nurse.tot.ext.med} and \figref{fig.bar.nurse.tot.ext.fin} do not differ as much as \figref{fig.bar.happy.tot.ext.med} and \figref{fig.bar.happy.tot.ext.fin} do.
+The general pattern of the distribution is the same as in \figref{fig.bar.nurse.tot.ext}: token 2 is by far the most frequent answer, followed by 3, 1, and 4, and the Liverpool tokens 3 and 4 together are more likely in the `Manchester' condition.
 The differences between \isi{priming} conditions, however, are more pronounced for the stimuli that presented the carrier word in the middle of the sentence.
 For the sentence-final stimuli we find virtually no difference between \isi{priming} conditions when we look at token number 1, for example.
 For answer tokens 2 and 3 the difference is only about 5\%.
 In the sentence-medial stimuli, on the other hand, there is a clear difference for token 1 as well, and for subjects prime\is{priming}d for `Manchester' the rate of token number 3 is 14\% higher than in the other group.
 
-The graphs thus suggest that the \isi{priming} effect illustrated in Figure \ref{fig.bar.nurse.tot.ext} is mostly driven by sentence-medial stimuli.
+The graphs thus suggest that the \isi{priming} effect illustrated in \figref{fig.bar.nurse.tot.ext} is mostly driven by sentence-medial stimuli.
 Judging from these three figures it might seem surprising that the interaction of prime\is{priming} and position did not quite reach significance in the mixed-effects model reported above.
-Probably, this is simply due to the fact that subject (coded as ``Questionnaire'' in R) was entered as a random factor (cf. Section \ref{sec.perc_method.stats}).
+Probably, this is simply due to the fact that subject (coded as ``Questionnaire'' in R) was entered as a random factor (cf. \sectref{sec.perc_method.stats}).
 Since a single subject was only in one \isi{priming} condition it is possible that a certain degree of the \isi{priming} effect was filtered out along with the variation due to individuals and that, as a consequence, the interaction no longer reached statistical significance in the mixed-effects model.
 
 \subsection{Stimulus order}
@@ -299,7 +299,7 @@ Since a single subject was only in one \isi{priming} condition it is possible th
 \end{figure}
 
 The influence of token (i.e. the point in time the item was presented in the course of the experiment) on which answer was chosen is slightly more straightforward than the one of age for happ\textsc{y} stimuli.
-The coefficient from the mixed-effects model (\ensuremath{-0.011}) implies a weak downward slope and this is visible in Figure \ref{fig.scatter.nurse.ext.token}.
+The coefficient from the mixed-effects model (\ensuremath{-0.011}) implies a weak downward slope and this is visible in \figref{fig.scatter.nurse.ext.token}.
 Just as with age for happ\textsc{y} there is a substantial amount of variation.
 Nevertheless, it seems clear that subjects are increasingly less likely to perceive the higher-numbered tokens and tend more and more towards the lower (hyper-)Mancunian end of the answer range the further they progress in the experiment.
 The dashed regression line for the `Manchester' \isi{priming} condition is above the one for the `Liverpool' group (reflecting the fact that subjects prime\is{priming}d for `Manchester' were more likely to respond with Liverpool-like tokens), but the distance between conditions tends to get smaller in the course of the test because the slope is steeper for the `Manchester' condition. That is to say participants prime\is{priming}d for Manchester change their behaviour more drastically than the other group.
@@ -314,21 +314,21 @@ For the last ten items or so the regression lines are within the error range of 
 	\label{fig.line.nurse.ext.token}
 \end{figure}
 
-Figure \ref{fig.line.nurse.ext.token} visualises the differences between \isi{priming} groups when responses are grouped with respect to whether they were given at the beginning (items 1--18), in the middle (items 19--36), or towards the end (items 37--48) of the experiment.
+\figref{fig.line.nurse.ext.token} visualises the differences between \isi{priming} groups when responses are grouped with respect to whether they were given at the beginning (items 1--18), in the middle (items 19--36), or towards the end (items 37--48) of the experiment.
 The dots mark the answer means in the respective phases of the test, \isi{priming} conditions are coded by line type as usual (dashed for `Manchester', solid for `Liverpool'), and the error ranges are based on standard deviations.
-The graph tells much the same story as Figure \ref{fig.scatter.nurse.ext.token}: Answers in the two groups differ at the beginning of the test (the means are clearly distinguishable, error bars do not overlap, the regression lines in Figure \ref{fig.scatter.nurse.ext.token} are far apart), then the difference grows smaller (means and error bars are closer, distance between regression lines decreases), and in the end the two groups are very close together (means and error bars in the two conditions are no longer distinguishable, regression lines lie within the dark grey area of overlapping standard deviations).
+The graph tells much the same story as \figref{fig.scatter.nurse.ext.token}: Answers in the two groups differ at the beginning of the test (the means are clearly distinguishable, error bars do not overlap, the regression lines in \figref{fig.scatter.nurse.ext.token} are far apart), then the difference grows smaller (means and error bars are closer, distance between regression lines decreases), and in the end the two groups are very close together (means and error bars in the two conditions are no longer distinguishable, regression lines lie within the dark grey area of overlapping standard deviations).
 \(\chi\)\textsuperscript{2}-tests on the raw data at least partially tie in with this description, in that distributions of answers are significantly different at the beginning of the experiment (\(\chi\)\textsuperscript{2} = 9.551, \emph{df} = 3; p = 0.023).
 The test for the tokens in the middle of the experiment yields a non-significant result (\(\chi\)\textsuperscript{2} = 4.964, \emph{df} = 3; p = 0.174), but the p-value is still considerably lower than the one obtained when testing answers in the last third of the experiment (\(\chi\)\textsuperscript{2} = 1.541, \emph{df} = 3; p = 0.673).
 
 It is tempting to interpret this in the same way as the author has done in a previous study \parencite[cf.][]{juskanma}: The \isi{priming} effect is greater at the beginning of the experiment and then diminishes as subjects perceive more and more material that is (in the case of the `Liverpool' group) in conflict with the prime\is{priming}.
-This material activate\is{activation}s \isi{exemplar}s that are acoustically similar (instead of indexed with the same social information as the prime\is{priming}) and shifts the basis of perception --- the \isi{priming} effect disappears.
+This material activate\is{activation}s \isi{exemplar}s that are acoustically similar (instead of indexed with the same social information as the prime\is{priming}) and shifts the basis of perception -- the \isi{priming} effect disappears.
 In the present case, however, this interpretation is difficult to uphold.
 For one thing, the development just described would only make sense in the condition where participants were prime\is{priming}d for Liverpool.
 If people are correctly told the speaker is from Manchester there is no acoustic deviation from the \isi{exemplar}s that are activate\is{activation}d through social \isi{indexation}, so there is nothing that could be `corrected' by additional acoustic material.
-The line for `Manchester' in Figure \ref{fig.scatter.nurse.ext.token} should therefore be flat, which it is not.
-Figure \ref{fig.line.nurse.ext.token} and the \(\chi\)\textsuperscript{2}-results do suggest that the \isi{priming} effect seems to change in the course of the experiment, but it should be borne in mind that both are based on the raw data, whereas the mixed-effects model did not find a significant interaction of prime\is{priming} and stimulus order once variation due to individual properties of the subjects (and individual changes in behaviour during the test) had been taken out of the calculation.
-The differences between conditions that we are seeing in Figures \ref{fig.scatter.nurse.ext.token} and \ref{fig.line.nurse.ext.token} could therefore be unduly amplified by random variation between subjects.
-As far as the regression model is concerned, the influence of stimulus order is the same in both conditions, \emph{and} it is, after all, not a predictor which is significant at the 5\%-level --- in fact, it is not even a statistical trend.
+The line for `Manchester' in \figref{fig.scatter.nurse.ext.token} should therefore be flat, which it is not.
+\figref{fig.line.nurse.ext.token} and the \(\chi\)\textsuperscript{2}-results do suggest that the \isi{priming} effect seems to change in the course of the experiment, but it should be borne in mind that both are based on the raw data, whereas the mixed-effects model did not find a significant interaction of prime\is{priming} and stimulus order once variation due to individual properties of the subjects (and individual changes in behaviour during the test) had been taken out of the calculation.
+The differences between conditions that we are seeing in \figref{fig.scatter.nurse.ext.token} and \figref{fig.line.nurse.ext.token} could therefore be unduly amplified by random variation between subjects.
+As far as the regression model is concerned, the influence of stimulus order is the same in both conditions, \emph{and} it is, after all, not a predictor which is significant at the 5\%-level -- in fact, it is not even a statistical trend.
 Both points should caution against overinterpretation of this factor.
 
 
@@ -339,42 +339,42 @@ Both points should caution against overinterpretation of this factor.
 
 Just as with the other variables, the first maximal mixed-effects ordinal model that was fit to the /ŋ(g)/ responses included the SUBTLEX \isi{frequency} of the keyword as a fixed effect.
 The degree of \isi{collinearity} was, again, not unacceptable in this model (κ = 12.35), but it \emph{did} turn out that the Zipf\is{Zipf score} scores of keywords strongly correlated with phonological environment\is{phonological context} of /ŋ(g)/.
-If we have another look at Table \ref{tab.keywords.frequency} on page \pageref{tab.keywords.frequency}, the problem becomes apparent.
+If we have another look at \tabref{tab.keywords.frequency} on page \pageref{tab.keywords.frequency}, the problem becomes apparent.
 For the two consonantal variables velar nasal plus and lenition of /k/, the top three keywords have the variable in word-final\is{phonological context} position, while the bottom three contain the sound in question in an intervocalic\is{phonological context} context.
 For /ŋ(g)/, the frequencies of keywords are 2.13, 3.13, and 4.48 for `intervocalic\is{phonological context}', and 4.39, 5.10, and 5.51 for `word-final\is{phonological context}' respectively.
 Frequency\is{frequency} of keyword and \isi{phonological context} are therefore confounded because keywords where the variable occurs intervocalic\is{phonological context}ally are also on average less frequent than keywords that have the variable in final position.
 
-This is unfortunate and should have been avoided, but it should be remembered that \isi{frequency} is just a minor concern in this study anyway, that the selection of keywords was primarily based on other criteria, and that the overall experimental design was neither specifically intended nor particularly suited to investigate \isi{frequency} in the first place (cf. Section \ref{sec.perc_method.sentences}).
+This is unfortunate and should have been avoided, but it should be remembered that \isi{frequency} is just a minor concern in this study anyway, that the selection of keywords was primarily based on other criteria, and that the overall experimental design was neither specifically intended nor particularly suited to investigate \isi{frequency} in the first place (cf. \sectref{sec.perc_method.sentences}).
 As a result of \isi{collinearity} it becomes difficult to statistically tell the effect of one factor from that of the other.
 The easiest way to solve this problem is to drop one of the factors in question from the model.
 Since this study is more interested in a potential effect of environment, \isi{frequency} was eliminated from the set of predictors.
-Strictly speaking, this would not have been necessary as the \isi{collinearity} in the original model did not reach a problematic level (κ < 15), but dropping \isi{frequency} increased comparability with the model fit to the data for /k/ (cf. Section \ref{sec.perc_res.k}) while simultaneously decreasing \isi{collinearity} in the /ŋ(g)/ model a bit further (κ = 7.88).
+Strictly speaking, this would not have been necessary as the \isi{collinearity} in the original model did not reach a problematic level (κ < 15), but dropping \isi{frequency} increased comparability with the model fit to the data for /k/ (cf. \sectref{sec.perc_res.k}) while simultaneously decreasing \isi{collinearity} in the /ŋ(g)/ model a bit further (κ = 7.88).
 The minimal adequate model for velar nasal plus is, once more, a rather simple one\footnote{Starting out from a maximal model that includes \isi{frequency} as a fixed effect results in the same minimal adequate model, which is evidence that dropping Zipf\is{Zipf score} scores as a predictor was justified and unproblematic.}.
 
 \begin{table}
 	\caption{/ŋ(g)/ (perception): mixed-effects ordinal regression}
 	\centering
 	\begin{tabular}{p{0.3\textwidth}rrrrl}
-		\hline
+		\toprule
 		Fixed effects: & Estimate & Std. Error & z value & Pr($>$$|$z$|$) & \\ 
-		\hline
+		\midrule
 		PRIMELiv & -0.250 & 0.145 & -1.723 & 0.085 & .\\ 
 		AGE & -0.025 & 0.015 & -1.700 & 0.089 & .\\ 
 		ENVIR\_\# & 0.239 & 0.084 & 2.854 & < 0.01 & ** \\ 
-		\hline
+		\midrule
 		Random effects: & & & & & \\
 		Groups & Name & Variance & Std.Dev. & & \\
 		QUESTIONNAIRE &  (Intercept) & 0.653 & 0.808 & & \\
 		QUESTIONNAIRE & TOKEN & <0.001 & 0.010 & & \\
 		\multicolumn{3}{l}{(number of obs: 534, groups: QUESTIONNAIRE, 55)} & & &\\
-		\hline
+		\bottomrule
 	\end{tabular}
 \end{table}
 
 Only three factors remain once all non-significant interactions and main effects have been eliminated from the model: Phonological environment\is{phonological context}, age (near-significant) and, somewhat surprisingly, prime\is{priming}, which almost reaches significance.
 The coefficient for \isi{priming} condition `Liverpool' is negative (\ensuremath{-0.250}), indicating that, again, people who were led to believe the speaker was from Liverpool are actually \emph{less} likely to choose one of the Liverpool tokens 3 or 4.
 The other significant main effect is environment, which, in this study, has two levels: intervocalic\is{phonological context} (``V\_V'') and word-final\is{phonological context} (``\_\#'').
-Let us start by looking at the predictor prime\is{priming} in the entire dataset, illustrated in Figure \ref{fig.bar.ng.tot.ext}.
+Let us start by looking at the predictor prime\is{priming} in the entire dataset, illustrated in \figref{fig.bar.ng.tot.ext}.
 
 \subsection{Prime}
 \label{sec.perc_res.ng.prime}
@@ -387,7 +387,7 @@ Let us start by looking at the predictor prime\is{priming} in the entire dataset
 	\label{fig.bar.ng.tot.ext}
 \end{figure}
 
-As far as the overall distribution of answers is concerned, Figure \ref{fig.bar.ng.tot.ext} looks quite similar to Figure \ref{fig.bar.happy.tot.ext}.
+As far as the overall distribution of answers is concerned, \figref{fig.bar.ng.tot.ext} looks quite similar to \figref{fig.bar.happy.tot.ext}.
 Tokens 2 (actual, long nasal) and 3 (`Liverpool', nasal plus burst) together account for almost 80\% of all answers in both conditions.
 Participants who were in the `Manchester' condition then chose tokens 1 and 3 equally often, namely in around 10\% of cases each.
 Subjects who thought the speaker was from Liverpool clearly preferred the hyper-standard token 1 (shortened nasal) to the hyper-Liverpudlian token 4 (nasal plus burst and aspiration).
@@ -402,12 +402,12 @@ Intriguingly, the direction of the effect is, again, opposite to what was expect
 \label{sec.perc_res.ng.phon}
 
 The only clearly significant predictor of answer tokens in the mixed ordinal regression model is the \isi{phonological context} in which the variable is found in the keyword.
-The difference between the two environments analysed in this study is visualised in Figures \ref{fig.bar.ng.ext.intervoc} and \ref{fig.bar.ng.ext.wordfinal}.
+The difference between the two environments analysed in this study is visualised in \figref{fig.bar.ng.ext.intervoc} and \figref{fig.bar.ng.ext.wordfinal}.
 The overall distribution of answers seems to be roughly the same in both environments.
 Tokens 2 and 3 together account for around 70--80\% of answers, in both \isi{priming} conditions and in both intervocalic\is{phonological context} and word-final\is{phonological context} contexts.
 In the model we find a coefficient of 0.239 for word-final\is{phonological context} environments (`\_\#'), which indicates that people are more likely to answer with a higher-numbered token when the variable is word-final\is{phonological context}.
-This is visible in the graphs as well: In Figure \ref{fig.bar.ng.ext.wordfinal}, the preference for tokens 2 and 3 is more pronounced, and the around 20\% of answers that remain are relatively equally distributed among tokens 1 and 4 (if pooled across \isi{priming} conditions).
-In Figure \ref{fig.bar.ng.ext.intervoc}, on the other hand, the proportion of `1' answers is much larger than that for token number 4, so people were more likely to report having perceived the ultra-standard shortened nasal than the fully realised Liverpudlian velar nasal plus.
+This is visible in the graphs as well: In \figref{fig.bar.ng.ext.wordfinal}, the preference for tokens 2 and 3 is more pronounced, and the around 20\% of answers that remain are relatively equally distributed among tokens 1 and 4 (if pooled across \isi{priming} conditions).
+In \figref{fig.bar.ng.ext.intervoc}, on the other hand, the proportion of `1' answers is much larger than that for token number 4, so people were more likely to report having perceived the ultra-standard shortened nasal than the fully realised Liverpudlian velar nasal plus.
 This preference of token 1 over token 4 then reduces the mean in this \isi{phonological context}.
 
 \begin{figure}[h]
@@ -430,9 +430,9 @@ This preference of token 1 over token 4 then reduces the mean in this \isi{phono
 	\label{fig.bar.ng.ext.environment}
 \end{figure}
 
-Another striking feature of Figures \ref{fig.bar.ng.ext.intervoc} and \ref{fig.bar.ng.ext.wordfinal} is that the differences between \isi{priming} conditions do not seem to be identical.
-For word-final\is{phonological context} contexts we see essentially the same thing as for the pooled data (Figure \ref{fig.bar.ng.tot.ext}: Clearly different peaks (token 2 for `Liverpool', token 3 for `Manchester') and distributions that are generally somewhat more skewed to the right (`Manchester') or to the left (`Liverpool').
-Figure \ref{fig.bar.ng.ext.intervoc} looks more `messy' in this respect.
+Another striking feature of \figref{fig.bar.ng.ext.intervoc} and \figref{fig.bar.ng.ext.wordfinal} is that the differences between \isi{priming} conditions do not seem to be identical.
+For word-final\is{phonological context} contexts we see essentially the same thing as for the pooled data (\figref{fig.bar.ng.tot.ext}: Clearly different peaks (token 2 for `Liverpool', token 3 for `Manchester') and distributions that are generally somewhat more skewed to the right (`Manchester') or to the left (`Liverpool').
+\figref{fig.bar.ng.ext.intervoc} looks more `messy' in this respect.
 Differences between \isi{priming} conditions seem to exist, but they are less pronounced than in word-final\is{phonological context} contexts (cf. the small differences in height of the black and light grey bars for tokens 2 and 3 in particular).
 Again, it should be remembered, though, that this difference is not statistically significant once individual variation due to subjects has been eliminated: the mixed-effects ordinal regression model did not find a significant interaction of prime\is{priming} and phonological environment\is{phonological context}.
 
@@ -463,7 +463,7 @@ These [ŋk] or [ŋkʰ] realisations might be more perceptible than the intervoca
 	\caption{Age in /ŋ(g)/ (perception) and overall}
 \end{figure}
 
-The last predictor that was found to be at least marginally significant (p = 0.089) in the mixed ordinal regression model for /ŋ(g)/ is age, the impact of which is visualised in Figure \ref{fig.scatter.ng.ext.age}, which shows age on the x-axis and estimated answer token on the y-axis, and codes \isi{priming} condition by line type.
+The last predictor that was found to be at least marginally significant (p = 0.089) in the mixed ordinal regression model for /ŋ(g)/ is age, the impact of which is visualised in \figref{fig.scatter.ng.ext.age}, which shows age on the x-axis and estimated answer token on the y-axis, and codes \isi{priming} condition by line type.
 Both regression lines have a downward slope, which was expected, given that the coefficient for age in the mixed-effects model was \ensuremath{-0.025}.
 At first glance, subjects in different \isi{priming} conditions again seem to behave differently.
 There is hardly any movement in the `Liverpool' condition, the solid line is almost flat.
@@ -471,7 +471,7 @@ The dashed regression line for participants in the `Manchester' condition, on th
 One might be tempted to conclude that \isi{priming} affected subjects of different ages in different ways.
 If we consider the error ranges, however, it becomes clear that this would be an unwarranted deduction.
 While it is true that the two regression lines are clearly separate for the youngest subjects in the sample (on the left hand side of the graph) and that they approach (and cross!) each other as we move along the age scale, it also has to be noted that both lines lie within a shared standard deviation\ once we reach participants aged around 37 and older.
-This could simply be due to the fact that the sample is heavily skewed towards subjects in their twenties (cf. Figure \ref{fig.hist.ext.age}, which shows that the vast majority of observations stems from subjects that are between 20 and 30 years of age), but in any case there seems to be far too much noise in the answers given by older subjects to meaningfully speculate about any differences that might exist.
+This could simply be due to the fact that the sample is heavily skewed towards subjects in their twenties (cf. \figref{fig.hist.ext.age}, which shows that the vast majority of observations stems from subjects that are between 20 and 30 years of age), but in any case there seems to be far too much noise in the answers given by older subjects to meaningfully speculate about any differences that might exist.
 This is particularly true since the mixed-effects model does not contain a significant interaction of prime\is{priming} and age.
 
 \section{/k/}
@@ -480,7 +480,7 @@ This is particularly true since the mixed-effects model does not contain a signi
 	\label{sec.perc_res.k.overview}
 
 The condition number in the maximal model fit to responses relating to /k/ stimuli was slightly above the threshold for medium \isi{collinearity} (κ = 15.94), and, just as for velar nasal plus, this was due to a strong correlation of \isi{frequency} and phonological environment\is{phonological context}.
-Another look at Table \ref{tab.keywords.frequency} on page \pageref{tab.keywords.frequency} reveals that if we compare keywords from the two \isi{phonological context}s in pairs (least frequent \_\# word and least frequent V\_V word, medium \isi{frequency} \_\# word and medium \isi{frequency} V\_V word, most frequent \_\# word and most frequent V\_V word), the Zipf\is{Zipf score} score of the keywords with the variable in word-final\is{phonological context} position is always higher.
+Another look at \tabref{tab.keywords.frequency} on page \pageref{tab.keywords.frequency} reveals that if we compare keywords from the two \isi{phonological context}s in pairs (least frequent \_\# word and least frequent V\_V word, medium \isi{frequency} \_\# word and medium \isi{frequency} V\_V word, most frequent \_\# word and most frequent V\_V word), the Zipf\is{Zipf score} score of the keywords with the variable in word-final\is{phonological context} position is always higher.
 High \isi{frequency} is thus, in this very limited sample, largely identical with word-final\is{phonological context} occurrence of the variable.
 Removing \isi{frequency} as a fixed effect halved \isi{collinearity} in the maximal model (κ = 7.9).
 Model selection based on AIC scores and F-tests comparing nested models resulted in the minimal adequate model printed below.
@@ -489,21 +489,21 @@ Model selection based on AIC scores and F-tests comparing nested models resulted
 	\caption{/k/ (perception): mixed-effects ordinal regression}
 	\centering
 	\begin{tabular}{p{0.3\textwidth}rrrrl}
-		\hline
+		\toprule
 		Fixed effects: & Estimate & Std. Error & z value & Pr($>$$|$z$|$) & \\ 
-		\hline
+		\midrule
 		PRIMELiv & 0.048 & 0.199 & 0.240 & 0.810 & \\ 
 		CLASSmc & 0.622 & 0.200 & 3.110 & < 0.01 & **\\ 
 		ENVIR\_\# & -0.391 & 0.104 & -3.764 & < 0.001 & ***\\ 
 		DISTANCE & 0.232 & 0.121 & 1.912 & 0.056 & .\\ 
 		PRIMELiv:CLASSmc & -0.373 & 0.199 & -1.870 & 0.061 & .\\ 
-		\hline
+		\midrule
 		Random effects: & & & & & \\
 		Groups & Name & Variance & Std.Dev. & &  \\
 		QUESTIONNAIRE &  (Intercept) & 0.227 & 0.477 & &  \\
 		QUESTIONNAIRE & TOKEN      & <0.001 & <0.001 & &  \\
 		\multicolumn{3}{l}{(number of obs: 522, groups: QUESTIONNAIRE, 55)} & & & \\
-		\hline
+		\bottomrule
 	\end{tabular}
 \end{table}
 
@@ -528,8 +528,8 @@ I will now discuss these factors in more detail, starting once more with prime\i
 	\label{fig.bar.k.tot.ext}
 \end{figure}
 
-Interestingly, there are a number of parallels in the pooled results for \textsc{nurse} and lenition of /k/ as visualised in Figures \ref{fig.bar.nurse.tot.ext} and \ref{fig.bar.k.tot.ext} (remember that the corresponding graphs for happ\textsc{y} and /ŋ(g)/ also resembled each other):
-Again, the preference of subjects to choose the objectively most accurate token 2 is obvious in Figure \ref{fig.bar.k.tot.ext}: 70--75\% of answers belong to this category.
+Interestingly, there are a number of parallels in the pooled results for \textsc{nurse} and lenition of /k/ as visualised in \figref{fig.bar.nurse.tot.ext} and \figref{fig.bar.k.tot.ext} (remember that the corresponding graphs for happ\textsc{y} and /ŋ(g)/ also resembled each other):
+Again, the preference of subjects to choose the objectively most accurate token 2 is obvious in \figref{fig.bar.k.tot.ext}: 70--75\% of answers belong to this category.
 Token 1 (plosive with burst, but no aspiration) accounts for 20\% of responses in the `Manchester' group, and 30\% of answers for the participants who were prime\is{priming}d for Liverpool.
 The affricate (token 3) and fricative (token 4) are rarely chosen across the board, but still clearly more often if people think the speaker is from Manchester (light grey bars).
 Once more, the \isi{priming} effect is not in the expected direction: Subjects are \emph{less} likely to perceive /k/-lenition if they are led to believe the speaker is actually from Liverpool.
@@ -537,7 +537,7 @@ Once more, the \isi{priming} effect is not in the expected direction: Subjects a
 In the \textsc{nurse} results there was also a sizeable proportion of token 3 (mild Scouse) answers, which has `moved' to token 1 (hyper standard/Mancunian) in the responses to /k/ stimuli.
 Apart from that, pooled results for the two salient\is{salience} variables are remarkably similar: pronounced preference for the objectively most accurate token in both conditions, \isi{priming} effect in the unexpected direction.
 This \isi{priming} effect is subtle (people are not fooled most of the time and choose the `correct' token 2 in three out of four cases), but nevertheless clearly visible in the graph.
-While prime\is{priming} is not a significant main effect in the mixed ordinal regression model (due to the presence of the interaction with social class, see beginning of this section), the difference between conditions is found to be significant in a model not including this interaction (estimate = -0.256, se = 0.128, z value = -1.999, p = 0.046), which supports the interpretation of Figure \ref{fig.bar.k.tot.ext} just presented.
+While prime\is{priming} is not a significant main effect in the mixed ordinal regression model (due to the presence of the interaction with social class, see beginning of this section), the difference between conditions is found to be significant in a model not including this interaction (estimate = -0.256, se = 0.128, z value = -1.999, p = 0.046), which supports the interpretation of \figref{fig.bar.k.tot.ext} just presented.
 The interaction of prime\is{priming} and social class is what we will look at next.
 
 \begin{figure}[h]
@@ -560,9 +560,9 @@ The interaction of prime\is{priming} and social class is what we will look at ne
 	\label{fig.bar.k.ext.class}
 \end{figure}
 
-Figure \ref{fig.bar.k.ext.wc} shows the data for working-class subjects only, while Figure \ref{fig.bar.k.ext.mc} visualises the responses given by middle-class participants.
+\figref{fig.bar.k.ext.wc} shows the data for working-class subjects only, while \figref{fig.bar.k.ext.mc} visualises the responses given by middle-class participants.
 As outlined earlier, the correlation coefficient calculated by the mixed-effects model for middle class (0.622) suggests that middle-class participants were more likely to perceive higher-numbered tokens.
-The two subplots of Figure \ref{fig.bar.k.ext.class} illustrate this in an impressively (and unexpectedly) clear way.
+The two subplots of \figref{fig.bar.k.ext.class} illustrate this in an impressively (and unexpectedly) clear way.
 working-class participants chose answer token 1 in around 45\% and token 2 in about 55\% of cases when they were in the `Liverpool' condition; the WC subjects in the `Manchester' condition reverse these figures.
 Two factors are responsible for the lower average of WC subjects:
 \begin{inparaenum}[(a)]
@@ -570,10 +570,10 @@ Two factors are responsible for the lower average of WC subjects:
 	\item tokens 1 and 2 have an (almost, if conditions are considered separately) equal share of the total number of WC answers.
 \end{inparaenum} 
 
-Middle-class subjects, on the other hand, show a distribution which is very similar to the one we find when results are pooled for social class (cf. Figure \ref{fig.bar.k.tot.ext}).
-This is not surprising, given that subjects with a middle-class background clearly dominate the sample in terms of numbers (cf. Section \ref{sec.perc_method.subjects}).
+Middle-class subjects, on the other hand, show a distribution which is very similar to the one we find when results are pooled for social class (cf. \figref{fig.bar.k.tot.ext}).
+This is not surprising, given that subjects with a middle-class background clearly dominate the sample in terms of numbers (cf. \sectref{sec.perc_method.subjects}).
 Token 2 accounts for 70--75\% of answers, depending on \isi{priming} condition.
-Just as in Figure \ref{fig.bar.k.tot.ext}, the next most frequent answer is the hyper-standard/Mancunian token number 1 (plosive with burst, but no friction), which was chosen in around 25\% (`Liverpool') and about 17\% (`Manchester') of cases.
+Just as in \figref{fig.bar.k.tot.ext}, the next most frequent answer is the hyper-standard/Mancunian token number 1 (plosive with burst, but no friction), which was chosen in around 25\% (`Liverpool') and about 17\% (`Manchester') of cases.
 The affricate (token 3) and fricative variants (token 4) were once more only chosen in a small minority of cases, but clearly more often when subjects were prime\is{priming}d for Manchester.
 The interaction of prime\is{priming} and class that the mixed ordinal regression model found is thus also visible in the raw data.
 
@@ -585,7 +585,7 @@ The interaction of prime\is{priming} and class that the mixed ordinal regression
 	\label{fig.scatter.k.ext.classprime}
 \end{figure}
 
-In Figure \ref{fig.scatter.k.ext.classprime} the interaction of these two factors is visualised.
+In \figref{fig.scatter.k.ext.classprime} the interaction of these two factors is visualised.
 As with the other scatter/regression plots estimated answer token is to be found on the y-axis.
 On the x-axis we have the distinction into subjects prime\is{priming}d for `Manchester' and `Liverpool'.
 Social class, finally, is coded by line type: The solid line represents middle-class subjects, while the dashed line stands for working-class participants.
@@ -603,7 +603,7 @@ Notwithstanding this caveat, it is highly interesting that a \isi{priming} effec
 Also, it remains striking, even if the small number of observations is taken into account, that WC subjects did not choose tokens 3 and 4 even once.
 2.2\% (`Liverpool') to 6.5\% (`Manchester') of MC answers were token 3 or 4.
 If working-class participants had similar percentages, tokens 3 and 4 would have been chosen between 1 and 5 times.
-Furthermore, this result --- statistically shaky as it may be --- is in line with previous research.
+Furthermore, this result -- statistically shaky as it may be -- is in line with previous research.
 \textcite{hayetal2006a} and \textcite{haydrager2010} both found an interaction of social class and condition, and in both cases the \isi{priming} effect was most pronounced for the highest social classes, less extreme in the middle range, and completely absent for participants situated towards the lower end of the socioeconomic scale.
 
 For a socially salient\is{salience} variable, this should not really come as a surprise.
@@ -616,8 +616,8 @@ Another option is that due to differences in mobility and social networks, worki
 
 The last (highly) significant factor in the mixed ordinal regression model is phonological environment\is{phonological context}.
 We have the same two environments \_\# and V\_V as for velar nasal plus.
-Results for V\_V are visualised in Figure \ref{fig.bar.k.ext.intervoc}, those for \_\# contexts are represented by Figure \ref{fig.bar.k.ext.wordfinal}.
-Similar to the results for /ŋ(g)/, where \isi{phonological context} was also a significant factor, there do not seem to be huge differences between Figures \ref{fig.bar.k.ext.intervoc} and \ref{fig.bar.k.ext.wordfinal}.
+Results for V\_V are visualised in \figref{fig.bar.k.ext.intervoc}, those for \_\# contexts are represented by \figref{fig.bar.k.ext.wordfinal}.
+Similar to the results for /ŋ(g)/, where \isi{phonological context} was also a significant factor, there do not seem to be huge differences between \figref{fig.bar.k.ext.intervoc} and \figref{fig.bar.k.ext.wordfinal}.
 In both contexts, subjects show the clear preference for token 2 (released plosive with normal aspiration) that we have already seen for the pooled results.
 Token 1 (plosive with burst, but no aspiration) is the next most frequent choice in both environments.
 However, it accounts for between 15 and just above 20\% of answers in the intervocalic\is{phonological context} stimuli, whereas for keywords that have the variable in word-final\is{phonological context} position, token 1 is chosen in around 27 to 35\% of cases.
@@ -645,23 +645,23 @@ The fact that token 1 is a considerably more (and token 2 a considerably less) f
 \end{figure}
 
 One might also suspect a different size of the \isi{priming} effect when only looking at the two graphs.
-Differences between conditions appear to be more pronounced in Figure \ref{fig.bar.k.ext.wordfinal}, particularly for token 2.
+Differences between conditions appear to be more pronounced in \figref{fig.bar.k.ext.wordfinal}, particularly for token 2.
 On the other hand, the potential influence of prime\is{priming} seems to be largely identical in size for tokens 3 and 4 in both \isi{phonological context}s, and the distance between conditions for token 1 \emph{is} greater in word-final\is{phonological context} than in intervocalic\is{phonological context} environments, but not as much as it is for token 2.
 If \isi{phonological context} does affect the degree of the \isi{priming} effect, then the difference can only be a very subtle one.
 The raw data thus seem to support the fact that the mixed-effects model did not find a significant interaction of prime\is{priming} and phonological environment\is{phonological context}; the effect is largely the same.
 
 Even though environments are not significantly different from each other, it is tempting to link the slightly more pronounced difference between \isi{priming} conditions for the word-final\is{phonological context} stimuli to higher \isi{salience} of /k/-lenition in this context.
-Remember that, in production, subjects used more lenition for /k/'s that appeared intervocalic\is{phonological context}ally compared to those that occurred word-final\is{phonological context}ly (cf. \ref{sec.prod.res.con.k.phon}).
+Remember that, in production, subjects used more lenition for /k/'s that appeared intervocalic\is{phonological context}ally compared to those that occurred word-final\is{phonological context}ly (cf. \sectref{sec.prod.res.con.k.phon}).
 This was taken to be a hint that lenition of /k/ is more socially salient\is{salience} in the latter environment, or, rather, it is \emph{less} salient\is{salience} in intervocalic\is{phonological context} contexts, possibly because leniting a stop in-between vowels can be `justified' phonetically (and is quite common typologically).
 It would tie in nicely with the main hypothesis of this study if a feature that has been shown to be more salient\is{salience} in a particular phonological environment\is{phonological context} in production also creates a larger \isi{priming} effect in this context in perception.
 Unfortunately, however, there is only little statistical evidence to support this claim, as has been pointed out above.
 
-With respect to the stronger preference for token 2 in intervocalic\is{phonological context} stimuli, there is a possible explanation that is more directly based on the phonological environment\is{phonological context} itself, and one that also works for the significant difference between \isi{phonological context}s as a whole --- across \isi{priming} conditions --- that was revealed in the mixed ordinal regression.
+With respect to the stronger preference for token 2 in intervocalic\is{phonological context} stimuli, there is a possible explanation that is more directly based on the phonological environment\is{phonological context} itself, and one that also works for the significant difference between \isi{phonological context}s as a whole -- across \isi{priming} conditions -- that was revealed in the mixed ordinal regression.
 In RP, GA, and many other accents of English, the voiceless plosives /p, t, k/ have three main allophones which are in complementary distribution: Aspirated variants [pʰ, tʰ, kʰ] occur in simple onsets of syllables, unaspirated variants [p, t, k] are found in complex onsets, and unreleased realisations [p̚, t̚, k̚~] are common in coda position.
 For any word-final\is{phonological context} /k/ stimulus it is therefore possible that subjects sub-conscious\is{awareness}ly expected a [k̚~] realisation.
 In intervocalic\is{phonological context}, i.e. syllable-initial position, on the other hand, the expected variant would be [kʰ].
 Token 2 (plosive with burst and aspiration, i.e. [kʰ]) thus fits expectations based on allophonic distributions very well when /k/ is presented in inter-vocalic environments.
-If we assume that participants are somewhat biased to perceive a non-released [k̚~] in word-final\is{phonological context} contexts, their best option to report this percept would be choosing token 1 (plosive with a short burst, but no aspiration) as it is phonetically most similar to [k̚~], so we would expect a larger share of token 1 answers, and this is exactly what we are seeing in Figures \ref{fig.bar.k.ext.intervoc} and \ref{fig.bar.k.ext.wordfinal}.
+If we assume that participants are somewhat biased to perceive a non-released [k̚~] in word-final\is{phonological context} contexts, their best option to report this percept would be choosing token 1 (plosive with a short burst, but no aspiration) as it is phonetically most similar to [k̚~], so we would expect a larger share of token 1 answers, and this is exactly what we are seeing in \figref{fig.bar.k.ext.intervoc} and \figref{fig.bar.k.ext.wordfinal}.
 Explaining the larger proportion of token 1 answers for \_\# stimuli with expectations based on well-known allophonic distributions is the same as saying subjects were prime\is{priming}d by the \isi{phonological context}.
 While there was no significant interaction of prime\is{priming} and phonological environment\is{phonological context} (differences between conditions are non-significant in both cases), then, we seem to have revealed an unintended \isi{priming} effect of \isi{phonological context} itself.
 
@@ -670,7 +670,7 @@ While there was no significant interaction of prime\is{priming} and phonological
 
 Let us now turn to \isi{geographical distance} from Liverpool, a fixed effect which was not found to be significant in the mixed ordinal regression model, but whose p-value was low enough (p = 0.056) to qualify as a statistical trend.
 The estimate found (0.232) suggests that higher-numbered answer tokens increase in parallel with growing distance from Liverpool.
-This trend is immediately obvious in Figure \ref{fig.scatter.k.ext.dist}.
+This trend is immediately obvious in \figref{fig.scatter.k.ext.dist}.
 As usual, the estimated answer token is marked on the y-axis.
 On the x-axis we find Euclidean distance from Liverpool, and \isi{priming} condition is once more coded by line type (dashed for `Manchester', solid for `Liverpool').
 
@@ -686,7 +686,7 @@ Both regression lines have a clear upward slope, indicating that a higher-number
 This effect seems to be the same in both conditions.
 While the two lines have different intercepts (this is the overall \isi{priming} effect), they run almost perfectly in parallel, which means that the effect of distance is identical in both conditions.
 Since \isi{geographical distance} does not reach significance as a predictor but only crosses the trend threshold, the meaning of this result should probably not be overestimated.
-All the same, it is interesting that Figure \ref{fig.scatter.k.ext.dist} looks comparable to Figure \ref{fig.scatter.happy.ext.dist} (minus the \isi{priming} effect).
+All the same, it is interesting that \figref{fig.scatter.k.ext.dist} looks comparable to \figref{fig.scatter.happy.ext.dist} (minus the \isi{priming} effect).
 For both variables we might be seeing a (weak) proximity effect in the sense that people living further away are more prone to choosing one of the objectively less accurate, Liverpool-like tokens 3 or 4, whereas subjects living closer to Liverpool prefer the accurate and hyper-correct tokens 1 and 2.
 If this effect is more than a statistical artefact, it could be to do with familiarity.
 People who live closer to Liverpool (and Manchester, probably) might be reluctant to choose the Liverpool variants because they know comparatively well what these variants sound like and therefore feel rather confident in deciding that what they are hearing in the stimuli is not Liverpool English.
@@ -706,15 +706,15 @@ If there really is a proximity effect, however, it would have to be addressed wh
 \end{figure}
 
 For the sake of completeness, we will also have a very brief look at \isi{frequency}.
-Figure \ref{fig.scatter.k.ext.zipf} is another regression plot, this time with \isi{frequency} measured in Zipf\is{Zipf score} scores on the x-axis.
+\figref{fig.scatter.k.ext.zipf} is another regression plot, this time with \isi{frequency} measured in Zipf\is{Zipf score} scores on the x-axis.
 Again, the two lines are not too different in slope, although the decline in the `Liverpool' group is somewhat steeper.
 In both \isi{priming} conditions, estimated answer token decreases slightly with increasing \isi{frequency}.
-This is the exact opposite of what was found for happ\textsc{y} responses, where there was a positive correlation of estimated answer and \isi{frequency} (cf. Figure \ref{fig.scatter.happy.ext.zipf}).
+This is the exact opposite of what was found for happ\textsc{y} responses, where there was a positive correlation of estimated answer and \isi{frequency} (cf. \figref{fig.scatter.happy.ext.zipf}).
 For the /k/ responses we \emph{might} argue that higher word frequencies could coincide with higher familiarity (i.e. more (recent) \isi{exemplar}s), which, in turn, may lead to higher accuracy in perception, and translate into lower-numbered answer tokens (see the discussion of the role of distance just above).
 With regard to the happ\textsc{y} results, however, this would not work, since the direction of the effect is inverted.
 I have no explanation to offer at this point which would cover both results, but two things should be borne in mind:
 \begin{inparaenum}[(a)]
-	\item The general problems of using \isi{frequency} as a predictor in this study (cf. Section \ref{sec.perc_method.sentences}), and
+	\item The general problems of using \isi{frequency} as a predictor in this study (cf. \sectref{sec.perc_method.sentences}), and
 	\item the fact that \isi{frequency} does not end up as a significant fixed effect in the regression model anyway.
 \end{inparaenum}
 Chances are that what seems to be a (marginally significant) effect of \isi{frequency} is really due to lexical effects of individual carrier words.
