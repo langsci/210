@@ -1,0 +1,7 @@
+GB Historical GIS
+Liverpool City Council
+Office for National Statistics
+QGIS Development Team
+R Core Team
+r-sig-mixed-models mailing list
+SoSciSurvey.de

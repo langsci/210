@@ -65,7 +65,11 @@
 \newcommand{\logopath}{}
 \newcommand{\seriesinfopath}{}
 \newcommand{\localepath}{}
+<<<<<<< HEAD
 \newcommand{\bibstylepath}{}
+=======
+\newcommand{\bstpath}{}
+>>>>>>> 9fd9d6bb11d4ee2717e3541ea7b5e59374517b76
 \newcommand{\bbxpath}{}
 \newcommand{\cbxpath}{}
 \newcommand{\stylepath}{}
@@ -175,9 +179,17 @@
 	\renewcommand{\logopath}{./langsci/graphics/}
 	\renewcommand{\seriesinfopath}{./langsci/seriesinfo/}
 	\renewcommand{\localepath}{./langsci/locale/}
+<<<<<<< HEAD
 	\renewcommand{\bibstylepath}{./langsci/bibstyles/}
 	\renewcommand{\bbxpath}{\bibstylepath langsci-unified/bbx/}
 	\renewcommand{\cbxpath}{\bibstylepath langsci-unified/cbx/}
+=======
+	\renewcommand{\bstpath}{./langsci/bst/}
+	\renewcommand{\bbxpath}{\bstpath biblatex-sp-unified/bbx/}
+	% \renewcommand{\bbxpath}{\bstpath}
+	\renewcommand{\cbxpath}{\bstpath biblatex-sp-unified/cbx/}
+	% \renewcommand{\cbxpath}{\bstpath}
+>>>>>>> 9fd9d6bb11d4ee2717e3541ea7b5e59374517b76
 	\renewcommand{\stylepath}{./langsci/styles/}
 }
 \DeclareVoidOption{nobabel}{
@@ -1352,9 +1364,20 @@ Storage and cataloguing done by FU Berlin \\[3ex]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage[
+<<<<<<< HEAD
 	natbib=true, 
 	style=\bbxpath langsci-unified,
 	citestyle=\cbxpath langsci-unified,
+=======
+	natbib=true,
+	% \iflsUndecapitalize
+	% style=\bstpath biblatex-langsci-unified-undecap,
+	% \else
+	% style=\bstpath biblatex-langsci-unified,
+	% \fi
+	style=\bbxpath biblatex-sp-unified,
+	citestyle=\cbxpath sp-authoryear-comp,
+>>>>>>> 9fd9d6bb11d4ee2717e3541ea7b5e59374517b76
 	useprefix = true, %sort von, van, de where they should appear
 	%refsection=chapter,
 	maxbibnames=99,
@@ -1372,7 +1395,11 @@ Storage and cataloguing done by FU Berlin \\[3ex]
 	\iflsCollection\else
 		toc=bib, 		% make bibliography appear in toc
   \fi
+<<<<<<< HEAD
   datamodel=\bibstylepath langsci   % add authauthor and autheditor as possible fields to bibtex entries
+=======
+  datamodel=\bstpath langsci   % add authauthor and autheditor as possible fields to bibtex entries
+>>>>>>> 9fd9d6bb11d4ee2717e3541ea7b5e59374517b76
 ]{biblatex}
 
 % If the user provided a shortauthor in the bibtex entry, we use the authentic author (as with the
