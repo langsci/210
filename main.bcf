@@ -237,14 +237,6 @@
       <bcf:key>useshorteditor</bcf:key>
       <bcf:value>1</bcf:value>
     </bcf:option>
-    <bcf:option type="singlevalued">
-      <bcf:key>useauthauthor</bcf:key>
-      <bcf:value>1</bcf:value>
-    </bcf:option>
-    <bcf:option type="singlevalued">
-      <bcf:key>useautheditor</bcf:key>
-      <bcf:value>1</bcf:value>
-    </bcf:option>
   </bcf:options>
   <!-- BIBLATEX OPTION SCOPE -->
   <bcf:optionscope type="GLOBAL">
@@ -319,8 +311,6 @@
     <bcf:option datatype="boolean">usetranslator</bcf:option>
     <bcf:option datatype="boolean">useshortauthor</bcf:option>
     <bcf:option datatype="boolean">useshorteditor</bcf:option>
-    <bcf:option datatype="boolean">useauthauthor</bcf:option>
-    <bcf:option datatype="boolean">useautheditor</bcf:option>
     <bcf:option datatype="boolean">debug</bcf:option>
     <bcf:option datatype="boolean">loadfiles</bcf:option>
     <bcf:option datatype="boolean">safeinputenc</bcf:option>
@@ -422,8 +412,6 @@
     <bcf:option datatype="boolean">usetranslator</bcf:option>
     <bcf:option datatype="boolean">useshortauthor</bcf:option>
     <bcf:option datatype="boolean">useshorteditor</bcf:option>
-    <bcf:option datatype="boolean">useauthauthor</bcf:option>
-    <bcf:option datatype="boolean">useautheditor</bcf:option>
     <bcf:option datatype="boolean">indexing</bcf:option>
     <bcf:option datatype="boolean">labelnumber</bcf:option>
     <bcf:option datatype="boolean">labelalpha</bcf:option>
@@ -486,8 +474,6 @@
     <bcf:option datatype="boolean">usetranslator</bcf:option>
     <bcf:option datatype="boolean">useshortauthor</bcf:option>
     <bcf:option datatype="boolean">useshorteditor</bcf:option>
-    <bcf:option datatype="boolean">useauthauthor</bcf:option>
-    <bcf:option datatype="boolean">useautheditor</bcf:option>
     <bcf:option datatype="boolean">indexing</bcf:option>
     <bcf:option datatype="boolean">uniquelist</bcf:option>
     <bcf:option datatype="boolean">uniquename</bcf:option>
@@ -1004,8 +990,6 @@
       <bcf:field fieldtype="field" format="xsv" datatype="option" skip_output="true">relatedoptions</bcf:field>
       <bcf:field fieldtype="field" datatype="range">pages</bcf:field>
       <bcf:field fieldtype="field" datatype="code">execute</bcf:field>
-      <bcf:field fieldtype="list" datatype="name">authauthor</bcf:field>
-      <bcf:field fieldtype="list" datatype="name">autheditor</bcf:field>
     </bcf:fields>
     <bcf:entryfields>
       <bcf:field>abstract</bcf:field>
@@ -1741,10 +1725,6 @@
       <bcf:field>subtitle</bcf:field>
       <bcf:field>title</bcf:field>
       <bcf:field>titleaddon</bcf:field>
-    </bcf:entryfields>
-    <bcf:entryfields>
-      <bcf:field>authauthor</bcf:field>
-      <bcf:field>autheditor</bcf:field>
     </bcf:entryfields>
     <bcf:constraints>
       <bcf:entrytype>article</bcf:entrytype>

@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.8 $
+% $ biblatex bbl format version 2.9 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \sortlist[entry]{nyt/global/}
+  \datalist[entry]{nyt/global//global/global}
     \entry{adanketal2004}{article}{}
       \name{author}{3}{}{%
         {{hash=8a7795f46e89617ccdd5046fb4ebbe32}{%
@@ -41,10 +41,13 @@
       }
       \strng{namehash}{33a30b52441caa2213e5811fd7cb214b}
       \strng{fullhash}{6294fdb2f0dce46c3a7f7187e3cb9f1c}
+      \strng{bibnamehash}{6294fdb2f0dce46c3a7f7187e3cb9f1c}
+      \strng{authorbibnamehash}{6294fdb2f0dce46c3a7f7187e3cb9f1c}
       \strng{authornamehash}{33a30b52441caa2213e5811fd7cb214b}
       \strng{authorfullhash}{6294fdb2f0dce46c3a7f7187e3cb9f1c}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -66,10 +69,13 @@
       }
       \strng{namehash}{98fa017aec0b0d072c308ae06fe74f62}
       \strng{fullhash}{98fa017aec0b0d072c308ae06fe74f62}
+      \strng{bibnamehash}{98fa017aec0b0d072c308ae06fe74f62}
+      \strng{authorbibnamehash}{98fa017aec0b0d072c308ae06fe74f62}
       \strng{authornamehash}{98fa017aec0b0d072c308ae06fe74f62}
       \strng{authorfullhash}{98fa017aec0b0d072c308ae06fe74f62}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -94,15 +100,18 @@
       }
       \strng{namehash}{e7d5253ea94fa9c642303bef9e588cd8}
       \strng{fullhash}{e7d5253ea94fa9c642303bef9e588cd8}
+      \strng{bibnamehash}{e7d5253ea94fa9c642303bef9e588cd8}
+      \strng{authorbibnamehash}{e7d5253ea94fa9c642303bef9e588cd8}
       \strng{authornamehash}{e7d5253ea94fa9c642303bef9e588cd8}
       \strng{authorfullhash}{e7d5253ea94fa9c642303bef9e588cd8}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Or, an Historical and Descriptive View of the Town of {L}iverpool and its Environs}
-      \field{title}{The Stranger in {L}iverpool}
+      \field{subtitle}{Or, an Historical and Descriptive View of the Town of Liverpool and its Environs}
+      \field{title}{The Stranger in Liverpool}
       \field{year}{1812}
       \field{dateera}{ce}
     \endentry
@@ -116,16 +125,19 @@
       }
       \strng{namehash}{de2b1529f66914ba9967dda20bdb0644}
       \strng{fullhash}{de2b1529f66914ba9967dda20bdb0644}
+      \strng{bibnamehash}{de2b1529f66914ba9967dda20bdb0644}
+      \strng{authorbibnamehash}{de2b1529f66914ba9967dda20bdb0644}
       \strng{authornamehash}{de2b1529f66914ba9967dda20bdb0644}
       \strng{authorfullhash}{de2b1529f66914ba9967dda20bdb0644}
       \field{sortinit}{A}
-      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Linguistik online}
       \field{number}{4}
-      \field{title}{Anmerkungen zum {S}alienzbegriff in der {S}oziolinguistik}
+      \field{title}{Anmerkungen zum Salienzbegriff in der Soziolinguistik}
       \field{volume}{66}
       \field{year}{2014}
       \field{pages}{7\bibrangedash 20}
@@ -157,10 +169,13 @@
       }
       \strng{namehash}{14fbed4f451a9e482e6bec8536487d97}
       \strng{fullhash}{c7b5c27c948762027d31da49909b99eb}
+      \strng{bibnamehash}{c7b5c27c948762027d31da49909b99eb}
+      \strng{authorbibnamehash}{c7b5c27c948762027d31da49909b99eb}
       \strng{authornamehash}{14fbed4f451a9e482e6bec8536487d97}
       \strng{authorfullhash}{c7b5c27c948762027d31da49909b99eb}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -192,15 +207,18 @@
       }
       \strng{namehash}{eaf12cd17db73f35c92b19d092097a40}
       \strng{fullhash}{f2c086847ae72a28d72c1b860d30c923}
+      \strng{bibnamehash}{f2c086847ae72a28d72c1b860d30c923}
+      \strng{authorbibnamehash}{f2c086847ae72a28d72c1b860d30c923}
       \strng{authornamehash}{eaf12cd17db73f35c92b19d092097a40}
       \strng{authorfullhash}{f2c086847ae72a28d72c1b860d30c923}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Memory and Language}
-      \field{title}{Random effects structure for confirmatory hypothesis testing: {K}eep it maximal}
+      \field{title}{Random effects structure for confirmatory hypothesis testing: Keep it maximal}
       \field{volume}{68}
       \field{year}{2013}
       \field{dateera}{ce}
@@ -214,8 +232,8 @@
            familyi={B\bibinitperiod},
            given={Douglas},
            giveni={D\bibinitperiod}}}%
-        {{hash=9cd1e56848b277b4f48a6e0b817ba5ab}{%
-           family={Mächler},
+        {{hash=cad1f9e8a744214dc54e803913f94084}{%
+           family={M{ä}chler},
            familyi={M\bibinitperiod},
            given={Martin},
            giveni={M\bibinitperiod}}}%
@@ -231,11 +249,14 @@
            giveni={S\bibinitperiod}}}%
       }
       \strng{namehash}{d09b320744f09c093eb8b0d7f6bbdda0}
-      \strng{fullhash}{e1419b3c7f22b8a469bd183c172e98b4}
+      \strng{fullhash}{25d6dbbd5fb1e88cebd707bb03adde3c}
+      \strng{bibnamehash}{25d6dbbd5fb1e88cebd707bb03adde3c}
+      \strng{authorbibnamehash}{25d6dbbd5fb1e88cebd707bb03adde3c}
       \strng{authornamehash}{d09b320744f09c093eb8b0d7f6bbdda0}
-      \strng{authorfullhash}{e1419b3c7f22b8a469bd183c172e98b4}
+      \strng{authorfullhash}{25d6dbbd5fb1e88cebd707bb03adde3c}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -266,14 +287,17 @@
       }
       \strng{namehash}{ae3f236fd9ada93514339816c67174c4}
       \strng{fullhash}{ae3f236fd9ada93514339816c67174c4}
+      \strng{bibnamehash}{ae3f236fd9ada93514339816c67174c4}
+      \strng{authorbibnamehash}{ae3f236fd9ada93514339816c67174c4}
       \strng{authornamehash}{ae3f236fd9ada93514339816c67174c4}
       \strng{authorfullhash}{ae3f236fd9ada93514339816c67174c4}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{An Introduction to Regional {E}nglishes: {D}ialect Variation in {E}ngland}
+      \field{title}{An Introduction to Regional Englishes: Dialect Variation in England}
       \field{year}{2010}
     \endentry
     \entry{belchem2006d}{incollection}{}
@@ -292,18 +316,21 @@
       }
       \strng{namehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{fullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{bibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{authornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{authorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{extrayear}{1}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Merseypride: {E}ssays in {L}iverpool Exceptionalism}
+      \field{booktitle}{Merseypride: Essays in Liverpool Exceptionalism}
       \strng{crossref}{belchem2006b}
       \field{edition}{Second edition}
-      \field{title}{`{A}n accent exceedingly rare': {S}couse and the inflexion of class}
+      \field{title}{`An accent exceedingly rare': Scouse and the inflexion of class}
       \field{year}{2006}
       \field{pages}{31\bibrangedash 64}
       \range{pages}{34}
@@ -331,18 +358,22 @@
       }
       \strng{namehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{fullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{bibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{authornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{authorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{editorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{extrayear}{2}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Liverpool 800: {C}ulture, Character and History}
-      \field{title}{Celebrating {L}iverpool}
+      \field{booktitle}{Liverpool 800: Culture, Character and History}
+      \field{title}{Celebrating Liverpool}
       \field{year}{2006}
       \field{pages}{9\bibrangedash 57}
       \range{pages}{49}
@@ -363,18 +394,21 @@
       }
       \strng{namehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{fullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{bibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{authornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{authorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{extrayear}{3}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Merseypride: {E}ssays in {L}iverpool Exceptionalism}
+      \field{booktitle}{Merseypride: Essays in Liverpool Exceptionalism}
       \strng{crossref}{belchem2006b}
       \field{edition}{Second edition}
-      \field{title}{Introduction: {T}he new `{L}ivercool'}
+      \field{title}{Introduction: The new `Livercool'}
       \field{year}{2006}
       \field{pages}{xi\bibrangedash xxix}
       \range{pages}{19}
@@ -395,17 +429,20 @@
       }
       \strng{namehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{fullhash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{bibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
+      \strng{authorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{authornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{authorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
-      \field{extrayear}{4}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Merseypride: {E}ssays in {L}iverpool Exceptionalism}
+      \field{booktitle}{Merseypride: Essays in Liverpool Exceptionalism}
       \field{edition}{Second edition}
-      \field{title}{Merseypride: {E}ssays in {L}iverpool Exceptionalism}
+      \field{title}{Merseypride: Essays in Liverpool Exceptionalism}
       \field{year}{2006}
     \endentry
     \entry{belchemmacraild2006}{incollection}{}
@@ -436,17 +473,21 @@
       }
       \strng{namehash}{b315303124619745e91bb5c402590604}
       \strng{fullhash}{b315303124619745e91bb5c402590604}
+      \strng{bibnamehash}{b315303124619745e91bb5c402590604}
+      \strng{authorbibnamehash}{b315303124619745e91bb5c402590604}
       \strng{authornamehash}{b315303124619745e91bb5c402590604}
       \strng{authorfullhash}{b315303124619745e91bb5c402590604}
+      \strng{editorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Liverpool 800: {C}ulture, Character and History}
-      \field{title}{Cosmopolitan {L}iverpool}
+      \field{booktitle}{Liverpool 800: Culture, Character and History}
+      \field{title}{Cosmopolitan Liverpool}
       \field{year}{2006}
       \field{pages}{311\bibrangedash 391}
       \range{pages}{81}
@@ -466,14 +507,17 @@
       }
       \strng{namehash}{44a7fb00f67e0cfbc14c52243d9a813f}
       \strng{fullhash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{bibnamehash}{44a7fb00f67e0cfbc14c52243d9a813f}
+      \strng{authorbibnamehash}{44a7fb00f67e0cfbc14c52243d9a813f}
       \strng{authornamehash}{44a7fb00f67e0cfbc14c52243d9a813f}
       \strng{authorfullhash}{44a7fb00f67e0cfbc14c52243d9a813f}
       \field{sortinit}{B}
-      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Praat: {D}oing phonetics by computer}
+      \field{title}{Praat: Doing phonetics by computer}
       \field{urlday}{27}
       \field{urlmonth}{3}
       \field{urlyear}{2015}
@@ -481,6 +525,9 @@
       \field{year}{2015}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.praat.org/
+      \endverb
       \verb{url}
       \verb http://www.praat.org/
       \endverb
@@ -495,10 +542,13 @@
       }
       \strng{namehash}{0e2fa902531dda075c09709bfb96d93a}
       \strng{fullhash}{0e2fa902531dda075c09709bfb96d93a}
+      \strng{bibnamehash}{0e2fa902531dda075c09709bfb96d93a}
+      \strng{authorbibnamehash}{0e2fa902531dda075c09709bfb96d93a}
       \strng{authornamehash}{0e2fa902531dda075c09709bfb96d93a}
       \strng{authorfullhash}{0e2fa902531dda075c09709bfb96d93a}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -520,15 +570,18 @@
       }
       \strng{namehash}{972e24b6b3ac5746d8069daf99ae1e48}
       \strng{fullhash}{972e24b6b3ac5746d8069daf99ae1e48}
+      \strng{bibnamehash}{972e24b6b3ac5746d8069daf99ae1e48}
+      \strng{authorbibnamehash}{972e24b6b3ac5746d8069daf99ae1e48}
       \strng{authornamehash}{972e24b6b3ac5746d8069daf99ae1e48}
       \strng{authorfullhash}{972e24b6b3ac5746d8069daf99ae1e48}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{R package version 2015.6-28. http://www.cran.r-project.org/package=ordinal/}
-      \field{title}{{O}rdinal---Regression Models for Ordinal Data}
+      \field{title}{Ordinal---Regression Models for Ordinal Data}
       \field{year}{2015}
     \endentry
     \entry{clopper2009}{article}{}
@@ -541,10 +594,13 @@
       }
       \strng{namehash}{abbc3c7b7e4764869d750da4fc1e6709}
       \strng{fullhash}{abbc3c7b7e4764869d750da4fc1e6709}
+      \strng{bibnamehash}{abbc3c7b7e4764869d750da4fc1e6709}
+      \strng{authorbibnamehash}{abbc3c7b7e4764869d750da4fc1e6709}
       \strng{authornamehash}{abbc3c7b7e4764869d750da4fc1e6709}
       \strng{authorfullhash}{abbc3c7b7e4764869d750da4fc1e6709}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -590,18 +646,22 @@
       }
       \strng{namehash}{1c038485e080c2108364850084a7b91f}
       \strng{fullhash}{1c038485e080c2108364850084a7b91f}
+      \strng{bibnamehash}{1c038485e080c2108364850084a7b91f}
+      \strng{authorbibnamehash}{1c038485e080c2108364850084a7b91f}
       \strng{authornamehash}{1c038485e080c2108364850084a7b91f}
       \strng{authorfullhash}{1c038485e080c2108364850084a7b91f}
+      \strng{editorbibnamehash}{4eb7f605051de5603362d845e580b4c4}
       \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
       \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{extrayear}{1}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Urban Regeneration in {E}urope}
-      \field{title}{Economic and physical influences on urban regeneration in {E}urope}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \field{title}{Economic and physical influences on urban regeneration in Europe}
       \field{year}{2003}
       \field{pages}{166\bibrangedash 179}
       \range{pages}{14}
@@ -639,18 +699,22 @@
       }
       \strng{namehash}{1c038485e080c2108364850084a7b91f}
       \strng{fullhash}{1c038485e080c2108364850084a7b91f}
+      \strng{bibnamehash}{1c038485e080c2108364850084a7b91f}
+      \strng{authorbibnamehash}{1c038485e080c2108364850084a7b91f}
       \strng{authornamehash}{1c038485e080c2108364850084a7b91f}
       \strng{authorfullhash}{1c038485e080c2108364850084a7b91f}
+      \strng{editorbibnamehash}{4eb7f605051de5603362d845e580b4c4}
       \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
       \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
-      \field{extrayear}{2}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Urban Regeneration in {E}urope}
-      \field{title}{Urban regeneration in {L}iverpool}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \field{title}{Urban regeneration in Liverpool}
       \field{year}{2003}
       \field{pages}{34\bibrangedash 55}
       \range{pages}{22}
@@ -671,14 +735,17 @@
       }
       \strng{namehash}{226dbbf5cb8e32ae2824eb98b3995ea9}
       \strng{fullhash}{226dbbf5cb8e32ae2824eb98b3995ea9}
+      \strng{bibnamehash}{226dbbf5cb8e32ae2824eb98b3995ea9}
+      \strng{authorbibnamehash}{226dbbf5cb8e32ae2824eb98b3995ea9}
       \strng{authornamehash}{226dbbf5cb8e32ae2824eb98b3995ea9}
       \strng{authorfullhash}{226dbbf5cb8e32ae2824eb98b3995ea9}
       \field{sortinit}{C}
-      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Scouse: {A} Social and Cultural History}
+      \field{title}{Scouse: A Social and Cultural History}
       \field{year}{2012}
     \endentry
     \entry{delyon1981}{thesis}{}
@@ -694,15 +761,18 @@
       }
       \strng{namehash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
       \strng{fullhash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
+      \strng{bibnamehash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
+      \strng{authorbibnamehash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
       \strng{authornamehash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
       \strng{authorfullhash}{2b691e1f4a9a11a5bb47622c0aa2dfca}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{A Sociolinguistic Study of Aspects of the {L}iverpool Accent}
-      \field{type}{M.{P}hil. dissertation}
+      \field{title}{A Sociolinguistic Study of Aspects of the Liverpool Accent}
+      \field{type}{M.Phil. dissertation}
       \field{year}{1981}
     \endentry
     \entry{disner1980}{article}{}
@@ -715,10 +785,13 @@
       }
       \strng{namehash}{f040f8c27f630d386bbed5e21419cc28}
       \strng{fullhash}{f040f8c27f630d386bbed5e21419cc28}
+      \strng{bibnamehash}{f040f8c27f630d386bbed5e21419cc28}
+      \strng{authorbibnamehash}{f040f8c27f630d386bbed5e21419cc28}
       \strng{authornamehash}{f040f8c27f630d386bbed5e21419cc28}
       \strng{authorfullhash}{f040f8c27f630d386bbed5e21419cc28}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -743,14 +816,17 @@
       }
       \strng{namehash}{f0e22ee1ba80df87dc5be9410ce82d70}
       \strng{fullhash}{f0e22ee1ba80df87dc5be9410ce82d70}
+      \strng{bibnamehash}{f0e22ee1ba80df87dc5be9410ce82d70}
+      \strng{authorbibnamehash}{f0e22ee1ba80df87dc5be9410ce82d70}
       \strng{authornamehash}{f0e22ee1ba80df87dc5be9410ce82d70}
       \strng{authorfullhash}{f0e22ee1ba80df87dc5be9410ce82d70}
       \field{sortinit}{D}
-      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Social effects on the perception of DRESS and TRAP in {N}ew {Z}ealand {E}nglish}
+      \field{title}{Social effects on the perception of DRESS and TRAP in New Zealand English}
       \field{type}{Unpublished Master thesis}
       \field{year}{2005}
     \endentry
@@ -770,14 +846,17 @@
       }
       \strng{namehash}{6d24cb556c5ae7b562d434e08fc32173}
       \strng{fullhash}{6d24cb556c5ae7b562d434e08fc32173}
+      \strng{bibnamehash}{6d24cb556c5ae7b562d434e08fc32173}
+      \strng{authorbibnamehash}{6d24cb556c5ae7b562d434e08fc32173}
       \strng{authornamehash}{6d24cb556c5ae7b562d434e08fc32173}
       \strng{authorfullhash}{6d24cb556c5ae7b562d434e08fc32173}
       \field{sortinit}{E}
-      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Early {E}nglish pronunciation. Part 5}
+      \field{title}{Early English pronunciation. Part 5}
       \field{year}{1889}
     \endentry
     \entry{fabriciusetal2009}{article}{}
@@ -800,10 +879,13 @@
       }
       \strng{namehash}{99707bd7ef1a400aea894b646303155a}
       \strng{fullhash}{f2c3408ade1e13286b9affea528168ed}
+      \strng{bibnamehash}{f2c3408ade1e13286b9affea528168ed}
+      \strng{authorbibnamehash}{f2c3408ade1e13286b9affea528168ed}
       \strng{authornamehash}{99707bd7ef1a400aea894b646303155a}
       \strng{authorfullhash}{f2c3408ade1e13286b9affea528168ed}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -847,12 +929,16 @@
       }
       \strng{namehash}{65f763145b9db561ba7a51f2b73be5f0}
       \strng{fullhash}{65f763145b9db561ba7a51f2b73be5f0}
+      \strng{bibnamehash}{65f763145b9db561ba7a51f2b73be5f0}
+      \strng{authorbibnamehash}{65f763145b9db561ba7a51f2b73be5f0}
       \strng{authornamehash}{65f763145b9db561ba7a51f2b73be5f0}
       \strng{authorfullhash}{65f763145b9db561ba7a51f2b73be5f0}
+      \strng{editorbibnamehash}{358452a34cb257b1835fa66f98961d53}
       \strng{editornamehash}{86693c22581bc6327c18d64c5b4a799f}
       \strng{editorfullhash}{358452a34cb257b1835fa66f98961d53}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -863,7 +949,7 @@
       \field{eventendyear}{2010}
       \field{eventmonth}{6}
       \field{eventyear}{2010}
-      \field{title}{Gender-based variation of word-final unstressed vowels by {N}ottingham adolescents}
+      \field{title}{Gender-based variation of word-final unstressed vowels by Nottingham adolescents}
       \field{venue}{The University of Edinburgh}
       \field{year}{2010}
       \field{eventenddateera}{ce}
@@ -902,16 +988,20 @@
       }
       \strng{namehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{fullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{bibnamehash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{authorbibnamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{authornamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{authorfullhash}{0cbf9cd96226f5529060d46598e6148c}
+      \strng{editorbibnamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{editornamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{editorfullhash}{0cbf9cd96226f5529060d46598e6148c}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Urban Voices: {A}ccent Studies in the {B}ritish {I}sles}
+      \field{booktitle}{Urban Voices: Accent Studies in the British Isles}
       \field{title}{Urban voices --- overview}
       \field{year}{1999}
       \field{pages}{1\bibrangedash 24}
@@ -950,18 +1040,22 @@
       }
       \strng{namehash}{668955afc8c143b61b35d573ff6c9300}
       \strng{fullhash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{bibnamehash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{authorbibnamehash}{668955afc8c143b61b35d573ff6c9300}
       \strng{authornamehash}{668955afc8c143b61b35d573ff6c9300}
       \strng{authorfullhash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{editorbibnamehash}{4eb7f605051de5603362d845e580b4c4}
       \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
       \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extrayear}{1}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Urban Regeneration in {E}urope}
-      \field{title}{Change in the {E}uropean industrial city}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \field{title}{Change in the European industrial city}
       \field{year}{2003}
       \field{pages}{17\bibrangedash 33}
       \range{pages}{17}
@@ -999,18 +1093,22 @@
       }
       \strng{namehash}{668955afc8c143b61b35d573ff6c9300}
       \strng{fullhash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{bibnamehash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{authorbibnamehash}{668955afc8c143b61b35d573ff6c9300}
       \strng{authornamehash}{668955afc8c143b61b35d573ff6c9300}
       \strng{authorfullhash}{668955afc8c143b61b35d573ff6c9300}
+      \strng{editorbibnamehash}{4eb7f605051de5603362d845e580b4c4}
       \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
       \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
       \field{sortinit}{F}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extrayear}{2}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Urban Regeneration in {E}urope}
-      \field{title}{The institutional and financial conditions of urban regeneration in {E}urope}
+      \field{booktitle}{Urban Regeneration in Europe}
+      \field{title}{The institutional and financial conditions of urban regeneration in Europe}
       \field{year}{2003}
       \field{pages}{180\bibrangedash 199}
       \range{pages}{20}
@@ -1035,19 +1133,25 @@
       }
       \strng{namehash}{a046b288affe8a695b1a3db7029c86ab}
       \strng{fullhash}{d8c9390595d1da2104410dac3bc57a29}
+      \strng{bibnamehash}{d8c9390595d1da2104410dac3bc57a29}
+      \strng{authorbibnamehash}{d8c9390595d1da2104410dac3bc57a29}
       \strng{authornamehash}{a046b288affe8a695b1a3db7029c86ab}
       \strng{authorfullhash}{d8c9390595d1da2104410dac3bc57a29}
       \field{sortinit}{G}
-      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Creating an impact: {L}iverpool's experience as {E}uropean {C}apital of {C}ulture}
+      \field{title}{Creating an impact: Liverpool's experience as European Capital of Culture}
       \field{urlday}{3}
       \field{urlmonth}{9}
       \field{urlyear}{2013}
       \field{year}{2010}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.liv.ac.uk/impacts08/
+      \endverb
       \verb{url}
       \verb http://www.liv.ac.uk/impacts08/
       \endverb
@@ -1065,17 +1169,21 @@
       }
       \strng{namehash}{6a24a34a5c68ddac70986d7c2710165b}
       \strng{fullhash}{6a24a34a5c68ddac70986d7c2710165b}
+      \strng{bibnamehash}{6a24a34a5c68ddac70986d7c2710165b}
+      \strng{authorbibnamehash}{6a24a34a5c68ddac70986d7c2710165b}
       \strng{authornamehash}{6a24a34a5c68ddac70986d7c2710165b}
       \strng{authorfullhash}{6a24a34a5c68ddac70986d7c2710165b}
+      \strng{editorbibnamehash}{d0db168601db47003fe1eac5fd55160a}
       \strng{editornamehash}{d0db168601db47003fe1eac5fd55160a}
       \strng{editorfullhash}{d0db168601db47003fe1eac5fd55160a}
       \field{sortinit}{G}
-      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{endyear}{2014}
-      \field{title}{A Vision of {B}ritain through Time}
+      \field{title}{A Vision of Britain through Time}
       \field{urlday}{19}
       \field{urlmonth}{1}
       \field{urlyear}{2016}
@@ -1083,6 +1191,9 @@
       \field{enddateera}{ce}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.visionofbritain.org.uk
+      \endverb
       \verb{url}
       \verb http://www.visionofbritain.org.uk
       \endverb
@@ -1097,15 +1208,18 @@
       }
       \strng{namehash}{5395203ee1ced3cf8791044241716da0}
       \strng{fullhash}{5395203ee1ced3cf8791044241716da0}
+      \strng{bibnamehash}{5395203ee1ced3cf8791044241716da0}
+      \strng{authorbibnamehash}{5395203ee1ced3cf8791044241716da0}
       \strng{authornamehash}{5395203ee1ced3cf8791044241716da0}
       \strng{authorfullhash}{5395203ee1ced3cf8791044241716da0}
       \field{sortinit}{G}
-      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Experimental Psychology}
-      \field{title}{Words and voices: {E}pisodic traces in spoken word identification and recognition memory}
+      \field{title}{Words and voices: Episodic traces in spoken word identification and recognition memory}
       \field{volume}{22}
       \field{year}{1996}
       \field{dateera}{ce}
@@ -1135,17 +1249,21 @@
       }
       \strng{namehash}{d60be03b3bb7d9beda4eacc14e25c3db}
       \strng{fullhash}{d60be03b3bb7d9beda4eacc14e25c3db}
+      \strng{bibnamehash}{d60be03b3bb7d9beda4eacc14e25c3db}
+      \strng{authorbibnamehash}{d60be03b3bb7d9beda4eacc14e25c3db}
       \strng{authornamehash}{d60be03b3bb7d9beda4eacc14e25c3db}
       \strng{authorfullhash}{d60be03b3bb7d9beda4eacc14e25c3db}
+      \strng{editorbibnamehash}{371a2c5ced11ebd26cec5523fab9afb1}
       \strng{editornamehash}{371a2c5ced11ebd26cec5523fab9afb1}
       \strng{editorfullhash}{371a2c5ced11ebd26cec5523fab9afb1}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Perspectives on {E}nglish as a world language}
-      \field{title}{Canadian {E}nglish: {D}istinct in {N}orth {A}merica?}
+      \field{booktitle}{Perspectives on English as a world language}
+      \field{title}{Canadian English: Distinct in North America?}
       \field{year}{2002}
       \field{dateera}{ce}
       \field{pages}{31\bibrangedash 44}
@@ -1161,10 +1279,13 @@
       }
       \strng{namehash}{95de0897793a73cfd6bd90a5013789e8}
       \strng{fullhash}{95de0897793a73cfd6bd90a5013789e8}
+      \strng{bibnamehash}{95de0897793a73cfd6bd90a5013789e8}
+      \strng{authorbibnamehash}{95de0897793a73cfd6bd90a5013789e8}
       \strng{authornamehash}{95de0897793a73cfd6bd90a5013789e8}
       \strng{authorfullhash}{95de0897793a73cfd6bd90a5013789e8}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1187,15 +1308,18 @@
       }
       \strng{namehash}{b2fda34861934090472e56c2b03ee7c8}
       \strng{fullhash}{b2fda34861934090472e56c2b03ee7c8}
+      \strng{bibnamehash}{b2fda34861934090472e56c2b03ee7c8}
+      \strng{authorbibnamehash}{b2fda34861934090472e56c2b03ee7c8}
       \strng{authornamehash}{b2fda34861934090472e56c2b03ee7c8}
       \strng{authorfullhash}{b2fda34861934090472e56c2b03ee7c8}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Phonetics}
-      \field{title}{An acoustic analysis of `happy-tensing' in the {Q}ueen's {C}hristmas broadcasts}
+      \field{title}{An acoustic analysis of `happy-tensing' in the Queen's Christmas broadcasts}
       \field{volume}{34}
       \field{year}{2006}
       \field{pages}{439\bibrangedash 457}
@@ -1217,14 +1341,17 @@
       }
       \strng{namehash}{a7ca59d23516b64d130f48574dd0bc45}
       \strng{fullhash}{a7ca59d23516b64d130f48574dd0bc45}
+      \strng{bibnamehash}{a7ca59d23516b64d130f48574dd0bc45}
+      \strng{authorbibnamehash}{a7ca59d23516b64d130f48574dd0bc45}
       \strng{authornamehash}{a7ca59d23516b64d130f48574dd0bc45}
       \strng{authorfullhash}{a7ca59d23516b64d130f48574dd0bc45}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Phonological variation and change: {S}tudies in {H}iberno-{E}nglish}
+      \field{title}{Phonological variation and change: Studies in Hiberno-English}
       \field{year}{1985}
     \endentry
     \entry{haydrager2010}{article}{}
@@ -1242,10 +1369,13 @@
       }
       \strng{namehash}{bad0e46931d0f94893322ec3685cbf4e}
       \strng{fullhash}{bad0e46931d0f94893322ec3685cbf4e}
+      \strng{bibnamehash}{bad0e46931d0f94893322ec3685cbf4e}
+      \strng{authorbibnamehash}{bad0e46931d0f94893322ec3685cbf4e}
       \strng{authornamehash}{bad0e46931d0f94893322ec3685cbf4e}
       \strng{authorfullhash}{bad0e46931d0f94893322ec3685cbf4e}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1276,15 +1406,18 @@
       }
       \strng{namehash}{c94ec69eedd96cac7d7ca10f585a1e2b}
       \strng{fullhash}{97e342aeffb02b8f45ac673989379384}
+      \strng{bibnamehash}{97e342aeffb02b8f45ac673989379384}
+      \strng{authorbibnamehash}{97e342aeffb02b8f45ac673989379384}
       \strng{authornamehash}{c94ec69eedd96cac7d7ca10f585a1e2b}
       \strng{authorfullhash}{97e342aeffb02b8f45ac673989379384}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Linguistic Review}
-      \field{title}{From fush to feesh: {E}xemplar priming in speech perception}
+      \field{title}{From fush to feesh: Exemplar priming in speech perception}
       \field{volume}{23}
       \field{year}{2006}
       \field{pages}{351\bibrangedash 379}
@@ -1310,10 +1443,13 @@
       }
       \strng{namehash}{23093422ed1ef00ee717743cb8888e66}
       \strng{fullhash}{117f7024cea729b263a21b315492d5ba}
+      \strng{bibnamehash}{117f7024cea729b263a21b315492d5ba}
+      \strng{authorbibnamehash}{117f7024cea729b263a21b315492d5ba}
       \strng{authornamehash}{23093422ed1ef00ee717743cb8888e66}
       \strng{authorfullhash}{117f7024cea729b263a21b315492d5ba}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1334,16 +1470,19 @@
       }
       \strng{namehash}{b82eb88eb5b443e87f6d3e17268ff2f3}
       \strng{fullhash}{b82eb88eb5b443e87f6d3e17268ff2f3}
+      \strng{bibnamehash}{b82eb88eb5b443e87f6d3e17268ff2f3}
+      \strng{authorbibnamehash}{b82eb88eb5b443e87f6d3e17268ff2f3}
       \strng{authornamehash}{b82eb88eb5b443e87f6d3e17268ff2f3}
       \strng{authorfullhash}{b82eb88eb5b443e87f6d3e17268ff2f3}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Personality and Social Psychology}
       \field{number}{6}
-      \field{title}{Consequences of priming: {J}udgment and behavior}
+      \field{title}{Consequences of priming: Judgment and behavior}
       \field{volume}{51}
       \field{year}{1986}
       \field{pages}{1106\bibrangedash 1115}
@@ -1359,15 +1498,18 @@
       }
       \strng{namehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \strng{fullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{bibnamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{authorbibnamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \strng{authornamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \strng{authorfullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Working Papers in Linguistics}
-      \field{title}{Lenition in {I}rish {E}nglish}
+      \field{title}{Lenition in Irish English}
       \field{volume}{13}
       \field{year}{1996}
       \field{pages}{173\bibrangedash 193}
@@ -1401,17 +1543,21 @@
       }
       \strng{namehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \strng{fullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{bibnamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{authorbibnamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \strng{authornamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \strng{authorfullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
+      \strng{editorbibnamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{editornamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{editorfullhash}{0cbf9cd96226f5529060d46598e6148c}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Urban Voices: {A}ccent Studies in the {B}ritish {I}sles}
-      \field{title}{Dublin {E}nglish: {C}urrent changes and their motivation}
+      \field{booktitle}{Urban Voices: Accent Studies in the British Isles}
+      \field{title}{Dublin English: Current changes and their motivation}
       \field{year}{1999}
       \field{pages}{265\bibrangedash 281}
       \range{pages}{17}
@@ -1439,12 +1585,16 @@
       }
       \strng{namehash}{fe68dd5216d1204e938be0c7106907cf}
       \strng{fullhash}{fe68dd5216d1204e938be0c7106907cf}
+      \strng{bibnamehash}{fe68dd5216d1204e938be0c7106907cf}
+      \strng{authorbibnamehash}{fe68dd5216d1204e938be0c7106907cf}
       \strng{authornamehash}{fe68dd5216d1204e938be0c7106907cf}
       \strng{authorfullhash}{fe68dd5216d1204e938be0c7106907cf}
+      \strng{editorbibnamehash}{73ac2a4d66def3c2f66f43c2084bf172}
       \strng{editornamehash}{73ac2a4d66def3c2f66f43c2084bf172}
       \strng{editorfullhash}{73ac2a4d66def3c2f66f43c2084bf172}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1470,10 +1620,13 @@
       }
       \strng{namehash}{90dbb652e04eee50ae2a909ebb6b0b8a}
       \strng{fullhash}{90dbb652e04eee50ae2a909ebb6b0b8a}
+      \strng{bibnamehash}{90dbb652e04eee50ae2a909ebb6b0b8a}
+      \strng{authorbibnamehash}{90dbb652e04eee50ae2a909ebb6b0b8a}
       \strng{authornamehash}{90dbb652e04eee50ae2a909ebb6b0b8a}
       \strng{authorfullhash}{90dbb652e04eee50ae2a909ebb6b0b8a}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1506,15 +1659,18 @@
       }
       \strng{namehash}{80c3cae4d264a28bf135f7e0b1f33a0f}
       \strng{fullhash}{80c3cae4d264a28bf135f7e0b1f33a0f}
+      \strng{bibnamehash}{80c3cae4d264a28bf135f7e0b1f33a0f}
+      \strng{authorbibnamehash}{80c3cae4d264a28bf135f7e0b1f33a0f}
       \strng{authornamehash}{80c3cae4d264a28bf135f7e0b1f33a0f}
       \strng{authorfullhash}{80c3cae4d264a28bf135f7e0b1f33a0f}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{series}{Harvard Studies in Urban History}
-      \field{title}{The Making of Urban {E}urope 1000--1950}
+      \field{title}{The Making of Urban Europe 1000--1950}
       \field{year}{1985}
     \endentry
     \entry{honeybone2001}{article}{}
@@ -1527,16 +1683,19 @@
       }
       \strng{namehash}{f36fbf6e2ff68387dc8039da851af92c}
       \strng{fullhash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{bibnamehash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{authorbibnamehash}{f36fbf6e2ff68387dc8039da851af92c}
       \strng{authornamehash}{f36fbf6e2ff68387dc8039da851af92c}
       \strng{authorfullhash}{f36fbf6e2ff68387dc8039da851af92c}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{English Language and Linguistics}
       \field{number}{2}
-      \field{title}{Lenition inhibition in {L}iverpool {E}nglish}
+      \field{title}{Lenition inhibition in Liverpool English}
       \field{volume}{5}
       \field{year}{2001}
       \field{pages}{213\bibrangedash 249}
@@ -1570,17 +1729,21 @@
       }
       \strng{namehash}{f36fbf6e2ff68387dc8039da851af92c}
       \strng{fullhash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{bibnamehash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{authorbibnamehash}{f36fbf6e2ff68387dc8039da851af92c}
       \strng{authornamehash}{f36fbf6e2ff68387dc8039da851af92c}
       \strng{authorfullhash}{f36fbf6e2ff68387dc8039da851af92c}
+      \strng{editorbibnamehash}{f6e006b5c5dd65d30e6e32e253093166}
       \strng{editornamehash}{f6e006b5c5dd65d30e6e32e253093166}
       \strng{editorfullhash}{f6e006b5c5dd65d30e6e32e253093166}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The {M}ersey Sound: {L}iverpool's Language, People and Places}
-      \field{title}{New-dialect formation in nineteenth century {L}iverpool: {A} brief history of {S}couse}
+      \field{booktitle}{The Mersey Sound: Liverpool's Language, People and Places}
+      \field{title}{New-dialect formation in nineteenth century Liverpool: A brief history of Scouse}
       \field{year}{2007}
       \field{pages}{106\bibrangedash 140}
       \range{pages}{35}
@@ -1600,16 +1763,19 @@
       }
       \strng{namehash}{420294c2493ab871d4ed5f990c71e7af}
       \strng{fullhash}{420294c2493ab871d4ed5f990c71e7af}
+      \strng{bibnamehash}{420294c2493ab871d4ed5f990c71e7af}
+      \strng{authorbibnamehash}{420294c2493ab871d4ed5f990c71e7af}
       \strng{authornamehash}{420294c2493ab871d4ed5f990c71e7af}
       \strng{authorfullhash}{420294c2493ab871d4ed5f990c71e7af}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{English World-Wide}
       \field{number}{3}
-      \field{title}{Salience and the sociolinguistics of {S}couse spelling: {E}xploring the phonology of the {C}ontemporary {H}umorous {L}ocalised {D}ialect {L}iterature of {L}iverpool}
+      \field{title}{Salience and the sociolinguistics of Scouse spelling: Exploring the phonology of the Contemporary Humorous Localised Dialect Literature of Liverpool}
       \field{volume}{34}
       \field{year}{2013}
       \field{pages}{305\bibrangedash 340}
@@ -1630,10 +1796,13 @@
       }
       \strng{namehash}{9968c207e32f250e533280f1f0906621}
       \strng{fullhash}{9968c207e32f250e533280f1f0906621}
+      \strng{bibnamehash}{9968c207e32f250e533280f1f0906621}
+      \strng{authorbibnamehash}{9968c207e32f250e533280f1f0906621}
       \strng{authornamehash}{9968c207e32f250e533280f1f0906621}
       \strng{authorfullhash}{9968c207e32f250e533280f1f0906621}
       \field{sortinit}{H}
-      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1683,17 +1852,21 @@
       }
       \strng{namehash}{b4d2c4bde8eb60eb61ae583d616bb35f}
       \strng{fullhash}{b4d2c4bde8eb60eb61ae583d616bb35f}
+      \strng{bibnamehash}{b4d2c4bde8eb60eb61ae583d616bb35f}
+      \strng{authorbibnamehash}{b4d2c4bde8eb60eb61ae583d616bb35f}
       \strng{authornamehash}{b4d2c4bde8eb60eb61ae583d616bb35f}
       \strng{authorfullhash}{b4d2c4bde8eb60eb61ae583d616bb35f}
+      \strng{editorbibnamehash}{165d15071fcff4467ad62dc3c835ffc4}
       \strng{editornamehash}{13d671777ba030829d8fff6dfd5a9062}
       \strng{editorfullhash}{165d15071fcff4467ad62dc3c835ffc4}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Perceptual Linguistic Salience: {M}odeling Causes and Consequences}
-      \field{title}{What the Heck Is Salience? {H}ow Predictive Language Processing Contributes to Sociolinguistic Perception}
+      \field{booktitle}{Perceptual Linguistic Salience: Modeling Causes and Consequences}
+      \field{title}{What the Heck Is Salience? How Predictive Language Processing Contributes to Sociolinguistic Perception}
       \field{year}{2017}
       \field{dateera}{ce}
       \field{pages}{36\bibrangedash 40}
@@ -1722,15 +1895,18 @@
       }
       \strng{namehash}{8d7fb3d6802dcaf25e45040179d110ad}
       \strng{fullhash}{e2d1782331b3fd4bb615c31f89cba451}
+      \strng{bibnamehash}{e2d1782331b3fd4bb615c31f89cba451}
+      \strng{authorbibnamehash}{e2d1782331b3fd4bb615c31f89cba451}
       \strng{authornamehash}{8d7fb3d6802dcaf25e45040179d110ad}
       \strng{authorfullhash}{e2d1782331b3fd4bb615c31f89cba451}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the {I}nternational {C}ongress of {P}honetic {S}ciences}
-      \field{title}{The Effect of Inferences on the Perceptual Categorization of {B}erlin {G}erman Fricatives}
+      \field{booktitle}{Proceedings of the International Congress of Phonetic Sciences}
+      \field{title}{The Effect of Inferences on the Perceptual Categorization of Berlin German Fricatives}
       \field{year}{2011}
       \field{dateera}{ce}
       \field{pages}{962\bibrangedash 965}
@@ -1764,12 +1940,16 @@
       }
       \strng{namehash}{1c274d17ceafee26ba448cfb9279dea0}
       \strng{fullhash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{bibnamehash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{authorbibnamehash}{1c274d17ceafee26ba448cfb9279dea0}
       \strng{authornamehash}{1c274d17ceafee26ba448cfb9279dea0}
       \strng{authorfullhash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{editorbibnamehash}{477cb1fa9d09b8bea95cfe7c47af624e}
       \strng{editornamehash}{477cb1fa9d09b8bea95cfe7c47af624e}
       \strng{editorfullhash}{477cb1fa9d09b8bea95cfe7c47af624e}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1808,12 +1988,16 @@
       }
       \strng{namehash}{1c274d17ceafee26ba448cfb9279dea0}
       \strng{fullhash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{bibnamehash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{authorbibnamehash}{1c274d17ceafee26ba448cfb9279dea0}
       \strng{authornamehash}{1c274d17ceafee26ba448cfb9279dea0}
       \strng{authorfullhash}{1c274d17ceafee26ba448cfb9279dea0}
+      \strng{editorbibnamehash}{7aac5257f9bf4668c42e8143413bce62}
       \strng{editornamehash}{7aac5257f9bf4668c42e8143413bce62}
       \strng{editorfullhash}{7aac5257f9bf4668c42e8143413bce62}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1844,16 +2028,19 @@
       }
       \strng{namehash}{a7eaa65b4e185d62c24a02cc4b0676d9}
       \strng{fullhash}{f495d6a9b52b2d84459d296797dc5c06}
+      \strng{bibnamehash}{f495d6a9b52b2d84459d296797dc5c06}
+      \strng{authorbibnamehash}{f495d6a9b52b2d84459d296797dc5c06}
       \strng{authornamehash}{a7eaa65b4e185d62c24a02cc4b0676d9}
       \strng{authorfullhash}{f495d6a9b52b2d84459d296797dc5c06}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of English Linguistics}
       \field{number}{2}
-      \field{title}{Mobility, indexicality and the enregisterment of `{P}ittsburghese'}
+      \field{title}{Mobility, indexicality and the enregisterment of `Pittsburghese'}
       \field{volume}{34}
       \field{year}{2006}
       \field{pages}{77\bibrangedash 104}
@@ -1894,12 +2081,16 @@
       }
       \strng{namehash}{35a860b21ab76337e0eb0d448b24ca57}
       \strng{fullhash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{bibnamehash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{authorbibnamehash}{35a860b21ab76337e0eb0d448b24ca57}
       \strng{authornamehash}{35a860b21ab76337e0eb0d448b24ca57}
       \strng{authorfullhash}{35a860b21ab76337e0eb0d448b24ca57}
+      \strng{editorbibnamehash}{35a860b21ab76337e0eb0d448b24ca57}
       \strng{editornamehash}{35a860b21ab76337e0eb0d448b24ca57}
       \strng{editorfullhash}{35a860b21ab76337e0eb0d448b24ca57}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1924,10 +2115,13 @@
       }
       \strng{namehash}{507750ffc50b6f705507f8c541894281}
       \strng{fullhash}{507750ffc50b6f705507f8c541894281}
+      \strng{bibnamehash}{507750ffc50b6f705507f8c541894281}
+      \strng{authorbibnamehash}{507750ffc50b6f705507f8c541894281}
       \strng{authornamehash}{507750ffc50b6f705507f8c541894281}
       \strng{authorfullhash}{507750ffc50b6f705507f8c541894281}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -1945,15 +2139,18 @@
       }
       \strng{namehash}{507750ffc50b6f705507f8c541894281}
       \strng{fullhash}{507750ffc50b6f705507f8c541894281}
+      \strng{bibnamehash}{507750ffc50b6f705507f8c541894281}
+      \strng{authorbibnamehash}{507750ffc50b6f705507f8c541894281}
       \strng{authornamehash}{507750ffc50b6f705507f8c541894281}
       \strng{authorfullhash}{507750ffc50b6f705507f8c541894281}
       \field{sortinit}{J}
-      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{JournaLIPP}
-      \field{title}{Selective accent revival in {L}iverpool}
+      \field{title}{Selective accent revival in Liverpool}
       \field{urlday}{9}
       \field{urlmonth}{10}
       \field{urlyear}{2015}
@@ -1963,6 +2160,9 @@
       \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
+      \verb{urlraw}
+      \verb http://lipp.ub.lmu.de/article/download/4839/2721
+      \endverb
       \verb{url}
       \verb http://lipp.ub.lmu.de/article/download/4839/2721
       \endverb
@@ -1982,15 +2182,18 @@
       }
       \strng{namehash}{d45bd3f321bf0a419c09b34c636b5e41}
       \strng{fullhash}{d45bd3f321bf0a419c09b34c636b5e41}
+      \strng{bibnamehash}{d45bd3f321bf0a419c09b34c636b5e41}
+      \strng{authorbibnamehash}{d45bd3f321bf0a419c09b34c636b5e41}
       \strng{authornamehash}{d45bd3f321bf0a419c09b34c636b5e41}
       \strng{authorfullhash}{d45bd3f321bf0a419c09b34c636b5e41}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Language Variation and Change}
-      \field{title}{Regional relationships among the low vowels of {U}.{S}. {E}nglish: {E}vidence from production and perception}
+      \field{title}{Regional relationships among the low vowels of U.S. English: Evidence from production and perception}
       \field{volume}{29}
       \field{year}{2017}
       \field{pages}{245\bibrangedash 271}
@@ -2011,16 +2214,19 @@
       }
       \strng{namehash}{1da4062e9ec1c5efab01f282f66a36dc}
       \strng{fullhash}{1da4062e9ec1c5efab01f282f66a36dc}
+      \strng{bibnamehash}{1da4062e9ec1c5efab01f282f66a36dc}
+      \strng{authorbibnamehash}{1da4062e9ec1c5efab01f282f66a36dc}
       \strng{authornamehash}{1da4062e9ec1c5efab01f282f66a36dc}
       \strng{authorfullhash}{1da4062e9ec1c5efab01f282f66a36dc}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{endyear}{2014}
       \field{subtitle}{R package}
-      \field{title}{Vowels: {V}owel Manipulation, Normalization, and Plotting in R}
+      \field{title}{Vowels: Vowel Manipulation, Normalization, and Plotting in R}
       \field{urlday}{10}
       \field{urlmonth}{3}
       \field{urlyear}{2015}
@@ -2029,6 +2235,9 @@
       \field{enddateera}{ce}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://ncslaap.lib.ncsu.edu/tools/norm/
+      \endverb
       \verb{url}
       \verb http://ncslaap.lib.ncsu.edu/tools/norm/
       \endverb
@@ -2066,17 +2275,21 @@
       }
       \strng{namehash}{54de187b51b84174121735de6686dede}
       \strng{fullhash}{59ea66cd4e3ff8eef888d22acfeaf8e6}
+      \strng{bibnamehash}{59ea66cd4e3ff8eef888d22acfeaf8e6}
+      \strng{authorbibnamehash}{59ea66cd4e3ff8eef888d22acfeaf8e6}
       \strng{authornamehash}{54de187b51b84174121735de6686dede}
       \strng{authorfullhash}{59ea66cd4e3ff8eef888d22acfeaf8e6}
+      \strng{editorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Liverpool 800: {C}ulture, Character and History}
-      \field{title}{Small beginnings: {L}iverpool 1207--1680}
+      \field{booktitle}{Liverpool 800: Culture, Character and History}
+      \field{title}{Small beginnings: Liverpool 1207--1680}
       \field{year}{2006}
       \field{pages}{59\bibrangedash 111}
       \range{pages}{53}
@@ -2109,17 +2322,21 @@
       }
       \strng{namehash}{92c5773601beeec2da9dd1ab0f329531}
       \strng{fullhash}{92c5773601beeec2da9dd1ab0f329531}
+      \strng{bibnamehash}{92c5773601beeec2da9dd1ab0f329531}
+      \strng{authorbibnamehash}{92c5773601beeec2da9dd1ab0f329531}
       \strng{authornamehash}{92c5773601beeec2da9dd1ab0f329531}
       \strng{authorfullhash}{92c5773601beeec2da9dd1ab0f329531}
+      \strng{editorbibnamehash}{74a90d6aff4846681a22ab0659c17898}
       \strng{editornamehash}{74a90d6aff4846681a22ab0659c17898}
       \strng{editorfullhash}{74a90d6aff4846681a22ab0659c17898}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Social Dialectology: {I}n honour of {P}eter {T}rudgill}
-      \field{title}{Dialect levelling and geographical diffusion in {B}ritish {E}nglish}
+      \field{booktitle}{Social Dialectology: In honour of Peter Trudgill}
+      \field{title}{Dialect levelling and geographical diffusion in British English}
       \field{year}{2003}
       \field{pages}{223\bibrangedash 243}
       \range{pages}{21}
@@ -2152,17 +2369,21 @@
       }
       \strng{namehash}{58200598f94d7bf2d1ef4cf7300e1b46}
       \strng{fullhash}{58200598f94d7bf2d1ef4cf7300e1b46}
+      \strng{bibnamehash}{58200598f94d7bf2d1ef4cf7300e1b46}
+      \strng{authorbibnamehash}{58200598f94d7bf2d1ef4cf7300e1b46}
       \strng{authornamehash}{58200598f94d7bf2d1ef4cf7300e1b46}
       \strng{authorfullhash}{58200598f94d7bf2d1ef4cf7300e1b46}
+      \strng{editorbibnamehash}{d62887038b16b95b18932b73bd0419f1}
       \strng{editornamehash}{d62887038b16b95b18932b73bd0419f1}
       \strng{editorfullhash}{d62887038b16b95b18932b73bd0419f1}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Language Change: {T}he Interplay of Internal, External and Extra-Linguistic Factors}
-      \field{title}{Salience as an explanatory factor in language change: {E}vidence from dialect levelling in urban {E}ngland}
+      \field{booktitle}{Language Change: The Interplay of Internal, External and Extra-Linguistic Factors}
+      \field{title}{Salience as an explanatory factor in language change: Evidence from dialect levelling in urban England}
       \field{year}{2002}
       \field{pages}{81\bibrangedash 110}
       \range{pages}{30}
@@ -2184,14 +2405,17 @@
       }
       \strng{namehash}{e643e0eda473f841956d26ea7946e527}
       \strng{fullhash}{e643e0eda473f841956d26ea7946e527}
+      \strng{bibnamehash}{e643e0eda473f841956d26ea7946e527}
+      \strng{authorbibnamehash}{e643e0eda473f841956d26ea7946e527}
       \strng{authornamehash}{e643e0eda473f841956d26ea7946e527}
       \strng{authorfullhash}{e643e0eda473f841956d26ea7946e527}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Scouse: {T}he urban dialect of {L}iverpool}
+      \field{title}{Scouse: The urban dialect of Liverpool}
       \field{type}{phdthesis}
       \field{year}{1973}
     \endentry
@@ -2218,17 +2442,21 @@
       }
       \strng{namehash}{e643e0eda473f841956d26ea7946e527}
       \strng{fullhash}{e643e0eda473f841956d26ea7946e527}
+      \strng{bibnamehash}{e643e0eda473f841956d26ea7946e527}
+      \strng{authorbibnamehash}{e643e0eda473f841956d26ea7946e527}
       \strng{authornamehash}{e643e0eda473f841956d26ea7946e527}
       \strng{authorfullhash}{e643e0eda473f841956d26ea7946e527}
+      \strng{editorbibnamehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{editornamehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{editorfullhash}{17b4ad73f12e03a5091f0262b44d3da6}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Sociolinguistic Patterns in {B}ritish {E}nglish}
-      \field{title}{The nature of phonological variables in {S}couse}
+      \field{booktitle}{Sociolinguistic Patterns in British English}
+      \field{title}{The nature of phonological variables in Scouse}
       \field{year}{1978}
       \field{pages}{80\bibrangedash 90}
       \range{pages}{11}
@@ -2249,14 +2477,17 @@
       }
       \strng{namehash}{e643e0eda473f841956d26ea7946e527}
       \strng{fullhash}{e643e0eda473f841956d26ea7946e527}
+      \strng{bibnamehash}{e643e0eda473f841956d26ea7946e527}
+      \strng{authorbibnamehash}{e643e0eda473f841956d26ea7946e527}
       \strng{authornamehash}{e643e0eda473f841956d26ea7946e527}
       \strng{authorfullhash}{e643e0eda473f841956d26ea7946e527}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{A Cultural History of the {E}nglish Language}
+      \field{title}{A Cultural History of the English Language}
       \field{year}{1997}
     \endentry
     \entry{lmerTest}{manual}{}
@@ -2279,16 +2510,22 @@
       }
       \strng{namehash}{ee90b672a0dbf4106ee60268eb8768fd}
       \strng{fullhash}{fb672fede35c2b441fa3d95494fe3b52}
+      \strng{bibnamehash}{fb672fede35c2b441fa3d95494fe3b52}
+      \strng{authorbibnamehash}{fb672fede35c2b441fa3d95494fe3b52}
       \strng{authornamehash}{ee90b672a0dbf4106ee60268eb8768fd}
       \strng{authorfullhash}{fb672fede35c2b441fa3d95494fe3b52}
       \field{sortinit}{K}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{R package version 2.0-29}
-      \field{title}{lmerTest: {T}ests in Linear Mixed Effects Models}
+      \field{title}{lmerTest: Tests in Linear Mixed Effects Models}
       \field{year}{2015}
+      \verb{urlraw}
+      \verb http://CRAN.R-project.org/package=lmerTest
+      \endverb
       \verb{url}
       \verb http://CRAN.R-project.org/package=lmerTest
       \endverb
@@ -2309,10 +2546,13 @@
       }
       \strng{namehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{fullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{bibnamehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authorbibnamehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{authornamehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{authorfullhash}{5af22306b3a9a09d07b03f4b6c265c99}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -2339,14 +2579,17 @@
       }
       \strng{namehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{fullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{bibnamehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authorbibnamehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{authornamehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{authorfullhash}{5af22306b3a9a09d07b03f4b6c265c99}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Volume 1: {I}nternal Factors}
+      \field{subtitle}{Volume 1: Internal Factors}
       \field{title}{Principles of Linguistic Change}
       \field{year}{1994}
     \endentry
@@ -2367,14 +2610,17 @@
       }
       \strng{namehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{fullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{bibnamehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authorbibnamehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{authornamehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{authorfullhash}{5af22306b3a9a09d07b03f4b6c265c99}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Volume 2: {S}ocial Factors}
+      \field{subtitle}{Volume 2: Social Factors}
       \field{title}{Principles of Linguistic Change}
       \field{year}{2001}
     \endentry
@@ -2388,10 +2634,13 @@
       }
       \strng{namehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{fullhash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{bibnamehash}{5af22306b3a9a09d07b03f4b6c265c99}
+      \strng{authorbibnamehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{authornamehash}{5af22306b3a9a09d07b03f4b6c265c99}
       \strng{authorfullhash}{5af22306b3a9a09d07b03f4b6c265c99}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -2428,14 +2677,17 @@
       }
       \strng{namehash}{326edef10ce4a99f2c1f1cce2e56059c}
       \strng{fullhash}{cd8ea622f2e47d24265acedaaf44457f}
+      \strng{bibnamehash}{cd8ea622f2e47d24265acedaaf44457f}
+      \strng{authorbibnamehash}{cd8ea622f2e47d24265acedaaf44457f}
       \strng{authornamehash}{326edef10ce4a99f2c1f1cce2e56059c}
       \strng{authorfullhash}{cd8ea622f2e47d24265acedaaf44457f}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The {A}tlas of {N}orth {A}merican {E}nglish: {P}honology, Phonetics, and Sound Change. {A} Multimedia Reference Tool}
+      \field{title}{The Atlas of North American English: Phonology, Phonetics, and Sound Change. A Multimedia Reference Tool}
       \field{year}{2006}
     \endentry
     \entry{langstrofdiss}{thesis}{}
@@ -2451,20 +2703,26 @@
       }
       \strng{namehash}{277a75253bbb026a44b09e3105b5e56a}
       \strng{fullhash}{277a75253bbb026a44b09e3105b5e56a}
+      \strng{bibnamehash}{277a75253bbb026a44b09e3105b5e56a}
+      \strng{authorbibnamehash}{277a75253bbb026a44b09e3105b5e56a}
       \strng{authornamehash}{277a75253bbb026a44b09e3105b5e56a}
       \strng{authorfullhash}{277a75253bbb026a44b09e3105b5e56a}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Vowel Change in {N}ew {Z}ealand {E}nglish---Patterns and Implications}
+      \field{title}{Vowel Change in New Zealand English---Patterns and Implications}
       \field{type}{phdthesis}
       \field{urlday}{15}
       \field{urlmonth}{6}
       \field{urlyear}{2015}
       \field{year}{2006}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://christianlangstrof.org/publications/langstrofthesis.pdf
+      \endverb
       \verb{url}
       \verb http://christianlangstrof.org/publications/langstrofthesis.pdf
       \endverb
@@ -2494,16 +2752,20 @@
       }
       \strng{namehash}{9c19291bc60d8a3202a5329f80de8529}
       \strng{fullhash}{9c19291bc60d8a3202a5329f80de8529}
+      \strng{bibnamehash}{9c19291bc60d8a3202a5329f80de8529}
+      \strng{authorbibnamehash}{9c19291bc60d8a3202a5329f80de8529}
       \strng{authornamehash}{9c19291bc60d8a3202a5329f80de8529}
       \strng{authorfullhash}{9c19291bc60d8a3202a5329f80de8529}
+      \strng{editorbibnamehash}{dbf0a8b93a44a8f55b794d3fcafd87e8}
       \strng{editornamehash}{dbf0a8b93a44a8f55b794d3fcafd87e8}
       \strng{editorfullhash}{dbf0a8b93a44a8f55b794d3fcafd87e8}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Proceedings of the 18th {I}nternational {C}ongress of {P}honetic {S}ciences}
+      \field{booktitle}{Proceedings of the 18th International Congress of Phonetic Sciences}
       \field{note}{Paper number 244}
       \field{title}{Limited evidence for social priming in the perception of the \textsc{bath} and \textsc{strut} vowels}
       \field{urlday}{9}
@@ -2514,6 +2776,9 @@
       \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 5}
       \range{pages}{5}
+      \verb{urlraw}
+      \verb http://icphs2015.info/pdfs/Papers/ICPHS0244.pdf
+      \endverb
       \verb{url}
       \verb http://icphs2015.info/pdfs/Papers/ICPHS0244.pdf
       \endverb
@@ -2534,14 +2799,17 @@
       }
       \strng{namehash}{9289b724dda2d4640d13b241a90b9ffd}
       \strng{fullhash}{9289b724dda2d4640d13b241a90b9ffd}
+      \strng{bibnamehash}{9289b724dda2d4640d13b241a90b9ffd}
+      \strng{authorbibnamehash}{9289b724dda2d4640d13b241a90b9ffd}
       \strng{authornamehash}{9289b724dda2d4640d13b241a90b9ffd}
       \strng{authorfullhash}{9289b724dda2d4640d13b241a90b9ffd}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Acoustical characteristics of selected {E}nglish consonants}
+      \field{title}{Acoustical characteristics of selected English consonants}
       \field{year}{1964}
       \field{dateera}{ce}
     \endentry
@@ -2556,10 +2824,13 @@
       }
       \strng{namehash}{09bf518468ab2734e0d1712bca4d8544}
       \strng{fullhash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{bibnamehash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{authorbibnamehash}{09bf518468ab2734e0d1712bca4d8544}
       \strng{authornamehash}{09bf518468ab2734e0d1712bca4d8544}
       \strng{authorfullhash}{09bf518468ab2734e0d1712bca4d8544}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -2570,6 +2841,9 @@
       \field{urlyear}{2014}
       \field{year}{2010}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://liverpool.gov.uk/media/1448371/2-imd-2010-final-document-compressed-with-links.pdf
+      \endverb
       \verb{url}
       \verb http://liverpool.gov.uk/media/1448371/2-imd-2010-final-document-compressed-with-links.pdf
       \endverb
@@ -2585,10 +2859,13 @@
       }
       \strng{namehash}{09bf518468ab2734e0d1712bca4d8544}
       \strng{fullhash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{bibnamehash}{09bf518468ab2734e0d1712bca4d8544}
+      \strng{authorbibnamehash}{09bf518468ab2734e0d1712bca4d8544}
       \strng{authornamehash}{09bf518468ab2734e0d1712bca4d8544}
       \strng{authorfullhash}{09bf518468ab2734e0d1712bca4d8544}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -2599,6 +2876,9 @@
       \field{urlyear}{2016}
       \field{year}{2016}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://liverpool.gov.uk/council/key-statistics-and-data/liverpool-economic-briefing/
+      \endverb
       \verb{url}
       \verb http://liverpool.gov.uk/council/key-statistics-and-data/liverpool-economic-briefing/
       \endverb
@@ -2646,16 +2926,20 @@
       }
       \strng{namehash}{d1c791686d2eb9fa2ab2087b3bf856e6}
       \strng{fullhash}{be4eadae26f99d5491e9dcfc5fc7d5a0}
+      \strng{bibnamehash}{be4eadae26f99d5491e9dcfc5fc7d5a0}
+      \strng{authorbibnamehash}{be4eadae26f99d5491e9dcfc5fc7d5a0}
       \strng{authornamehash}{d1c791686d2eb9fa2ab2087b3bf856e6}
       \strng{authorfullhash}{be4eadae26f99d5491e9dcfc5fc7d5a0}
+      \strng{editorbibnamehash}{165d15071fcff4467ad62dc3c835ffc4}
       \strng{editornamehash}{13d671777ba030829d8fff6dfd5a9062}
       \strng{editorfullhash}{165d15071fcff4467ad62dc3c835ffc4}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Perceptual Linguistic Salience: {M}odeling Causes and Consequences}
+      \field{booktitle}{Perceptual Linguistic Salience: Modeling Causes and Consequences}
       \field{title}{Estimating the Relative Sociolinguistic Salience of Segmental Variables in a	Dialect Boundary Zone}
       \field{year}{2017}
       \field{dateera}{ce}
@@ -2672,15 +2956,18 @@
       }
       \strng{namehash}{bdce7f23507f8209817b287fa8c0aa40}
       \strng{fullhash}{bdce7f23507f8209817b287fa8c0aa40}
+      \strng{bibnamehash}{bdce7f23507f8209817b287fa8c0aa40}
+      \strng{authorbibnamehash}{bdce7f23507f8209817b287fa8c0aa40}
       \strng{authornamehash}{bdce7f23507f8209817b287fa8c0aa40}
       \strng{authorfullhash}{bdce7f23507f8209817b287fa8c0aa40}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the Acoustical Society of America}
-      \field{title}{Classification of {R}ussian vowels spoken by different speakers}
+      \field{title}{Classification of Russian vowels spoken by different speakers}
       \field{volume}{49}
       \field{year}{1971}
       \field{dateera}{ce}
@@ -2710,17 +2997,21 @@
       }
       \strng{namehash}{5cc0f23ab89f192047b37514909ec4f2}
       \strng{fullhash}{5cc0f23ab89f192047b37514909ec4f2}
+      \strng{bibnamehash}{5cc0f23ab89f192047b37514909ec4f2}
+      \strng{authorbibnamehash}{5cc0f23ab89f192047b37514909ec4f2}
       \strng{authornamehash}{5cc0f23ab89f192047b37514909ec4f2}
       \strng{authorfullhash}{5cc0f23ab89f192047b37514909ec4f2}
+      \strng{editorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{L}
-      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Liverpool 800: {C}ulture, Character and History}
-      \field{title}{Civic {L}iverpool: 1680--1800}
+      \field{booktitle}{Liverpool 800: Culture, Character and History}
+      \field{title}{Civic Liverpool: 1680--1800}
       \field{year}{2006}
       \field{pages}{113\bibrangedash 169}
       \range{pages}{57}
@@ -2740,10 +3031,13 @@
       }
       \strng{namehash}{53c34dc02a51b45639679654ec23d2a9}
       \strng{fullhash}{53c34dc02a51b45639679654ec23d2a9}
+      \strng{bibnamehash}{53c34dc02a51b45639679654ec23d2a9}
+      \strng{authorbibnamehash}{53c34dc02a51b45639679654ec23d2a9}
       \strng{authornamehash}{53c34dc02a51b45639679654ec23d2a9}
       \strng{authorfullhash}{53c34dc02a51b45639679654ec23d2a9}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -2777,17 +3071,21 @@
       }
       \strng{namehash}{71139f26cf4878de2f371ba83fe34856}
       \strng{fullhash}{71139f26cf4878de2f371ba83fe34856}
+      \strng{bibnamehash}{71139f26cf4878de2f371ba83fe34856}
+      \strng{authorbibnamehash}{71139f26cf4878de2f371ba83fe34856}
       \strng{authornamehash}{71139f26cf4878de2f371ba83fe34856}
       \strng{authorfullhash}{71139f26cf4878de2f371ba83fe34856}
+      \strng{editorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Liverpool 800: {C}ulture, Character and History}
-      \field{title}{Maritime {L}iverpool}
+      \field{booktitle}{Liverpool 800: Culture, Character and History}
+      \field{title}{Maritime Liverpool}
       \field{year}{2006}
       \field{pages}{257\bibrangedash 309}
       \range{pages}{53}
@@ -2808,18 +3106,24 @@
       }
       \strng{namehash}{6816648a15ca346aaf7540fe8a345daf}
       \strng{fullhash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{bibnamehash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{authorbibnamehash}{6816648a15ca346aaf7540fe8a345daf}
       \strng{authornamehash}{6816648a15ca346aaf7540fe8a345daf}
       \strng{authorfullhash}{6816648a15ca346aaf7540fe8a345daf}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{extrayear}{1}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{1}
-      \field{title}{Northern {E}nglish Dialects: {A} perceptual approach}
+      \field{title}{Northern English Dialects: A perceptual approach}
       \field{type}{phdthesis}
       \field{year}{2007}
+      \verb{urlraw}
+      \verb http://etheses.whiterose.ac.uk/1203/
+      \endverb
       \verb{url}
       \verb http://etheses.whiterose.ac.uk/1203/
       \endverb
@@ -2852,18 +3156,22 @@
       }
       \strng{namehash}{6816648a15ca346aaf7540fe8a345daf}
       \strng{fullhash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{bibnamehash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{authorbibnamehash}{6816648a15ca346aaf7540fe8a345daf}
       \strng{authornamehash}{6816648a15ca346aaf7540fe8a345daf}
       \strng{authorfullhash}{6816648a15ca346aaf7540fe8a345daf}
+      \strng{editorbibnamehash}{f6e006b5c5dd65d30e6e32e253093166}
       \strng{editornamehash}{f6e006b5c5dd65d30e6e32e253093166}
       \strng{editorfullhash}{f6e006b5c5dd65d30e6e32e253093166}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
-      \field{extrayear}{2}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The {M}ersey Sound: {L}iverpool's Language, People and Places}
-      \field{title}{Perceptions of {L}iverpool {E}nglish}
+      \field{booktitle}{The Mersey Sound: Liverpool's Language, People and Places}
+      \field{title}{Perceptions of Liverpool English}
       \field{year}{2007}
       \field{pages}{164\bibrangedash 188}
       \range{pages}{25}
@@ -2891,17 +3199,21 @@
       }
       \strng{namehash}{63a454ea5e9d27963f84d001797864f6}
       \strng{fullhash}{63a454ea5e9d27963f84d001797864f6}
+      \strng{bibnamehash}{63a454ea5e9d27963f84d001797864f6}
+      \strng{authorbibnamehash}{63a454ea5e9d27963f84d001797864f6}
       \strng{authornamehash}{63a454ea5e9d27963f84d001797864f6}
       \strng{authorfullhash}{63a454ea5e9d27963f84d001797864f6}
+      \strng{editorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{M}
-      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Liverpool 800: {C}ulture, Character and History}
-      \field{title}{`{C}ity of change and challenge': {L}iverpool since 1945}
+      \field{booktitle}{Liverpool 800: Culture, Character and History}
+      \field{title}{`City of change and challenge': Liverpool since 1945}
       \field{year}{2006}
       \field{pages}{393\bibrangedash 485}
       \range{pages}{93}
@@ -2934,17 +3246,21 @@
       }
       \strng{namehash}{ae4522ae7b3150f8600f32501db01c69}
       \strng{fullhash}{ae4522ae7b3150f8600f32501db01c69}
+      \strng{bibnamehash}{ae4522ae7b3150f8600f32501db01c69}
+      \strng{authorbibnamehash}{ae4522ae7b3150f8600f32501db01c69}
       \strng{authornamehash}{ae4522ae7b3150f8600f32501db01c69}
       \strng{authorfullhash}{ae4522ae7b3150f8600f32501db01c69}
+      \strng{editorbibnamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{editornamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{editorfullhash}{0cbf9cd96226f5529060d46598e6148c}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Urban Voices: {A}ccent Studies in the {B}ritish {I}sles}
-      \field{title}{{W}est {W}irral: {N}orms, self reports and usage}
+      \field{booktitle}{Urban Voices: Accent Studies in the British Isles}
+      \field{title}{West Wirral: Norms, self reports and usage}
       \field{year}{1999}
       \field{pages}{90\bibrangedash 106}
       \range{pages}{17}
@@ -2959,10 +3275,13 @@
       }
       \strng{namehash}{1f072c110a7c1507d5229d5a3a3a9e46}
       \strng{fullhash}{1f072c110a7c1507d5229d5a3a3a9e46}
+      \strng{bibnamehash}{1f072c110a7c1507d5229d5a3a3a9e46}
+      \strng{authorbibnamehash}{1f072c110a7c1507d5229d5a3a3a9e46}
       \strng{authornamehash}{1f072c110a7c1507d5229d5a3a3a9e46}
       \strng{authorfullhash}{1f072c110a7c1507d5229d5a3a3a9e46}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -2994,10 +3313,13 @@
       }
       \strng{namehash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
       \strng{fullhash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
+      \strng{bibnamehash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
+      \strng{authorbibnamehash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
       \strng{authornamehash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
       \strng{authorfullhash}{e95e7b0c6ac4e9086b8d6e93c0ca5685}
       \field{sortinit}{N}
-      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3012,10 +3334,13 @@
       }
       \strng{namehash}{9f8b2d15a50db47018c1cd1e3ed90280}
       \strng{fullhash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \strng{bibnamehash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \strng{authorbibnamehash}{9f8b2d15a50db47018c1cd1e3ed90280}
       \strng{authornamehash}{9f8b2d15a50db47018c1cd1e3ed90280}
       \strng{authorfullhash}{9f8b2d15a50db47018c1cd1e3ed90280}
       \field{sortinit}{O}
-      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3026,6 +3351,9 @@
       \field{year}{2016}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.nomisweb.co.uk/
+      \endverb
       \verb{url}
       \verb http://www.nomisweb.co.uk/
       \endverb
@@ -3060,18 +3388,22 @@
       }
       \strng{namehash}{c1f05cc7dac366e0205c52435de659d2}
       \strng{fullhash}{c1f05cc7dac366e0205c52435de659d2}
+      \strng{bibnamehash}{c1f05cc7dac366e0205c52435de659d2}
+      \strng{authorbibnamehash}{c1f05cc7dac366e0205c52435de659d2}
       \strng{authornamehash}{c1f05cc7dac366e0205c52435de659d2}
       \strng{authorfullhash}{c1f05cc7dac366e0205c52435de659d2}
+      \strng{editorbibnamehash}{35a860b21ab76337e0eb0d448b24ca57}
       \strng{editornamehash}{35a860b21ab76337e0eb0d448b24ca57}
       \strng{editorfullhash}{35a860b21ab76337e0eb0d448b24ca57}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Leadership and Urban Regeneration}
       \field{series}{Urban Affairs Annual Reviews}
-      \field{title}{Leadership and regeneration in {L}iverpool: {C}onfusion, confrontation, or coalition?}
+      \field{title}{Leadership and regeneration in Liverpool: Confusion, confrontation, or coalition?}
       \field{volume}{37}
       \field{year}{1990}
       \field{pages}{241\bibrangedash 257}
@@ -3110,16 +3442,20 @@
       }
       \strng{namehash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
       \strng{fullhash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
+      \strng{bibnamehash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
+      \strng{authorbibnamehash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
       \strng{authornamehash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
       \strng{authorfullhash}{c81b7c5344ea8c40bc8edd7bbb1c4eab}
+      \strng{editorbibnamehash}{4eb7f605051de5603362d845e580b4c4}
       \strng{editornamehash}{405cb0acfd18ef728ec90661a70e03a6}
       \strng{editorfullhash}{4eb7f605051de5603362d845e580b4c4}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Urban Regeneration in {E}urope}
+      \field{booktitle}{Urban Regeneration in Europe}
       \field{title}{New agendas}
       \field{year}{2003}
       \field{pages}{200\bibrangedash 209}
@@ -3146,15 +3482,18 @@
       }
       \strng{namehash}{4eab6eb24aab67f0fc972f119bbcd2bc}
       \strng{fullhash}{4eab6eb24aab67f0fc972f119bbcd2bc}
+      \strng{bibnamehash}{4eab6eb24aab67f0fc972f119bbcd2bc}
+      \strng{editorbibnamehash}{4eab6eb24aab67f0fc972f119bbcd2bc}
       \strng{editornamehash}{4eab6eb24aab67f0fc972f119bbcd2bc}
       \strng{editorfullhash}{4eab6eb24aab67f0fc972f119bbcd2bc}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Stereotype, {V}orurteile und soziale {D}iskriminierung. {T}heorien, {B}efunde und {I}nterventionen}
-      \field{title}{Stereotype, {V}orurteile und soziale {D}iskriminierung. {T}heorien, {B}efunde und {I}nterventionen}
+      \field{booktitle}{Stereotype, Vorurteile und soziale Diskriminierung. Theorien, Befunde und Interventionen}
+      \field{title}{Stereotype, Vorurteile und soziale Diskriminierung. Theorien, Befunde und Interventionen}
       \field{year}{2008}
     \endentry
     \entry{pierrehumbert2002}{incollection}{}
@@ -3185,12 +3524,16 @@
       }
       \strng{namehash}{d40ef94e4050e51ca57b7b0bb029f724}
       \strng{fullhash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{bibnamehash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{authorbibnamehash}{d40ef94e4050e51ca57b7b0bb029f724}
       \strng{authornamehash}{d40ef94e4050e51ca57b7b0bb029f724}
       \strng{authorfullhash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{editorbibnamehash}{ccbacde1fc13994c471df02c7ab3089e}
       \strng{editornamehash}{ccbacde1fc13994c471df02c7ab3089e}
       \strng{editorfullhash}{ccbacde1fc13994c471df02c7ab3089e}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3204,6 +3547,9 @@
       \field{urldateera}{ce}
       \field{pages}{101\bibrangedash 139}
       \range{pages}{39}
+      \verb{urlraw}
+      \verb http://faculty.wcas.northwestern.edu/~jbp/publications/word_specific.pdf
+      \endverb
       \verb{url}
       \verb http://faculty.wcas.northwestern.edu/~jbp/publications/word_specific.pdf
       \endverb
@@ -3218,10 +3564,13 @@
       }
       \strng{namehash}{d40ef94e4050e51ca57b7b0bb029f724}
       \strng{fullhash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{bibnamehash}{d40ef94e4050e51ca57b7b0bb029f724}
+      \strng{authorbibnamehash}{d40ef94e4050e51ca57b7b0bb029f724}
       \strng{authornamehash}{d40ef94e4050e51ca57b7b0bb029f724}
       \strng{authorfullhash}{d40ef94e4050e51ca57b7b0bb029f724}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3255,17 +3604,21 @@
       }
       \strng{namehash}{bfebed29936373d6866521c38389a672}
       \strng{fullhash}{bfebed29936373d6866521c38389a672}
+      \strng{bibnamehash}{bfebed29936373d6866521c38389a672}
+      \strng{authorbibnamehash}{bfebed29936373d6866521c38389a672}
       \strng{authornamehash}{bfebed29936373d6866521c38389a672}
       \strng{authorfullhash}{bfebed29936373d6866521c38389a672}
+      \strng{editorbibnamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editornamehash}{ac55751446e8269bf134bc28bb0af7f6}
       \strng{editorfullhash}{ac55751446e8269bf134bc28bb0af7f6}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Liverpool 800: {C}ulture, Character and History}
-      \field{title}{Living in {L}iverpool: {T}he modern city}
+      \field{booktitle}{Liverpool 800: Culture, Character and History}
+      \field{title}{Living in Liverpool: The modern city}
       \field{year}{2006}
       \field{pages}{171\bibrangedash 255}
       \range{pages}{85}
@@ -3286,10 +3639,13 @@
       }
       \strng{namehash}{32704d3ffa84bc30873d8fc8b90a478e}
       \strng{fullhash}{32704d3ffa84bc30873d8fc8b90a478e}
+      \strng{bibnamehash}{32704d3ffa84bc30873d8fc8b90a478e}
+      \strng{editorbibnamehash}{32704d3ffa84bc30873d8fc8b90a478e}
       \strng{editornamehash}{32704d3ffa84bc30873d8fc8b90a478e}
       \strng{editorfullhash}{32704d3ffa84bc30873d8fc8b90a478e}
       \field{sortinit}{P}
-      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
@@ -3307,15 +3663,21 @@
       }
       \strng{namehash}{5aabd693155e7397e59e87cab3b9d31e}
       \strng{fullhash}{5aabd693155e7397e59e87cab3b9d31e}
+      \strng{bibnamehash}{5aabd693155e7397e59e87cab3b9d31e}
+      \strng{authorbibnamehash}{5aabd693155e7397e59e87cab3b9d31e}
       \strng{authornamehash}{5aabd693155e7397e59e87cab3b9d31e}
       \strng{authorfullhash}{5aabd693155e7397e59e87cab3b9d31e}
       \field{sortinit}{Q}
-      \field{sortinithash}{605f5784956f0b01c606746ceb816bf5}
+      \field{sortinithash}{d257e420984a3a5c57a3330114cd646a}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{QGIS Geographic Information System}
       \field{year}{2016}
+      \verb{urlraw}
+      \verb http://qgis.osgeo.org
+      \endverb
       \verb{url}
       \verb http://qgis.osgeo.org
       \endverb
@@ -3334,17 +3696,56 @@
       }
       \strng{namehash}{a902f7a1275f47f57554b7ea75ccd0bc}
       \strng{fullhash}{a902f7a1275f47f57554b7ea75ccd0bc}
+      \strng{bibnamehash}{a902f7a1275f47f57554b7ea75ccd0bc}
+      \strng{authorbibnamehash}{a902f7a1275f47f57554b7ea75ccd0bc}
       \strng{authornamehash}{a902f7a1275f47f57554b7ea75ccd0bc}
       \strng{authorfullhash}{a902f7a1275f47f57554b7ea75ccd0bc}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{R: {A} Language and Environment for Statistical Computing}
+      \field{title}{R: A Language and Environment for Statistical Computing}
       \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.R-project.org/
+      \endverb
       \verb{url}
       \verb https://www.R-project.org/
+      \endverb
+    \endentry
+    \entry{glmwiki}{online}{}
+      \name{author}{1}{}{%
+        {{hash=96338c6b88bd7038e2906e2e1adfe8de}{%
+           family={{r-sig-mixed-models mailing list}},
+           familyi={r\bibinitperiod}}}%
+      }
+      \strng{namehash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \strng{fullhash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \strng{bibnamehash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \strng{authorbibnamehash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \strng{authornamehash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \strng{authorfullhash}{96338c6b88bd7038e2906e2e1adfe8de}
+      \field{sortinit}{r}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{FAQ}
+      \field{title}{GLMM for ecologists and evolutionary biologists}
+      \field{urlday}{10}
+      \field{urlmonth}{3}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://glmm.wikidot.com/faq
+      \endverb
+      \verb{url}
+      \verb http://glmm.wikidot.com/faq
       \endverb
     \endentry
     \entry{racz2013}{book}{}
@@ -3363,10 +3764,13 @@
       }
       \strng{namehash}{20b4ac27a8526de69ab0ef7461dcd882}
       \strng{fullhash}{20b4ac27a8526de69ab0ef7461dcd882}
+      \strng{bibnamehash}{20b4ac27a8526de69ab0ef7461dcd882}
+      \strng{authorbibnamehash}{20b4ac27a8526de69ab0ef7461dcd882}
       \strng{authornamehash}{20b4ac27a8526de69ab0ef7461dcd882}
       \strng{authorfullhash}{20b4ac27a8526de69ab0ef7461dcd882}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3391,43 +3795,19 @@
       }
       \strng{namehash}{41b5548be2a4dff9ec170ae4196489ad}
       \strng{fullhash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{bibnamehash}{41b5548be2a4dff9ec170ae4196489ad}
+      \strng{authorbibnamehash}{41b5548be2a4dff9ec170ae4196489ad}
       \strng{authornamehash}{41b5548be2a4dff9ec170ae4196489ad}
       \strng{authorfullhash}{41b5548be2a4dff9ec170ae4196489ad}
       \field{sortinit}{R}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Crossing: {L}anguage and ethnicity among adolescents}
+      \field{title}{Crossing: Language and ethnicity among adolescents}
       \field{year}{1995}
       \field{dateera}{ce}
-    \endentry
-    \entry{glmwiki}{online}{}
-      \name{author}{1}{}{%
-        {{hash=96338c6b88bd7038e2906e2e1adfe8de}{%
-           family={{r-sig-mixed-models mailing list}},
-           familyi={r\bibinitperiod}}}%
-      }
-      \strng{namehash}{96338c6b88bd7038e2906e2e1adfe8de}
-      \strng{fullhash}{96338c6b88bd7038e2906e2e1adfe8de}
-      \strng{authornamehash}{96338c6b88bd7038e2906e2e1adfe8de}
-      \strng{authorfullhash}{96338c6b88bd7038e2906e2e1adfe8de}
-      \field{sortinit}{r}
-      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{subtitle}{FAQ}
-      \field{title}{GLMM for ecologists and evolutionary biologists}
-      \field{urlday}{10}
-      \field{urlmonth}{3}
-      \field{urlyear}{2015}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{url}
-      \verb http://glmm.wikidot.com/faq
-      \endverb
     \endentry
     \entry{sangster2001}{article}{}
       \name{author}{1}{}{%
@@ -3439,16 +3819,19 @@
       }
       \strng{namehash}{0095e88c5136c987d88bb07b0e6d7e31}
       \strng{fullhash}{0095e88c5136c987d88bb07b0e6d7e31}
+      \strng{bibnamehash}{0095e88c5136c987d88bb07b0e6d7e31}
+      \strng{authorbibnamehash}{0095e88c5136c987d88bb07b0e6d7e31}
       \strng{authornamehash}{0095e88c5136c987d88bb07b0e6d7e31}
       \strng{authorfullhash}{0095e88c5136c987d88bb07b0e6d7e31}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Sociolinguistics}
       \field{number}{3}
-      \field{title}{Lenition of alveolar stops in {L}iverpool {E}nglish}
+      \field{title}{Lenition of alveolar stops in Liverpool English}
       \field{volume}{5}
       \field{year}{2001}
       \field{pages}{401\bibrangedash 412}
@@ -3471,10 +3854,13 @@
       }
       \strng{namehash}{6be88a35f41ee7b11bd60e0ad863a680}
       \strng{fullhash}{6be88a35f41ee7b11bd60e0ad863a680}
+      \strng{bibnamehash}{6be88a35f41ee7b11bd60e0ad863a680}
+      \strng{authorbibnamehash}{6be88a35f41ee7b11bd60e0ad863a680}
       \strng{authornamehash}{6be88a35f41ee7b11bd60e0ad863a680}
       \strng{authorfullhash}{6be88a35f41ee7b11bd60e0ad863a680}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3492,10 +3878,13 @@
       }
       \strng{namehash}{bce9aa70790a4fe3a5f5562c53208ac8}
       \strng{fullhash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{bibnamehash}{bce9aa70790a4fe3a5f5562c53208ac8}
+      \strng{authorbibnamehash}{bce9aa70790a4fe3a5f5562c53208ac8}
       \strng{authornamehash}{bce9aa70790a4fe3a5f5562c53208ac8}
       \strng{authorfullhash}{bce9aa70790a4fe3a5f5562c53208ac8}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3508,7 +3897,8 @@
     \endentry
     \entry{sosci}{online}{}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{url}
       \field{labeltitlesource}{title}
       \field{title}{SoSciSurvey.de}
@@ -3516,6 +3906,9 @@
       \field{urlmonth}{3}
       \field{urlyear}{2015}
       \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.soscisurvey.de/index.php?page=home&l=eng
+      \endverb
       \verb{url}
       \verb https://www.soscisurvey.de/index.php?page=home&l=eng
       \endverb
@@ -3530,16 +3923,19 @@
       }
       \strng{namehash}{b883679a2b1339db289d65d7a438d38c}
       \strng{fullhash}{b883679a2b1339db289d65d7a438d38c}
+      \strng{bibnamehash}{b883679a2b1339db289d65d7a438d38c}
+      \strng{authorbibnamehash}{b883679a2b1339db289d65d7a438d38c}
       \strng{authornamehash}{b883679a2b1339db289d65d7a438d38c}
       \strng{authorfullhash}{b883679a2b1339db289d65d7a438d38c}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Sociolinguistics}
       \field{number}{2}
-      \field{title}{It don't go both ways: {L}imited bidirectionality in sociolinguistic perception}
+      \field{title}{It don't go both ways: Limited bidirectionality in sociolinguistic perception}
       \field{volume}{17}
       \field{year}{2013}
       \field{pages}{200\bibrangedash 237}
@@ -3583,17 +3979,21 @@
       }
       \strng{namehash}{b5c5af1d3dcc10fac0b62aaf4c6bb26a}
       \strng{fullhash}{71e5c5160fa551d7fd97d814be8bafb8}
+      \strng{bibnamehash}{71e5c5160fa551d7fd97d814be8bafb8}
+      \strng{authorbibnamehash}{71e5c5160fa551d7fd97d814be8bafb8}
       \strng{authornamehash}{b5c5af1d3dcc10fac0b62aaf4c6bb26a}
       \strng{authorfullhash}{71e5c5160fa551d7fd97d814be8bafb8}
+      \strng{editorbibnamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{editornamehash}{0cbf9cd96226f5529060d46598e6148c}
       \strng{editorfullhash}{0cbf9cd96226f5529060d46598e6148c}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Urban Voices: {A}ccent Studies in the {B}ritish {I}sles}
-      \field{title}{Sheffield dialect in the 1990s: {R}evisiting the concept of {NORM}s}
+      \field{booktitle}{Urban Voices: Accent Studies in the British Isles}
+      \field{title}{Sheffield dialect in the 1990s: Revisiting the concept of {NORM}s}
       \field{year}{1999}
       \field{pages}{72\bibrangedash 89}
       \range{pages}{18}
@@ -3608,10 +4008,13 @@
       }
       \strng{namehash}{3cf827f5cc078b9f12fc639763c7e1ef}
       \strng{fullhash}{3cf827f5cc078b9f12fc639763c7e1ef}
+      \strng{bibnamehash}{3cf827f5cc078b9f12fc639763c7e1ef}
+      \strng{authorbibnamehash}{3cf827f5cc078b9f12fc639763c7e1ef}
       \strng{authornamehash}{3cf827f5cc078b9f12fc639763c7e1ef}
       \strng{authorfullhash}{3cf827f5cc078b9f12fc639763c7e1ef}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3650,16 +4053,20 @@
       }
       \strng{namehash}{b3d2ab12fc5adaab41ef6fe5112c951d}
       \strng{fullhash}{b3d2ab12fc5adaab41ef6fe5112c951d}
+      \strng{bibnamehash}{b3d2ab12fc5adaab41ef6fe5112c951d}
+      \strng{authorbibnamehash}{b3d2ab12fc5adaab41ef6fe5112c951d}
       \strng{authornamehash}{b3d2ab12fc5adaab41ef6fe5112c951d}
       \strng{authorfullhash}{b3d2ab12fc5adaab41ef6fe5112c951d}
+      \strng{editorbibnamehash}{a048e1d2750d6b07e2855653675365a5}
       \strng{editornamehash}{a048e1d2750d6b07e2855653675365a5}
       \strng{editorfullhash}{a048e1d2750d6b07e2855653675365a5}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Natural language processing and speech	technology: {R}esults of the 3rd {KONVENS} conference, {B}ielefeld, {O}ctober 1996}
+      \field{booktitle}{Natural language processing and speech	technology: Results of the 3rd {KONVENS} conference, Bielefeld, October 1996}
       \field{title}{Gradient and visual speaker normalization in the perception of fricatives}
       \field{year}{1996}
       \field{dateera}{ce}
@@ -3679,10 +4086,13 @@
       }
       \strng{namehash}{14f72cf388c45961c0a2ff293aca99ec}
       \strng{fullhash}{14f72cf388c45961c0a2ff293aca99ec}
+      \strng{bibnamehash}{14f72cf388c45961c0a2ff293aca99ec}
+      \strng{authorbibnamehash}{14f72cf388c45961c0a2ff293aca99ec}
       \strng{authornamehash}{14f72cf388c45961c0a2ff293aca99ec}
       \strng{authorfullhash}{14f72cf388c45961c0a2ff293aca99ec}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3705,15 +4115,18 @@
       }
       \strng{namehash}{ab504a2b3092b98affc727b9701435da}
       \strng{fullhash}{ab504a2b3092b98affc727b9701435da}
+      \strng{bibnamehash}{ab504a2b3092b98affc727b9701435da}
+      \strng{authorbibnamehash}{ab504a2b3092b98affc727b9701435da}
       \strng{authornamehash}{ab504a2b3092b98affc727b9701435da}
       \strng{authorfullhash}{ab504a2b3092b98affc727b9701435da}
       \field{sortinit}{S}
-      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the Acoustical Society of America}
-      \field{title}{A perceptual model of vowel recognition based on the auditory representation of {A}merican {E}nglish vowels}
+      \field{title}{A perceptual model of vowel recognition based on the auditory representation of American English vowels}
       \field{volume}{79}
       \field{year}{1986}
       \field{dateera}{ce}
@@ -3753,12 +4166,16 @@
       }
       \strng{namehash}{eb0b831e3261c1ce1ff167dbf7563cfa}
       \strng{fullhash}{eb0b831e3261c1ce1ff167dbf7563cfa}
+      \strng{bibnamehash}{eb0b831e3261c1ce1ff167dbf7563cfa}
+      \strng{authorbibnamehash}{eb0b831e3261c1ce1ff167dbf7563cfa}
       \strng{authornamehash}{eb0b831e3261c1ce1ff167dbf7563cfa}
       \strng{authorfullhash}{eb0b831e3261c1ce1ff167dbf7563cfa}
+      \strng{editorbibnamehash}{f7c1bb23b768c0d9684c12ae41329b51}
       \strng{editornamehash}{88010752df6db37195b22e45a2129519}
       \strng{editorfullhash}{f7c1bb23b768c0d9684c12ae41329b51}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3779,10 +4196,13 @@
       }
       \strng{namehash}{eb8817f038edb01900d826da782870ef}
       \strng{fullhash}{eb8817f038edb01900d826da782870ef}
+      \strng{bibnamehash}{eb8817f038edb01900d826da782870ef}
+      \strng{authorbibnamehash}{eb8817f038edb01900d826da782870ef}
       \strng{authornamehash}{eb8817f038edb01900d826da782870ef}
       \strng{authorfullhash}{eb8817f038edb01900d826da782870ef}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3810,15 +4230,18 @@
       }
       \strng{namehash}{12e2bfbaca84463cfe987dcbe7764954}
       \strng{fullhash}{12e2bfbaca84463cfe987dcbe7764954}
+      \strng{bibnamehash}{12e2bfbaca84463cfe987dcbe7764954}
+      \strng{authorbibnamehash}{12e2bfbaca84463cfe987dcbe7764954}
       \strng{authornamehash}{12e2bfbaca84463cfe987dcbe7764954}
       \strng{authorfullhash}{12e2bfbaca84463cfe987dcbe7764954}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{subtitle}{From the Earliest Authenticated Period down to the Present Time}
-      \field{title}{History of {L}iverpool}
+      \field{title}{History of Liverpool}
       \field{year}{1810}
       \field{dateera}{ce}
     \endentry
@@ -3838,10 +4261,13 @@
       }
       \strng{namehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{fullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{bibnamehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{authorbibnamehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{authornamehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{authorfullhash}{17b4ad73f12e03a5091f0262b44d3da6}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -3864,15 +4290,18 @@
       }
       \strng{namehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{fullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{bibnamehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{authorbibnamehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{authornamehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{authorfullhash}{17b4ad73f12e03a5091f0262b44d3da6}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{Second edition}
-      \field{title}{The Dialects of {E}ngland}
+      \field{title}{The Dialects of England}
       \field{year}{1999}
     \endentry
     \entry{trudgill2004}{book}{}
@@ -3891,14 +4320,17 @@
       }
       \strng{namehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{fullhash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{bibnamehash}{17b4ad73f12e03a5091f0262b44d3da6}
+      \strng{authorbibnamehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{authornamehash}{17b4ad73f12e03a5091f0262b44d3da6}
       \strng{authorfullhash}{17b4ad73f12e03a5091f0262b44d3da6}
       \field{sortinit}{T}
-      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{The inevitability of colonial {E}nglishes}
+      \field{subtitle}{The inevitability of colonial Englishes}
       \field{title}{New-dialect formation}
       \field{year}{2004}
     \endentry
@@ -3927,15 +4359,18 @@
       }
       \strng{namehash}{71c55b93a3141b32cd8a0aec2aa826fa}
       \strng{fullhash}{9803644fa945977ec7cab147d2ad1c59}
+      \strng{bibnamehash}{9803644fa945977ec7cab147d2ad1c59}
+      \strng{authorbibnamehash}{9803644fa945977ec7cab147d2ad1c59}
       \strng{authornamehash}{71c55b93a3141b32cd8a0aec2aa826fa}
       \strng{authorfullhash}{9803644fa945977ec7cab147d2ad1c59}
       \field{sortinit}{V}
-      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Quarterly Journal of Experimental Psychology}
-      \field{title}{Subtlex-UK: {A} new and improved word frequency database for {B}ritish {E}nglish}
+      \field{title}{Subtlex-UK: A new and improved word frequency database for British English}
       \field{volume}{67}
       \field{year}{2014}
       \field{dateera}{ce}
@@ -3958,15 +4393,18 @@
       }
       \strng{namehash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
       \strng{fullhash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
+      \strng{bibnamehash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
+      \strng{authorbibnamehash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
       \strng{authornamehash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
       \strng{authorfullhash}{d33fd9a4c9eb1174cd6ff33f73dcf6c7}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{subtitle}{A Cultural and Social History}
-      \field{title}{Northern {E}nglish}
+      \field{title}{Northern English}
       \field{year}{2006}
     \endentry
     \entry{watson2002}{article}{}
@@ -3979,15 +4417,18 @@
       }
       \strng{namehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{fullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{bibnamehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authorbibnamehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{authornamehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{authorfullhash}{3d02ae245a99d7b58902425c79457ab2}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Durham Working Papers in Linguistics}
-      \field{title}{The realization of final /t/ in {L}iverpool {E}nglish}
+      \field{title}{The realization of final /t/ in Liverpool English}
       \field{volume}{8}
       \field{year}{2002}
       \field{pages}{195\bibrangedash 205}
@@ -4003,16 +4444,19 @@
       }
       \strng{namehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{fullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{bibnamehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authorbibnamehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{authornamehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{authorfullhash}{3d02ae245a99d7b58902425c79457ab2}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{English Today}
       \field{number}{2}
-      \field{title}{Phonological resistance and innovation in the {N}orth-{W}est of {E}ngland}
+      \field{title}{Phonological resistance and innovation in the North-West of England}
       \field{volume}{22}
       \field{year}{2006}
       \field{pages}{55\bibrangedash 61}
@@ -4046,18 +4490,22 @@
       }
       \strng{namehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{fullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{bibnamehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authorbibnamehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{authornamehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{authorfullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{editorbibnamehash}{f6e006b5c5dd65d30e6e32e253093166}
       \strng{editornamehash}{f6e006b5c5dd65d30e6e32e253093166}
       \strng{editorfullhash}{f6e006b5c5dd65d30e6e32e253093166}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{extrayear}{1}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The {M}ersey Sound: {L}iverpool's Language, People and Places}
-      \field{title}{Is {S}couse getting {S}couser? {P}honological change in contemporary {L}iverpool {E}nglish}
+      \field{booktitle}{The Mersey Sound: Liverpool's Language, People and Places}
+      \field{title}{Is Scouse getting Scouser? Phonological change in contemporary Liverpool English}
       \field{year}{2007}
       \field{pages}{215\bibrangedash 241}
       \range{pages}{27}
@@ -4072,17 +4520,20 @@
       }
       \strng{namehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{fullhash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{bibnamehash}{3d02ae245a99d7b58902425c79457ab2}
+      \strng{authorbibnamehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{authornamehash}{3d02ae245a99d7b58902425c79457ab2}
       \strng{authorfullhash}{3d02ae245a99d7b58902425c79457ab2}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
-      \field{extrayear}{2}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the International Phonetic Association}
       \field{number}{3}
-      \field{title}{{L}iverpool {E}nglish}
+      \field{title}{Liverpool English}
       \field{volume}{37}
       \field{year}{2007}
       \field{pages}{351\bibrangedash 360}
@@ -4103,10 +4554,13 @@
       }
       \strng{namehash}{2e96f998e53e0fe165cfe0321c9c0289}
       \strng{fullhash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{bibnamehash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{authorbibnamehash}{2e96f998e53e0fe165cfe0321c9c0289}
       \strng{authornamehash}{2e96f998e53e0fe165cfe0321c9c0289}
       \strng{authorfullhash}{2e96f998e53e0fe165cfe0321c9c0289}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -4133,10 +4587,13 @@
       }
       \strng{namehash}{2e96f998e53e0fe165cfe0321c9c0289}
       \strng{fullhash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{bibnamehash}{2e96f998e53e0fe165cfe0321c9c0289}
+      \strng{authorbibnamehash}{2e96f998e53e0fe165cfe0321c9c0289}
       \strng{authornamehash}{2e96f998e53e0fe165cfe0321c9c0289}
       \strng{authorfullhash}{2e96f998e53e0fe165cfe0321c9c0289}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -4163,15 +4620,18 @@
       }
       \strng{namehash}{0bb400ed8d9c4a141fd998a718f5c6b2}
       \strng{fullhash}{0bb400ed8d9c4a141fd998a718f5c6b2}
+      \strng{bibnamehash}{0bb400ed8d9c4a141fd998a718f5c6b2}
+      \strng{authorbibnamehash}{0bb400ed8d9c4a141fd998a718f5c6b2}
       \strng{authornamehash}{0bb400ed8d9c4a141fd998a718f5c6b2}
       \strng{authorfullhash}{0bb400ed8d9c4a141fd998a718f5c6b2}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Leeds Working Papers in Linguistics and Phonetics}
-      \field{title}{Evaluation of a technique for improving the mapping of multiple speakers' vowel spaces in the {F}1\(\sim\){F}2 plane}
+      \field{title}{Evaluation of a technique for improving the mapping of multiple speakers' vowel spaces in the F1\(\sim\)F2 plane}
       \field{volume}{9}
       \field{year}{2002}
       \field{dateera}{ce}
@@ -4191,14 +4651,17 @@
       }
       \strng{namehash}{2922da7df1b4e7c45cc3bf5bfecbd335}
       \strng{fullhash}{2922da7df1b4e7c45cc3bf5bfecbd335}
+      \strng{bibnamehash}{2922da7df1b4e7c45cc3bf5bfecbd335}
+      \strng{authorbibnamehash}{2922da7df1b4e7c45cc3bf5bfecbd335}
       \strng{authornamehash}{2922da7df1b4e7c45cc3bf5bfecbd335}
       \strng{authorfullhash}{2922da7df1b4e7c45cc3bf5bfecbd335}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Mobility-induced dialect contact: {A} sociolinguistic investigation of speech variation in {W}ilmslow, {C}heshire}
+      \field{title}{Mobility-induced dialect contact: A sociolinguistic investigation of speech variation in Wilmslow, Cheshire}
       \field{type}{phdthesis}
       \field{year}{2006}
     \endentry
@@ -4218,14 +4681,17 @@
       }
       \strng{namehash}{06e0f66d6950806a13eee3657b17dd6d}
       \strng{fullhash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{bibnamehash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{authorbibnamehash}{06e0f66d6950806a13eee3657b17dd6d}
       \strng{authornamehash}{06e0f66d6950806a13eee3657b17dd6d}
       \strng{authorfullhash}{06e0f66d6950806a13eee3657b17dd6d}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Accents of {E}nglish}
+      \field{title}{Accents of English}
       \field{year}{1982}
     \endentry
     \entry{wells1997}{article}{}
@@ -4238,10 +4704,13 @@
       }
       \strng{namehash}{06e0f66d6950806a13eee3657b17dd6d}
       \strng{fullhash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{bibnamehash}{06e0f66d6950806a13eee3657b17dd6d}
+      \strng{authorbibnamehash}{06e0f66d6950806a13eee3657b17dd6d}
       \strng{authornamehash}{06e0f66d6950806a13eee3657b17dd6d}
       \strng{authorfullhash}{06e0f66d6950806a13eee3657b17dd6d}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -4275,17 +4744,21 @@
       }
       \strng{namehash}{1902886ab3a2b615b1bcf2f5486b31f2}
       \strng{fullhash}{1902886ab3a2b615b1bcf2f5486b31f2}
+      \strng{bibnamehash}{1902886ab3a2b615b1bcf2f5486b31f2}
+      \strng{authorbibnamehash}{1902886ab3a2b615b1bcf2f5486b31f2}
       \strng{authornamehash}{1902886ab3a2b615b1bcf2f5486b31f2}
       \strng{authorfullhash}{1902886ab3a2b615b1bcf2f5486b31f2}
+      \strng{editorbibnamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \strng{editornamehash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \strng{editorfullhash}{2c8c07c305721761a6aa4fd2fd1b8e85}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Researching {N}orthern {E}nglish}
-      \field{title}{Language attitudes and divergence on the {M}erseyside/{L}ancashire border}
+      \field{booktitle}{Researching Northern English}
+      \field{title}{Language attitudes and divergence on the Merseyside/Lancashire border}
       \field{year}{2015}
       \field{dateera}{ce}
       \field{pages}{317\bibrangedash 341}
@@ -4307,16 +4780,22 @@
       }
       \strng{namehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
       \strng{fullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{bibnamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{authorbibnamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
       \strng{authornamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
       \strng{authorfullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-387-98140-6}
-      \field{title}{ggplot2: {E}legant graphics for data analysis}
+      \field{title}{ggplot2: Elegant graphics for data analysis}
       \field{year}{2009}
+      \verb{urlraw}
+      \verb http://had.co.nz/ggplot2/book
+      \endverb
       \verb{url}
       \verb http://had.co.nz/ggplot2/book
       \endverb
@@ -4331,10 +4810,13 @@
       }
       \strng{namehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
       \strng{fullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{bibnamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
+      \strng{authorbibnamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
       \strng{authornamehash}{1d0f6977ce2d043e298a59a1cd75b7ef}
       \strng{authorfullhash}{1d0f6977ce2d043e298a59a1cd75b7ef}
       \field{sortinit}{W}
-      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -4345,6 +4827,9 @@
       \field{year}{2011}
       \field{pages}{1\bibrangedash 29}
       \range{pages}{29}
+      \verb{urlraw}
+      \verb http://www.jstatsoft.org/v40/i01/
+      \endverb
       \verb{url}
       \verb http://www.jstatsoft.org/v40/i01/
       \endverb
@@ -4359,16 +4844,22 @@
       }
       \strng{namehash}{25ce25b9d444076e0963bcf9fa3a6f92}
       \strng{fullhash}{25ce25b9d444076e0963bcf9fa3a6f92}
+      \strng{bibnamehash}{25ce25b9d444076e0963bcf9fa3a6f92}
+      \strng{authorbibnamehash}{25ce25b9d444076e0963bcf9fa3a6f92}
       \strng{authornamehash}{25ce25b9d444076e0963bcf9fa3a6f92}
       \strng{authorfullhash}{25ce25b9d444076e0963bcf9fa3a6f92}
       \field{sortinit}{X}
-      \field{sortinithash}{755b54a59c4b54d471c87a4486a94349}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{R package version 1.11}
-      \field{title}{knitr: {A} General-Purpose Package for Dynamic Report Generation in R}
+      \field{title}{knitr: A General-Purpose Package for Dynamic Report Generation in R}
       \field{year}{2015}
+      \verb{urlraw}
+      \verb http://yihui.name/knitr/
+      \endverb
       \verb{url}
       \verb http://yihui.name/knitr/
       \endverb
@@ -4423,23 +4914,27 @@
       }
       \strng{namehash}{f1522bacba3fb8519b8167f495711fd2}
       \strng{fullhash}{9944006e93b6a8248df109ca57273cf5}
+      \strng{bibnamehash}{9944006e93b6a8248df109ca57273cf5}
+      \strng{authorbibnamehash}{9944006e93b6a8248df109ca57273cf5}
       \strng{authornamehash}{f1522bacba3fb8519b8167f495711fd2}
       \strng{authorfullhash}{9944006e93b6a8248df109ca57273cf5}
+      \strng{editorbibnamehash}{165d15071fcff4467ad62dc3c835ffc4}
       \strng{editornamehash}{13d671777ba030829d8fff6dfd5a9062}
       \strng{editorfullhash}{165d15071fcff4467ad62dc3c835ffc4}
       \field{sortinit}{Z}
-      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Perceptual Linguistic Salience: {M}odeling Causes and Consequences}
+      \field{booktitle}{Perceptual Linguistic Salience: Modeling Causes and Consequences}
       \field{title}{Salience and Attention in Surprisal-Based Accounts of Language Processing}
       \field{year}{2017}
       \field{dateera}{ce}
       \field{pages}{7\bibrangedash 23}
       \range{pages}{17}
     \endentry
-  \endsortlist
+  \enddatalist
 \endrefsection
 \endinput
 
