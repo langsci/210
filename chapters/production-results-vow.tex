@@ -8,12 +8,12 @@ The majority of the data were collected during the spontaneous part of the inter
 Within each age group, the sample seems to be fairly balanced with respect to gender and social class.
 There are some exceptions (e.g. the female-male ratio among middle-aged middle-class subjects), but this is only to be expected in a dataset that consists largely of spontaneous speech, and on the whole it does not seem as if a particular sub-group dominated the sample too much in numeric terms.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{Vowel observations by age, gender, and social class}
 	\label{tab.vowels.n.observations}
 	\begin{tabular}{llcccccc}
-		\toprule
+		\lsptoprule
 		\multicolumn{2}{c}{} & \multicolumn{2}{c}{old} & \multicolumn{2}{c}{middle} & \multicolumn{2}{c}{young}\\
 		& & f & m & f & m & f & m\\
 		\midrule
@@ -23,14 +23,16 @@ There are some exceptions (e.g. the female-male ratio among middle-aged middle-c
 		& wc & 87 & 98 & 152 & 157 & 155 & 149\\
 		\multirow{2}{*}{\textsc{square}} & mc & 75 & 48 & 92 & 94 & 65 & 89\\
 		& wc & 50 & 55 & 63 & 77 & 90 & 84\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
+\largerpage
 The two dependent variables F1 and F2 are analysed separately, both because it is well possible that \isi{change} manifests itself with respect to one dimension but not the other \parencite[cf.][]{harrington2006}, and because this means they can be more easily compared to the two consonantal variables /k/ and velar nasal plus, for which there are only one-dimensional measurements (cf. \sectref{sec.prod_method.con}).
 \sectref{sec.prod.res.vow.happy.pil} and \sectref{sec.prod.res.vow.nurse.pil} briefly look at the two dimensions in conjunction, largely on the basis of F1-F2 vowel plots which are familiar from many works on phonetics and phonology.
 Contrary to the sections that deal with F1 and F2 individually, the focus in \sectref{sec.prod.res.vow.happy.pil} and \sectref{sec.prod.res.vow.nurse.pil} will be much less on social predictors of vowel realisation other than age, and more on a summary synthesis of the \isi{style shifting} results and a -- very general -- contextualisation of happ\textsc{y} and \textsc{nurse} with \textsc{fleece} and \textsc{square}, respectively.
 
+\largerpage
 All of the figures in this chapter (except those in \sectref{sec.prod.res.vow.happy.pil} and \sectref{sec.prod.res.vow.nurse.pil}) are designed in such a way that higher values on the y-axis represent `more Scouse' variants.
 For \textsc{nurse}, this is not straightforward: both raising (towards [e]) or lowering (towards [ɛ]) could be interpreted as \enquote*{more Scouse} as a range of different front vowels are cited in the literature as possible local realisations.
 In this book, [ɛ] was chosen as it is often considered to be the most typical target of the \textsc{nurse}-\textsc{square} merger in Liverpool.
@@ -59,14 +61,14 @@ The maximal model without the predictors place of articulation of preceding and 
 Interactions were then re-entered into the regression and the minimal adequate model shown below was arrived at based on AIC scores and F-tests comparing nested models.
 The minimal adequate model for F1 of happ\textsc{y} (R\textsuperscript{2}-equivalent = 0.178) is reprinted as \tabref{tab.regression.happy.f1}.
 		
-	\begin{table}[h]
-		\centering
+	\begin{table}
+		
 		\caption{happ\textsc{y} (F1): mixed linear effects regression}
 		\label{tab.regression.happy.f1}
 		\footnotesize
 		\begin{tabular}{p{0.3\textwidth}rrrrrl}
-			\toprule
-			Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\ 
+			\lsptoprule
+			Fixed effects: & Estimate & Std. Error & df & t value & Pr(>|t|) & \\ 
 			\midrule
 			(Intercept) & 0.69 & 0.03 & 178.02 & 24.42 & < 0.001 & *** \\ 
 			STYLElist & -0.06 & 0.03 & 1901.45 & -2.04 & 0.04 & * \\ 
@@ -91,7 +93,7 @@ The minimal adequate model for F1 of happ\textsc{y} (R\textsuperscript{2}-equiva
 			Groups &         Name & Variance &      Std.Dev. & & & \\
 			WORD &  (Intercept) & 0.001 & 0.038 & & & \\
 			Residual  &         & 0.015 & 0.122 & & & \\
-			\bottomrule
+			\lspbottomrule
 		\end{tabular}
 	\end{table}
 
@@ -105,8 +107,8 @@ The two phonetic predictors will be briefly discussed first.
 			\subsubsection{Phonological context}
 			\label{sec.prod.res.vow.happy.f1.phon}
 
-	\begin{figure}[h!]
-		\centering
+	\begin{figure}
+		
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_f1w_happy_postmanner-1.tikz}} 
 		\caption{happ\textsc{y} (F1) by following sound}
@@ -121,8 +123,8 @@ For nasals, on the other hand, this is less of an argument, as there are much mo
 As an effect of regressive assimilation, it is likely that happ\textsc{y} exhibits some degree of nasalisation when it occurs before a nasal, and nasalisation is know to shift F1 upwards \parencite{housestevens1956}, which explains the difference visible in the graph.
 Interestingly, F1 seems to be very similar in cases when happ\textsc{y} is not directly followed by anything because it is the last sound in a stretch of speech (this context is coded as ``NA'' in \figref{fig.box.f1w.happy.follsound}), but it is a lot less straightforward why happ\textsc{y} should be lower before a pause.
 
-	\begin{figure}[h!]
-		\centering
+	\begin{figure}
+		
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/scatter_happy_f1w_dur-1.tikz}}
 		\caption{happ\textsc{y} (F1) by duration}
@@ -140,8 +142,8 @@ Or, put another way, if a vowel is going to be short, there is \emph{not enough}
 			\subsubsection{Frequency}
 			\label{sec.prod.res.vow.happy.f1.zipf}
 
-	\begin{figure}[h!]
-		\centering
+	\begin{figure}
+		
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/scatter_happy_f1w_zipf-1.tikz}}
 		\caption{happ\textsc{y} (F1) by frequency of carrier word}
@@ -165,17 +167,17 @@ This highly significant correlation indicates that middle-class speakers produce
 This in itself is interesting (and somewhat unexpected), but instead of going into this class difference by itself, I would like to immediately include the significant interaction of social class and gender that the mixed-effects model revealed as well.
 Said interaction is visualised in \figref{fig.box.f1w.happy.genderclass} and \figref{fig.scatter.f1w.happy.genderclass}.
 
-	\begin{figure}[h!]
-		\centering
+	\begin{figure}
+		
 		\begin{subfigure}{.49\textwidth}
-			\centering
+			
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_f1w_happy_genderclass-1.tikz}} 
 			\caption{box plot}
 			\label{fig.box.f1w.happy.genderclass}
 		\end{subfigure}
 		\begin{subfigure}{.49\textwidth}
-			\centering
+			
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_happy_f1w_genderclass-1.tikz}}
 			\caption{regression plot}
@@ -211,8 +213,8 @@ The graph shows
 	\item that all three groups are significantly different from one another (cf. the p-values included in the figure).
 \end{inparaenum}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_f1w_happy_age-1.tikz}} 
 	\caption{happ\textsc{y} (F1) by age}
@@ -232,33 +234,33 @@ For male speakers, on the right-hand side, the regression lines of all age group
 This indicates that age groups are not significantly different from one another if only the male subjects are considered.
 \tabref{tab.happy.genderage.pvalues} shows that this is indeed the case: t-tests of all three pairings (comparing the old speakers to the middle-aged, the middle-aged to the young, and the young to the old) yield highly significant results for female, and non-significant ones for male subjects across the board.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{happ\textsc{y} (F1): t-tests of age by gender}
 	\label{tab.happy.genderage.pvalues}
 	\begin{tabular}{lcccccc}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{women} & \multicolumn{3}{c}{men}\\
 		& t & df & p & t & df & p\\
 		\midrule
 		old-middle & 4.062 & 1091.324 & < 0.001 & \ensuremath{-1.368} & 798.429 & 0.172\\
 		middle-young & 5.062 & 1596.832 & < 0.001 & \ensuremath{-0.333} & 1999.537 & 0.739\\
 		young-old & 8.689 & 888.424 & < 0.001 & \ensuremath{-1.624} & 768.511 & 0.105\\			 
-		\bottomrule			
+		\lspbottomrule			
 	\end{tabular}
 \end{table}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_f1w_happy_genderage-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.f1w.happy.genderage}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_happy_f1w_genderage-1.tikz}} 
 		\caption{regression plot}
@@ -282,8 +284,8 @@ The last factor that turned up as a significant fixed effect in the regression m
 F1 is, as usual, marked on the y-axis, while line type once again codes the three age groups of speakers.
 The size of the whiskers corresponds to the standard error for each register and age group.
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/line_f1w_happy_age-1.tikz}} 
 	\caption{happ\textsc{y} (F1) by age and style}
@@ -305,19 +307,19 @@ Instead of a steady decline from the most formal to the most informal speech sty
 In this context, it seems worthwhile to consider an explanation based on phonetic aspects, more precisely on duration.
 \tabref{tab.dur.style.happy} reports mean durations of happ\textsc{y} (in milliseconds), and mean \isi{frequency} scores of carrier words for each style and in each age group.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{happ\textsc{y}: durations (ms) and frequency (Zipf scores) by style and age}
 	\label{tab.dur.style.happy}
 	\begin{tabular}{lrrrrrrrr}
-		\toprule
+		\lsptoprule
 		& \multicolumn{2}{c}{list} & \multicolumn{2}{c}{reading} & \multicolumn{2}{c}{free} & \multicolumn{2}{c}{imitation\is{accent performance}}\\
 		& dur. & freq. & dur. & freq. & dur. & freq. & dur. & freq.\\
 		\midrule
 		old & 90.20 & 4.69 & 64.30 & 4.46 & 68.16 & 5.10 & 69.31 & 4.34\\
 		middle & 90.82 & 4.72 & 62.70 & 4.46 & 62.94 & 5.23 & 62.13 & 4.51\\
 		young & 104.07 & 4.69 & 62.72 & 4.41 & 65.36 & 5.37 & 55.94 & 4.43\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -343,9 +345,9 @@ In the end, interactions were likewise re-entered into the regression and model 
 	\footnotesize
 	\begin{longtable}[c]{p{0.3\textwidth}rrrrrl}
 		\caption{happ\textsc{y} (F2): mixed linear effects regression}\label{tab.regression.happy.f2}\\
-		\hline
-		Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\* 
-		\hline
+		\lsptoprule
+		Fixed effects: & Estimate & Std. Error & df & t value & Pr(>|t|) & \\ 
+		\midrule{}
 		(Intercept) & 1.64 & 0.02 & 656.54 & 75.97 & < 0.001 & *** \\ 
 		STYLElist & 0.10 & 0.05 & 1799.79 & 1.98 & 0.05 & *\\ 
 		STYLEread & -0.05 & 0.02 & 1638.38 & -2.55 & 0.01 & *\\ 
@@ -379,13 +381,13 @@ In the end, interactions were likewise re-entered into the regression and model 
 		STYLEfree:AGE56-85:GENDERm & -0.04 & 0.02 & 1978.35 & -1.75 & 0.08 & .\\ 
 		STYLElist:AGE30-55:GENDERm & 0.10 & 0.07 & 2081.56 & 1.39 & 0.17 & \\ 
 		STYLEread:AGE30-55:GENDERm & -0.00 & 0.03 & 1942.75 & -0.08 & 0.94 & \\ 
-		STYLEfree:AGE30-55:GENDERm & 0.04 & 0.02 & 1963.18 & 1.75 & 0.08 & .\\* 
-		\hline
+		STYLEfree:AGE30-55:GENDERm & 0.04 & 0.02 & 1963.18 & 1.75 & 0.08 & .\\ 
+		\midrule 
 		Random effects: & \multicolumn{6}{l}{(number of obs: 2116, groups: WORD, 221)} \\
 		Groups &         Name & Variance &      Std.Dev. & & & \\
 		WORD &  (Intercept) & 0.002 & 0.043 & & & \\
-		Residual  &         & 0.015 & 0.124 & & & \\*
-		\hline
+		Residual  &         & 0.015 & 0.124 & & & \\
+		\lspbottomrule
 	\end{longtable}
 }
 
@@ -403,17 +405,17 @@ These last two predictors will be briefly analysed first.
 \subsubsection{Phonological context}
 \label{sec.prod.res.vow.happy.f2.phon}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_f2w_happy_premanner-1.tikz}} 
 		\caption{preceding sound}
 		\label{fig.box.f2w.happy.presound}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_f2w_happy_postmanner-1.tikz}} 
 		\caption{following sound}
@@ -436,8 +438,8 @@ The significantly negative coefficient (in the model) for a following fricative 
 The same holds for happ\textsc{y} observations that are followed by an affricate.
 The mean in this category is higher than for other following consonants (corresponds to the positive coefficient found in the regression), but there seems to be a lot of noise in the raw data, which results in quite a large confidence interval (see the notches of the ``affricate'' box).
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/scatter_happy_f2w_dur-1.tikz}} 
 	\caption{happ\textsc{y} (F2) by duration}
@@ -451,17 +453,17 @@ In the case of F2, this translates into higher values (more advanced happ\textsc
 While \figref{fig.scatter.f1w.happy.dur} and \figref{fig.scatter.f2w.happy.dur} cannot be directly compared (due to different scales), the mixed-effects models support the impression that the effect of duration on F2 is both stronger and more significant than on F1: the slope of the regression line is steeper for F2, the correlation coefficient is almost three times as big, and the p-value considerably smaller.
 With respect to what has been said about F2 values by preceding sound in particular, it seems worthwhile to quickly check whether \isi{vowel duration} might have confounded the results reported in the preceding paragraphs.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{happ\textsc{y}: durations by phonological environment}
 	\label{tab.dur.phon.happy}
 	\begin{tabular}{lcccccc}
-		\toprule
+		\lsptoprule
 		position & affricate & fricative & liquid & nasal & plosive & glide\\
 		\midrule
 		preceding & 79.84 & 70.35 & 62.44 & 62.98 & 70.45 & NA\\
 		following & 61.01 & 52.84 & 64.43 & 57.03 & 52.29 & 64.1\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -481,8 +483,8 @@ With respect to happ\textsc{y} realisations in different phonological environmen
 \subsubsection{Age and class}
 \label{sec.prod.res.vow.happy.f2.ageclass}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{.5\linewidth}{!}{\input{figures/box_f2w_happy_age-1.tikz}} 
 	\caption{happ\textsc{y} (F2) by age}
@@ -503,17 +505,17 @@ The same goes for class of subject, even though this factor only just about fail
 The interaction of age and social class, however, \emph{is} a significant fixed effect in the regression model.
 \figref{fig.box.f2w.happy.ageclass} and \figref{fig.scatter.f2w.happy.ageclass} illustrate the relationship.
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_f2w_happy_ageclass-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.f2w.happy.ageclass}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_happy_f2w_ageclass-1.tikz}} 
 		\caption{regression plot}
@@ -547,8 +549,8 @@ They cannot be said to be more Scouse than their parents or grandparents.
 \subsubsection{Style and gender}
 \label{sec.prod.res.vow.happy.f2.stylegender}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}[b]
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{.49\linewidth}{!}{\input{figures/box_f2w_happy_stylegender-1.tikz}} 
 	\caption{happ\textsc{y} (F2) by style and gender}
@@ -563,12 +565,12 @@ This is especially true for reading and accent perform\is{accent performance}anc
 The p-value of 0.22 for reading-imitation\is{accent performance} (females) confirms that these two styles are not significantly different, whereas spontaneous speech differs from both reading (p = 0.008) and imitation\is{accent performance} (p < 0.001) in a statistically robust way.
 Realisations of happ\textsc{y} elicited via the word list show slightly more variation around the mean, but are nevertheless clearly distinct from all three remaining styles as both the box plot and the t-tests (cf. \tabref{tab.happy.genderstyle.pvalues}) suggest.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{happ\textsc{y} (F2): t-tests of style by gender}
 	\label{tab.happy.genderstyle.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{women} & \multicolumn{3}{c}{men}\\
 		& t & df & p & t & df & p\\
 		\midrule
@@ -578,7 +580,7 @@ Realisations of happ\textsc{y} elicited via the word list show slightly more var
 		reading-free & \ensuremath{-2.661} & 244.712 & 0.008 & 2.362 & 234.779 & 0.019\\
 		reading-imitation\is{accent performance} & 1.229 & 260.601 & 0.220 & \ensuremath{-4.279} & 279.877 & < 0.001\\
 		free-imitation\is{accent performance} & 3.482 & 146.933 & < 0.001 & \ensuremath{-7.047} & 158.739 & < 0.001\\
-		\bottomrule			
+		\lspbottomrule			
 	\end{tabular}
 \end{table}
 
@@ -604,8 +606,8 @@ When it does play a role, its effect is not uniform: women are `more Scouse' in 
 \subsubsection{Style shifting}
 \label{sec.prod.res.vow.happy.f2.shifting}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{.5\linewidth}{!}{\input{figures/line_f2w_happy_age-1.tikz}} 
 	\caption{happ\textsc{y} (F2) by age and style}
@@ -643,10 +645,10 @@ This might provide a first hint as to whether just happ\textsc{y} is changing in
 It should be noted, though, that \textsc{fleece} vowels were only measured in the reading and word list sections of the interviews (cf. \sectref{sec.prod_method.vow}).
 For the graphs reported on the following pages, the dataset of happ\textsc{y} observations was therefore also reduced to the ones derived from reading and word list realisations to make sure like is compared with like.
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_happy_old_listread-1.tikz}} 
 		\caption{old speakers}
@@ -654,14 +656,14 @@ For the graphs reported on the following pages, the dataset of happ\textsc{y} ob
 	\end{subfigure}
 	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_happy_mid_listread-1.tikz}} 
 		\caption{middle-aged speakers}
 		\label{fig.happy.space.mid}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_happy_young_listread-1.tikz}} 
 		\caption{young speakers}
@@ -697,8 +699,8 @@ The p-value of the \textsc{manova} is close to a statistical trend, but this sho
 
 \subsubsection{Age means}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}[b]
+	
 	\input{figures/plot.vowel.overview.happy.listread.tex}
 	\caption{happ\textsc{y}-\textsc{fleece}: mean vowel position by age}
 	\label{fig.happy.space.means}
@@ -739,13 +741,14 @@ Only one of these three, manner of articulation, was therefore retained.
 In a second maximal model, which neither included place of articulation of preceding and following sound, nor \isi{frequency} of the keyword, \isi{collinearity} was acceptable (κ = 14.39).
 The minimal adequate model (R\textsuperscript{2}-equivalent = 0.314) that was then derived is shown below (\tabref{tab.regression.nurse.f1}).
 
+\newpage 
 {
 	\footnotesize
 	\begin{longtable}[c]{p{0.3\textwidth}rrrrrl}
 		\caption{\textsc{nurse} (F1): mixed linear effects regression}\label{tab.regression.nurse.f1}\\
-		\hline
-		Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\ 
-		\hline
+		\lsptoprule
+		Fixed effects: & Estimate & Std. Error & df & t value & Pr(>|t|) & \\ 
+		\midrule{}
 		(Intercept) & 1.09 & 0.01 & 127.19 & 125.58 & < 0.001 & *** \\ 
 		STYLElist & 0.03 & 0.01 & 1078.12 & 3.61 & < 0.001 & *** \\ 
 		STYLEread & 0.00 & 0.01 & 1344.45 & 0.70 & 0.48 & \\ 
@@ -788,12 +791,12 @@ The minimal adequate model (R\textsuperscript{2}-equivalent = 0.314) that was th
 		STYLElist:AGE19-29:CLASSmc & -0.00 & 0.01 & 1468.20 & -0.42 & 0.67 & \\ 
 		STYLEread:AGE19-29:CLASSmc & 0.00 & 0.01 & 1468.92 & 0.19 & 0.85 & \\ 
 		STYLEfree:AGE19-29:CLASSmc & 0.02 & 0.01 & 1516.74 & 2.46 & 0.01 & * \\ 
-		\hline
+		\midrule 
 		Random effects: & \multicolumn{6}{l}{(number of obs: 1568, groups: WORD, 137)} \\
 		Groups &         Name & Variance &      Std.Dev. & & & \\
 		WORD &  (Intercept) & 0.001 & 0.029 & & & \\
 		Residual  &         & 0.011 & 0.103 & & & \\
-		\hline
+		\lspbottomrule
 	\end{longtable}
 }
 
@@ -825,17 +828,17 @@ This, in turn, holds for both genders, even though it is ever so slightly more p
 \subsubsection{Gender and age}
 \label{sec.prod.res.vow.nurse.f1.genderage}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_f1w_nurse_genderage-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.f1w.nurse.genderage}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_nurse_f1w_genderage-1.tikz}} 
 		\caption{regression plot}
@@ -866,19 +869,19 @@ In the female sub-sample, on the other hand, the middle age group is different f
 It looks thus as if male Scousers have constantly raised \textsc{nurse} over the time period investigated here (if only to a very small extent in absolute terms), while female speakers first slightly raised \textsc{nurse} from the oldest to the middle-aged speakers, only to return to the starting point again in the youngest group.
 Since this starting point is statistically identical to the one the youngest male speakers have arrived at, the gender difference is therefore gone in this age group.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{\textsc{nurse} (F1): t-tests of age by gender}
 	\label{tab.nurse.genderage.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{women} & \multicolumn{3}{c}{men}\\
 		& t & df & p & t & df & p\\
 		\midrule
 		old-middle & \ensuremath{-3.292} & 337.596 & 0.001 & \ensuremath{-3.242} & 267.935 & 0.001\\
 		middle-young & 5.819 & 566.832 & < 0.001 & \ensuremath{-6.908} & 697.042 & < 0.001\\
 		young-old & 0.436 & 352.420 & 0.663 & \ensuremath{-7.637} & 268.135 & < 0.001\\			 
-		\bottomrule			
+		\lspbottomrule			
 	\end{tabular}
 \end{table}
 
@@ -895,19 +898,19 @@ The t-tests reported in \tabref{tab.nurse.classage.pvalues} provide evidence tha
 \textsc{nurse} productions of the oldest speakers, on the other hand, seem to be distinct from the other two groups, both in the middle and the working-class sub-sample.
 In the raw data, p-values are only a bit higher for the working-class observations (but still below the 5\% threshold, so \textsc{nurse} variants in the oldest group \emph{are} significantly different from the rest), but this slight deviation seems to be enough for the interaction to surface as significant in the mixed-effects model.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{\textsc{nurse} (F1): t-tests of age by social class}
 	\label{tab.nurse.classage.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{middle class} & \multicolumn{3}{c}{working class}\\
 		& t & df & p & t & df & p\\
 		\midrule
 		old-middle & \ensuremath{-2.950} & 342.020 & 0.003 & \ensuremath{-2.064} & 266.401 & 0.040\\
 		middle-young & 0.479 & 700.025 & 0.632 & \ensuremath{-0.119} & 610.856 & 0.905\\
 		young-old & \ensuremath{-2.727} & 307.814 & 0.007 & \ensuremath{-2.133} & 267.448 & 0.034\\			 
-		\bottomrule			
+		\lspbottomrule			
 	\end{tabular}
 \end{table}
 
@@ -917,8 +920,8 @@ The difference between the old and the middle-aged group looks significant, and 
 Equally significant (t(1322.803) = -2.387, p = 0.017) is the drop from the middle to the young group, even though the virtually identical medians and the notches of the boxes might suggest otherwise.
 Young speakers in my sample thus have a significantly more close \textsc{nurse} realisation than speakers of the other age ranges.
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_f1w_nurse_age-1.tikz}} 
 	\caption{\textsc{nurse} (F1) by age}
@@ -927,11 +930,11 @@ Young speakers in my sample thus have a significantly more close \textsc{nurse} 
 
 \subsubsection{Style shifting}
 \label{sec.prod.res.vow.nurse.f1.shifting}
-
 The interaction of style and age (along with the two three-way interactions of style, age, and gender and class, respectively) are visualised by a number of line plots which are all structured similarly and were already used in \sectref{sec.prod.res.vow.happy.f1} and \sectref{sec.prod.res.vow.happy.f2}: style is marked on the x-axis, F1 on the y-axis, and age group of participant is coded by line type.
 
-\begin{figure}[h!]
-	\centering
+\largerpage
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/line_f1w_nurse_age-1.tikz}} 
 	\caption{\textsc{nurse} (F1) by style and age}
@@ -949,17 +952,17 @@ If anything, \isi{style shifting} can be found in the oldest participants, where
 However, just as in the other groups, the line potentially has a `wrong' negative slope.
 If we were looking at Labovian \isi{style shifting}, we would expect an \emph{upward} slope, i.e. \textsc{nurse} realisations becoming \emph{more} Scouse from the word list to imitation\is{accent performance}, instead of the opposite.
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_f1w_nurse_age_fem-1.tikz}} 
 		\caption{women}
 		\label{fig.line.f1.nurse.women}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_f1w_nurse_age_mal-1.tikz}} 
 		\caption{men}
@@ -976,17 +979,17 @@ Also, the near-linear development is again in the wrong direction to qualify as 
 If we look at the men in \figref{fig.line.f1.nurse.men} even this weak trend is gone.
 Middle-aged and young men have lines which are, for all practical purposes, flat, and the oldest speakers distinguish only the word list from the other three styles.
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_f1w_nurse_age_mc-1.tikz}} 
 		\caption{middle class}
 		\label{fig.line.f1.nurse.mc}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_f1w_nurse_age_wc-1.tikz}} 
 		\caption{working class}
@@ -1013,7 +1016,7 @@ When perform\is{accent performance}ing Scouse, variants are significantly higher
 
 For the youngest group of speakers it is in the \emph{middle} class where these three styles are not significantly different from one another.
 Accent perform\is{accent performance}ance, however, is then (highly) significantly different from all other registers.
-Young working-class speakers echo middle-aged middle-class participants in that they have a linear decrease in F1 from `list' to `free'.
+Young work\-ing-class speakers echo middle-aged middle-class participants in that they have a linear decrease in F1 from `list' to `free'.
 In addition, both `list' and 'reading' \emph{and} `reading' and `free' are (at least marginally) significantly different.
 As a sort of reversal of the pattern found for middle-aged working-class speakers, there is then an increase towards the values found for `imitation\is{accent performance}', a mean which is again only significantly different from spontaneous speech, but not the reading passage or the word list.
 There is thus a general similarity between \figref{fig.line.f1.nurse.women} and \figref{fig.line.f1.nurse.mc} (downward trend more visible) and \figref{fig.line.f1.nurse.wc} and \figref{fig.line.f1.nurse.men} (flatter lines), which is in line with an immense body of sociolinguistic research that has, time and again, found female speakers and those of higher socioeconomic classes to be more sensitive to sociolinguistically meaningful variables.
@@ -1033,9 +1036,9 @@ Model selection based on AIC scores and F-tests comparing nested models resulted
 	\footnotesize
 	\begin{longtable}[c]{p{0.3\textwidth}rrrrrl}
 		\caption{\textsc{nurse} (F2): mixed linear effects regression}\label{tab.regression.nurse.f2}\\
-		\hline
-		Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\ 
-		\hline
+		\lsptoprule
+		Fixed effects: & Estimate & Std. Error & df & t value & Pr(>|t|) & \\ 
+		\midrule{}
 		(Intercept) & 1.40 & 0.01 & 347.52 & 103.21 & < 0.001 & *** \\ 
 		STYLElist & -0.01 & 0.01 & 1514.59 & -1.33 & 0.18 & \\ 
 		STYLEread & -0.03 & 0.01 & 1533.43 & -5.22 & < 0.001 & *** \\ 
@@ -1070,12 +1073,12 @@ Model selection based on AIC scores and F-tests comparing nested models resulted
 		STYLElist:AGE30-55:CLASSmc & -0.02 & 0.01 & 1427.41 & -2.22 & 0.03 & * \\ 
 		STYLEread:AGE30-55:CLASSmc & -0.01 & 0.01 & 1430.06 & -1.78 & 0.08 & .\\ 
 		STYLEfree:AGE30-55:CLASSmc & -0.01 & 0.01 & 1487.18 & -1.03 & 0.30 & \\ 
-		\hline
+		\midrule
 		Random effects: & \multicolumn{6}{l}{(number of obs: 1568, groups: WORD, 137)} \\
 		Groups &         Name & Variance &      Std.Dev. & & & \\
 		WORD &  (Intercept) & 0.002 & 0.044 & & & \\
 		Residual  &         & 0.008 & 0.091 & & & \\
-		\hline
+		\lspbottomrule
 	\end{longtable}
 	
 }
@@ -1093,8 +1096,8 @@ It is these two factors which we will look at first.
 \subsubsection{Phonological context}
 \label{sec.prod.res.vow.nurse.f2.phon}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_f2w_nurse_premanner-1.tikz}} 
 	\caption{\textsc{nurse} (F2) by preceding sound}
@@ -1108,30 +1111,31 @@ Measurements taken after an affricate have a mean that is higher than those of m
 It is unclear why a preceding affricate should pull \textsc{nurse} more to the front, but as has already been explained in \sectref{sec.prod.res.vow.nurse.f1}, only a very small number of \textsc{nurse} observations was made following an affricate anyway.
 This might mean that the result is somewhat shaky, but on the other hand it is striking that this \isi{phonological context} pops up as significant again and again in this study.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{\textsc{nurse}: durations by preceding consonant}
 	\label{tab.dur.phon.nurse}
 	\begin{tabular}{cccccc}
-		\toprule
+		\lsptoprule
 		affricate & fricative & liquid & nasal & plosive & glide\\
 		\midrule
 		178.45 & 156.32 & 210.14 & 145.86 & 164.47 & 111.73\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
 As far as F2 of \textsc{nurse} is concerned, \isi{vowel duration}s, which are reported in \tabref{tab.dur.phon.nurse}, could give at least a hint about what might be going on, namely that the influence of the preceding sound is in fact confounded with duration.
 Some of the evidence is in conflict with this claim, but it is nonetheless striking that contexts where \textsc{nurse} is preceded by an affricate have the second highest average duration in the sample, whereas \textsc{nurse} is (by far) shortest when it follows a glide.
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/scatter_nurse_f2w_dur-1.tikz}} 
 	\caption{\textsc{nurse} (F2) by duration}
 	\label{fig.scatter.f2w.nurse.dur}
 \end{figure}
 
+\largerpage
 \figref{fig.scatter.f2w.nurse.dur} plots the log-transformed duration of \textsc{nurse} on the x- and the F2 values on the y-axis.
 Just as with happ\textsc{y}, longer \isi{vowel duration} favours more peripheral realisations.
 It is therefore possible that the effect found for different preceding consonants is really due to duration.
@@ -1141,17 +1145,17 @@ At least to a certain extent, the phonological effect of the preceding consonant
 \subsubsection{Gender and class}
 \label{sec.prod.res.vow.nurse.f2.genderclass}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_f2w_nurse_genderclass-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.f2w.nurse.genderclass}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_nurse_f2w_genderclass-1.tikz}} 
 		\caption{regression plot}
@@ -1183,17 +1187,17 @@ The significant interaction in the mixed-effects regression is thus not due to t
 \subsubsection{Gender and age}
 \label{sec.prod.res.vow.nurse.f2.genderage}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_f2w_nurse_genderage-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.f2w.nurse.genderage}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_nurse_f2w_genderage-1.tikz}} 
 		\caption{regression plot}
@@ -1215,19 +1219,19 @@ Women aged between 30 and 55 use \textsc{nurse} variants which are, on average, 
 The box plot shows that there is no overlap at all between the interquartile ranges, so the middle 50\% of the data occupy completely separate areas on the scale for men and women.
 It is therefore not at all surprising that a t-test finds this difference to be highly significant (t(710.778) = 26.419, p < 0.001).
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{\textsc{nurse} (F2): t-tests of age by gender}
 	\label{tab.nurse.f2.genderage.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{women} & \multicolumn{3}{c}{men}\\
 		& t & df & p & t & df & p\\
 		\midrule
 		old-middle & 12.723 & 407.845 & < 0.001 & \ensuremath{-6.203} & 308.955 & < 0.001\\
 		middle-young & \ensuremath{-7.794} & 567.234 & < 0.001 & 20.528 & 760.911 & < 0.001\\
 		young-old & 6.378 & 419.726 & < 0.001 & 7.804 & 260.802 & < 0.001\\			 
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -1241,8 +1245,8 @@ What \emph{is} different for women and men is the positioning of age groups on t
 \subsubsection{Style and social class}
 \label{sec.prod.res.vow.nurse.f2.styleclass}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{.49\linewidth}{!}{\input{figures/box_f2w_nurse_styleclass-1.tikz}} 
 	\caption{\textsc{nurse} (F2) by style and social class}
@@ -1254,12 +1258,12 @@ If one examines the boxplots in \figref{fig.box.f2w.nurse.styleclass}, which are
 Boxes that visualise the data collected from middle-class interviewees (always the left one in each panel) are consistently lower than the corresponding ones for working-class speakers, which illustrates once again that working-class speakers have more Scouse \textsc{nurse} variants than middle-class Liverpudlians (cf. \figref{fig.scatter.f2w.nurse.genderclass}).
 T-tests confirm for the means what the notches in the box plots do for the medians: the class difference is statistically significant for the word list (t(188.089) = -8.096, p < 0.001), the reading passage (t(255.085) = -5.524, p < 0.001), spontaneous speech (t(1087.269) = -17.359, p < 0.001), and accent imitation\is{accent performance} (t(153.537) = -4.744, p < 0.001).
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{\textsc{nurse} (F2): t-tests of style by social class}
 	\label{tab.nurse.classstyle.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{middle class} & \multicolumn{3}{c}{working class}\\
 		& t & df & p & t & df & p\\
 		\midrule
@@ -1269,7 +1273,7 @@ T-tests confirm for the means what the notches in the box plots do for the media
 		reading-free & 3.870 & 209.460 & < 0.001 & \ensuremath{-1.254} & 216.848 & 0.211\\
 		reading-imitation\is{accent performance} & \ensuremath{-4.684} & 233.144 & < 0.001 & \ensuremath{-4.039} & 157.841 & < 0.001\\
 		free-imitation\is{accent performance} & \ensuremath{-9.346} & 172.419 & < 0.001 & \ensuremath{-3.684} & 101.284 & < 0.001\\
-		\bottomrule			
+		\lspbottomrule			
 	\end{tabular}
 \end{table}
 
@@ -1284,8 +1288,8 @@ None of these orders corresponds to what would have been expected based on the t
 \subsubsection{Age and social class}
 \label{sec.prod.res.vow.nurse.f2.styleage}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_f2w_nurse_age-1.tikz}} 
 	\caption{\textsc{nurse} (F2) by age}
@@ -1297,17 +1301,17 @@ F2 values increase significantly from the oldest to the middle-aged group (t(914
 Middle-aged speakers have thus a fronter \textsc{nurse} than the oldest subjects in this sample, and speakers in the youngest group have, in turn, a significantly fronter vowel than Liverpudlians of their parents' generation.
 However, things are slightly more complicated, as an analysis of the age X social class interaction reveals.
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_f2w_nurse_ageclass-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.f2w.nurse.ageclass}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_nurse_f2w_ageclass-1.tikz}} 
 		\caption{regression plot}
@@ -1316,6 +1320,7 @@ However, things are slightly more complicated, as an analysis of the age X socia
 	\caption{\textsc{nurse} (F2) by age and class}
 \end{figure}
 
+\newpage 
 When we look at class differences in the three age groups separately, we arrive at the picture represented by the box plots in \figref{fig.box.f2w.nurse.ageclass}.
 In all three groups, the means of middle-class speakers are lower than that of the working-class interviewees.
 For the oldest speakers (left panel) the difference is particularly pronounced.
@@ -1326,19 +1331,19 @@ When the dataset is restricted to the youngest speakers the difference between s
 At the same time values are more homogeneous in this age group -- visually represented by the vertical extent of the boxes, which is smaller than in the middle group and comparable to the one found for the oldest speakers.
 While less pronounced, the difference between middle and working-class speakers is therefore just as significant for the youngest subjects as it is in the other groups (t(521.157) = -6.815, p < 0.001).
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{\textsc{nurse} (F2): t-tests of age by social class}
 	\label{tab.nurse.f2.classage.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{middle class} & \multicolumn{3}{c}{working class}\\
 		& t & df & p & t & df & p\\
 		\midrule
 		old-middle & 7.842 & 645.309 & < 0.001 & \ensuremath{-1.189} & 482.408 & 0.235\\
 		middle-young & 7.920 & 698.035 & < 0.001 & 0.638 & 507.159 & 0.524\\
 		young-old & 16.507 & 452.539 & < 0.001 & \ensuremath{-0.784} & 349.296 & 0.434\\			 
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -1354,15 +1359,15 @@ T-tests on the raw data (cf. again \tabref{tab.nurse.f2.classage.pvalues}) also 
 \subsubsection{Style shifting}
 \label{sec.prod.res.vow.nurse.f2.shifting}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/line_f2w_nurse_age-1.tikz}} 
 	\caption{\textsc{nurse} (F2) by style and age}
 	\label{fig.line.f2.nurse.tot}
 \end{figure}
 
-The last combinations of predictors that can tell us something about the (\isi{change} in) \isi{salience} of \textsc{nurse} are the two-way interaction of style and age, and the three-way interaction of style, age, and social class.
+The last combinations of predictors that can \rephrase{tell us something about}{shed light on } the (\isi{change} in) \isi{salience} of \textsc{nurse} are the two-way interaction of style and age, and the three-way interaction of style, age, and social class.
 The relationship of style and age of participant is visualised in \figref{fig.line.f2.nurse.tot}.
 For the oldest group (solid line) there seems to be some movement from the word list to the reading passage to spontaneous speech, but in fact the standard error whiskers indicate that, statistically speaking, these three styles have identical \textsc{nurse} realisations.
 Only the extreme rise when actively perform\is{accent performance}ing Scouse results in a mean that is significantly different from the other three registers.
@@ -1374,17 +1379,17 @@ Speakers in the young group, finally, exhibit a pattern which is closest to what
 The only thing that does not fit into this frame is that realisations when reading out the word list are actually just as front as when these speakers imitate a particularly strong Scouse accent (no significant difference).
 In the most formal register young speakers' behaviour is therefore opposite to what would be expected.
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_f2w_nurse_age_mc-1.tikz}} 
 		\caption{middle class}
 		\label{fig.line.f2.nurse.mc}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_f2w_nurse_age_wc-1.tikz}} 
 		\caption{working class}
@@ -1416,18 +1421,18 @@ The shifting found in \figref{fig.line.f2.nurse.tot} for the youngest speakers t
 
 \subsubsection{Overview}
 Up until now, the analysis has exclusively focused on the realisation of \textsc{nurse}, despite the fact that we are dealing with a vowel \emph{merger} here.
-Since (near-standard) \textsc{square} is generally considered to be the target of this merger in Liverpool, said focus on \textsc{nurse} does not seem unjustified, since it is mostly in the latter one that variation is to be expected.
+Since (near-stan\-dard) \textsc{square} is generally considered to be the target of this merger in Liverpool, said focus on \textsc{nurse} does not seem unjustified, since it is mostly in the latter one that variation is to be expected.
 Nevertheless, the other member of the pair should not totally be neglected.
 After all, it could well be that both \textsc{nurse} and \textsc{square} are, for example, fronted by a particular group of speakers.
 This \emph{might} still make them sound more Scouse (because \textsc{nurse} would be moving further away from the standard), but not necessarily so because it is primarily the merger of these two vowels that is considered a characteristic feature of the accent.
 While constraints of space do not permit a detailed analysis of \textsc{square} (such as the one provided for \textsc{nurse} in \sectref{sec.prod.res.vow.nurse.f1} and \sectref{sec.prod.res.vow.nurse.f2}), the remainder of this chapter will at least have a brief look at the realisational spaces of both \textsc{nurse} \emph{and} \textsc{square} in the different age groups, and it will also consider \isi{Pillai} scores calculated on the basis of these distributions.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{\textsc{nurse}-\textsc{square}: Pillai scores by age and style (groups)}
 	\label{tab.pillai.nurse.agestyle}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		& \multicolumn{2}{c}{old} & \multicolumn{2}{c}{middle} & \multicolumn{2}{c}{young}\\
 		style & \isi{Pillai} & p-value & \isi{Pillai} & p-value & \isi{Pillai} & p-value\\
 		\midrule
@@ -1436,7 +1441,7 @@ While constraints of space do not permit a detailed analysis of \textsc{square} 
 		free & 0.073 & < 0.001 & 0.050 & < 0.001 & 0.025 & 0.007\\
 		imitation\is{accent performance} & 0.016 & 0.533 & 0.007 & 0.727 & 0.014 & 0.398\\
 		total & 0.046 & < 0.001 & 0.031 & < 0.001 & 0.013 & 0.004\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -1446,6 +1451,7 @@ However, these values must be interpreted in connection with the \isi{Pillai} sc
 It is therefore more than likely that the low p-values are simply due to the large amount of data that are available when the observations are pooled across speaking styles, because in a sufficiently large dataset \emph{any} difference will turn out to be statistically significant.
 We can therefore say that all three generations of speakers have completely merged \textsc{nurse} and \textsc{square} distributions.
 
+\largerpage
 Judging from \tabref{tab.pillai.nurse.agestyle}, style does not seem to make much of a difference either.
 It is true that some \isi{Pillai} scores calculated for a particular register are almost twice (or, in the case of the youngest speakers, even thrice) as large as the total score in the last line, but even so all \isi{Pillai} scores are (considerably) below 0.1, meaning they hardly differ from the total scores in absolute terms.
 This time, p-values support the idea that distributions are almost perfectly merged: With the exception of the ones pertaining to spontaneous speech (which accounts for the lion share of the data in each age group), no p-value is below the 5\% threshold.
@@ -1453,17 +1459,17 @@ All age groups seem to have merged vowel distributions in all four speaking styl
 
 \subsubsection{Old speakers}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}[b]
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_old_list-1.tikz}} 
 		\caption{word list}
 		\label{fig.nurse.space.old.list}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_old_reading-1.tikz}} 
 		\caption{reading passage}
@@ -1471,14 +1477,14 @@ All age groups seem to have merged vowel distributions in all four speaking styl
 	\end{subfigure}
 	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_old_free-1.tikz}} 
 		\caption{spontaneous speech}
 		\label{fig.nurse.space.old.free}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_old_imit-1.tikz}} 
 		\caption{accent performance}
@@ -1505,6 +1511,7 @@ It seems more likely, however, that subjects largely agree on which variants are
 These options (in free speech and the other styles) seem to differ largely in F1, but a lot less so in F2.
 With the possible exception of \figref{fig.nurse.space.old.imit} vowel spaces are all larger in height than width, which indicates that the old speakers in my sample manipulate F1 quite considerably for these vowels, while producing all variants with a relatively stable F2.
 
+\largerpage
 When we look at the mean realisations of the two vowels (dark circle for \textsc{nurse}, light triangle for \textsc{square} in the centre of the polygon) in this age group, we can, first of all, see that the distance between the centres of gravity is greatest in \figref{fig.nurse.space.old.free}, which means that the higher \isi{Pillai} score and lower p-value found for this sub-sample (cf. \tabref{tab.pillai.nurse.agestyle}) is \emph{not} only due to the larger number of observations in this style, after all.
 The distributions are indeed more distinct\is{distinctness} than in the other registers, if only slightly so.
 The relative positioning of mean vowel realisations is as would be expected: \textsc{nurse} is both slightly higher and more central than \textsc{square}.
@@ -1516,17 +1523,17 @@ Only when we move from free speech to accent imitation\is{accent performance} (\
 
 \subsubsection{Middle-aged speakers}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}[b]
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_mid_list-1.tikz}} 
 		\caption{word list}
 		\label{fig.nurse.space.mid.list}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_mid_reading-1.tikz}} 
 		\caption{reading passage}
@@ -1534,14 +1541,14 @@ Only when we move from free speech to accent imitation\is{accent performance} (\
 	\end{subfigure}
 	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_mid_free-1.tikz}} 
 		\caption{spontaneous speech}
 		\label{fig.nurse.space.mid.free}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_mid_imit-1.tikz}} 
 		\caption{accent performance}
@@ -1573,17 +1580,17 @@ The outcome of these processes is that \textsc{nurse} (dark circle) actually end
 
 \subsubsection{Young speakers}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}[b]
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_young_list-1.tikz}} 
 		\caption{word list}
 		\label{fig.nurse.space.young.list}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_young_reading-1.tikz}} 
 		\caption{reading passage}
@@ -1591,14 +1598,14 @@ The outcome of these processes is that \textsc{nurse} (dark circle) actually end
 	\end{subfigure}
 	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_young_free-1.tikz}} 
 		\caption{spontaneous speech}
 		\label{fig.nurse.space.young.free}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/plot_scatter_pillai_nurse_young_imit-1.tikz}} 
 		\caption{accent performance}
@@ -1629,8 +1636,8 @@ In summary, one can say that the youngest speakers in my sample do not only show
 
 \subsubsection{Age means and individual differences}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\input{figures/plot.vowel.overview.nurse.tex}
 	\caption{\textsc{nurse}-\textsc{square}: mean vowel position by age}
@@ -1641,6 +1648,7 @@ Having investigated style differences within the age groups on the previous page
 \figref{fig.nurse.space.means} shows the mean realisations of both vowels for all three age groups.
 The means plotted in \figref{fig.nurse.space.means} summarise across the style dimension (i.e. one grand mean was calculated per age group), but of course these means are biased towards spontaneous speech realisations as they account for the large majority of observations.
 
+\newpage 
 This graph essentially tells us three things:
 \begin{inparaenum}[(1)]
 	\item In all three age groups, \textsc{nurse} is (still) more central -- to the right in the graph -- than \textsc{square}.
@@ -1649,8 +1657,8 @@ This graph essentially tells us three things:
 	\item The decreasing distance between \textsc{nurse} and \textsc{square}  from the oldest to the youngest subjects signals that the merger becomes progressively more complete in my sample.
 \end{inparaenum}
 
-\begin{figure}[h!]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\input{figures/scatter.pillai.class.tex}
 	\caption{\textsc{nurse}: Pillai scores by age and social class (individuals)}
@@ -1661,6 +1669,7 @@ While a detailed analysis of individuals is beyond the scope of this study, it i
 This is obvious from \figref{fig.scatter.pillai.nurse}, which plots \isi{Pillai} scores of individual speakers (across all styles) on the y-, and their age on the x-axis (age groups delimited by vertical lines).
 The third variable represented in this graph is social class of the speaker, because it was found to be part of significant three-way interactions with style and age in \sectref{sec.prod.res.vow.nurse.f1} and \sectref{sec.prod.res.vow.nurse.f2}: \isi{Pillai} scores of middle-class speakers appear as black circles, those of working-class subjects as light grey ones.
 
+\newpage 
 This setup serves to illustrate an interesting relationship between \isi{Pillai} scores, age, and class.
 Towards the right-hand side of \figref{fig.scatter.pillai.nurse} one can see that old working-class speakers have much lower \isi{Pillai} scores than middle-class subjects of the same age, which is not surprising, given that having the merger (and thus a low \isi{Pillai} score) is a non-standard feature.
 However, in the middle-aged group this distinction has already become a lot more fuzzy: one half of the participants in this sub-sample has \isi{Pillai} scores near 0, the other half produces scores that are considerably higher (while still comparatively low in absolute terms).
