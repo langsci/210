@@ -1,45 +1,26 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%                                              %%%
-%%%     Language Science Press Master File       %%%
-%%%         follow the instructions below        %%%
-%%%                                              %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
- 
-% Everything following a % is ignored
-% Some lines start with %. Remove the % to include them
-
 \documentclass[output=book,nonflat,modfonts,
   colorlinks,citecolor=brown,
-  showindex,
+%   showindex,
   draftmode,
-  draft
+%   draft
 		  ]{langsci/langscibook}    
   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%%          additional packages                 %%% 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%                                              %%%
-%%%          additional packages                 %%%
-%%%                                              %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% put all additional commands you need in the 
-% following files. {I}f you do not know what this might 
-% mean, you can safely ignore this section
-
+ 
 \input{localmetadata.tex}
 \input{localpackages.tex}
 \input{localhyphenation.tex}
 \bibliography{localbibliography} 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%                                              %%%
-%%%             Frontmatter                      %%%
-%%%                                              %%%
+ 
+ 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
-\usepackage{lipsum}
+%%%             Frontmatter                      %%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  
 \begin{document}     
 \input{localcommands.tex} 
- 
-
+  
 \maketitle                
 \frontmatter
 
@@ -48,12 +29,8 @@
 \include{chapters/acknowledgements}
 
 \mainmatter         
-  
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%                                              %%%
-%%%             Chapters                         %%%
-%%%                                              %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%%             Chapters                         %%% 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \include{chapters/introduction}
@@ -78,24 +55,10 @@
 \include{chapters/reading}
 \include{chapters/list}
 \include{chapters/stimuli}
-
-% % copy the lines above and adapt as necessary
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%%%             Backmatter                       %%% 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%                                              %%%
-%%%             Backmatter                       %%%
-%%%                                              %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\include{localseealso} 
-% There is normally no need to change the backmatter section
+\include{localseealso}  
 \sloppy
 \include{backmatter} 
-\end{document} 
-
-% you can create your book by running
-% xelatex main.tex
-%
-% you can also try a simple 
-% make
-% on the commandline
+\end{document}  
