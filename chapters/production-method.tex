@@ -378,6 +378,7 @@ The pairing \textsc{nurse-square} is not represented in \tabref{tab.pillai} as t
 	\label{tab.pillai}
 \end{table}
 
+\newpage 
 \tabref{tab.pillai} confirms the impression we already got from \figref{fig.normcomp}: the Bark difference \isi{normalisation} does not distinguish happ\textsc{y} from both \textsc{nurse} and \textsc{square} better.
 We also see, however, that it does not really fare worse.
 \isi{Pillai} scores for raw and normalise\is{normalisation}d data are very similar and p-values are close to 0 in both cases.
@@ -388,6 +389,7 @@ As is obvious from the table, p-values are extremely low for all pairings (often
 When we look at the three vowels individually and compare female to male realisations, we see a clear `improvement' in the normalise\is{normalisation}d data.
 For all three vowels, female and male realisations are quite distinct\is{distinctness} in the raw data, a fact which is reflected in \isi{Pillai} scores which are comparable or actually higher than those for different phonemes, and p-values that indicate highly significant differences. 
 
+\largerpage[-1]
 All \isi{Pillai} scores for the Bark difference normalise\is{normalisation}d data are lower than their counterparts calculated for the raw data.
 Intra-category overlap has increased by 0.356 for happ\textsc{y}, 0.34 for \textsc{nurse}, and 0.474 for \textsc{square}.
 This means that female vowels are more similar to male vowels in the normalise\is{normalisation}d data, which is precisely what we would expect a vowel \isi{normalisation} process to achieve.
@@ -454,7 +456,7 @@ Yet the figures for \citeauthor{wattfabricius2002} are, once again, even better.
 While the distance ratio increases on average only by about 0.096 for the Bark-difference normalise\is{normalisation}d data, \citeauthor{wattfabricius2002} produces distance ratios that are on average 0.728 higher.
 
 With the current dataset \citeauthor{wattfabricius2002} thus yields better results than the Bark-difference method in visual representation (scatter plots), reduction of inter-category variation coefficients, \isi{Pillai} scores for inter- and intra-category (gender) comparisons, and euclidean distance ratios.
-Despite the fact that the Bark-difference \isi{normalisation} is presumably more plausible in perceptual terms, the \citeauthor{wattfabricius2002} algorithm will therefore be used in this study whenever normalise\is{normalisation}d vowel values or plots are reported or represented.
+Despite the fact that the Bark-differ\-ence \isi{normalisation} is presumably more plausible in perceptual terms, the \citeauthor{wattfabricius2002} algorithm will therefore be used in this study whenever normalise\is{normalisation}d vowel values or plots are reported or represented.
 
 \section{Phonological context}
 \label{sec.prod_method.phon}
@@ -548,6 +550,7 @@ Nonetheless, the participants that ended up in the sample \emph{are} considered 
 We look at a comparatively small number of middle- and working-class (female/male, old/young\ldots) speakers and analyse their speech because we believe our results \emph{can} be generalised to the group as a whole (at least to a certain extent).
 This is an essential tenet of any sociolinguistic analysis and argues against treating participant as a random effect.
 
+\largerpage
 It is possible to calculate random effects for speaker sub-clusters, e.g. for young working-class women only.
 This would eliminate the theoretical problem just outlined, as the variation between, say, young working-class women and young working-class men would not be filtered out, but just the differences between individuals \emph{within} the respective sub-groups.
 This course of action was still rejected, because
@@ -579,4 +582,4 @@ Sum coding, instead of R's default treatment coding, was used for all regression
 Model selection was based on AIC scores and F-tests comparing nested models.
 Calculating a simple goodness-of-fit measure is not a straightforward task in the context of mixed-effects models.
 As a rough (!) equivalent of the R\textsuperscript{2} value known from linear regression models this book reports the R\textsuperscript{2} of a linear model that regresses the observed values on the fitted ones from the linear mixed-effects model \parencite[cf.][]{glmwiki}.
-Models were checked for \isi{collinearity} using the kappa.mer and vif.mer functions written by Austin Frank.\footnote{code downloadable from \url{hlplab.wordpress.com/2011/02/24/diagnosing-collinearity-in-lme4/}}
+Models were checked for \isi{collinearity} using the kappa.mer and vif.mer functions written by Austin Frank.\footnote{Code downloadable from \url{hlplab.wordpress.com/2011/02/24/diagnosing-collinearity-in-lme4/}}
