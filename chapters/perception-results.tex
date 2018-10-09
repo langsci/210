@@ -1,6 +1,6 @@
 \chapter{Perception results}
 \label{ch.perc_res}
-
+\largerpage
 Originally, the intention of this study was to focus on the perception of Scouse variants by listeners from Liverpool and Manchester (in order to have a rough equivalent of the oppositions Michigan-Ontario in \citealt{niedzielski1999}, and Australia-New Zealand in \citealt{hayetal2006a}).
 However, I only managed to recruit 9 subjects from the Liverpool/\isi{Merseyside} area and 3 from Greater Manchester over the course of the 15 months that the perception test was online, despite my own best efforts and notwithstanding the fact that many people with personal contacts in Liverpool and Manchester helped to spread the word.
 A detailed analysis of such a small sample does not seem to make much sense.
@@ -24,6 +24,24 @@ All further results reported in this chapter are exclusively based on responses 
 \label{sec.perc_res.happy}
 	\subsection{Overview}
 	\label{sec.perc_res.happy.overview}
+\begin{table}[b]
+	\caption{happ\textsc{y} (perception): mixed-effects ordinal regression}
+	
+	\begin{tabular}{p{0.3\textwidth}rrrrl@{}}
+		\lsptoprule
+		Fixed effects: & Estimate & Std. Error &  z value & Pr(>|z|) & \\ 
+		\midrule
+		POSfinal & -0.932 & 0.091 & -10.194 & <0.001 & ***\\ 
+		DISTANCE & 0.169 & 0.093 & 1.811 & 0.070 & .\\ 
+		\midrule
+		Random effects: & & & & & \\
+		Groups &         Name & Variance &      Std.Dev. & & \\
+		QUESTIONNAIRE &  (Intercept) & 0.162 & 0.402 & & \\
+		QUESTIONNAIRE & TOKEN      & <0.001 & <0.001 & & \\
+		\multicolumn{3}{l}{(number of obs: 516, groups: QUESTIONNAIRE, 55)} & & & \\
+		\lspbottomrule
+	\end{tabular}
+\end{table}
 
 As described in \sectref{sec.perc_method.stats}, a mixed-effects ordinal regression model was fit to the data by hand.
 This maximal model did not contain any troubling \isi{collinearity} (κ = 13.99), but for reasons of comparability (cf. \sectref{sec.perc_res.nurse}, \sectref{sec.perc_res.ng}, and \sectref{sec.perc_res.k}), the \isi{frequency} of the keyword expressed in Zipf\is{Zipf score} scores, as well as the interaction of Zipf\is{Zipf score} score and \isi{priming} condition, were removed from the model.\footnote{When Zipf\is{Zipf score} scores are included they show up as a significant predictor in the corresponding minimal adequate model (p < 0.001). The same is true for position of keyword (p < 0.001) and age of participant (p = 0.043). In addition, \isi{geographical distance} from Liverpool almost reaches statistical significance as well (p = 0.080). Frequency\is{frequency} and age are therefore briefly discussed below for the sake of completeness.}
@@ -34,24 +52,6 @@ Position of the stimulus (in the middle or at the end of the sentence) is a high
 Geographical distance of the participant from Liverpool does not reach significance at the 5\% level, but the p-value is low enough to qualify as a statistical trend.
 For this reason the factor was kept in the model.
 
-\begin{table}
-	\caption{happ\textsc{y} (perception): mixed-effects ordinal regression}
-	
-	\begin{tabular}{p{0.3\textwidth}rrrrl}
-		\toprule
-		Fixed effects: & Estimate & Std. Error &  z value & Pr($>$$|$z$|$) & \\ 
-		\midrule
-		POSfinal & -0.932 & 0.091 & -10.194 & <0.001 & ***\\ 
-		DISTANCE & 0.169 & 0.093 & 1.811 & 0.070 & .\\ 
-		\midrule
-		Random effects: & & & & & \\
-		Groups &         Name & Variance &      Std.Dev. & & \\
-		QUESTIONNAIRE &  (Intercept) & 0.162 & 0.402 & & \\
-		QUESTIONNAIRE & TOKEN      & <0.001 & <0.001 & & \\
-		\multicolumn{3}{l}{(number of obs: 516, groups: QUESTIONNAIRE, 55)} & & & \\
-		\bottomrule
-	\end{tabular}
-\end{table}
 
 \subsection{Prime}
 \label{sec.perc_res.happy.prime}
@@ -201,9 +201,9 @@ No significant interactions of prime\is{priming} and any of the other factors co
 \begin{table}
 	\caption{\textsc{nurse} (perception): mixed-effects ordinal regression}
 	
-	\begin{tabular}{p{0.3\textwidth}rrrrl}
-		\toprule
-		Fixed effects: & Estimate & Std. Error & z value & Pr($>$$|$z$|$) & \\ 
+	\begin{tabular}{p{0.3\textwidth}rrrrl@{}}
+		\lsptoprule
+		Fixed effects: & Estimate & Std. Error & z value & Pr(>|z|) & \\ 
 		\midrule
 		PRIMELiv & -0.325 & 0.125 & -2.599 & 0.009 & **\\ 
 		TOKEN & -0.011 & 0.007 & -1.621 & 0.105 & \\ 
@@ -215,7 +215,7 @@ No significant interactions of prime\is{priming} and any of the other factors co
 		QUESTIONNAIRE &  (Intercept) & 0.219 & 0.469 & & \\
 		QUESTIONNAIRE & TOKEN      & <0.001 & 0.014 & & \\
 		\multicolumn{3}{l}{(number of obs: 547, groups: QUESTIONNAIRE, 55)} & & & \\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -290,7 +290,7 @@ Since a single subject was only in one \isi{priming} condition it is possible th
 \subsection{Stimulus order}
 \label{sec.perc_res.nurse.order}
 
-\begin{figure}
+\begin{figure}[b]
 	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{.49\linewidth}{!}{\input{figures/scatter_nurse_ext_token-1.tikz}} 
@@ -344,19 +344,12 @@ For the two consonantal variables velar nasal plus and lenition of /k/, the top 
 For /ŋ(g)/, the frequencies of keywords are 2.13, 3.13, and 4.48 for `intervocalic\is{phonological context}', and 4.39, 5.10, and 5.51 for `word-final\is{phonological context}' respectively.
 Frequency\is{frequency} of keyword and \isi{phonological context} are therefore confounded because keywords where the variable occurs intervocalic\is{phonological context}ally are also on average less frequent than keywords that have the variable in final position.
 
-This is unfortunate and should have been avoided, but it should be remembered that \isi{frequency} is just a minor concern in this study anyway, that the selection of keywords was primarily based on other criteria, and that the overall experimental design was neither specifically intended nor particularly suited to investigate \isi{frequency} in the first place (cf. \sectref{sec.perc_method.sentences}).
-As a result of \isi{collinearity} it becomes difficult to statistically tell the effect of one factor from that of the other.
-The easiest way to solve this problem is to drop one of the factors in question from the model.
-Since this study is more interested in a potential effect of environment, \isi{frequency} was eliminated from the set of predictors.
-Strictly speaking, this would not have been necessary as the \isi{collinearity} in the original model did not reach a problematic level (κ < 15), but dropping \isi{frequency} increased comparability with the model fit to the data for /k/ (cf. \sectref{sec.perc_res.k}) while simultaneously decreasing \isi{collinearity} in the /ŋ(g)/ model a bit further (κ = 7.88).
-The minimal adequate model for velar nasal plus is, once more, a rather simple one\footnote{Starting out from a maximal model that includes \isi{frequency} as a fixed effect results in the same minimal adequate model, which is evidence that dropping Zipf\is{Zipf score} scores as a predictor was justified and unproblematic.}.
-
-\begin{table}
+\begin{table}[b]
 	\caption{/ŋ(g)/ (perception): mixed-effects ordinal regression}
 	
 	\begin{tabular}{p{0.3\textwidth}rrrrl}
-		\toprule
-		Fixed effects: & Estimate & Std. Error & z value & Pr($>$$|$z$|$) & \\ 
+		\lsptoprule
+		Fixed effects: & Estimate & Std. Error & z value & Pr(>|z|) & \\ 
 		\midrule
 		PRIMELiv & -0.250 & 0.145 & -1.723 & 0.085 & .\\ 
 		AGE & -0.025 & 0.015 & -1.700 & 0.089 & .\\ 
@@ -367,30 +360,39 @@ The minimal adequate model for velar nasal plus is, once more, a rather simple o
 		QUESTIONNAIRE &  (Intercept) & 0.653 & 0.808 & & \\
 		QUESTIONNAIRE & TOKEN & <0.001 & 0.010 & & \\
 		\multicolumn{3}{l}{(number of obs: 534, groups: QUESTIONNAIRE, 55)} & & &\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
+
+This is unfortunate and should have been avoided, but it should be remembered that \isi{frequency} is just a minor concern in this study anyway, that the selection of keywords was primarily based on other criteria, and that the overall experimental design was neither specifically intended nor particularly suited to investigate \isi{frequency} in the first place (cf. \sectref{sec.perc_method.sentences}).
+As a result of \isi{collinearity} it becomes difficult to statistically tell the effect of one factor from that of the other.
+The easiest way to solve this problem is to drop one of the factors in question from the model.
+Since this study is more interested in a potential effect of environment, \isi{frequency} was eliminated from the set of predictors.
+Strictly speaking, this would not have been necessary as the \isi{collinearity} in the original model did not reach a problematic level (κ < 15), but dropping \isi{frequency} increased comparability with the model fit to the data for /k/ (cf. \sectref{sec.perc_res.k}) while simultaneously decreasing \isi{collinearity} in the /ŋ(g)/ model a bit further (κ = 7.88).
+The minimal adequate model for velar nasal plus is, once more, a rather simple one.\footnote{Starting out from a maximal model that includes \isi{frequency} as a fixed effect results in the same minimal adequate model, which is evidence that dropping Zipf\is{Zipf score} scores as a predictor was justified and unproblematic.}
+
+
 
 Only three factors remain once all non-significant interactions and main effects have been eliminated from the model: Phonological environment\is{phonological context}, age (near-significant) and, somewhat surprisingly, prime\is{priming}, which almost reaches significance.
 The coefficient for \isi{priming} condition `Liverpool' is negative (\ensuremath{-0.250}), indicating that, again, people who were led to believe the speaker was from Liverpool are actually \emph{less} likely to choose one of the Liverpool tokens 3 or 4.
 The other significant main effect is environment, which, in this study, has two levels: intervocalic\is{phonological context} (``V\_V'') and word-final\is{phonological context} (``\_\#'').
 Let us start by looking at the predictor prime\is{priming} in the entire dataset, illustrated in \figref{fig.bar.ng.tot.ext}.
-
-\subsection{Prime}
-\label{sec.perc_res.ng.prime}
-
-\begin{figure}
+\begin{figure}[h]
 	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{.49\linewidth}{!}{\input{figures/bar_ng_ext-1.tikz}} 
 	\caption{/ŋ(g)/ (perception) by prime}
 	\label{fig.bar.ng.tot.ext}
 \end{figure}
+\subsection{Prime}
+\label{sec.perc_res.ng.prime}
+
+
 
 As far as the overall distribution of answers is concerned, \figref{fig.bar.ng.tot.ext} looks quite similar to \figref{fig.bar.happy.tot.ext}.
 Tokens 2 (actual, long nasal) and 3 (`Liverpool', nasal plus burst) together account for almost 80\% of all answers in both conditions.
 Participants who were in the `Manchester' condition then chose tokens 1 and 3 equally often, namely in around 10\% of cases each.
-Subjects who thought the speaker was from Liverpool clearly preferred the hyper-standard token 1 (shortened nasal) to the hyper-Liverpudlian token 4 (nasal plus burst and aspiration).
+Subjects who thought the speaker was from Liverpool clearly preferred the hyper-standard token 1 (short\-ened nasal) to the hyper-Liverpudlian token 4 (nasal plus burst and aspiration).
 Apart from this difference, \isi{priming} also manifests itself when we look at tokens 2 and 3: People prime\is{priming}d for Liverpool reported having perceived the long nasal slightly more often than the nasal followed by a burst, whereas the opposite is true for participants who were correctly told the speaker was from Manchester.
 This graph thus looks very similar to those reported in \citealt{hayetal2006a, haydrager2010}, with the peak of the distribution falling on one token for the first condition (`Liverpool', token 2) and on another for the second condition (`Manchester', token 3).
 Subjects prime\is{priming}d for Liverpool thus tend to perceive the /ŋ(g)/ stimuli more often as a long or shortened nasal than those in the control group who believed the speaker was from Manchester.
@@ -401,6 +403,8 @@ Intriguingly, the direction of the effect is, again, opposite to what was expect
 \subsection{Phonological context}
 \label{sec.perc_res.ng.phon}
 
+
+
 The only clearly significant predictor of answer tokens in the mixed ordinal regression model is the \isi{phonological context} in which the variable is found in the keyword.
 The difference between the two environments analysed in this study is visualised in \figref{fig.bar.ng.ext.intervoc} and \figref{fig.bar.ng.ext.wordfinal}.
 The overall distribution of answers seems to be roughly the same in both environments.
@@ -410,7 +414,7 @@ This is visible in the graphs as well: In \figref{fig.bar.ng.ext.wordfinal}, the
 In \figref{fig.bar.ng.ext.intervoc}, on the other hand, the proportion of `1' answers is much larger than that for token number 4, so people were more likely to report having perceived the ultra-standard shortened nasal than the fully realised Liverpudlian velar nasal plus.
 This preference of token 1 over token 4 then reduces the mean in this \isi{phonological context}.
 
-\begin{figure}
+\begin{figure}[t]
 	
 	\begin{subfigure}{0.49\textwidth}
 		
@@ -430,6 +434,7 @@ This preference of token 1 over token 4 then reduces the mean in this \isi{phono
 	\label{fig.bar.ng.ext.environment}
 \end{figure}
 
+
 Another striking feature of \figref{fig.bar.ng.ext.intervoc} and \figref{fig.bar.ng.ext.wordfinal} is that the differences between \isi{priming} conditions do not seem to be identical.
 For word-final\is{phonological context} contexts we see essentially the same thing as for the pooled data (\figref{fig.bar.ng.tot.ext}: Clearly different peaks (token 2 for `Liverpool', token 3 for `Manchester') and distributions that are generally somewhat more skewed to the right (`Manchester') or to the left (`Liverpool').
 \figref{fig.bar.ng.ext.intervoc} looks more `messy' in this respect.
@@ -444,7 +449,7 @@ These [ŋk] or [ŋkʰ] realisations might be more perceptible than the intervoca
 \subsection{Age}
 \label{sec.perc_res.ng.age}
 
-\begin{figure}
+\begin{figure}[b]
 	
 	\begin{subfigure}{.49\textwidth}
 		
@@ -488,9 +493,9 @@ Model selection based on AIC scores and F-tests comparing nested models resulted
 \begin{table}
 	\caption{/k/ (perception): mixed-effects ordinal regression}
 	
-	\begin{tabular}{p{0.3\textwidth}rrrrl}
-		\toprule
-		Fixed effects: & Estimate & Std. Error & z value & Pr($>$$|$z$|$) & \\ 
+	\begin{tabular}{p{0.3\textwidth}rrrrl@{}}
+		\lsptoprule
+		Fixed effects: & Estimate & Std. Error & z value & Pr(>|z|) & \\ 
 		\midrule
 		PRIMELiv & 0.048 & 0.199 & 0.240 & 0.810 & \\ 
 		CLASSmc & 0.622 & 0.200 & 3.110 & < 0.01 & **\\ 
@@ -503,7 +508,7 @@ Model selection based on AIC scores and F-tests comparing nested models resulted
 		QUESTIONNAIRE &  (Intercept) & 0.227 & 0.477 & &  \\
 		QUESTIONNAIRE & TOKEN      & <0.001 & <0.001 & &  \\
 		\multicolumn{3}{l}{(number of obs: 522, groups: QUESTIONNAIRE, 55)} & & & \\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -514,7 +519,7 @@ The positive coefficient of 0.622 indicates that middle-class speakers tend to p
 With a p-value below 0.001, phonological environment\is{phonological context} is even more significant as a predictor than it was for /ŋ(g)/ answers.
 The coefficient (\ensuremath{-0.391}), however, is negative, which indicates that word-final\is{phonological context} /k/'s actually increase the likelihood of lower-numbered, i.e. more standard/Mancunian tokens.
 For velar nasal plus, the effect was in the opposite direction.
-Geographical distance does not quite reach significance (p = 0.056), but the p-value is low enough to qualify as a statistical trend, so the factor was kept in the model\footnote{When Zipf\is{Zipf score} scores are kept in the maximal model despite the \isi{collinearity} with phonological environment\is{phonological context}, the minimal adequate model one arrives at is not too different from the one printed above. Social class and phonological environment\is{phonological context} remain significant predictors, but the interaction of prime\is{priming} and social class is eliminated from the model and, as a result, prime\is{priming} alone is found to be a significant fixed effect. The p-value for \isi{geographical distance} is slightly greater than 0.1, so this factor gets eliminated. With a p-value of 0.113, the predictor \isi{frequency} almost qualifies as a statistical trend. The impact of \isi{frequency} will therefore be briefly analysed, too, in order to complete the picture.}.
+Geographical distance does not quite reach significance (p = 0.056), but the p-value is low enough to qualify as a statistical trend, so the factor was kept in the model.\footnote{When Zipf\is{Zipf score} scores are kept in the maximal model despite the \isi{collinearity} with phonological environment\is{phonological context}, the minimal adequate model one arrives at is not too different from the one printed above. Social class and phonological environment\is{phonological context} remain significant predictors, but the interaction of prime\is{priming} and social class is eliminated from the model and, as a result, prime\is{priming} alone is found to be a significant fixed effect. The p-value for \isi{geographical distance} is slightly greater than 0.1, so this factor gets eliminated. With a p-value of 0.113, the predictor \isi{frequency} almost qualifies as a statistical trend. The impact of \isi{frequency} will therefore be briefly analysed, too, in order to complete the picture.}
 I will now discuss these factors in more detail, starting once more with prime\is{priming}.
 
 \subsection{Prime and social class}
@@ -561,8 +566,10 @@ The interaction of prime\is{priming} and social class is what we will look at ne
 \end{figure}
 
 \figref{fig.bar.k.ext.wc} shows the data for working-class subjects only, while \figref{fig.bar.k.ext.mc} visualises the responses given by middle-class participants.
-As outlined earlier, the correlation coefficient calculated by the mixed-effects model for middle class (0.622) suggests that middle-class participants were more likely to perceive higher-numbered tokens.
-The two subplots of \figref{fig.bar.k.ext.class} illustrate this in an impressively (and unexpectedly) clear way.
+As outlined earlier, the correlation coefficient 
+\rephrase{calculated by the mixed-effects model}{}
+for middle class (0.622) suggests that middle-class participants were more likely to perceive higher-numbered tokens.
+The two subplots of \figref{fig.bar.k.ext.class} illustrate this in an impressively (and unexpectedly) clear way.\todo{hier fehlt was}
 working-class participants chose answer token 1 in around 45\% and token 2 in about 55\% of cases when they were in the `Liverpool' condition; the WC subjects in the `Manchester' condition reverse these figures.
 Two factors are responsible for the lower average of WC subjects:
 \begin{inparaenum}[(a)]
