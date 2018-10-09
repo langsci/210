@@ -173,7 +173,7 @@ Additionally, subjects probably used variants containing phonetically more promi
 In the two remaining styles `reading' (t(284.859) = 4.212, p < 0.001) and `imitation\is{accent performance}' (t(140.233) = 2.228, p = 0.028), the gender difference is significant.
 This is due to the fact that the means of men in both registers are lower than those of women (who have comparable means for the word list, the reading passage, and accent perform\is{accent performance}ance).
 
-\begin{table}
+\begin{table}[b]
 	
 	\caption{/ŋ(g)/: t-tests of style by gender}
 	\label{tab.ng.genderstyle.pvalues}
@@ -204,7 +204,7 @@ The interaction of gender and style can thus be summarised as follows:
 \subsection{Age and social class}
 \label{sec.prod.res.con.ng.ageclass}
 
-\begin{figure}
+\begin{figure}[b]
 	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_age_ng-1.tikz}} 
@@ -226,7 +226,7 @@ This means that younger Liverpudlians are not getting ``more Scouse'' with respe
 Rather, they occupy the middle ground, since both their mean and median are higher than in the older and lower than in the middle group.
 The youngest speakers in the sample use velar nasal plus in a significantly different way from both the old (t(630.154) = 2.178, p = 0.03), \emph{and} the middle-aged group (t(1130.999) = -3.881, p < 0.001).
 
-\begin{figure}
+\begin{figure}[b]
 	
 	\begin{subfigure}{.49\textwidth}
 		
@@ -255,7 +255,7 @@ Despite the fact that the medians are once more statistically identical (cf. the
 In the youngest speakers (panel on the right), finally, the class distinction for this feature has disappeared.
 Even though the medians clearly are significantly different from one another (consider not only their vertical distance, but also the fact that the notches do not overlap at all), the means are not (t(515.045) = 0.975, p = 0.33).
 
-\begin{table}
+\begin{table}[b]
 	
 	\caption{/ŋ(g)/: t-tests of age by social class}
 	\label{tab.ng.classage.pvalues}
@@ -283,10 +283,10 @@ It follows that the \isi{change} in the overall usage of velar nasal plus that w
 \subsection{Style shifting}
 \label{sec.prod.res.con.ng.shifting}
 
-\begin{figure}
+\begin{figure}[b]
 	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
-		\resizebox{0.5\linewidth}{!}{\input{figures/line_style_ng-1.tikz}} 
+		\resizebox{0.6\linewidth}{!}{\input{figures/line_style_ng-1.tikz}} 
 	\caption{/ŋ(g)/: PDF by style ([ɪn] excluded)}
 	\label{fig.line.ng.tot}
 \end{figure}
@@ -319,12 +319,13 @@ The maximal model contained more \isi{collinearity} than is generally deemed acc
 The original maximal model (including the interactions) was therefore retained and served as the point of departure for model selection based on AIC scores and F-tests comparing nested models.
 The final, reduced model (based on 2862 observations) is reprinted below (\tabref{tab.regression.k}, R\textsuperscript{2}-equivalent = 0.37).
 
+\newpage 
 {\footnotesize
 	\begin{longtable}[c]{p{0.3\textwidth}rrrrrl}
 				\caption{/k/: mixed linear effects regression}\label{tab.regression.k}\\
-		\hline
+		\lsptoprule
 		Fixed effects: & Estimate & Std. Error & df & t value & Pr(>|t|) & \\
-		\hline
+		\midrule{}
 		(Intercept) & 58.07 & 1.49 & 142.04 & 39.13 & < 0.001 & *** \\ 
 		STYLElist & -11.44 & 1.70 & 884.38 & -6.57 & < 0.001 & *** \\ 
 		STYLEread & -2.27 & 1.28 & 1729.76 & -1.71 & 0.09 & . \\ 
@@ -372,12 +373,12 @@ The final, reduced model (based on 2862 observations) is reprinted below (\tabre
 		STYLElist:AGE30-55:CLASSmc & -5.56 & 1.95 & 2723.95 & -2.75 & 0.01 & ** \\ 
 		STYLEread:AGE30-55:CLASSmc & -1.18 & 1.58 & 2732.59 & -0.63 & 0.53 & \\ 
 		STYLEfree:AGE30-55:CLASSmc & 4.35 & 1.16 & 2801.01 & 3.85 & < 0.001 & *** \\
-		\hline
+		\midrule
 		Random effects: & \multicolumn{6}{l}{(number of obs: 2862, groups: WORD, 217)} \\
 		Groups &         Name & Variance &      Std.Dev. & & & \\
 		WORD &  (Intercept) & 39.400 & 6.277 & & & \\
 		Residual  &         & 551.900 & 23.493 & & & \\
-		\hline
+		\lspbottomrule
 	\end{longtable}
 }
 
@@ -409,7 +410,8 @@ The former include cases where /k/ is followed by a word boundary and then eithe
 These contexts are found in the upper half of \figref{fig.box.k.environment}.
 The latter group is made up of environments where /k/ precedes either a sonorant (a nasal, liquid, glide, or a vowel -- the last one either within a word or across a word boundary) or silence at the end of a phrase.
 
-\begin{table}
+
+\begin{table}[b]
 	
 	\caption{/k/: PDF means by phonological environment (released only)}
 	\label{tab.k.mean.environment}
@@ -432,6 +434,7 @@ The latter group is made up of environments where /k/ precedes either a sonorant
 	\end{tabular}
 \end{table}
 
+\largerpage[2]
 \tabref{tab.k.mean.environment} lists the exact means and the number of observations that were collected for each environment (note that this table is inverted relative to \figref{fig.box.k.environment}, so contexts favouring lenition are now found at the top).
 The high \isi{PDF} values in word-final\is{phonological context} and intervocalic\is{phonological context} (within word) environments should not really come as a surprise.
 These environments have consistently been found to favour lenition in previous research on Liverpool English (cf. \sectref{sec.var.con.len}), so it was only to be expected that results in this study would be similar.
@@ -454,7 +457,7 @@ It is therefore not unlikely that these two \isi{phonological context}s do not f
 \subsection{Style and gender}
 \label{sec.prod.res.con.k.stylegender}
 
-\begin{figure}
+\begin{figure}[b]
 	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{.49\linewidth}{!}{\input{figures/box_k_stylegender-1.tikz}} 
@@ -475,7 +478,7 @@ There is thus a statistically robust gender difference for the word list (t(198.
 When subjects are asked to put on a particularly strong Scouse accent, however, /k/ realisations of women and men are no longer significantly different from one another (t(312.112) = -1.044, p = 0.297).
 Both genders use strongly lenited variants with \isi{PDF}s of 75 and higher more than 75\% of the time (cf. the position of the first quantiles in the rightmost panel of \figref{fig.box.k.stylegender}).
 
-\begin{table}
+\begin{table}[b]
 	
 	\caption{/k/: t-tests of style by gender}
 	\label{tab.k.genderstyle.pvalues}
@@ -505,7 +508,7 @@ In my sample, style is therefore less important for men than it is for women.
 \subsection{Style and social class}
 \label{sec.prod.res.con.k.styleclass}
 
-\begin{figure}
+\begin{figure}[b]
 	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.49\linewidth}{!}{\input{figures/box_k_styleclass-1.tikz}} 
@@ -547,7 +550,7 @@ Median confidence intervals still overlap a bit (cf. the notches of the `wc' box
 
 Working-class speakers thus have a three-way style distinction for /k/: word list, reading/free speech, and accent perform\is{accent performance}ance.
 Middle-class interviewees, on the other hand, have statistically identical /k/ pronunciations for all three `traditional' styles, and only distinguish accent imitation\is{accent performance} from these.
-It might seem strange that middle-class speakers show fewer style differences than their working-class counterparts, especially for a dependent variable that is supposed to be socially salient\is{salience}.
+It might seem strange that middle-class speakers show fewer style differences than their work\-ing-class counterparts, especially for a dependent variable that is supposed to be socially salient\is{salience}.
 It should be noted, however, that this is due to the fact that middle-class speakers have very low \isi{PDF} values (comparable to the one found for female subjects in the word list in \figref{fig.box.k.stylegender}) in all but the most informal register.
 In other words, they are more reluctant to use (pronounced) /k/ lenition even in more informal contexts, unless they are specifically\footnote{In a manner of speaking. Subjects were not asked to specifically use /k/ lenition.} asked to do so (see the value for the accent imitation\is{accent performance}).
 
@@ -616,7 +619,7 @@ When we focus on the youngest speakers in the sample, we find that
 	\item it is now once more the female speakers who are less Scouse than their male counterparts (cf. the old group).
 \end{inparaenum}
 
-\begin{table}
+\begin{table}[b]
 	
 	\caption{/k/: t-tests of age by gender}
 	\label{tab.k.genderage.pvalues}
@@ -644,16 +647,16 @@ In opposition to that, male Liverpudlians exhibit a kind of `back-to-the-roots' 
 \subsection{Age and social class}
 \label{sec.prod.res.con.k.ageclass}
 
-\begin{figure}
+\begin{figure}[b]
 	
-	\begin{subfigure}{.49\textwidth}
+	\begin{subfigure}{.45\textwidth}
 		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_k_ageclass-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.k.ageclass}
 	\end{subfigure}
-	\begin{subfigure}{.49\textwidth}
+	\begin{subfigure}{.45\textwidth}
 		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_k_ageclass-1.tikz}} 
@@ -772,6 +775,8 @@ We have thus consistent and significant \isi{style shifting} for /k/-lenition in
 	\caption{/k/: PDF by style, age group, and gender (released only)}
 \end{figure}
 
+
+\largerpage
 Since the mixed linear effects regression model found significant three-way interactions of style and age group with gender and social class, respectively, we will look at both of these as well before closing this section.
 \figref{fig.line.k.fem} and \figref{fig.line.k.mal} visualise the style X age interaction for women and men separately.
 If we focus on the old speakers, women show much more systematic \isi{style shifting} than men.
@@ -798,7 +803,7 @@ Two things need to be mentioned, though:
 On the whole, however, I would consider these differences in degree, not in nature.
 Both men and women aged between 19 and 29 can be said to style-shift.
 
-\begin{figure}
+\begin{figure}[b]
 	
 	\begin{subfigure}{.49\textwidth}
 		
