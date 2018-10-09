@@ -7,12 +7,12 @@ Once more, by far the biggest share of the data stems from free speech (n = 5733
 On the whole, the sample appears to be relatively balanced, although there are a couple of `outliers' (cf. also \tabref{tab.vowels.n.observations}).
 The number of /k/ observations among young working-class speakers is a particularly notable one: part of the explanation why the count of observed /k/ realisations is so high in this age group can be found in \sectref{sec.prod.res.con.k.agegender}.
 
-\begin{table}[h!]
-	\centering
+\begin{table}
+	
 	\caption{Consonant observations by age, gender, and social class}
 	\label{tab.consonants.n.observations}
 	\begin{tabular}{llcccccc}
-		\toprule
+		\lsptoprule
 		\multicolumn{2}{c}{} & \multicolumn{2}{c}{old} & \multicolumn{2}{c}{middle} & \multicolumn{2}{c}{young}\\
 		& & f & m & f & m & f & m\\
 		\midrule
@@ -20,7 +20,7 @@ The number of /k/ observations among young working-class speakers is a particula
 		& wc & 123 & 221 & 355 & 152 & 317 & 359\\
 		\multirow{2}{*}{/k/} & mc & 210 & 129 & 334 & 542 & 298 & 430\\
 		& wc & 177 & 267 & 619 & 224 & 681 & 605\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -41,14 +41,14 @@ As it turned out, a lot of this \isi{collinearity} was actually due to interacti
 These three-way interactions were therefore re-entered as predictors before this maximal model was reduced based on AIC scores and F-tests comparing nested models.
 The resulting minimal adequate model (R\textsuperscript{2}-equivalent = 0.298) is represented in \tabref{tab.regression.ng}.
 
-\begin{table}[h]
-	\centering
+\begin{table}
+	
 	\footnotesize
 	\caption{/ŋ(g)/: mixed linear effects regression}
 	\label{tab.regression.ng}
 	\begin{tabular}{p{0.3\textwidth}rrrrrl}
-		\toprule
-		Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\
+		\lsptoprule
+		Fixed effects: & Estimate & Std. Error & df & t value & Pr(>|t|) & \\
 		\midrule
 		(Intercept) & 6.69 & 0.81 & 182.72 & 8.29 & < 0.001 & *** \\ 
 		STYLElist & -0.31 & 0.83 & 335.30 & -0.37 & 0.71 & \\ 
@@ -78,7 +78,7 @@ The resulting minimal adequate model (R\textsuperscript{2}-equivalent = 0.298) i
 		Groups &         Name & Variance &      Std.Dev. & & & \\
 		WORD &  (Intercept) & 8.727 & 2.954 & & & \\
 		Residual  &         & 100.553 & 10.028 & & & \\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -90,8 +90,8 @@ Frequency\is{frequency} of the carrier word was eliminated as non-significant fr
 \subsection{Phonological context}
 \label{sec.prod.res.con.ng.phon}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_environment_ng-1.tikz}} 
 	\caption{/ŋ(g)/: PDF by phonological environment (without [ɪn] realisations)}
@@ -111,12 +111,12 @@ The last group has mean \isi{PDF} values that are close to 0.
 The box plot visualises that the median (thick vertical bar) is often 0 as well in these contexts (cf., for instance, ``V\_\#affricate'' or ``V\_\#glide''), which means that at least 50\% of observations in this category have a \isi{PDF} of 0, i.e. they are realised by a (standard) [ŋ].
 For phonological environment\is{phonological context}s such as ``V\_\#nasal'' or ``V\_\#vdfricative'' no box (in the everyday sense) is generated at all, because the first, second, \emph{and} the third quantile are 0 -- the realisation as [ŋ] thus accounts for 75+\% of cases in these categories.
 
-\begin{table}[h]
-	\centering
+\begin{table}
+	
 	\caption{/ŋ(g)/: PDF means by phonological environment ([ɪn] excluded)}
 	\label{tab.ng.mean.environment}
 	\begin{tabular}{lrr}
-		\toprule
+		\lsptoprule
 		environment & mean \isi{PDF} & n\\
 		\midrule
 		V\_V & 12.79 & 288\\
@@ -130,7 +130,7 @@ For phonological environment\is{phonological context}s such as ``V\_\#nasal'' or
 		V\_\#voiced plosive & 2.53 & 42\\
 		V\_\#voiceless plosive & 1.93 & 100\\
 		V\_\#affricate & 5.71 & 7\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -154,8 +154,8 @@ It is, however, possible that \isi{PDF} values calculated for the word list are 
 \subsection{Style and gender}
 \label{sec.prod.res.con.ng.stylegender}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{.49\linewidth}{!}{\input{figures/box_ng_stylegender-1.tikz}} 
 	\caption{/ŋ(g)/: PDF by style and gender (without [ɪn] realisations)}
@@ -173,12 +173,12 @@ Additionally, subjects probably used variants containing phonetically more promi
 In the two remaining styles `reading' (t(284.859) = 4.212, p < 0.001) and `imitation\is{accent performance}' (t(140.233) = 2.228, p = 0.028), the gender difference is significant.
 This is due to the fact that the means of men in both registers are lower than those of women (who have comparable means for the word list, the reading passage, and accent perform\is{accent performance}ance).
 
-\begin{table}[h]
-	\centering
+\begin{table}
+	
 	\caption{/ŋ(g)/: t-tests of style by gender}
 	\label{tab.ng.genderstyle.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{women} & \multicolumn{3}{c}{men}\\
 		& t & df & p & t & df & p\\
 		\midrule
@@ -188,7 +188,7 @@ This is due to the fact that the means of men in both registers are lower than t
 		reading-free & 6.044 & 321.775 & < 0.001 & 1.502 & 224.352 & 0.135\\
 		reading-imitation\is{accent performance} & 0.432 & 148.046 & 0.667 & \ensuremath{-0.482} & 144.108 & 0.630\\
 		free-imitation\is{accent performance} & \ensuremath{-4.227} & 117.679 & < 0.001 & \ensuremath{-1.710} & 90.826 & 0.091\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -204,8 +204,8 @@ The interaction of gender and style can thus be summarised as follows:
 \subsection{Age and social class}
 \label{sec.prod.res.con.ng.ageclass}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_age_ng-1.tikz}} 
 	\caption{/ŋ(g)/: PDF by age ([ɪn] excluded)}
@@ -226,17 +226,17 @@ This means that younger Liverpudlians are not getting ``more Scouse'' with respe
 Rather, they occupy the middle ground, since both their mean and median are higher than in the older and lower than in the middle group.
 The youngest speakers in the sample use velar nasal plus in a significantly different way from both the old (t(630.154) = 2.178, p = 0.03), \emph{and} the middle-aged group (t(1130.999) = -3.881, p < 0.001).
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_ng_ageclass-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.ng.ageclass}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_ng_ageclass-1.tikz}}
 		\caption{regression plot}
@@ -255,19 +255,19 @@ Despite the fact that the medians are once more statistically identical (cf. the
 In the youngest speakers (panel on the right), finally, the class distinction for this feature has disappeared.
 Even though the medians clearly are significantly different from one another (consider not only their vertical distance, but also the fact that the notches do not overlap at all), the means are not (t(515.045) = 0.975, p = 0.33).
 
-\begin{table}[h]
-	\centering
+\begin{table}
+	
 	\caption{/ŋ(g)/: t-tests of age by social class}
 	\label{tab.ng.classage.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{middle class} & \multicolumn{3}{c}{working class}\\
 		& t & df & p & t & df & p\\
 		\midrule
 		old-middle & 6.454 & 430.623 & < 0.001 & 0.922 & 231.023 & 0.357\\
 		middle-young & \ensuremath{-3.159} & 573.452 & 0.002 & \ensuremath{-1.406} & 480.721 & 0.160\\
 		young-old & 3.319 & 386.920 & < 0.001 & \ensuremath{-0.095} & 235.400 & 0.924\\			 
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -283,8 +283,8 @@ It follows that the \isi{change} in the overall usage of velar nasal plus that w
 \subsection{Style shifting}
 \label{sec.prod.res.con.ng.shifting}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/line_style_ng-1.tikz}} 
 	\caption{/ŋ(g)/: PDF by style ([ɪn] excluded)}
@@ -323,7 +323,7 @@ The final, reduced model (based on 2862 observations) is reprinted below (\tabre
 	\begin{longtable}[c]{p{0.3\textwidth}rrrrrl}
 				\caption{/k/: mixed linear effects regression}\label{tab.regression.k}\\
 		\hline
-		Fixed effects: & Estimate & Std. Error & df & t value & Pr($>$$|$t$|$) & \\
+		Fixed effects: & Estimate & Std. Error & df & t value & Pr(>|t|) & \\
 		\hline
 		(Intercept) & 58.07 & 1.49 & 142.04 & 39.13 & < 0.001 & *** \\ 
 		STYLElist & -11.44 & 1.70 & 884.38 & -6.57 & < 0.001 & *** \\ 
@@ -390,8 +390,8 @@ In addition, every single one of the two- and three-way interactions mentioned i
 \subsection{Phonological context}
 \label{sec.prod.res.con.k.phon}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_environment_k-1.tikz}} 
 	\caption{/k/: PDF by phonological environment (released only)}
@@ -409,12 +409,12 @@ The former include cases where /k/ is followed by a word boundary and then eithe
 These contexts are found in the upper half of \figref{fig.box.k.environment}.
 The latter group is made up of environments where /k/ precedes either a sonorant (a nasal, liquid, glide, or a vowel -- the last one either within a word or across a word boundary) or silence at the end of a phrase.
 
-\begin{table}[h]
-	\centering
+\begin{table}
+	
 	\caption{/k/: PDF means by phonological environment (released only)}
 	\label{tab.k.mean.environment}
 	\begin{tabular}{lrr}
-		\toprule
+		\lsptoprule
 		environment & mean \isi{PDF} & n\\
 		\midrule
 		V\_V & 75.81 & 840\\
@@ -428,7 +428,7 @@ The latter group is made up of environments where /k/ precedes either a sonorant
 		V\_\#voiced plosive & 62.73 & 69\\
 		V\_\#voiceless plosive & 48.34 & 95\\
 		V\_\#affricate & 46.86 & 26\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -454,8 +454,8 @@ It is therefore not unlikely that these two \isi{phonological context}s do not f
 \subsection{Style and gender}
 \label{sec.prod.res.con.k.stylegender}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{.49\linewidth}{!}{\input{figures/box_k_stylegender-1.tikz}} 
 	\caption{/k/: PDF by style and gender (released only)}
@@ -475,12 +475,12 @@ There is thus a statistically robust gender difference for the word list (t(198.
 When subjects are asked to put on a particularly strong Scouse accent, however, /k/ realisations of women and men are no longer significantly different from one another (t(312.112) = -1.044, p = 0.297).
 Both genders use strongly lenited variants with \isi{PDF}s of 75 and higher more than 75\% of the time (cf. the position of the first quantiles in the rightmost panel of \figref{fig.box.k.stylegender}).
 
-\begin{table}[h]
-	\centering
+\begin{table}
+	
 	\caption{/k/: t-tests of style by gender}
 	\label{tab.k.genderstyle.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{women} & \multicolumn{3}{c}{men}\\
 		& t & df & p & t & df & p\\
 		\midrule
@@ -490,7 +490,7 @@ Both genders use strongly lenited variants with \isi{PDF}s of 75 and higher more
 		reading-free & \ensuremath{-2.186} & 262.723 & 0.030 & 0.676 & 224.321 & 0.500\\
 		reading-imitation\is{accent performance} & \ensuremath{-7.637} & 354.391 & < 0.001 & \ensuremath{-5.052} & 313.565 & < 0.001\\
 		free-imitation\is{accent performance} & \ensuremath{-8.009} & 217.296 & < 0.001 & \ensuremath{-8.152} & 262.352 & < 0.001\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -505,8 +505,8 @@ In my sample, style is therefore less important for men than it is for women.
 \subsection{Style and social class}
 \label{sec.prod.res.con.k.styleclass}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.49\linewidth}{!}{\input{figures/box_k_styleclass-1.tikz}} 
 	\caption{/k/: PDF by style and social class (released only)}
@@ -519,12 +519,12 @@ When we look at accent imitation\is{accent performance}, however, the class diff
 All the same, there is a subtle difference: In linguistic terms, the class distinction is slightly more pronounced than the gender one.
 Middle-class /k/ realisations are even more standard than female ones, and working-class speakers, as a group, are even more Scouse in this respect than males.
 
-\begin{table}[h]
-	\centering
+\begin{table}
+	
 	\caption{/k/: t-tests of style by social class}
 	\label{tab.k.classstyle.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{middle class} & \multicolumn{3}{c}{working class}\\
 		& t & df & p & t & df & p\\
 		\midrule
@@ -534,7 +534,7 @@ Middle-class /k/ realisations are even more standard than female ones, and worki
 		reading-free & 1.044 & 268.949 & 0.297 & \ensuremath{-0.444} & 217.617 & 0.658\\
 		reading-imitation\is{accent performance} & \ensuremath{-9.651} & 357.991 & < 0.001 & \ensuremath{-3.468} & 317.741 & < 0.001\\
 		free-imitation\is{accent performance} & \ensuremath{-14.745} & 292.559 & < 0.001 & \ensuremath{-4.290} & 185.533 & < 0.001\\
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -554,8 +554,8 @@ In other words, they are more reluctant to use (pronounced) /k/ lenition even in
 \subsection{Age and gender}
 \label{sec.prod.res.con.k.agegender}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/box_age_k-1.tikz}} 
 	\caption{/k/: PDF by age (released only)}
@@ -580,17 +580,17 @@ Young Liverpudlians in this study furthermore realise \emph{like} with a very hi
 If we take out \emph{like} completely, the difference between the oldest and the middle-aged speakers is still not significant (t(900.655) = -0.393, p = 0.694), but that between the middle-aged and the young is (t(1468.008) = 3.999, p < 0.001).
 In light of this, I feel justified in claiming that \citeauthor{watson2007a}'s \citeyearpar{watson2007a} finding has been corroborated and that with respect to /k/, Scouse is indeed ``getting Scouser''.
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_k_agegender-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.k.agegender}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_k_agegender-1.tikz}}
 		\caption{regression plot}
@@ -616,19 +616,19 @@ When we focus on the youngest speakers in the sample, we find that
 	\item it is now once more the female speakers who are less Scouse than their male counterparts (cf. the old group).
 \end{inparaenum}
 
-\begin{table}[h]
-	\centering
+\begin{table}
+	
 	\caption{/k/: t-tests of age by gender}
 	\label{tab.k.genderage.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{women} & \multicolumn{3}{c}{men}\\
 		& t & df & p & t & df & p\\
 		\midrule
 		old-middle & 6.537 & 502.217 & < 0.001 & \ensuremath{-7.473} & 551.684 & < 0.001\\
 		middle-young & 1.363 & 1382.189 & 0.173 & 8.881 & 1169.913 & < 0.001\\
 		young-old & 7.397 & 558.982 & < 0.001 & \ensuremath{-0.239} & 514.761 & 0.811\\			 
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -644,17 +644,17 @@ In opposition to that, male Liverpudlians exhibit a kind of `back-to-the-roots' 
 \subsection{Age and social class}
 \label{sec.prod.res.con.k.ageclass}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_k_ageclass-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.k.ageclass}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_k_ageclass-1.tikz}} 
 		\caption{regression plot}
@@ -673,19 +673,19 @@ For this age group, working-class speakers have a significantly higher \isi{PDF}
 This difference does not only persist, but actually becomes larger and even more pronounced for the youngest speakers: the gap between middle and workings class subjects widens (t(698.451) = -13.959, p < 0.001).
 In terms of social class, the development that has taken place from the oldest to the youngest speakers investigated in this study can thus be described as one of divergence: Middle-class speakers become consistently \emph{less} Scouse (\isi{PDF} drops), whereas working-class speakers just as consistently become \emph{more} Scouse (\isi{PDF} rises) across three generations.
 
-\begin{table}[h]
-	\centering
+\begin{table}
+	
 	\caption{/k/: t-tests of age by social class}
 	\label{tab.k.classage.pvalues}
 	\begin{tabular}{lrrrrrr}
-		\toprule
+		\lsptoprule
 		test & \multicolumn{3}{c}{middle class} & \multicolumn{3}{c}{working class}\\
 		& t & df & p & t & df & p\\
 		\midrule
 		old-middle & \ensuremath{-3.530} & 458.418 & < 0.001 & 2.550 & 499.045 & 0.011\\
 		middle-young & \ensuremath{-1.863} & 817.297 & 0.063 & 7.025 & 1243.562 & < 0.001\\
 		young-old & \ensuremath{-4.641} & 585.844 & < 0.001 & 7.719 & 403.276 & < 0.001\\			 
-		\bottomrule
+		\lspbottomrule
 	\end{tabular}
 \end{table}
 
@@ -698,17 +698,17 @@ T-tests on the raw data find all three age groups to be significantly different 
 \subsection{Social class and gender}
 \label{sec.prod.res.con.k.classgender}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/box_k_classgender-1.tikz}} 
 		\caption{box plot}
 		\label{fig.box.k.classgender}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/scatter_k_classgender-1.tikz}} 
 		\caption{regression plot}
@@ -728,8 +728,8 @@ The nature of the class (gender) effect is thus essentially the same for both ge
 \subsection{Style shifting}
 \label{sec.prod.res.con.k.shifting}
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 		\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 		\resizebox{0.5\linewidth}{!}{\input{figures/line_style_k-1.tikz}} 
 	\caption{/k/: PDF by style and age (released only)}
@@ -753,17 +753,17 @@ During accent perform\is{accent performance}ance, Scousers aged between 19 and 2
 For the youngest speakers, every register is significantly different from the other three (no overlap between the dashed whiskers).
 We have thus consistent and significant \isi{style shifting} for /k/-lenition in this age group.
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_style_kfem-1.tikz}} 
 		\caption{women}
 		\label{fig.line.k.fem}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_style_kmal-1.tikz}} 
 		\caption{men}
@@ -798,17 +798,17 @@ Two things need to be mentioned, though:
 On the whole, however, I would consider these differences in degree, not in nature.
 Both men and women aged between 19 and 29 can be said to style-shift.
 
-\begin{figure}[h]
-	\centering
+\begin{figure}
+	
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_style_kmc-1.tikz}} 
 		\caption{middle class}
 		\label{fig.line.k.mc}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\centering
+		
 			\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}
 			\resizebox{\linewidth}{!}{\input{figures/line_style_kwc-1.tikz}} 
 		\caption{working class}
